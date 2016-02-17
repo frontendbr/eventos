@@ -14,7 +14,7 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 2. Coloque as seguintes informações:
 
 * * *
-**Título**: Meetup Frontend SP
+**Título**: [São Paulo] Meetup CSS
   
 **Data**: 04/02/2016 19h30 - 21h
 
