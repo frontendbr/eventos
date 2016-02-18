@@ -10,7 +10,7 @@ Se você tem algum evento (seja participante ou mesmo criador) pode adicionar aq
 
 Pra facilitar a adição de um evento, criamos um template básico pra nos enviar.
 
-1. Abra uma [issue](https://github.com/frontendbr/issue-template/issues/new);
+1. Abra uma [issue](https://github.com/frontendbr/eventos/issues/new);
 2. Coloque as seguintes informações:
 
 * * *
