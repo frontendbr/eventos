@@ -75,6 +75,8 @@ This project uses [JSCS](http://jscs.info/) with [Airbnb presets](https://github
 
 This project also uses [Husky](https://github.com/typicode/husky) to prevent commit and push messy and wrong code. Please, don't be stupid, fix all errors before commit and push =D
 
+To help you, this project has a `npm run fix` command to fix all jscs errors.
+
 ### Tasks
 
 - `gulp`: run all tasks and initialize watch for changes and a server
