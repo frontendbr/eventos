@@ -4,42 +4,85 @@
 
 # Eventos
 
-Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de frontend.
+This projects uses Jade, Stylus, Gulp and Browsersync.
 
-## Como funciona
+Maybe you want to read about them:
+- [GulpJS](http://gulpjs.com/)
+- [Jade](http://jade-lang.com/)
+- [Stylus](http://learnboost.github.io/stylus/)
+- [Browsersync](https://www.browsersync.io/)
 
-Se você tem algum evento (seja participante ou mesmo criador) pode adicionar aqui, seguindo um template básico que vamos descrever logo abaixo.
+For grid system uses [Jeet](http://jeet.gs/) with some help from [Kouto Swiss](http://kouto-swiss.io/) for animations, reset and a lot of great mixins. And [Rupture](https://github.com/jenius/rupture) for responsive utilities.
 
-## Template
+## Getting Started
 
-Pra facilitar a adição de um evento, criamos um template básico pra nos enviar.
+### Installation
 
-1. Abra uma [issue](https://github.com/frontendbr/eventos/issues/new);
-2. Coloque as seguintes informações:
+First of all, install the dependencies to run this boilerplate.
 
-* * *
-**Título**: [São Paulo] Meetup CSS
-  
-**Data**: 04/02/2016 19h30 - 21h
+- [NodeJS](http://nodejs.org/)
+- [GulpJS](http://gulpjs.com/)
 
-**Local**: Avenida Paulista, 1000
 
-**Descrição (breve)**: Evento para frontends discutirem sobre assuntos bacanas
+```sh
+# Clone this repository
+$ git clone git@github.com:frontendbr/eventos.git
+$ cd eventos
 
-**Valor**: Gratuito
+# install dependencies
+$ npm install
+```
 
-**Mais informações**: http://link-para-o-evento.com.br
-* * *
+With the commands above, you have everything to start.
 
-Aguarde a aprovação!
+### Folders and Files
 
- 
-________
-#### Repositórios da Front-End Brasil
+```sh
+├── README.md
+├── build
+│   ├── css
+│   │   └── main.css
+│   ├── img
+│   │   └── eventos.jpg
+│   ├── index.html
+│   └── js
+│       └── main.js
+├── gulpfile.babel.js
+├── package.json
+└── src
+    ├── img
+    │   └── eventos.jpg
+    ├── js
+    │   ├── main.js
+    ├── styl
+    │   ├── _base.styl
+    │   ├── _components.styl
+    │   ├── _generic.styl
+    │   ├── _objects.styl
+    │   ├── _settings.styl
+    │   ├── _tools.styl
+    │   ├── _trumps.styl
+    │   └── main.styl
+    └── templates
+        └── index.jade
+```
 
-- [Fórum](https://github.com/frontendbr/forum)
-- [Eventos](https://github.com/frontendbr/eventos)
-- [Vagas](https://github.com/frontendbr/vagas)
-- [Poste mais!](https://github.com/frontendbr/poste-mais)
-- [Open Source](https://github.com/frontendbr/open-source)
-- [Sugestões](https://github.com/frontendbr/sugestoes)
+Those folders and file will change during the project.
+
+### Code Standarts
+
+This project uses [JSCS](http://jscs.info/) with [Airbnb presets](https://github.com/airbnb/javascript) and the [.editorconfig](https://github.com/frontendbr/eventos/blob/skeleton/.editorconfig) is defined to have indent_size of **4 spaces**.
+
+This project also uses [Husky](https://github.com/typicode/husky) to prevent commit and push messy and wrong code. Please, don't be stupid, fix all errors before commit and push =D
+
+### Tasks
+
+- `gulp`: run all tasks and initialize watch for changes and a server
+- `gulp js`: execute js files
+- `gulp jade`: compile jade files
+- `gulp css`: compile stylus files
+- `gulp images`: compress image files
+- `gulp browser-sync`: inicialize a server
+- `gulp watch`: call for watch files
+- `gulp pages`: deploy files to gh-pages
+- `gulp deploys`: run all tasks and deploy files to gh-pages
