@@ -10,7 +10,7 @@
         "lint": "./node_modules/.bin/jscs src && ./node_modules/.bin/jshint src",
         "fix": "./node_modules/.bin/jscs src --fix",
         "precommit": "npm run lint",
-        "prepush": "npm run lint",
+        "prepush": "npm run lint"
     },
     "keywords": [
         "eventos",
