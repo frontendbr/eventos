@@ -55,13 +55,11 @@ With the commands above, you have everything to start.
     ├── js
     │   ├── main.js
     ├── styl
-    │   ├── _base.styl
-    │   ├── _components.styl
-    │   ├── _generic.styl
-    │   ├── _objects.styl
-    │   ├── _settings.styl
-    │   ├── _tools.styl
-    │   ├── _trumps.styl
+    │   ├── _core/*.styl
+    │   ├── atoms/*.styl
+    │   ├── molecules/*.styl
+    │   ├── organisms/*.styl
+    │   ├── pages/*.styl 
     │   └── main.styl
     └── templates
         └── index.jade
