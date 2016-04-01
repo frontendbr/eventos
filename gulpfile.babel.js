@@ -4,6 +4,7 @@ import gulp from 'gulp';
 import plumber from 'gulp-plumber';
 import stylus from 'gulp-stylus';
 import poststylus from 'poststylus';
+import cmq from 'gulp-combine-media-queries';
 import sourcemaps from 'gulp-sourcemaps';
 import jeet from 'jeet';
 import rupture from 'rupture';  
@@ -41,6 +42,14 @@ gulp.task('css', () => {
         .pipe(gulp.dest(buildPaths.css));
 });
 
+gulp.task('cmq', function () {
+  gulp.src(buildPaths.css)
+    .pipe(cmq({
+      log: true
+    }))
+    .pipe(gulp.dest(buildPaths.css));
+});
+
 gulp.task('js', () => {
     gulp.src(srcPaths.js)
         .pipe(plumber())
@@ -69,7 +78,7 @@ gulp.task('images', () => {
 
 gulp.task('watch', () => {
     gulp.watch(srcPaths.jade, ['jade']);
-    gulp.watch(srcPaths.css, ['css']);
+    gulp.watch(srcPaths.css, ['css', 'cmq']);
     gulp.watch(srcPaths.js, ['js']);
     gulp.watch(srcPaths.img, ['images']);
 });
@@ -91,6 +100,6 @@ gulp.task('pages', () => {
         .pipe(ghPages());
 });
 
-gulp.task('default', ['css', 'jade', 'js', 'images', 'watch', 'browser-sync']);
-gulp.task('deploy', ['css', 'jade', 'js', 'images', 'pages']);
+gulp.task('default', ['css', 'cmq', 'jade', 'js', 'images', 'watch', 'browser-sync']);
+gulp.task('deploy', ['css', 'cmq', 'jade', 'js', 'images', 'pages']);
 
