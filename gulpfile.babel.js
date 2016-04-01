@@ -3,11 +3,10 @@
 import gulp from 'gulp';
 import plumber from 'gulp-plumber';
 import stylus from 'gulp-stylus';
+import poststylus from 'poststylus';
 import sourcemaps from 'gulp-sourcemaps';
 import jeet from 'jeet';
-import rupture from 'rupture';
-import koutoSwiss from 'kouto-swiss';
-import prefixer from 'autoprefixer-stylus';
+import rupture from 'rupture';  
 import concat from 'gulp-concat';
 import uglify from 'gulp-uglify';
 import jade from 'gulp-jade';
@@ -30,12 +29,12 @@ const buildPaths = {
     jade: 'build/',
     img: 'build/img'
 };
-
+ 
 gulp.task('css', () => {
     gulp.src(srcPaths.mainStyl)
         .pipe(sourcemaps.init())
         .pipe(stylus({
-            use: [koutoSwiss(), prefixer(), jeet(), rupture()],
+            use: [jeet(), rupture(), poststylus(['rucksack-css'])],
             compress: true
         }))
         .pipe(sourcemaps.write())

@@ -1,48 +1,48 @@
 {
-    "name": "eventos",
-    "version": "0.0.1",
-    "description": "Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de frontend.",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/frontendbr/eventos.git"
-    },
-    "scripts": {
-        "lint": "./node_modules/.bin/jscs src && ./node_modules/.bin/jshint src",
-        "fix": "./node_modules/.bin/jscs src --fix",
-        "precommit": "npm run lint",
-        "prepush": "npm run lint"
-    },
-    "keywords": [
-        "eventos",
-        "meetups",
-        "encontros",
-        "frontend"
-    ],
-    "author": "Willian Justen de Vasconcellos <willianjustenqui@gmail.com> (http://willianjusten.com.br/)",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/frontendbr/eventos/issues"
-    },
-    "homepage": "https://github.com/frontendbr/eventos#readme",
-    "devDependencies": {
-        "autoprefixer-stylus": "^0.9.2",
-        "babel": "^6.5.2",
-        "babel-core": "^6.7.4",
-        "babel-preset-es2015": "^6.6.0",
-        "browser-sync": "^2.11.2",
-        "gulp": "^3.9.1",
-        "gulp-concat": "^2.6.0",
-        "gulp-gh-pages": "^0.5.4",
-        "gulp-imagemin": "^2.4.0",
-        "gulp-jade": "^1.1.0",
-        "gulp-plumber": "^1.1.0",
-        "gulp-sourcemaps": "^1.6.0",
-        "gulp-stylus": "^2.3.1",
-        "gulp-uglify": "^1.5.3",
-        "jeet": "^6.1.2",
-        "jscs": "^2.11.0",
-        "jshint": "^2.9.1",
-        "kouto-swiss": "^0.12.0",
-        "rupture": "^0.6.1"
-    }
+  "name": "eventos",
+  "version": "0.0.1",
+  "description": "Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de frontend.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontendbr/eventos.git"
+  },
+  "scripts": {
+    "lint": "./node_modules/.bin/jscs src && ./node_modules/.bin/jshint src",
+    "fix": "./node_modules/.bin/jscs src --fix",
+    "precommit": "npm run lint",
+    "prepush": "npm run lint"
+  },
+  "keywords": [
+    "eventos",
+    "meetups",
+    "encontros",
+    "frontend"
+  ],
+  "author": "Willian Justen de Vasconcellos <willianjustenqui@gmail.com> (http://willianjusten.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frontendbr/eventos/issues"
+  },
+  "homepage": "https://github.com/frontendbr/eventos#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.7.4",
+    "babel-preset-es2015": "^6.6.0",
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-stylus": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "jeet": "^6.1.2",
+    "jscs": "^2.11.0",
+    "jshint": "^2.9.1",
+    "poststylus": "^0.2.3",
+    "rucksack-css": "^0.8.5",
+    "rupture": "^0.6.1"
+  }
 }
