@@ -1,0 +1,120 @@
+//
+// Typography
+// --------------------------------------------------
+  
+// Font Family
+// --------------------------------------------------
+
+$font-family(family) 
+  if (family == secondary)
+    font-family 'freight-text-pro', sans-serif;
+  
+  
+// Transform
+// --------------------------------------------------
+
+$font-transform(transform) 
+  if (transform == uppercase)
+    text-transform uppercase
+    letter-spacing .1rem
+
+  if (transform == lowercase)
+    text-transform lowercase
+    letter-spacing .1rem
+  
+  
+// Uppercase
+// --------------------------------------------------
+
+$font-weight(arg = '') 
+  if (arg == bold) 
+    font-weight 700
+    
+  if (arg == light) 
+    font-weight 300
+
+
+// Fonts
+// --------------------------------------------------
+ 
+$font(type = '', weight = '', family = '', transform = '')
+
+  // Type
+  // --------------------------------------------------
+     
+  if (type != '') 
+    
+    // Headings
+    // --------------------------------------------------
+      
+    if (type == h1) 
+      font-size 6.0rem
+      line-height 6.5rem 
+      
+    if (type == h2) 
+      font-size 3.8rem
+      line-height 4.6rem  
+      
+    if (type == h3) 
+      font-size 2.8rem
+      line-height 3.6rem 
+      
+    if (type == h4) 
+      font-size 2.0rem
+      line-height 2.6rem 
+      
+    if (type == h5) 
+      font-size 1.7rem
+      line-height 2.3rem
+      
+    if (type == h6) 
+      font-size 1.2rem
+      line-height 1.8rem
+       
+    // Paragraphs
+    // --------------------------------------------------
+     
+    if (type == p1) 
+      font-size $text-size
+      line-height 3.1rem 
+      
+    if (type == p2) 
+      font-size 1.6rem
+      line-height 2.4rem
+      
+    if (type == p3) 
+      font-size 1.0rem
+      line-height 1.6rem
+  
+
+  // Weights
+  // --------------------------------------------------
+     
+  if (weight != '')  
+    
+    if (weight == bold) 
+      $font-weight(bold)
+      
+    if (weight == light) 
+      $font-weight(light)
+ 
+
+  // Font Secondary
+  // --------------------------------------------------
+
+  if (family != '')  
+    
+    if (family == secondary)
+      $font-family(secondary) 
+    
+
+  // Transform
+  // --------------------------------------------------
+
+  if (transform != '')  
+     
+    if (transform == uppercase) 
+      $font-transform(uppercase)
+      
+    if (transform == lowercase) 
+      $font-transform(lowercase)

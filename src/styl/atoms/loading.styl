@@ -1,0 +1,50 @@
+//
+// Loading
+// --------------------------------------------------
+
+.loading  
+  overflow hidden 
+
+  &:before 
+    background rgba(#fff, .1)
+    content ""  
+    height 100%
+    position absolute
+    top 0  
+    right 0  
+    bottom 0  
+    left 0 
+    opacity 100 
+    visibility visible 
+    width 100% 
+    z-index 100 
+   
+
+  &:after 
+    $center(left)  
+    top 20vh
+    content "" 
+    width $space 
+    height $space  
+    border  solid 3px transparent 
+    border-top-color  rgba($gray-dark, .5) 
+    border-left-color rgba($gray-dark, .5) 
+    border-radius 50%  
+    z-index 110
+
+    animation loading-bar-spinner .4s linear infinite 
+   
+ 
+
+// Animation
+// --------------------------------------------------
+ 
+@keyframes loading-bar-spinner 
+
+  0%    
+    transform rotate(0deg)  
+    transform rotate(0deg)
+    
+  100%  
+    transform rotate(360deg) 
+    transform rotate(360deg)
