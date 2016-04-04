@@ -31,6 +31,9 @@ $ cd eventos
 
 # install dependencies
 $ npm install
+
+# install gulp globally
+$ npm install -g gulp
 ```
 
 With the commands above, you have everything to start.
