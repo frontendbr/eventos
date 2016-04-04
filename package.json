@@ -40,9 +40,9 @@
     "gulp-sourcemaps": "^1.6.0",
     "gulp-stylus": "^2.3.1",
     "gulp-uglify": "^1.5.3",
-    "jeet": "^6.1.2",
     "jscs": "^2.11.0",
     "jshint": "^2.9.1",
+    "lost": "^6.7.2",
     "poststylus": "^0.2.3",
     "rucksack-css": "^0.8.5",
     "rupture": "^0.6.1"

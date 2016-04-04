@@ -8,7 +8,7 @@ import rucksack from 'rucksack-css';
 import gcmq from 'gulp-group-css-media-queries';
 import cssnano from 'gulp-cssnano';
 import sourcemaps from 'gulp-sourcemaps';
-import jeet from 'jeet';
+import lost from 'lost';
 import rupture from 'rupture';  
 import concat from 'gulp-concat';
 import uglify from 'gulp-uglify';
@@ -37,7 +37,7 @@ gulp.task('css', () => {
     gulp.src(srcPaths.mainStyl)
         .pipe(sourcemaps.init())
         .pipe(stylus({
-            use: [jeet(), rupture(), poststylus([rucksack({ autoprefixer: true })])]
+            use: [rupture(), poststylus([rucksack({ autoprefixer: true }), lost()])]
         })) 
         .pipe(gcmq())
         .pipe(cssnano()) 
