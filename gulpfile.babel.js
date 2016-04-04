@@ -38,7 +38,7 @@ gulp.task('css', () => {
     gulp.src(srcPaths.mainStyl)
         .pipe(sourcemaps.init())
         .pipe(stylus({
-            use: [rupture(), poststylus([rucksack({ autoprefixer: true }), lost(), fontMagician()])]
+            use: [rupture(), poststylus([lost(), fontMagician(), rucksack({ autoprefixer: true })])]
         })) 
         .pipe(gcmq())
         .pipe(cssnano()) 
