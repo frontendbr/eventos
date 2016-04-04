@@ -5,6 +5,7 @@ import plumber from 'gulp-plumber';
 import stylus from 'gulp-stylus';
 import poststylus from 'poststylus';
 import rucksack from 'rucksack-css'; 
+import fontMagician from 'postcss-font-magician'; 
 import gcmq from 'gulp-group-css-media-queries';
 import cssnano from 'gulp-cssnano';
 import sourcemaps from 'gulp-sourcemaps';
@@ -37,7 +38,7 @@ gulp.task('css', () => {
     gulp.src(srcPaths.mainStyl)
         .pipe(sourcemaps.init())
         .pipe(stylus({
-            use: [rupture(), poststylus([rucksack({ autoprefixer: true }), lost()])]
+            use: [rupture(), poststylus([rucksack({ autoprefixer: true }), lost(), fontMagician()])]
         })) 
         .pipe(gcmq())
         .pipe(cssnano()) 

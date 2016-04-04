@@ -43,6 +43,7 @@
     "jscs": "^2.11.0",
     "jshint": "^2.9.1",
     "lost": "^6.7.2",
+    "postcss-font-magician": "^1.4.0",
     "poststylus": "^0.2.3",
     "rucksack-css": "^0.8.5",
     "rupture": "^0.6.1"

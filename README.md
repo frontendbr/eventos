@@ -12,7 +12,7 @@ Maybe you want to read about them:
 - [Stylus](http://learnboost.github.io/stylus/)
 - [Browsersync](https://www.browsersync.io/)
 
-For grid system uses [Lost](https://github.com/peterramsing/lost) with some help from [Rucksack](http://simplaio.github.io/rucksack/) for animations, reset and a lot of great mixins. And [Rupture](https://github.com/jenius/rupture) for responsive utilities.
+For grid system uses [Lost](https://github.com/peterramsing/lost) with some help from [Rucksack](http://simplaio.github.io/rucksack/) for animations, reset and a lot of great mixins, [Rupture](https://github.com/jenius/rupture) for responsive utilities. And [Font Magician](https://github.com/jonathantneal/postcss-font-magician/) to get the webfonts.
 
 ## Getting Started
 
