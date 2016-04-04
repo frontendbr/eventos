@@ -3,8 +3,17 @@
 // --------------------------------------------------
 
 .container 
-    lost-center $screen-lg $space-md 
+    padding-left $space-md
+    padding-right $space-md
     
+    +above('sm')
+        lost-center $screen-lg $space-lg 
+         
+         
 .container-flex 
-    lost-center $screen-lg $space-md flex
- 
+    padding-left $space-md
+    padding-right $space-md
+    
+    +above('sm')
+        lost-center $screen-lg $space-lg flex
+         

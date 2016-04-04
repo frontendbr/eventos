@@ -34,7 +34,7 @@ html
 
                 //- Button Link
                 //- --------------------------------------------------
-                a.btn-link(href='https://github.com/frontendbr/eventos' role='button') Anunciar Evento
+                a.btn-link(href='https://github.com/frontendbr/eventos' title='Anuncie seu evento') Anunciar Evento
                 
 
         //- Main
@@ -42,6 +42,24 @@ html
         main.main(role='main')
             header.page-header
                 h1 Encontre eventos de front-end em todo o Brasil
+
+
+        //- Footer
+        //- --------------------------------------------------
+        footer.footer(role='contentinfo')
+            .footer-inner
+                .container-flex
+                    .footer-inner--main 
+                        p Esse projeto é uma iniciativa da comunidade Front-End Brasil.
+
+                    ul.footer-inner--nav
+                        li #[a.btn-link(href='https://github.com/frontendbr/forum' title='Acesso nosso fórum') Fórum]
+                        li #[a.btn-link(href='https://github.com/frontendbr/forum' title='Publique ou encontre uma vaga') Vagas]
+
+
+            .footer-hold
+                .container 
+                    p © 2016 #[a(href='https://github.com/frontendbr/') Front-End Brasil]
 
     
 

@@ -1,4 +1,48 @@
 //
 // Footer
 // --------------------------------------------------
+
+
+// Footer Inner
+// --------------------------------------------------
+
+.footer-inner
+    $block-base()
+    background $gray
+    color #fff
+    
+    .container-flex 
+        align-items center
+        justify-content space-between
+        
+
+.footer-inner--main 
+    $font(p2)
+    lost-column 1/3 flex
+     
+    
+
+.footer-inner--nav 
+    $reset(list) 
+    lost-column 1/3 flex
+    text-align right
+    
+    > li 
+        display inline-block
+        margin-left $space-md
+    
+    .btn-link
+        color #fff
+    
+
+// Footer Hold
+// --------------------------------------------------
+
+.footer-hold 
+    $block-base()
+    background $gray-white
+    text-align center
+    
+    p 
+        $font(p3, light, primary, uppercase)
   
