@@ -18,18 +18,30 @@
 
 .footer-inner--main 
     $font(p2)
-    lost-column 1/3 flex
+    
+    +above('sm')
+        lost-column 1/3 flex
      
     
 
 .footer-inner--nav 
     $reset(list) 
-    lost-column 1/3 flex
-    text-align right
+    
+    +below('xs')
+        padding-top $space-md
+
+    +above('sm')
+        lost-column 1/3 flex
+        text-align right
     
     > li 
         display inline-block
-        margin-left $space-md
+        
+        +below('xs')
+            margin-right $space-md
+        
+        +above('sm')
+            margin-left $space-md
     
     .btn-link
         color #fff
