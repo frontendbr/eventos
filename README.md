@@ -6,6 +6,12 @@
 
 Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de frontend.
 
+# AVISO
+
+Estamos desenvolvendo uma ferramenta que exibirá os eventos de forma mais organizada. Você pode contribuir visitando os nossos milestones e conferindo o andamento desse projeto.
+
+Se você quer contribuir, acesse a Wiki do projeto e saiba como participar.
+
 ## Como funciona
 
 Se você tem algum evento (seja participante ou mesmo criador) pode adicionar aqui, seguindo um template básico que vamos descrever logo abaixo.
