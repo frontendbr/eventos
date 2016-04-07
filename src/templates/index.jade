@@ -24,52 +24,50 @@ html
 
         //- Header
         //- --------------------------------------------------
-        header.header(role='banner')
-            .container-flex
+        header.header(role='banner') 
  
-                //- Logo
-                //- --------------------------------------------------
-                a.logo(href='/' role='logo')
-                    include ../svg/logo.svg
+            //- Logo
+            //- --------------------------------------------------
+            a.logo(href='/' role='logo')
+                include ../svg/logo.svg
 
-                //- Button Link
-                //- --------------------------------------------------
-                a.btn-link(href='https://github.com/frontendbr/eventos' title='Anuncie seu evento') Anunciar Evento
-                
+            //- Button Link
+            //- --------------------------------------------------
+            a.btn-link(href='https://github.com/frontendbr/eventos' title='Anuncie seu evento') Anunciar Evento
+            
 
         //- Main
         //- --------------------------------------------------
         main.main(role='main')
-
-            //- Page Header
+ 
+            //- Wellness
             //- --------------------------------------------------
-            header.page-header
+            header.wellness
                 h1 Encontre eventos de front-end em todo o Brasil
 
 
-            //- Page Actions
+            //- Filter
             //- --------------------------------------------------
-            nav.page-actions
-                .container-flex
-                    .form-select(data-type='month')
-                        label.sr-only Escolha um mês
-                        select
-                            option Escolha um mês
-                            option Janeiro
-                            option Fevereiro
-                            option Março
+            nav.filter 
+                .form-select(data-type='month')
+                    label.sr-only Escolha um mês
+                    select
+                        option Escolha um mês
+                        option Janeiro
+                        option Fevereiro
+                        option Março
 
-                    .form-select(data-type='state') 
-                        label.sr-only Escolha um estado
-                        select
-                            option Escolha um estado
-                            option São Paulo
-                            option Acre
-                            option Paraná
+                .form-select(data-type='state') 
+                    label.sr-only Escolha um estado
+                    select
+                        option Escolha um estado
+                        option São Paulo
+                        option Acre
+                        option Paraná
 
-                    .search 
-                        input.form-control(type='search' placeholder='Busque por palavras chaves')
-                        button.search-btn(type='submit' role='button') 🔎
+                .search 
+                    input.form-control(type='search' placeholder='Busque por palavras chaves')
+                    button.search-btn(type='submit' role='button') 🔎
 
 
 
