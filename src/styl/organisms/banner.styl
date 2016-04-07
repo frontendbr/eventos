@@ -15,17 +15,25 @@
 // 1. Structure 
 // --------------------------------------------------
 
-.banner-main
-    order 2
-    lost-column 3/7 0 0 flex
-    align-items center 
+.banner-main 
+    lost-column 6/6 0 0 flex 
+    
+    +above('lg') 
+        order 2
+        lost-column 3/7 0 0 flex 
     
 .banner-aside 
-    order 1
-    lost-column 2/7 0 0 flex
+    lost-column 6/6 0 0 flex 
     
-    &:last-child 
-        order 3
+    +above('sm') 
+        lost-column 3/6 0 0 flex 
+        
+    +above('lg') 
+        order 1
+        lost-column 2/7 0 0 flex
+    
+        &:last-child 
+            order 3
     
 
 // 
@@ -42,6 +50,10 @@
     flex-direction column
     padding $space-md
     transition background .2s ease-in-quad
+    
+    +below('xs')  
+         &:nth-child(even)   
+            background $brand-secondary
 
     &:hover
     &:focus   
@@ -54,7 +66,9 @@
     .banner-main &
         font(h1, bold)
         height 50vh
-        text-align center
+        
+        +above('sm') 
+            text-align center
         
         
     // Set colors
@@ -62,12 +76,13 @@
     
     .banner-aside:nth-child(2) &:nth-child(even) 
     .banner-aside:nth-child(3) &:nth-child(odd) 
-        bg = $brand-secondary
-        background bg
-        
-        &:hover
-        &:focus 
-            background darken(bg, bg-darken)
+        +above('sm') 
+            bg = $brand-secondary
+            background bg
+            
+            &:hover
+            &:focus 
+                background darken(bg, bg-darken)
          
     .banner-main & 
         bg = $brand-alternate
@@ -81,33 +96,33 @@
         
     // Set detail
     // --------------------------------------------------
-    
-    .banner-aside:nth-child(2) &:first-child 
-    .banner-aside:nth-child(3) &:last-child
-        position relative
-        
-        &:before 
-            content ''
-            background $brand-primary
-            position absolute 0
-            transition background .2s ease-in-quad
-            width 100vw
+    +above('lg') 
+        .banner-aside:nth-child(2) &:first-child 
+        .banner-aside:nth-child(3) &:last-child
+            position relative
             
-        &:hover
-        &:focus  
-            &:before  
-                background darken(bg, bg-darken)
-                   
+            &:before 
+                content ''
+                background $brand-primary
+                position absolute 0
+                transition background .2s ease-in-quad
+                width 100vw
+                
+            &:hover
+            &:focus  
+                &:before  
+                    background darken(bg, bg-darken)
+                       
 
 
-    .banner-aside:nth-child(2) &:first-child 
-        &:before 
-            left auto
-            right 100%
-            
-    .banner-aside:nth-child(3) &:last-child
-        &:before 
-            left 100%
+        .banner-aside:nth-child(2) &:first-child 
+            &:before 
+                left auto
+                right 100%
+                
+        .banner-aside:nth-child(3) &:last-child
+            &:before 
+                left 100%
         
     
         
