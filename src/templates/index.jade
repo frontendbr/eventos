@@ -43,7 +43,23 @@ html
             //- Wellness
             //- --------------------------------------------------
             header.wellness
-                h1 Encontre eventos de front-end em todo o Brasil
+                h1.title Encontre eventos de front-end em todo o Brasil
+
+ 
+            //- Banner
+            //- --------------------------------------------------
+            section.banner
+                
+                .banner-main
+                    a.banner-box(href='#' title='Conferência CSS Brasil dia 20 de Maio') Conferência CSS Brasil #[span.date 20 - Maio]
+
+                .banner-aside
+                    a.banner-box(href='#' title='Front in Sampa dia 20 de Maio') Front in Sampa #[span.date 20 - Maio]
+                    a.banner-box(href='#' title='Meetup CSS dia 20 de Maio') Meetup CSS #[span.date 20 - Maio]
+
+                .banner-aside
+                    a.banner-box(href='#' title='BrazilJS dia 20 de Maio') BrazilJS #[span.date 20 - Maio]
+                    a.banner-box(href='#' title='FrontUX dia 20 de Maio') FrontUX #[span.date 20 - Maio]
 
 
             //- Filter
@@ -68,9 +84,7 @@ html
                 .search 
                     input.form-control(type='search' placeholder='Busque por palavras chaves')
                     button.search-btn(type='submit' role='button') 🔎
-
-
-
+ 
 
 
         //- Footer
