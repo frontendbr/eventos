@@ -1,0 +1,63 @@
+//
+// Forms
+//
+// 1. Control
+// 2. Select 
+//
+// --------------------------------------------------
+
+// 
+// 1. Select
+// --------------------------------------------------
+
+.form-control
+    form-control()  
+   
+
+// 
+// 2. Select
+// --------------------------------------------------
+  
+.form-select
+    position relative
+    
+    &:before
+    &:after
+        center(top) 
+
+    &:before
+        color $brand-primary
+        left 25px
+         
+    &:after 
+        content '↓'
+        right 25px
+        
+    &[data-type='month']
+        &:before 
+            content '📅'
+        
+    &[data-type='state']
+        &:before 
+            content '📅'
+        
+    select::-ms-expand 
+        display: none 
+    
+    select 
+        form-control()  
+        appearance none 
+        padding-right $button-height
+        text-indent 1px
+        text-overflow ''
+        
+    &[data-type]
+        select 
+            padding-left $button-height
+    
+        
+
+        
+    
+    
+ 

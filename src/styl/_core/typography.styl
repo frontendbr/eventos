@@ -5,15 +5,18 @@
 // Font Family
 // --------------------------------------------------
 
-$font-family(family) 
+font-family(family) 
+  if (family == primary)
+    font-family 'Open Sans', sans-serif  
+    
   if (family == secondary)
-    font-family 'Raleway', sans-serif;
+    font-family 'Raleway', sans-serif
   
   
 // Transform
 // --------------------------------------------------
 
-$font-transform(transform) 
+font-transform(transform) 
   if (transform == uppercase)
     text-transform uppercase
     letter-spacing .1rem
@@ -26,23 +29,26 @@ $font-transform(transform)
 // Uppercase
 // --------------------------------------------------
 
-$font-weight(arg = '') 
+font-weight(arg = '') 
   if (arg == bold) 
     font-weight 700
     
+  if (arg == regular) 
+    font-weight 400 
+    
   if (arg == light) 
     font-weight 300
-
+    
 
 // Fonts
 // --------------------------------------------------
  
-$font(type = '', weight = '', family = '', transform = '')
+font(type = '', weight = '', family = '', transform = '')
 
   // Type
   // --------------------------------------------------
      
-  if (type != '') 
+  if (type) 
     
     // Headings
     // --------------------------------------------------
@@ -90,31 +96,22 @@ $font(type = '', weight = '', family = '', transform = '')
   // Weights
   // --------------------------------------------------
      
-  if (weight != '')  
-    
-    if (weight == bold) 
-      $font-weight(bold)
-      
-    if (weight == light) 
-      $font-weight(light)
+  if (weight)  
+     
+      font-weight(weight)
  
 
   // Font Secondary
   // --------------------------------------------------
 
-  if (family != '')  
-    
-    if (family == secondary)
-      $font-family(secondary) 
+  if (family)  
+     
+      font-family(family) 
     
 
   // Transform
   // --------------------------------------------------
 
-  if (transform != '')  
-     
-    if (transform == uppercase) 
-      $font-transform(uppercase)
+  if (transform)  
       
-    if (transform == lowercase) 
-      $font-transform(lowercase)
+      font-transform(transform)

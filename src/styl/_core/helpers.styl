@@ -7,6 +7,8 @@
 // 4. Triangle    
 // 5. Has Scrollbar 
 // 6. Block
+// 7. Forms
+// 8. Buttons
 //  
 // ===============================================================
 
@@ -14,7 +16,7 @@
 // 1. Center, horizontal and vertical
 // -----------------------------------
 
-$center(arg = '', pos = '')
+center(arg = '', pos = '')
     if (pos == fixed)
         position fixed
     
@@ -40,7 +42,7 @@ $center(arg = '', pos = '')
 // 2. Resets
 // --------------------------------------------------
 
-$reset(arg = '')
+reset(arg = '')
   
     if (arg == list) 
         margin 0
@@ -57,7 +59,7 @@ $reset(arg = '')
 // 3. Hidden
 // --------------------------------------------------
 
-$hidden(arg = '') 
+hidden(arg = '') 
   
     // Hidden Font 
     if (arg == font)
@@ -85,7 +87,7 @@ $hidden(arg = '')
         display none !important 
 
 
-$visible(arg = '') 
+visible(arg = '') 
 
     // Visible on extra-small screens  
     if (arg == xs)
@@ -209,7 +211,7 @@ triangle-line($width = '', $height = '', $color-line = '', $color-triangle = '',
 // 5. Has Scrollbar
 // --------------------------------------------------
 
-$has-scrollbar(color = #fff) 
+has-scrollbar(color = #fff) 
     overflow-y auto
     
     &::-webkit-scrollbar  
@@ -228,6 +230,43 @@ $has-scrollbar(color = #fff)
 // 6. Block
 // --------------------------------------------------
 
-$block-base(padding = $space-md)
+block-base(padding = $space-md)
     padding-bottom padding
     padding-top padding
+
+   
+//
+// 7. Forms
+// --------------------------------------------------
+
+form-control(bg = #fff)
+    reset(form)
+    font(p2)
+    font-family(primary) 
+    background-color bg
+    display block
+    height $button-height
+    line-height $button-height
+    padding-left $space-md
+    padding-right $space-md
+    width 100%
+    
+  
+//
+// 8. Buttons
+// --------------------------------------------------
+   
+button(bg = $brand-primary, color = #fff, font-size = $text-size, width = '') 
+    reset(form)
+    background bg
+    color #fff
+    cursor pointer
+    font-size font-size
+    height $button-height
+    line-height $button-height
+    
+    if (width)
+        text-align center
+        width width
+    
+    

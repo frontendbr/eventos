@@ -1,7 +1,7 @@
 doctype html
 html
     head
-        title Eventos - FrontEnd Br 
+        title Eventos - FrontEnd BR 
         meta(charset='UTF-8')
         meta(http-equiv='X-UA-Compatible', content='IE=edge')
         meta(name='description' content="meta desc")
@@ -40,8 +40,39 @@ html
         //- Main
         //- --------------------------------------------------
         main.main(role='main')
+
+            //- Page Header
+            //- --------------------------------------------------
             header.page-header
                 h1 Encontre eventos de front-end em todo o Brasil
+
+
+            //- Page Actions
+            //- --------------------------------------------------
+            nav.page-actions
+                .container-flex
+                    .form-select(data-type='month')
+                        label.sr-only Escolha um mês
+                        select
+                            option Escolha um mês
+                            option Janeiro
+                            option Fevereiro
+                            option Março
+
+                    .form-select(data-type='state') 
+                        label.sr-only Escolha um estado
+                        select
+                            option Escolha um estado
+                            option São Paulo
+                            option Acre
+                            option Paraná
+
+                    .search 
+                        input.form-control(type='search' placeholder='Busque por palavras chaves')
+                        button.search-btn(type='submit' role='button') 🔎
+
+
+
 
 
         //- Footer
