@@ -9,6 +9,7 @@
 // 6. Block
 // 7. Forms
 // 8. Buttons
+// 9. Grid
 //  
 // ===============================================================
 
@@ -234,7 +235,6 @@ block-base(padding = $space-md)
     padding-bottom padding
     padding-top padding
 
-   
 //
 // 7. Forms
 // --------------------------------------------------
@@ -269,4 +269,17 @@ button(bg = $brand-primary, color = #fff, font-size = $text-size, width = '')
         text-align center
         width width
     
-    
+      
+  
+//
+// 9. Grid
+// --------------------------------------------------
+
+grid-space(size = partial, padding = $space-md)
+    if (size == full)
+        padding padding 
+        
+    else
+        padding-left padding
+        padding-right padding
+   
