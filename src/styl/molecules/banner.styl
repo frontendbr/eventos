@@ -22,6 +22,26 @@
         order 2
         lost-column 3/7 0 0 flex 
     
+
+    // Types and Media
+    // --------------------------------------------------
+        
+    .title 
+        font(h1, bold) 
+        grid-space(full)
+        background rgba($brand-primary, .9)
+        display flex
+        position absolute 0
+        justify-content center
+        flex-direction column 
+        transition background .2s ease-in-quad
+        z-index 10
+        
+        &:hover
+        &:focus
+            background rgba($brand-primary, .95)
+        
+
 .banner-aside 
     lost-column 6/6 0 0 flex 
     
@@ -36,20 +56,27 @@
             order 3
     
 
+    // Types and Media
+    // --------------------------------------------------
+        
+    .title 
+        font(h3, bold)
+    
+
 // 
 // 2. Blocks
 // --------------------------------------------------
 
 .banner-box
-    bg        = $brand-primary
+    bg = $brand-primary
     bg-darken = 25%
     grid-space(full)
+    media(cover)
     background $brand-primary
     color #fff 
     display flex
     justify-content center
-    flex-direction column
-     
+    flex-direction column 
     transition background .2s ease-in-quad
     
     +below('xs')  
@@ -61,7 +88,6 @@
         background darken(bg, bg-darken)
             
     .banner-aside &
-        font(h3, bold)
         height 25vh
         
     .banner-main &
