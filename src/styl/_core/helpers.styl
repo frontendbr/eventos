@@ -10,6 +10,7 @@
 // 7. Forms
 // 8. Buttons
 // 9. Grid
+// 10. Media
 //  
 // ===============================================================
 
@@ -268,9 +269,8 @@ button(bg = $brand-primary, color = #fff, font-size = $text-size, width = '')
     if (width)
         text-align center
         width width
-    
-      
-  
+   
+
 //
 // 9. Grid
 // --------------------------------------------------
@@ -282,4 +282,17 @@ grid-space(size = partial, padding = $space-md)
     else
         padding-left padding
         padding-right padding
-   
+       
+       
+//
+// 10. Media
+// --------------------------------------------------
+
+media(fit = '')
+    position relative
+    
+    img
+        position absolute 0
+        height 100%
+        width 100%
+        object-fit fit
