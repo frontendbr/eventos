@@ -10,11 +10,28 @@
 // -------------------------------------------------- 
 
 .page-header
+    display flex  
+    align-items center
+    justify-content space-between
     
     .title 
         font(h2, light, secondary)
         grid-space()
         
+     
+
+// Page Viewer
+// -------------------------------------------------- 
+   
+.page-viewer--btn 
+    reset(form)
+    color $gray-light
+    display inline-block 
+    padding $space-xs 
+    margin-left $space-xs
+    
+    &.active
+        color $text-color 
     
     
     
