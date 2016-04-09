@@ -4,16 +4,16 @@ import gulp from 'gulp';
 import plumber from 'gulp-plumber';
 import stylus from 'gulp-stylus';
 import poststylus from 'poststylus';
-import rucksack from 'rucksack-css'; 
-import fontMagician from 'postcss-font-magician'; 
+import rucksack from 'rucksack-css';
+import fontMagician from 'postcss-font-magician';
 import gcmq from 'gulp-group-css-media-queries';
 import cssnano from 'gulp-cssnano';
 import sourcemaps from 'gulp-sourcemaps';
 import lost from 'lost';
-import rupture from 'rupture';  
+import rupture from 'rupture';
 import concat from 'gulp-concat';
 import uglify from 'gulp-uglify';
-import jade from 'gulp-jade';
+import ejs from 'gulp-ejs';
 import imagemin from 'gulp-imagemin';
 import browserSync from 'browser-sync';
 import ghPages from 'gulp-gh-pages';
@@ -22,7 +22,7 @@ const srcPaths = {
     js: 'src/js/**/*.js',
     css: 'src/styl/**/*.styl',
     mainStyl: 'src/styl/main.styl',
-    jade: 'src/templates/*.jade',
+    ejs: 'src/templates/**/*.ejs',
     img: 'src/img/**/*'
 };
 
@@ -30,18 +30,25 @@ const buildPaths = {
     build: 'build/**/*',
     js: 'build/js/',
     css: 'build/css/',
-    jade: 'build/',
+    ejs: 'build/',
     img: 'build/img'
 };
- 
+
 gulp.task('css', () => {
     gulp.src(srcPaths.mainStyl)
         .pipe(sourcemaps.init())
         .pipe(stylus({
-            use: [rupture(), poststylus([lost(), fontMagician(), rucksack({ autoprefixer: true })])]
-        })) 
+            use: [
+                rupture(),
+                poststylus([
+                    lost(),
+                    fontMagician(),
+                    rucksack({ autoprefixer: true })
+                ])
+            ]
+        }))
         .pipe(gcmq())
-        .pipe(cssnano()) 
+        .pipe(cssnano())
         .pipe(sourcemaps.write())
         .pipe(gulp.dest(buildPaths.css));
 });
@@ -54,11 +61,17 @@ gulp.task('js', () => {
         .pipe(gulp.dest(buildPaths.js));
 });
 
-gulp.task('jade', () => {
-    gulp.src(srcPaths.jade)
+gulp.task('ejs', () => {
+    const settings = { ext: '.html' };
+    const config = {
+        data: {
+            analytics: { ga: 1010 }
+        }
+    };
+    gulp.src(srcPaths.ejs)
         .pipe(plumber())
-        .pipe(jade())
-        .pipe(gulp.dest(buildPaths.jade));
+        .pipe(ejs(config, settings))
+        .pipe(gulp.dest(buildPaths.ejs));
 });
 
 gulp.task('images', () => {
@@ -73,7 +86,7 @@ gulp.task('images', () => {
 });
 
 gulp.task('watch', () => {
-    gulp.watch(srcPaths.jade, ['jade']);
+    gulp.watch(srcPaths.ejs, ['ejs']);
     gulp.watch(srcPaths.css, ['css']);
     gulp.watch(srcPaths.js, ['js']);
     gulp.watch(srcPaths.img, ['images']);
@@ -96,6 +109,6 @@ gulp.task('pages', () => {
         .pipe(ghPages());
 });
 
-gulp.task('default', ['css', 'jade', 'js', 'images', 'watch', 'browser-sync']);
-gulp.task('deploy', ['css', 'jade', 'js', 'images', 'pages']);
+gulp.task('default', ['css', 'ejs', 'js', 'images', 'watch', 'browser-sync']);
+gulp.task('deploy', ['css', 'ejs', 'js', 'images', 'pages']);
 
