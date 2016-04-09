@@ -8,7 +8,7 @@ This projects uses Jade, Stylus, Gulp and Browsersync.
 
 Maybe you want to read about them:
 - [GulpJS](http://gulpjs.com/)
-- [Jade](http://jade-lang.com/)
+- [EJS](http://www.embeddedjs.com/)
 - [Stylus](http://learnboost.github.io/stylus/)
 - [Browsersync](https://www.browsersync.io/)
 
@@ -21,7 +21,6 @@ For grid system uses [Lost](https://github.com/peterramsing/lost) with some help
 First of all, install the dependencies to run this boilerplate.
 
 - [NodeJS](http://nodejs.org/)
-- [GulpJS](http://gulpjs.com/)
 
 
 ```sh
@@ -31,9 +30,6 @@ $ cd eventos
 
 # install dependencies
 $ npm install
-
-# install gulp globally
-$ npm install -g gulp
 ```
 
 With the commands above, you have everything to start.
@@ -62,7 +58,7 @@ With the commands above, you have everything to start.
     │   ├── atoms/*.styl
     │   ├── molecules/*.styl
     │   ├── organisms/*.styl
-    │   ├── pages/*.styl 
+    │   ├── pages/*.styl
     │   └── main.styl
     └── templates
         └── index.jade
@@ -80,6 +76,9 @@ To help you, this project has a `npm run fix` command to fix all jscs errors.
 
 ### Tasks
 
+- `npm start` - The same as `gulp`
+- `npm run deploy` - The same as `gulp-deploy`
+
 - `gulp`: run all tasks and initialize watch for changes and a server
 - `gulp js`: execute js files
 - `gulp jade`: compile jade files
@@ -88,4 +87,4 @@ To help you, this project has a `npm run fix` command to fix all jscs errors.
 - `gulp browser-sync`: inicialize a server
 - `gulp watch`: call for watch files
 - `gulp pages`: deploy files to gh-pages
-- `gulp deploys`: run all tasks and deploy files to gh-pages
+- `gulp deploy`: run all tasks and deploy files to gh-pages
