@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Eventos - FrontEnd BR</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="meta desc">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/main.css">
+
+        <% if ((data) && (data.analytics) && (data.analytics.ga)) { %>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', '', 'auto');
+            ga('send', 'pageview');
+        </script>
+        <% } %>
+    </head>
+    <body>
+        <header class="header" role="banner">
+            <a class="logo" href="/" role="logo">
+                <% include ../svg/logo.svg %>
+            </a>
+            <a class="btn-link" href="https://github.com/frontendbr/eventos" title="Anuncie seu evento">
+                Anunciar Evento
+            </a>
+        </header>
+
+        <main class="main" role="main">
+            <header class="wellness">
+                <h1 class="title">Encontre eventos de Front-End em todo o Brasil</h1>
+
+                <section class="banner">
+                    <div class="banner-main">
+                        <a class="banner-box" href="#" title="Conferência CSS Brasil dia 20 de Maio">
+                            <img class="media" src="http://www.conferenciacssbrasil.com.br/build/img/css-brasil.png" alt="Conferência CSS Brasil">
+                            <h2 class="title">Conferência CSS Brasil <span class="date">20 - Maio</span></h2>
+                        </a>
+                    </div>
+
+                    <div class="banner-aside">
+                        <a class="banner-box" href="#" title="Front in Sampa dia 20 de Maio">
+                            <h2 class="title">Front in Sampa <span class="date">20 - Maio</span></h2>
+                        </a>
+                        <a class="banner-box" href="#" title="Meetup CSS dia 20 de Maio">
+                            <h2 class="title">Meetup CSS <span class="date">20 - Maio</span></h2>
+                        </a>
+                    </div>
+
+                    <div class="banner-aside">
+                        <a class="banner-box" href="#" title="BrazilJS dia 20 de Maio">
+                            <h2 class="title">BrazilJS <span class="date">20 - Maio</span></h2>
+                        </a>
+                        <a class="banner-box" href="#" title="FrontUX dia 20 de Maio">
+                            <h2 class="title">Front UX <span class="date">20 - Maio</span></h2>
+                        </a>
+                    </div>
+                </section>
+
+                <nav class="filter">
+                    <div class="form-select" data-type="month">
+                        <label class="sr-only">Escolha um mês</label>
+                        <select>
+                            <option>Escolha um mês</option>
+                            <option>Janeiro</option>
+                            <option>Fevereiro</option>
+                            <option>Março</option>
+                        </select>
+                    </div>
+
+                    <div class="form-select" data-type="state">
+                        <label class="sr-only">Escolha um estado</label>
+                        <select>
+                            <option>Escolha um estado</option>
+                            <option>São Paulo</option>
+                            <option>Acre</option>
+                            <option>Paraná</option>
+                        </select>
+                    </div>
+
+                    <div class="search">
+                        <input class="form-control" type="search" placeholder="Busque por palavras chaves">
+                        <button class="search-btn" type="submit" role="button">🔎</button>
+                    </div>
+                </nav>
+            </header>
+
+            <section class="page">
+                <header class="page-header">
+                    <h3 class="title">Próximos Eventos</h3>
+                    <div class="page-viewer">
+                        <button class="page-viewer--btn active" href="#">📅</button>
+                        <button class="page-viewer--btn" href="#">📅</button>
+                    </div>
+                </header>
+            </section>
+        </main>
+
+        <footer class="footer" role="contentinfo">
+            <div class="footer-inner">
+                <div class="container-flex">
+                    <div class="footer-inner--main">
+                        <p>Esse projeto é uma iniciativa da comunidade Front-End Brasil.</p>
+                        <ul class="footer-inner--nav">
+                            <li>
+                                <a class="btn-link" href="https://github.com/frontendbr/forum" title="Acesso nosso fórum">Fórum</a>
+                            </li>
+                            <li>
+                                <a class="btn-link" href="https://github.com/frontendbr/forum" title="Publique ou encontre uma vaga">Vagas</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-hold">
+                <div class="container">
+                    <p>
+                        &copy; 2016
+                        <a href="https://github.com/frontendbr/">
+                            Front-End Brasil
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>

@@ -7,6 +7,8 @@
     "url": "git+https://github.com/frontendbr/eventos.git"
   },
   "scripts": {
+    "start": "gulp",
+    "deploy": "gulp deploy",
     "lint": "./node_modules/.bin/jscs src && ./node_modules/.bin/jshint src",
     "fix": "./node_modules/.bin/jscs src --fix",
     "precommit": "npm run lint",
@@ -32,10 +34,10 @@
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
     "gulp-cssnano": "^2.1.1",
+    "gulp-ejs": "^2.1.1",
     "gulp-gh-pages": "^0.5.4",
     "gulp-group-css-media-queries": "^1.1.0",
     "gulp-imagemin": "^2.4.0",
-    "gulp-jade": "^1.1.0",
     "gulp-plumber": "^1.1.0",
     "gulp-sourcemaps": "^1.6.0",
     "gulp-stylus": "^2.3.1",
