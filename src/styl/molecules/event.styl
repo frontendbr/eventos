@@ -1,0 +1,63 @@
+//
+// Event
+// 
+// 1. Media
+// 2. Main
+// 3. List
+//
+// --------------------------------------------------
+  
+.event 
+    display flex  
+    
+      
+  // Types    
+  // --------------------------------------------------
+    
+  .title 
+      font(h2, bold) 
+      margin-bottom $space
+    
+
+// 
+// 1. Media
+// --------------------------------------------------
+
+.event-media 
+    lost-column 3/7 flex 
+    text-align center
+       
+
+// 
+// 2. Main
+// --------------------------------------------------
+
+.event-main
+    lost-column 4/7 flex 
+       
+
+// 
+// 3. List
+// --------------------------------------------------
+
+.event-list 
+    reset(list)
+    font(p2)
+    display flex  
+    flex-direction column 
+    margin-top $space-lg
+
+    +above('lg') 
+        flex-direction row
+
+
+.event-list--item
+    &:not(:last-child) 
+      +above('lg') 
+          margin-right $space 
+          
+    &:last-child  
+      lost-column 4/7 flex 
+
+
+   
