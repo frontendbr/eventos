@@ -8,15 +8,24 @@
 // --------------------------------------------------
   
 .event 
-    display flex  
+    display flex
+    flex-direction column 
+    
+    +above('xs') 
+        flex-direction row
+    
+    &:not(:last-child)  
+        border-bottom solid 1px rgba($gray, .2)
+        padding-bottom $space-lg
+        margin-bottom $space-lg
     
       
-  // Types    
-  // --------------------------------------------------
-    
-  .title 
-      font(h2, bold) 
-      margin-bottom $space
+    // Types    
+    // --------------------------------------------------
+      
+    .title 
+        font(h2, bold) 
+        margin-bottom $space
     
 
 // 
@@ -24,8 +33,13 @@
 // --------------------------------------------------
 
 .event-media 
-    lost-column 3/7 flex 
     text-align center
+
+    +above('sm') 
+        lost-column 3/7 flex
+      
+    +above('lg') 
+        lost-column 2/7 flex 
        
 
 // 
@@ -33,7 +47,13 @@
 // --------------------------------------------------
 
 .event-main
-    lost-column 4/7 flex 
+    grid-space()
+    
+    +above('sm') 
+        lost-column 4/7 flex
+          
+    +above('lg') 
+        lost-column 5/7 flex 
        
 
 // 
@@ -53,11 +73,13 @@
 
 .event-list--item
     &:not(:last-child) 
-      +above('lg') 
-          margin-right $space 
-          
-    &:last-child  
-      lost-column 4/7 flex 
+        margin-bottom $space-xs 
+        
+        +above('lg') 
+            margin-right $space 
+            
+            &:last-child  
+                lost-column 4/7 flex 
 
 
-   
+     

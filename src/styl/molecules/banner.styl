@@ -27,7 +27,7 @@
     // --------------------------------------------------
         
     .title 
-        font(h1, bold) 
+        font(h3, bold) 
         grid-space(full)
         background rgba($brand-primary, .9)
         display flex
@@ -37,10 +37,14 @@
         transition background .2s ease-in-quad
         z-index 10
         
+        +above('sm')  
+            font(h1) 
+        
         &:hover
         &:focus
             background rgba($brand-primary, .95)
         
+
 
 .banner-aside 
     lost-column 6/6 0 0 flex 
@@ -90,11 +94,11 @@
     .banner-aside &
         height 25vh
         
-    .banner-main &
-        font(h1, bold)
-        height 50vh
+    .banner-main & 
+        height 25vh
         
-        +above('sm') 
+        +above('sm')  
+            height 50vh
             text-align center
         
         
