@@ -35,6 +35,10 @@
 .event-media 
     text-align center
 
+    +below('xs')
+        margin-bottom $space 
+    
+
     +above('sm') 
         lost-column 3/7 flex
       
@@ -65,7 +69,7 @@
     font(p2)
     display flex  
     flex-direction column 
-    margin-top $space-lg
+    margin-top $space-md
 
     +above('lg') 
         flex-direction row
