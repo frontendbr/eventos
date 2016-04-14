@@ -32,6 +32,15 @@
     .icon
         fill $gray-light
         margin-right $space-xs
+        
+    .btn-link 
+        color $brand-primary
+        margin-top $space
+        
+    .content 
+        &:hover
+        &:focus 
+            text-decoration underline
     
 
 // 
@@ -42,6 +51,7 @@
     align-items center
     display flex
     justify-content center
+    transition opacity .1s
 
     +below('xs')
         margin-bottom $space  
@@ -52,7 +62,11 @@
       
     +above('lg') 
         lost-column 2/7 flex 
-       
+    
+    &:hover
+    &:focus 
+        opacity .6
+   
 
 // 
 // 2. Main

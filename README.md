@@ -90,6 +90,7 @@ To help you, this project has a `npm run fix` command to fix all jscs errors.
 - `gulp jade`: compile jade files
 - `gulp css`: compile stylus files
 - `gulp images`: compress image files
+- `gulp icons`: generate sprite of icons
 - `gulp browser-sync`: inicialize a server
 - `gulp watch`: call for watch files
 - `gulp pages`: deploy files to gh-pages
