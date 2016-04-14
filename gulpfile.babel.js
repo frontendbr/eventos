@@ -14,6 +14,7 @@ import rupture from 'rupture';
 import concat from 'gulp-concat';
 import uglify from 'gulp-uglify';
 import ejs from 'gulp-ejs';
+import htmlmin from 'gulp-htmlmin';
 import imagemin from 'gulp-imagemin';
 import browserSync from 'browser-sync';
 import ghPages from 'gulp-gh-pages';
@@ -24,6 +25,7 @@ const srcPaths = {
     mainStyl: 'src/styl/main.styl',
     ejs: 'src/templates/**/*.ejs',
     img: 'src/img/**/*',
+    html: 'build/*.html',
     vendors: [
         'node_modules/lazysizes/lazysizes.min.js', // LazySizes 
     ]
@@ -34,6 +36,7 @@ const buildPaths = {
     js: 'build/js/',
     css: 'build/css/',
     ejs: 'build/',
+    html: 'build/',
     img: 'build/img',
     vendors: 'src/js/_core/'
 };
@@ -86,6 +89,12 @@ gulp.task('ejs', () => {
         .pipe(gulp.dest(buildPaths.ejs));
 });
 
+gulp.task('html', () => { 
+    gulp.src(srcPaths.html)
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest(buildPaths.html))
+});
+
 gulp.task('images', () => {
     gulp.src(srcPaths.img)
         .pipe(plumber())
@@ -98,7 +107,7 @@ gulp.task('images', () => {
 });
 
 gulp.task('watch', () => {
-    gulp.watch(srcPaths.ejs, ['ejs']);
+    gulp.watch(srcPaths.ejs, ['ejs', 'html']);
     gulp.watch(srcPaths.css, ['css']);
     gulp.watch(srcPaths.js, ['js']);
     gulp.watch(srcPaths.img, ['images']);
@@ -121,6 +130,7 @@ gulp.task('pages', () => {
         .pipe(ghPages());
 });
 
-gulp.task('default', ['css', 'ejs', 'js', 'images', 'watch', 'browser-sync']);
-gulp.task('deploy', ['css', 'ejs', 'js', 'images', 'pages']);
+gulp.task('default', ['css', 'ejs', 'html', 'js', 'images', 'watch', 'browser-sync']);
+gulp.task('build', ['css', 'ejs', 'html', 'js', 'images']);
+gulp.task('deploy', ['css', 'ejs', 'html', 'js', 'images', 'pages']);
 
