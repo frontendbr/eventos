@@ -107,7 +107,7 @@ gulp.task('images', () => {
 });
 
 gulp.task('watch', () => {
-    gulp.watch(srcPaths.ejs, ['ejs', 'html']);
+    gulp.watch(srcPaths.ejs, ['ejs']);
     gulp.watch(srcPaths.css, ['css']);
     gulp.watch(srcPaths.js, ['js']);
     gulp.watch(srcPaths.img, ['images']);
