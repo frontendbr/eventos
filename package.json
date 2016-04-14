@@ -49,5 +49,8 @@
     "poststylus": "^0.2.3",
     "rucksack-css": "^0.8.5",
     "rupture": "^0.6.1"
-  } 
+  },
+  "dependencies": {
+    "lazysizes": "^1.5.0"
+  }
 }

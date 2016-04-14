@@ -23,7 +23,10 @@ const srcPaths = {
     css: 'src/styl/**/*.styl',
     mainStyl: 'src/styl/main.styl',
     ejs: 'src/templates/**/*.ejs',
-    img: 'src/img/**/*'
+    img: 'src/img/**/*',
+    vendors: [
+        'node_modules/lazysizes/lazysizes.min.js', // LazySizes 
+    ]
 };
 
 const buildPaths = {
@@ -31,9 +34,10 @@ const buildPaths = {
     js: 'build/js/',
     css: 'build/css/',
     ejs: 'build/',
-    img: 'build/img'
+    img: 'build/img',
+    vendors: 'src/js/_core/'
 };
-
+ 
 gulp.task('css', () => {
     gulp.src(srcPaths.mainStyl)
         .pipe(sourcemaps.init())
@@ -51,6 +55,14 @@ gulp.task('css', () => {
         .pipe(cssnano())
         .pipe(sourcemaps.write())
         .pipe(gulp.dest(buildPaths.css));
+});
+
+gulp.task('vendor', () => {
+    gulp.src(srcPaths.vendors)
+        .pipe(plumber()) 
+        .pipe(concat('vendors.js'))
+        .pipe(uglify())
+        .pipe(gulp.dest(buildPaths.vendors));
 });
 
 gulp.task('js', () => {
