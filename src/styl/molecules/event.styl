@@ -51,21 +51,24 @@
     align-items center
     display flex
     justify-content center
-    transition opacity .1s
+    transition opacity .1s  
 
     +below('xs')
-        margin-bottom $space  
+        margin-bottom $space-md 
+        width 100%
 
     +above('sm') 
-        lost-column 3/7 flex
-        padding-left $space-md
-      
-    +above('lg') 
         lost-column 2/7 flex 
+        padding-left $space-md
+       
     
     &:hover
     &:focus 
         opacity .6
+        
+    img
+        +below('xs')
+            max-width 50%
    
 
 // 
@@ -73,14 +76,11 @@
 // --------------------------------------------------
 
 .event-main
-    grid-space()
+    grid-space() 
     
     +above('sm') 
-        lost-column 4/7 flex
-          
-    +above('lg') 
         lost-column 5/7 flex 
-       
+            
 
 // 
 // 3. List
