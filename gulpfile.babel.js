@@ -18,6 +18,9 @@ import htmlmin from 'gulp-htmlmin';
 import imagemin from 'gulp-imagemin';
 import browserSync from 'browser-sync';
 import ghPages from 'gulp-gh-pages';
+import svgmin from 'gulp-svgmin';
+import svgstore from 'gulp-svgstore';
+import cheerio from 'gulp-cheerio';
 
 const srcPaths = {
     js: 'src/js/**/*.js',
@@ -25,9 +28,11 @@ const srcPaths = {
     mainStyl: 'src/styl/main.styl',
     ejs: 'src/templates/**/*.ejs',
     img: 'src/img/**/*',
+    icons: 'src/svg/icons/*',
+    svg: 'src/svg/',
     html: 'build/*.html',
     vendors: [
-        'node_modules/lazysizes/lazysizes.min.js', // LazySizes 
+        'node_modules/lazysizes/lazysizes.min.js', // LazySizes
     ]
 };
 
@@ -38,9 +43,10 @@ const buildPaths = {
     ejs: 'build/',
     html: 'build/',
     img: 'build/img',
+    svg: 'build/svg/',
     vendors: 'src/js/_core/'
 };
- 
+
 gulp.task('css', () => {
     gulp.src(srcPaths.mainStyl)
         .pipe(sourcemaps.init())
@@ -62,7 +68,7 @@ gulp.task('css', () => {
 
 gulp.task('vendor', () => {
     gulp.src(srcPaths.vendors)
-        .pipe(plumber()) 
+        .pipe(plumber())
         .pipe(concat('vendors.js'))
         .pipe(uglify())
         .pipe(gulp.dest(buildPaths.vendors));
@@ -89,7 +95,7 @@ gulp.task('ejs', () => {
         .pipe(gulp.dest(buildPaths.ejs));
 });
 
-gulp.task('html', () => { 
+gulp.task('html', () => {
     gulp.src(srcPaths.html)
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest(buildPaths.html))
@@ -104,6 +110,21 @@ gulp.task('images', () => {
             interlaced: true
         }))
         .pipe(gulp.dest(buildPaths.img));
+});
+
+gulp.task('icons', () => {
+  gulp.src(srcPaths.icons)
+    .pipe(svgmin())
+    .pipe(svgstore({ fileName: 'icons.svg', inlineSvg: true}))
+    .pipe(cheerio({
+      run: function ($, file) {
+          $('svg').addClass('hide');
+          $('[fill]').removeAttr('fill');
+      },
+      parserOptions: { xmlMode: true }
+    }))
+    .pipe(gulp.dest(buildPaths.svg))
+    .pipe(gulp.dest(srcPaths.svg));
 });
 
 gulp.task('watch', () => {
@@ -130,7 +151,7 @@ gulp.task('pages', () => {
         .pipe(ghPages());
 });
 
-gulp.task('default', ['css', 'ejs', 'html', 'js', 'images', 'watch', 'browser-sync']);
+gulp.task('default', ['css', 'ejs', 'html', 'js', 'images', 'icons', 'watch', 'browser-sync']);
 gulp.task('build', ['css', 'ejs', 'html', 'js', 'images']);
 gulp.task('deploy', ['css', 'ejs', 'html', 'js', 'images', 'pages']);
 
