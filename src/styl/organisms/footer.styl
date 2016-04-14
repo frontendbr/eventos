@@ -21,22 +21,22 @@
 
 .footer-inner--main 
     font(p2)
-    grid-space()
     
     +above('sm')
+        grid-space()
         lost-column 2/3 flex
      
     
 
 .footer-inner--nav 
     reset(list) 
-    grid-space()
     
     +below('xs')
         lost-column 3/3 flex
         padding-top $space-md
 
     +above('sm')
+        grid-space()
         lost-column 1/3 flex
         text-align right
     

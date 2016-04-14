@@ -93,7 +93,7 @@ small
 // 8. Blockquote
 // --------------------------------------------------
 
-blockquote
+blockquote 
     margin ($space-lg + $space) 0 ($space-lg + $space)
     position relative
 
@@ -104,34 +104,31 @@ blockquote
         margin-bottom 0
 
     cite 
-        font-family(secondary)
-        font-weight(bold)
-        display block
-        font-size 5rem 
-        line-height 5.5rem
+        font(h1, light)  
+        display block 
         position relative 
         margin-bottom $space-sm
 
-    &:before
-    &:after   
-        font-size 4.5rem 
-        position absolute
-        margin-top -10px
+        &:before
+        &:after   
+            font-size 150%
+            position absolute
+            margin-top -10px
 
-    &:before 
-        content '“' 
-        left -($space)
+        &:before 
+            content '“' 
+            left -($space-md)
 
-    &:after  
-        content '”'   
-        margin-left ($space / 2)
+        &:after  
+            content '”'   
+            margin-left ($space / 2)
 
     p 
         font(p2, light)  
         margin-top $space-sm
 
-    &:before
-        content '– ' 
+        &:before
+            content '– ' 
  
 
 //
