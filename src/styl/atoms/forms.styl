@@ -33,15 +33,7 @@
     &:after 
         content '↓'
         right 2.5rem
-        
-    &[data-type='month']
-        &:before 
-            content '📅'
-        
-    &[data-type='state']
-        &:before 
-            content '📅'
-        
+         
     select::-ms-expand 
         display: none 
     
@@ -49,13 +41,17 @@
         form-control()  
         background-color $gray-white
         appearance none 
+        padding-left $button-height
         padding-right $button-height
         text-indent 1px
         text-overflow ''
+         
+    .icon
+        center(top)
+        fill $brand-primary
+        margin-top -3px
+        left $space 
         
-    &[data-type]
-        select 
-            padding-left $button-height
     
         
 

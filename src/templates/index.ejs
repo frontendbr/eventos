@@ -62,7 +62,8 @@
                 </section>
 
                 <nav class="filter">
-                    <div class="form-select" data-type="month">
+                    <div class="form-select">
+                        <span class="icon" aria-hidden="true" aria-label="Data"><% include ../svg/icons/date.svg %></span>
                         <label class="sr-only">Escolha um mês</label>
                         <select>
                             <option>Escolha um mês</option>
@@ -72,7 +73,8 @@
                         </select>
                     </div>
 
-                    <div class="form-select" data-type="state">
+                    <div class="form-select">
+                        <span class="icon" aria-hidden="true" aria-label="Local"><% include ../svg/icons/location.svg %></span>
                         <label class="sr-only">Escolha um estado</label>
                         <select>
                             <option>Escolha um estado</option>
@@ -84,14 +86,14 @@
 
                     <div class="search">
                         <input class="form-control" type="search" placeholder="Busque por palavras chaves">
-                        <button class="search-btn" type="submit" role="button">🔎</button>
+                        <button class="search-btn" type="submit" role="button"><span class="icon" aria-hidden="true" aria-label="Lupa"><% include ../svg/icons/search.svg %></span></button>
                     </div>
                 </nav>
             </header>
 
             <section class="page">
                 <header class="page-header">
-                    <h3 class="title">Próximos Eventos</h3> 
+                    <h3 class="title">Próximos Eventos</h3>
                 </header>
 
                 <div class="page-wrap">
@@ -107,9 +109,17 @@
                                 <p><a href="http://www.conferenciacssbrasil.com.br/" target="_blank">conferenciacssbrasil.com.br</a></p> 
                             </div>
                             <ul class="event-list">
-                                <li class="event-list--item">📅 19/03/2016</li>
-                                <li class="event-list--item">📅 R$ 120,00</li>
-                                <li class="event-list--item"><a href="https://www.google.com.br/maps?q=maksoud+plaza&um=1&ie=UTF-8&sa=X&ved=0ahUKEwinuq_pm4rMAhXKkZAKHfMfBgoQ_AUICCgC" target="_blank">📅 R. São Carlos do Pinhal, 424 - Bela Vista, São Paulo - SP</a></li>
+                                <li class="event-list--item">
+                                    <span class="icon" aria-hidden="true" aria-label="Data"><% include ../svg/icons/date.svg %></span>
+                                     19/03/2016</li> 
+                                <li class="event-list--item">
+                                    <span class="icon" aria-hidden="true" aria-label="Preço"><% include ../svg/icons/price.svg %></span>
+                                    R$ 120,00
+                                </li>
+                                <li class="event-list--item">
+                                    <span class="icon" aria-hidden="true" aria-label="Local"><% include ../svg/icons/location.svg %></span>
+                                    <a href="https://www.google.com.br/maps?q=maksoud+plaza&um=1&ie=UTF-8&sa=X&ved=0ahUKEwinuq_pm4rMAhXKkZAKHfMfBgoQ_AUICCgC" target="_blank">R. São Carlos do Pinhal, 424 - Bela Vista, São Paulo - SP</a>
+                                </li>
                             </ul>
                         </div>
                     </article>
@@ -125,21 +135,29 @@
                                 <p><a href="http://www.conferenciacssbrasil.com.br/" target="_blank">conferenciacssbrasil.com.br</a></p> 
                             </div>
                             <ul class="event-list">
-                                <li class="event-list--item">📅 19/03/2016</li>
-                                <li class="event-list--item">📅 R$ 120,00</li>
-                                <li class="event-list--item"><a href="https://www.google.com.br/maps?q=maksoud+plaza&um=1&ie=UTF-8&sa=X&ved=0ahUKEwinuq_pm4rMAhXKkZAKHfMfBgoQ_AUICCgC" target="_blank">📅 R. São Carlos do Pinhal, 424 - Bela Vista, São Paulo - SP</a></li>
+                                <li class="event-list--item">
+                                    <span class="icon" aria-hidden="true" aria-label="Data"><% include ../svg/icons/date.svg %></span>
+                                     19/03/2016</li> 
+                                <li class="event-list--item">
+                                    <span class="icon" aria-hidden="true" aria-label="Preço"><% include ../svg/icons/price.svg %></span>
+                                    R$ 120,00
+                                </li>
+                                <li class="event-list--item">
+                                    <span class="icon" aria-hidden="true" aria-label="Local"><% include ../svg/icons/location.svg %></span>
+                                    <a href="https://www.google.com.br/maps?q=maksoud+plaza&um=1&ie=UTF-8&sa=X&ved=0ahUKEwinuq_pm4rMAhXKkZAKHfMfBgoQ_AUICCgC" target="_blank">R. São Carlos do Pinhal, 424 - Bela Vista, São Paulo - SP</a>
+                                </li>
                             </ul>
                         </div>
                     </article>
 
                     <nav class="pagination">
-                        <button class="pagination-item"><span class="icon" aria-label="Anterior"><% include ../svg/icons/arrow-left.svg %></span></button>
+                        <button class="pagination-item"><span class="icon" aria-hidden="true" aria-label="Anterior"><% include ../svg/icons/arrow-left.svg %></span></button>
                         <button class="pagination-item active">1</button>
                         <button class="pagination-item">2</button>
                         <button class="pagination-item">3</button>
                         <button class="pagination-item">4</button>
                         <button class="pagination-item">5</button>
-                        <button class="pagination-item"><span class="icon" aria-label="Próximo"><% include ../svg/icons/arrow-right.svg %></span></button>
+                        <button class="pagination-item"><span class="icon" aria-hidden="true" aria-label="Próximo"><% include ../svg/icons/arrow-right.svg %></span></button>
                     </nav>
                     
                 </div>
