@@ -1,5 +1,10 @@
-(function () {
-    'use strict';
+'use strict'
 
-    console.log('Hello World!');
-}());
+import React from 'react'
+import { render } from 'react-dom'
+import App from './containers/app'
+
+render(
+  <App />,
+  document.querySelector('[data-js="app"]')
+)
