@@ -1,7 +1,7 @@
 'use strict'
 
 import React from 'react'
-import LazyImg from '../lazy-img'
+import LazyImg from '../../components/lazy-img'
 
 const Header = () => (
       <header className='wellness'>
