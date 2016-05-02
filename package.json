@@ -7,8 +7,9 @@
     "url": "git+https://github.com/frontendbr/eventos.git"
   },
   "scripts": {
+    "clean": "rm -rf build",
     "afterinstall": "jspm install -y",
-    "start": "gulp",
+    "start": "npm run clean && gulp",
     "deploy": "gulp deploy",
     "lint": "gulp lint",
     "precommit": "npm run lint",
