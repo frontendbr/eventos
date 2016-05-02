@@ -14,26 +14,23 @@ import rupture from 'rupture';
 import concat from 'gulp-concat';
 import uglify from 'gulp-uglify';
 import ejs from 'gulp-ejs';
-import htmlmin from 'gulp-htmlmin';
 import imagemin from 'gulp-imagemin';
 import browserSync from 'browser-sync';
 import ghPages from 'gulp-gh-pages';
 import svgmin from 'gulp-svgmin';
 import svgstore from 'gulp-svgstore';
 import cheerio from 'gulp-cheerio';
+import jspm from 'gulp-jspm';
+import standard from 'gulp-standard';
 
 const srcPaths = {
-    js: 'src/js/**/*.js',
+    js: 'src/js',
     css: 'src/styl/**/*.styl',
     mainStyl: 'src/styl/main.styl',
     ejs: 'src/templates/**/*.ejs',
     img: 'src/img/**/*',
     icons: 'src/svg/icons/*',
-    svg: 'src/svg/',
-    html: 'build/*.html',
-    vendors: [
-        'node_modules/lazysizes/lazysizes.min.js', // LazySizes
-    ]
+    svg: 'src/svg/'
 };
 
 const buildPaths = {
@@ -41,10 +38,8 @@ const buildPaths = {
     js: 'build/js/',
     css: 'build/css/',
     ejs: 'build/',
-    html: 'build/',
     img: 'build/img',
-    svg: 'build/svg/',
-    vendors: 'src/js/_core/'
+    svg: 'build/svg/'
 };
 
 gulp.task('css', () => {
@@ -66,19 +61,20 @@ gulp.task('css', () => {
         .pipe(gulp.dest(buildPaths.css));
 });
 
-gulp.task('vendor', () => {
-    gulp.src(srcPaths.vendors)
-        .pipe(plumber())
-        .pipe(concat('vendors.js'))
-        .pipe(uglify())
-        .pipe(gulp.dest(buildPaths.vendors));
+gulp.task('lint', () => {
+  gulp.src(`${srcPaths.js}/**/*.js`)
+    .pipe(standard())
+    .pipe(standard.reporter('default', {}));
 });
 
-gulp.task('js', () => {
-    gulp.src(srcPaths.js)
+gulp.task('js', ['lint'], () => {
+    return gulp.src(`${srcPaths.js}/main.js`)
+        .pipe(sourcemaps.init())
         .pipe(plumber())
-        .pipe(concat('main.js'))
+        .pipe(jspm({ selfExecutingBundle: true }))
+        .pipe(concat('main.min.js'))
         .pipe(uglify())
+        .pipe(sourcemaps.write('.'))
         .pipe(gulp.dest(buildPaths.js));
 });
 
@@ -86,19 +82,13 @@ gulp.task('ejs', () => {
     const settings = { ext: '.html' };
     const config = {
         data: {
-            analytics: { ga: 1010 }
+            // analytics: { ga: 1010 }
         }
     };
     gulp.src(srcPaths.ejs)
         .pipe(plumber())
         .pipe(ejs(config, settings))
         .pipe(gulp.dest(buildPaths.ejs));
-});
-
-gulp.task('html', () => {
-    gulp.src(srcPaths.html)
-        .pipe(htmlmin({collapseWhitespace: true}))
-        .pipe(gulp.dest(buildPaths.html))
 });
 
 gulp.task('images', () => {
@@ -130,7 +120,7 @@ gulp.task('icons', () => {
 gulp.task('watch', () => {
     gulp.watch(srcPaths.ejs, ['ejs']);
     gulp.watch(srcPaths.css, ['css']);
-    gulp.watch(srcPaths.js, ['js']);
+    gulp.watch(`${srcPaths.js}/**/*.js`, ['js']);
     gulp.watch(srcPaths.img, ['images']);
 });
 
@@ -151,7 +141,6 @@ gulp.task('pages', () => {
         .pipe(ghPages());
 });
 
-gulp.task('default', ['css', 'ejs', 'html', 'js', 'images', 'icons', 'watch', 'browser-sync']);
-gulp.task('build', ['css', 'ejs', 'html', 'js', 'images']);
-gulp.task('deploy', ['css', 'ejs', 'html', 'js', 'images', 'pages']);
-
+gulp.task('default', ['css', 'ejs', 'js', 'images', 'icons', 'watch', 'browser-sync']);
+gulp.task('build', ['css', 'ejs', 'js', 'images']);
+gulp.task('deploy', ['css', 'ejs', 'js', 'images', 'pages']);
