@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Eventos - FrontEnd BR</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="meta desc">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/main.css">
+
+        <% if ((data) && (data.analytics) && (data.analytics.ga)) { %>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', '', 'auto');
+            ga('send', 'pageview');
+        </script>
+        <% } %>
+    </head>
+    <body>
+
+        <header class="header" role="banner">
+            <a class="logo" href="/" role="logo">
+                <% include ../svg/logo.svg %>
+            </a>
+            <a class="btn-link" href="https://github.com/frontendbr/eventos" title="Anuncie seu evento">
+                Anunciar Evento
+            </a>
+        </header>
+
+        <main class="main" role="main">
+
+            <header class="intro">
+
+                <div class="intro-media">
+                    <img class="lazyload lazyblur" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://scontent-gru2-1.xx.fbcdn.net/hphotos-xlp1/v/t1.0-9/12342772_930090303737879_6878486605109656549_n.jpg?oh=df1596c66830e8fb55be48350813feb4&oe=5783C1E4" alt="Conferência CSS Brasil">
+                </div>
+
+                <article class="event">
+                    <div class="event-media">
+                        <img class="lazyload lazyblur" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="http://www.conferenciacssbrasil.com.br/build/img/css-brasil.png" alt="Conferência CSS Brasil">
+                    </div>
+                    <div class="event-main">
+                        <div class="content">
+                            <h1>Conferência CSS Brasil</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur</p>
+                        </div>
+                        <a class="btn-link" href="http://www.conferenciacssbrasil.com.br/" target="_blank" title="Visitar site oficial">
+                            <svg class="icon" aria-hidden="true" aria-label="Link"><use xlink:href="svg/icons.svg#link" /></svg>
+                            conferenciacssbrasil.com.br
+                        </a>
+                        <ul class="event-list">
+                            <li class="event-list--item">
+                                <svg class="icon" aria-hidden="true" aria-label="Data"><use xlink:href="svg/icons.svg#date"/></svg>
+                                 19/03/2016</li>
+                            <li class="event-list--item">
+                                <svg class="icon" aria-hidden="true" aria-label="Preço"><use xlink:href="svg/icons.svg#price"/></svg>
+                                R$ 120,00
+                            </li>
+                            <li class="event-list--item">
+                                <svg class="icon" aria-hidden="true" aria-label="Local"><use xlink:href="svg/icons.svg#location"/></svg>
+                                <a href="https://www.google.com.br/maps?q=maksoud+plaza&um=1&ie=UTF-8&sa=X&ved=0ahUKEwinuq_pm4rMAhXKkZAKHfMfBgoQ_AUICCgC" target="_blank">Maksound Plaza, São Paulo - SP</a>
+                            </li>
+                        </ul>
+                    </div>
+                </article>
+
+            </header>
+
+            <article class="main-content">
+
+                <div class="content">
+                    <h2>Lorem ipsum dolor</h2>
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque eum maxime labore sequi eos autem, assumenda vel, distinctio molestias numquam nesciunt a eligendi aliquam voluptate ab, quia similique aut quasi?</p>
+
+                    <h3>Lorem ipsum dolor sit amet.</h3>
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias obcaecati inventore, cum molestias deleniti, doloribus laboriosam, totam incidunt modi natus in iure! Quia velit sequi aperiam beatae corporis! Deserunt itaque distinctio tempore, quaerat magnam a neque maxime assumenda explicabo nisi placeat necessitatibus temporibus nesciunt quasi animi amet officiis consequuntur aliquid?</p>
+
+                    <h4>Lorem ipsum dolor sit amet, consectetur.</h4>
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto eos commodi possimus sed voluptates porro veniam cum ab tempora voluptas perferendis quidem itaque dicta suscipit cumque molestiae animi eveniet a, tempore soluta numquam quibusdam tenetur! Odit totam, earum dignissimos ratione, suscipit illo. Distinctio ratione voluptates porro id deserunt, odit maiores cum fugit, corporis accusantium asperiores nesciunt, natus saepe, laudantium aliquid.</p>
+
+                    <ul>
+                        <li>Lorem ipsum dolor sit.</li>
+                        <li>Lorem ipsum dolor sit.</li>
+                        <li>Lorem ipsum dolor sit.</li>
+                        <li>Lorem ipsum dolor sit.</li>
+                    </ul>
+
+                    <blockquote><cite>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem adipisci sint eligendi. Iste nesciunt amet in modi reiciendis ratione ducimus, nihil libero, optio expedita sequi error aspernatur harum iure labore provident quas enim! Earum, tempora, officia aspernatur odio, tenetur adipisci numquam cum minima non quod saepe qui eligendi dolore odit.</cite></blockquote>
+                </div>
+
+            </article>
+
+
+            <aside class="disclaimer">
+                <div class="disclaimer-inner">
+                    <h2 class="title">Conhece algum evento de Front-End que não está listado?</h2>
+                    <a href="https://github.com/frontendbr/eventos/issues" class="btn" aria-label="Anunciar Evento" title="Anuncie seu evento">Anunciar Evento</a>
+                </div>
+            </aside>
+        </main>
+
+        <footer class="footer" role="contentinfo">
+            <div class="footer-inner">
+                <div class="container-flex">
+                    <div class="footer-inner--main">
+                        <p>Esse projeto é uma iniciativa da organização <a href="https://github.com/frontendbr">Front-End Brasil do Github</a>.</p>
+                    </div>
+                    <ul class="footer-inner--nav">
+                        <li>
+                            <a class="btn-link" href="https://github.com/frontendbr/forum" title="Acesso nosso fórum">Fórum</a>
+                        </li>
+                        <li>
+                            <a class="btn-link" href="https://github.com/frontendbr/forum" title="Publique ou encontre uma vaga">Vagas</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="footer-hold">
+                <div class="container">
+                    <p>
+                        &copy; 2016
+                        <a href="https://github.com/frontendbr/">
+                            Front-End Brasil
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </footer>
+
+         <script src="js/main.js"></script>
+
+    </body>
+
+</html>

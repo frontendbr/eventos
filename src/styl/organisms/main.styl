@@ -1,0 +1,26 @@
+//
+// Main
+//
+// 1. Content
+//
+// --------------------------------------------------
+ 
+.main 
+    background-color $gray-white
+    
+ 
+//
+// 1. Content 
+// --------------------------------------------------
+
+.main-content
+    block-base($space-xlg)
+    background #fff
+    border-top rgba($gray-darker, .1) solid 1px
+    lost-center $screen-lg $space-lg flex
+    
+    .content  
+        +above('sm') 
+            grid-space()  
+            lost-move 2/7 
+            lost-column 5/7 flex

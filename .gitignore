@@ -48,6 +48,7 @@ coverage
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build
+.publish/
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
@@ -55,4 +56,5 @@ node_modules
 
 # Debug log from npm
 npm-debug.log
-
+src/jspm_packages
+src/config-jspm.js

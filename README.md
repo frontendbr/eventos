@@ -8,11 +8,11 @@ This projects uses Jade, Stylus, Gulp and Browsersync.
 
 Maybe you want to read about them:
 - [GulpJS](http://gulpjs.com/)
-- [Jade](http://jade-lang.com/)
+- [EJS](http://www.embeddedjs.com/)
 - [Stylus](http://learnboost.github.io/stylus/)
 - [Browsersync](https://www.browsersync.io/)
 
-For grid system uses [Jeet](http://jeet.gs/) with some help from [Rucksack](http://simplaio.github.io/rucksack/) for animations, reset and a lot of great mixins. And [Rupture](https://github.com/jenius/rupture) for responsive utilities.
+For grid system uses [Lost](https://github.com/peterramsing/lost) with some help from [Rucksack](http://simplaio.github.io/rucksack/) for animations, reset and a lot of great mixins, [Rupture](https://github.com/jenius/rupture) for responsive utilities. And [Font Magician](https://github.com/jonathantneal/postcss-font-magician/) to get the webfonts.
 
 ## Getting Started
 
@@ -22,6 +22,8 @@ First of all, install the dependencies to run this boilerplate.
 
 - [NodeJS](http://nodejs.org/)
 - [GulpJS](http://gulpjs.com/)
+
+> You won't need to install GulpJS globally, unless you were use `gulp commands` directly.
 
 
 ```sh
@@ -33,14 +35,14 @@ $ cd eventos
 $ npm install
 
 # install gulp globally
-$ npm install -g gulp
+$ npm install -g gulp-cli
 ```
 
 With the commands above, you have everything to start.
 
 ### Folders and Files
 
-```sh
+```console
 ├── README.md
 ├── build
 │   ├── css
@@ -62,7 +64,7 @@ With the commands above, you have everything to start.
     │   ├── atoms/*.styl
     │   ├── molecules/*.styl
     │   ├── organisms/*.styl
-    │   ├── pages/*.styl 
+    │   ├── pages/*.styl
     │   └── main.styl
     └── templates
         └── index.jade
@@ -80,12 +82,17 @@ To help you, this project has a `npm run fix` command to fix all jscs errors.
 
 ### Tasks
 
+- `npm start`: The same as `gulp`
+- `npm run deploy`: The same as `gulp-deploy`
+
 - `gulp`: run all tasks and initialize watch for changes and a server
 - `gulp js`: execute js files
 - `gulp jade`: compile jade files
 - `gulp css`: compile stylus files
 - `gulp images`: compress image files
+- `gulp icons`: generate sprite of icons
 - `gulp browser-sync`: inicialize a server
 - `gulp watch`: call for watch files
 - `gulp pages`: deploy files to gh-pages
-- `gulp deploys`: run all tasks and deploy files to gh-pages
+- `gulp build`: run all tasks 
+- `gulp deploy`: run all tasks and deploy files to gh-pages

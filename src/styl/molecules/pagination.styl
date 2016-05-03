@@ -1,0 +1,27 @@
+//
+// Pagination
+// --------------------------------------------------
+  
+.pagination 
+    display flex  
+    justify-content center
+    
+    
+.pagination-item 
+    reset(form)
+    background-color #fff
+    border .1rem solid transparent
+    height 6rem
+    line-height 6rem
+    margin $space-xs
+    transition border .1s
+    width 6rem
+    
+    &.active
+        background-color rgba(#fff, .4)
+        color $brand-primary
+        cursor default
+        
+    &:hover:not(.active)
+    &:focus:not(.active)
+        border-color $brand-primary

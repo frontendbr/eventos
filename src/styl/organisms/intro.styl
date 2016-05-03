@@ -1,0 +1,46 @@
+//
+// Intro
+//
+// 1. Media
+//
+// --------------------------------------------------
+
+.intro 
+  
+    // Event
+    // --------------------------------------------------
+    
+    .event  
+        lost-center $screen-lg $space-lg flex 
+        
+    .event-media 
+        +above('lg') 
+            background-color #fff
+            margin-top -12vh
+            position relative 
+            z-index 3
+          
+      
+
+ 
+//
+// 1. Media
+// --------------------------------------------------
+
+.intro-media
+    position relative
+    overflow hidden
+    
+    &:after
+        background rgba($gray-darker, .6)
+        content ''
+        position absolute 0
+        z-index 2
+
+    img 
+        display block
+        height 50vh
+        object-fit cover
+        position relative
+        width 100%
+        z-index 1

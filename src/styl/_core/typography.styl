@@ -5,15 +5,18 @@
 // Font Family
 // --------------------------------------------------
 
-$font-family(family) 
+font-family(family) 
+  if (family == primary)
+    font-family 'Open Sans', sans-serif  
+    
   if (family == secondary)
-    font-family 'freight-text-pro', sans-serif;
+    font-family 'Raleway', sans-serif
   
   
 // Transform
 // --------------------------------------------------
 
-$font-transform(transform) 
+font-transform(transform) 
   if (transform == uppercase)
     text-transform uppercase
     letter-spacing .1rem
@@ -26,46 +29,49 @@ $font-transform(transform)
 // Uppercase
 // --------------------------------------------------
 
-$font-weight(arg = '') 
+font-weight(arg = '') 
   if (arg == bold) 
     font-weight 700
     
+  if (arg == regular) 
+    font-weight 400 
+    
   if (arg == light) 
     font-weight 300
-
+    
 
 // Fonts
 // --------------------------------------------------
  
-$font(type = '', weight = '', family = '', transform = '')
+font(type = '', weight = '', family = '', transform = '')
 
   // Type
   // --------------------------------------------------
      
-  if (type != '') 
+  if (type) 
     
     // Headings
     // --------------------------------------------------
       
     if (type == h1) 
-      font-size 6.0rem
-      line-height 6.5rem 
+      font-size 4rem
+      line-height 5rem 
       
     if (type == h2) 
-      font-size 3.8rem
-      line-height 4.6rem  
+      font-size 3.1rem
+      line-height 4.0rem  
       
     if (type == h3) 
-      font-size 2.8rem
+      font-size 2.6rem
       line-height 3.6rem 
       
     if (type == h4) 
-      font-size 2.0rem
-      line-height 2.6rem 
+      font-size 2.2rem
+      line-height 3rem 
       
     if (type == h5) 
-      font-size 1.7rem
-      line-height 2.3rem
+      font-size 1.8rem
+      line-height 2.4rem
       
     if (type == h6) 
       font-size 1.2rem
@@ -76,45 +82,33 @@ $font(type = '', weight = '', family = '', transform = '')
      
     if (type == p1) 
       font-size $text-size
-      line-height 3.1rem 
+      line-height 2.8rem 
       
     if (type == p2) 
       font-size 1.6rem
       line-height 2.4rem
       
     if (type == p3) 
-      font-size 1.0rem
-      line-height 1.6rem
+      font-size 1.2rem
+      line-height 2rem
   
 
   // Weights
   // --------------------------------------------------
      
-  if (weight != '')  
-    
-    if (weight == bold) 
-      $font-weight(bold)
-      
-    if (weight == light) 
-      $font-weight(light)
+  if (weight)   
+      font-weight(weight)
  
 
   // Font Secondary
   // --------------------------------------------------
 
-  if (family != '')  
-    
-    if (family == secondary)
-      $font-family(secondary) 
+  if (family)   
+      font-family(family) 
     
 
   // Transform
   // --------------------------------------------------
 
-  if (transform != '')  
-     
-    if (transform == uppercase) 
-      $font-transform(uppercase)
-      
-    if (transform == lowercase) 
-      $font-transform(lowercase)
+  if (transform)   
+      font-transform(transform)

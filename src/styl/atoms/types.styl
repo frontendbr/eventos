@@ -8,7 +8,8 @@
 // 5. Italic
 // 6. Cite
 // 7. Small
-// 8. Blockquote 
+// 8. Blockquote
+// 9. Date 
 //
 // -------------------------------------------------- 
 
@@ -17,20 +18,25 @@
 // --------------------------------------------------
 
 a 
-  color $brand-primary
-  text-decoration none
+    color inherit
+    text-decoration none
   
-  p &:hover  
-    text-decoration underline
+    li &
+    p & 
+        color $brand-primary
     
+    li &:hover
+    p &:hover  
+        text-decoration underline
+  
 
 //
 // 2. Headings
 // --------------------------------------------------
 
 h1, h2, h3, h4, h5, h6  
-  font-weight normal
-  margin 0
+    font-weight normal
+    margin 0
   
 
 //
@@ -38,14 +44,14 @@ h1, h2, h3, h4, h5, h6
 // --------------------------------------------------
 
 p 
-  margin 0 0 15px
-  
-  &:last-child
-    margin-bottom 0 
+    margin 0 0 15px
+
+    &:last-child
+        margin-bottom 0 
    
 
 .intro 
-  $font(h2)
+    font(h2)
   
    
 
@@ -55,7 +61,7 @@ p
  
 b,
 strong
-  font-weight 700 
+    font-weight(bold)
 
 
 //
@@ -64,7 +70,7 @@ strong
 
 i,
 em    
-  font-style italic 
+    font-style italic 
 
 
 //
@@ -72,7 +78,7 @@ em
 // --------------------------------------------------
 
 cite  
-  font-style normal 
+    font-style normal 
 
 
 //
@@ -80,51 +86,58 @@ cite
 // --------------------------------------------------
 
 small 
-  font-size 85% 
+    font-size 85% 
 
 
 //
 // 8. Blockquote
 // --------------------------------------------------
 
-blockquote
-  margin ($space-lg + $space) 0 ($space-lg + $space)
-  position relative
-  
-  &:first-child 
-    margin-top 0
-  
-  &:last-child 
-    margin-bottom 0
-   
-  cite 
-    $font-family(secondary)
-    $font-weight(bold)
-    display block
-    font-size 5rem 
-    line-height 5.5rem
-    position relative 
-    margin-bottom $space-sm
-    
-    &:before
-    &:after   
-      font-size 4.5rem 
-      position absolute
-      margin-top -10px
-        
-    &:before 
-      content '“' 
-      left -($space)
-      
-    &:after  
-      content '”'   
-      margin-left ($space / 2)
-      
-  p 
-    $font(p2, light)  
-    margin-top $space-sm
-    
-    &:before
-      content '– ' 
+blockquote 
+    margin ($space-lg + $space) 0 ($space-lg + $space)
+    position relative
+
+    &:first-child 
+        margin-top 0
+
+    &:last-child 
+        margin-bottom 0
+
+    cite 
+        font(h1, light)  
+        display block 
+        position relative 
+        margin-bottom $space-sm
+
+        &:before
+        &:after   
+            font-size 150%
+            position absolute
+            margin-top -10px
+
+        &:before 
+            content '“' 
+            left -($space-md)
+
+        &:after  
+            content '”'   
+            margin-left ($space / 2)
+
+    p 
+        font(p2, light)  
+        margin-top $space-sm
+
+        &:before
+            content '– ' 
  
+
+//
+// 9. Date
+// --------------------------------------------------
+
+.date 
+    font(p2, bold, '', uppercase)
+    display block
+
+
 

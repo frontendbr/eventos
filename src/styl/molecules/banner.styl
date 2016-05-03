@@ -1,0 +1,169 @@
+//
+// Banner
+// 
+// 1. Structure
+// 2. Blocks
+//
+// --------------------------------------------------
+
+.banner  
+    block-base() 
+    lost-center $screen-lg $space-lg flex  
+    
+
+// 
+// 1. Structure 
+// --------------------------------------------------
+
+.banner-main 
+    lost-column 6/6 0 0 flex 
+    
+    +above('md') 
+        order 2
+        lost-column 3/7 0 0 flex 
+    
+
+    // Types and Media
+    // --------------------------------------------------
+        
+    .title 
+        font(h3, bold) 
+        grid-space(full)
+        background rgba($brand-primary, .9)
+        display flex
+        position absolute 0
+        justify-content center
+        flex-direction column 
+        transition background .2s ease-in-quad
+        z-index 10
+        
+        +above('sm')  
+            font(h1) 
+        
+        &:hover
+        &:focus
+            background rgba($brand-primary, .95)
+        
+
+
+.banner-aside 
+    lost-column 6/6 0 0 flex 
+    
+    +above('sm') 
+        lost-column 3/6 0 0 flex 
+        
+    +above('md') 
+        order 1
+        lost-column 2/7 0 0 flex
+    
+        &:last-child 
+            order 3
+    
+
+    // Types and Media
+    // --------------------------------------------------
+        
+    .title 
+        font(h3, bold)
+    
+
+// 
+// 2. Blocks
+// --------------------------------------------------
+
+.banner-box
+    bg = $brand-primary
+    bg-darken = 25%
+    grid-space(full)
+    media(cover)
+    background $brand-primary
+    color #fff 
+    display flex
+    justify-content center
+    flex-direction column 
+    transition background .2s ease-in-quad
+    
+    +below('xs')  
+         &:nth-child(even)   
+            background $brand-secondary
+
+    &:hover
+    &:focus   
+        background darken(bg, bg-darken)
+            
+    .banner-aside &
+        height 25vh
+        
+    .banner-main & 
+        height 25vh
+        
+        +above('sm')  
+            height 50vh
+            text-align center
+        
+        
+    // Set colors
+    // --------------------------------------------------
+    
+    .banner-aside:nth-child(2) &:nth-child(even) 
+    .banner-aside:nth-child(3) &:nth-child(odd) 
+        +above('sm') 
+            bg = $brand-secondary
+            background bg
+            
+            &:hover
+            &:focus 
+                background darken(bg, bg-darken)
+         
+    .banner-main & 
+        bg = $brand-alternate
+        background $brand-alternate
+        
+        &:hover
+        &:focus 
+            
+            background darken(bg, bg-darken)
+
+        
+    // Set detail
+    // --------------------------------------------------
+    +above('md') 
+        .banner-aside:nth-child(2) &:first-child 
+        .banner-aside:nth-child(3) &:last-child
+            position relative
+            
+            &:before 
+                content ''
+                background $brand-primary
+                position absolute 0
+                transition background .2s ease-in-quad
+                width 100vw
+                
+            &:hover
+            &:focus  
+                &:before  
+                    background darken(bg, bg-darken)
+                       
+
+
+        .banner-aside:nth-child(2) &:first-child 
+            &:before 
+                left auto
+                right 100%
+                
+        .banner-aside:nth-child(3) &:last-child
+            &:before 
+                left 100%
+        
+    
+        
+    // Types
+    // --------------------------------------------------
+    
+    .date
+        color rgba(#fff, .6)
+    
+
+         
+         
+        
