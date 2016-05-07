@@ -116,14 +116,13 @@ gulp.task('icons', () => {
     .pipe(svgmin())
     .pipe(svgstore({ fileName: 'icons.svg', inlineSvg: true }))
     .pipe(cheerio({
-      run: function ($, file) {
+      run: ($, file) => {
         $('svg').addClass('hide')
         $('[fill]').removeAttr('fill')
       },
       parserOptions: { xmlMode: true }
     }))
     .pipe(gulp.dest(buildPaths.svg))
-    .pipe(gulp.dest(srcPaths.svg))
 })
 
 gulp.task('watch', () => {
