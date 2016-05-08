@@ -137,6 +137,7 @@ gulp.task('watch', () => {
   gulp.watch(srcPaths.css, ['css'])
   gulp.watch(srcPaths.js, ['js'])
   gulp.watch(srcPaths.img, ['images'])
+  gulp.watch(srcPaths.data, ['copy-data'])
 })
 
 gulp.task('browser-sync', () => {
