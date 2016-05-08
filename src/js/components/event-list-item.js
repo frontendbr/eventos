@@ -1,46 +1,101 @@
 'use strict'
 
-import React from 'react'
+import React, { PropTypes } from 'react'
 import LazyImg from './lazy-img'
+import SvgIcon from './svg-icon'
 
-const EventListItem = () => (
+const getMonth = (month) => {
+  const months = [
+    'Janeiro',
+    'Fevereiro',
+    'Março',
+    'Abril',
+    'Maio',
+    'Junho',
+    'Julho',
+    'Agosto',
+    'Setembro',
+    'Outubro',
+    'Novembro',
+    'Dezembro'
+  ]
+  const m = months.indexOf(month) + 1
+  return (m < 10 ? '0' : '') + m
+}
+
+const formatDate = ({ day, month, year }) => {
+  return `${day}/${getMonth(month)}/${year}`
+}
+
+const EventListItem = ({
+  title,
+  image,
+  innerLink,
+  link,
+  date,
+  price,
+  location,
+  locationUrl,
+  shortDescription
+}) => (
   <article className='event'>
-    <a className='event-media' href='inner.html' title='Ver evento'>
-      <LazyImg src='http://www.conferenciacssbrasil.com.br/build/img/css-brasil.png' alt='Conferência CSS Brasil' />
+    <a className='event-media' href={innerLink} title='Ver evento'>
+      <LazyImg src={image || '/svg/logo.svg'} alt={title} />
     </a>
     <div className='event-main'>
-      <a className='content' href='inner.html' title='Ver evento'>
-        <h2>Conferência CSS Brasil</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti vero assumenda aliquid voluptatibus quos vitae ratione aut maiores quo odio.</p>
+      <a className='content' href={innerLink} title='Ver evento'>
+        <h2>{title}</h2>
+        <p>{shortDescription}</p>
       </a>
-      <a className='btn-link' href='http://www.conferenciacssbrasil.com.br/' target='_blank' title='Visitar site oficial'>
-        <svg className='icon' aria-hidden='true' aria-label='Link'><use xlinkHref='svg/icons.svg#link' /></svg>
-        conferenciacssbrasil.com.br
-      </a>
+      {!!link &&
+        <a className='btn-link' href={link} target='_blank' title='Visitar site oficial'>
+          <SvgIcon id='link' label='Link' />
+          {link.replace(/^http:\/\/(?:www.)?(.+?)\/$/, '$1')}
+        </a>
+      }
       <ul className='event-list'>
         <li className='event-list--item'>
-          <svg className='icon' aria-hidden='true' aria-label='Data'><use xlinkHref='svg/icons.svg#date' /></svg>
-          19/03/2016
+          <SvgIcon id='date' label='Data' />
+          {formatDate(date)}
         </li>
         <li className='event-list--item'>
-          <svg className='icon' aria-hidden='true' aria-label='Preço'><use xlinkHref='svg/icons.svg#price'/></svg>
-          R$ 120,00
+          <SvgIcon id='price' label='Preço' />
+          {price}
         </li>
-        <li className='event-list--item'>
-          <svg className='icon' aria-hidden='true' aria-label='Local'><use xlinkHref='svg/icons.svg#location'/></svg>
-          <a href='https://www.google.com.br/maps?q=maksoud+plaza&um=1&ie=UTF-8&sa=X&ved=0ahUKEwinuq_pm4rMAhXKkZAKHfMfBgoQ_AUICCgC' target='_blank'>Maksound Plaza, São Paulo - SP</a>
-        </li>
+        {!!locationUrl &&
+          <li className='event-list--item'>
+            <SvgIcon id='location' label='Local' />
+            <a href={locationUrl} target='_blank'>{location}</a>
+          </li>
+        }
       </ul>
     </div>
   </article>
 )
 
 EventListItem.defaultProps = {
-
+  date: {
+    day: '00',
+    month: 'xx',
+    year: '0000'
+  },
+  price: 'Grátis'
 }
 
 EventListItem.propTypes = {
-
+  title: PropTypes.string.isRequired,
+  image: PropTypes.string,
+  innerLink: PropTypes.string.isRequired,
+  link: PropTypes.string,
+  date: PropTypes.shape({
+    day: PropTypes.number.isRequired,
+    month: PropTypes.string.isRequired,
+    year: PropTypes.number.isRequired
+  }).isRequired,
+  price: PropTypes.string,
+  location: PropTypes.string,
+  locationUrl: PropTypes.string,
+  shortDescription: PropTypes.string.isRequired
 }
 
 export default EventListItem
