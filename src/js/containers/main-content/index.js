@@ -7,9 +7,9 @@ import Aside from './aside'
 
 const MainContent = () => (
   <main className='main' role='main'>
-      <Header />
-      <Page />
-      <Aside />
+    <Header />
+    <Page />
+    <Aside />
   </main>
 
 )
