@@ -5,9 +5,11 @@
     "month": "Maio",
     "year": 2016
   },
-  "link": "inner.html",
-  "value": 120,
-  "placeUrl": "",
-  "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti vero assumenda aliquid voluptatibus quos vitae ratione aut maiores quo odio.",
-  "image": "http://www.conferenciacssbrasil.com.br/build/img/css-brasil.png"
+  "innerLink": "inner.html",
+  "link": "'http://www.conferenciacssbrasil.com.br/'",
+  "price": 'R$ 120,00',
+  "location": "Maksound Plaza, São Paulo - SP",
+  "locationUrl": "https://www.google.com.br/maps?q=maksoud+plaza&um=1&ie=UTF-8&sa=X&ved=0ahUKEwinuq_pm4rMAhXKkZAKHfMfBgoQ_AUICCgC",
+  "image": "http://www.conferenciacssbrasil.com.br/build/img/css-brasil.png",
+  "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti vero assumenda aliquid voluptatibus quos vitae ratione aut maiores quo odio."
 }]
