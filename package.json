@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "npm run clean && gulp",
-    "test": "tape -r babel-register test/**/*.js",
+    "test": "tape -r babel-register test/**/*.js | tap-spec",
     "clean": "rm -rf build",
     "afterinstall": "jspm install -y",
     "deploy": "gulp deploy",
@@ -63,6 +63,7 @@
     "react-dom": "^15.0.2",
     "rucksack-css": "^0.8.5",
     "rupture": "^0.6.1",
+    "tap-spec": "^4.1.1",
     "tape": "^4.5.1",
     "whacko": "^0.19.1"
   },
