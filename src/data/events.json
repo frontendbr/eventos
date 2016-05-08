@@ -6,37 +6,8 @@
     "year": 2016
   },
   "link": "inner.html",
+  "value": 120,
+  "placeUrl": ""
+  "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti vero assumenda aliquid voluptatibus quos vitae ratione aut maiores quo odio."
   "image": "http://www.conferenciacssbrasil.com.br/build/img/css-brasil.png"
-}, {
-  "title": "Front In Sampa",
-  "date": {
-    "day": 20,
-    "month": "Maio",
-    "year": 2016
-  },
-  "link": "inner.html"
-}, {
-  "title": "Meetup CSS",
-  "date": {
-    "day": 20,
-    "month": "Maio",
-    "year": 2016
-  },
-  "link": "inner.html"
-}, {
-  "title": "BrazilJS",
-  "date": {
-    "day": 20,
-    "month": "Maio",
-    "year": 2016
-  },
-  "link": "inner.html"
-}, {
-  "title": "Front UX",
-  "date": {
-    "day": 20,
-    "month": "Maio",
-    "year": 2016
-  },
-  "link": "inner.html"
 }]
