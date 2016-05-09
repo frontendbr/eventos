@@ -76,6 +76,7 @@
     },
     "configFile": "src/config-jspm.js",
     "dependencies": {
+      "@fdaciuk/ajax": "npm:@fdaciuk/ajax@^2.0.1",
       "react": "npm:react@^15.0.2",
       "react-dom": "npm:react-dom@^15.0.2",
       "react-redux": "npm:react-redux@^4.4.5",
