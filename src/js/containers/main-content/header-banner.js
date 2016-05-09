@@ -1,28 +1,46 @@
 'use strict'
 
-import React from 'react'
+import React, { PropTypes } from 'react'
 import BannerBox from '../../components/banner-box'
 
-const HeaderBanner = () => (
+const getDate = (date) => {
+  return `${date.day} - ${date.month}`
+}
+
+const HeaderBanner = ({ events }) => (
   <section className='banner'>
     <div className='banner-main'>
       <BannerBox
         link='inner.html'
-        title='Conferência CSS Brasil'
-        date='20 - Maio'
-        image='http://www.conferenciacssbrasil.com.br/build/img/css-brasil.png' />
+        title={events[0].title}
+        date={getDate(events[0].date)}
+        image={events[0].image} />
     </div>
 
     <div key={0} className='banner-aside'>
-      <BannerBox key={0} link='inner.html' title='Front in Sampa' date='20 - Maio' />
-      <BannerBox key={1} link='inner.html' title='Meetup CSS' date='20 - Maio' />
+      {events.slice(1, 3).map((event, index) => (
+        <BannerBox
+          key={index}
+          link={event.link}
+          title={event.title}
+          date={getDate(event.date)} />
+      ))}
     </div>
 
     <div key={1} className='banner-aside'>
-      <BannerBox key={0} link='inner.html' title='BrazilJS' date='20 - Maio' />
-      <BannerBox key={1} link='inner.html' title='Front UX' date='20 - Maio' />
+      {events.slice(3).map((event, index) => (
+        <BannerBox
+          key={index}
+          link={event.link}
+          title={event.title}
+          date={getDate(event.date)} />
+      ))}
     </div>
   </section>
 )
+
+HeaderBanner.propTypes = {
+  events: PropTypes.array.isRequired
+}
 
 export default HeaderBanner

@@ -1,18 +1,36 @@
 'use strict'
 
-import React from 'react'
+import React, { PropTypes, Component } from 'react'
+import { connect } from 'react-redux'
 import HeaderBanner from './header-banner'
 import HeaderFilter from './header-filter'
+import { fetchEvents } from '../../actions/index'
 
-const Header = () => (
-  <header className='wellness'>
-    <h1 className='title'>
-      Encontre eventos de Front-End em todo o Brasil
-    </h1>
+class Header extends Component {
+  componentDidMount () {
+    this.props.dispatch(fetchEvents())
+  }
 
-    <HeaderBanner />
-    <HeaderFilter />
-  </header>
-)
+  render () {
+    return (
+      <header className='wellness'>
+        <h1 className='title'>
+          Encontre eventos de Front-End em todo o Brasil
+        </h1>
 
-export default Header
+        <HeaderBanner events={this.props.events} />
+        <HeaderFilter />
+      </header>
+    )
+  }
+}
+
+Header.propTypes = {
+  events: PropTypes.shape.isRequired
+}
+
+const mapStateToProps = (state) => ({
+  events: state.events.events
+})
+
+export default connect(mapStateToProps)(Header)
