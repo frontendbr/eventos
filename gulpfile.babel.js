@@ -161,4 +161,4 @@ gulp.task('pages', () => {
 
 gulp.task('default', ['css', 'ejs', 'js', 'images', 'icons', 'copy-data', 'watch', 'browser-sync'])
 gulp.task('build', ['css', 'ejs', 'js', 'images', 'copy-data'])
-gulp.task('deploy', ['css', 'ejs', 'js', 'images', 'copy-data', 'pages'])
+gulp.task('deploy', ['pages'])
