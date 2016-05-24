@@ -55,7 +55,7 @@
     "gulp-uglify": "^1.5.3",
     "jscs": "^2.11.0",
     "jshint": "^2.9.1",
-    "jspm": "^0.16.34",
+    "jspm": "^0.16.23",
     "lost": "^6.7.2",
     "postcss-font-magician": "^1.4.0",
     "poststylus": "^0.2.3",
@@ -77,8 +77,8 @@
     "configFile": "src/config-jspm.js",
     "dependencies": {
       "@fdaciuk/ajax": "npm:@fdaciuk/ajax@^2.0.1",
-      "react": "npm:react@^15.0.2",
-      "react-dom": "npm:react-dom@^15.0.2",
+      "react": "npm:react@^15.1.0",
+      "react-dom": "npm:react-dom@^15.1.0",
       "react-redux": "npm:react-redux@^4.4.5",
       "redux": "npm:redux@^3.5.2",
       "redux-thunk": "npm:redux-thunk@^2.0.1"

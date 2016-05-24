@@ -2,6 +2,16 @@
 
 import React from 'react'
 
+const footerLinks = [{
+  href: 'https://github.com/frontendbr/forum',
+  title: 'Acesso nosso fórum',
+  content: 'Fórum'
+}, {
+  href: 'https://github.com/frontendbr/vagas',
+  title: 'Publique ou encontre uma vaga',
+  content: 'Vagas'
+}]
+
 const MainFooter = () => (
   <footer className='footer' role='contentinfo'>
     <div className='footer-inner'>
@@ -9,29 +19,18 @@ const MainFooter = () => (
         <div className='footer-inner--main'>
           <p>Esse projeto é uma iniciativa da organização {' '}
             <a href='https://github.com/frontendbr'>
-              Front-End Brasil do Github.
+              Front-End Brasil do GitHub.
             </a>
           </p>
         </div>
         <ul className='footer-inner--nav'>
-          <li>
-            <a
-              className='btn-link'
-              href='https://github.com/frontendbr/forum'
-              title='Acesso nosso fórum'
-            >
-              Fórum
-            </a>
-          </li>
-          <li>
-            <a
-              className='btn-link'
-              href='https://github.com/frontendbr/forum'
-              title='Publique ou encontre uma vaga'
-            >
-              Vagas
-            </a>
-          </li>
+          {footerLinks.map(({ href, title, content }) => (
+            <li>
+              <a className='btn-link' href={href} title={title}>
+                {content}
+              </a>
+            </li>
+          ))}
         </ul>
       </div>
     </div>
