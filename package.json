@@ -14,7 +14,8 @@
     "deploy": "gulp deploy",
     "lint": "gulp lint",
     "precommit": "npm run lint",
-    "prepush": "npm run lint"
+    "prepush": "npm run lint",
+    "build": "gulp build"
   },
   "keywords": [
     "eventos",
