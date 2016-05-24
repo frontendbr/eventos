@@ -15,14 +15,12 @@ export const fetchEvents = () => {
     }
     dispatch({ type: FETCH_EVENTS })
     ajax().get('data/events.json').then((events) => {
-      console.log('fetch events success', events)
       dispatch({
         type: EVENTS_SUCCESS,
         payload: events
       })
     })
-    .catch((error) => {
-      console.log('fetch events failed', error)
+    .catch(() => {
       dispatch({ type: EVENTS_FAILED })
     })
   }
