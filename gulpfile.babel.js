@@ -154,7 +154,9 @@ gulp.task('browser-sync', () => {
 
 gulp.task('pages', () => {
   gulp.src(buildPaths.build)
-    .pipe(ghPages())
+    .pipe(ghPages({
+      remoteUrl: 'git@github.com:frontendbr/eventos.git'
+    }))
 })
 
 gulp.task('default', ['css', 'ejs', 'js', 'images', 'icons', 'copy-data', 'watch', 'browser-sync'])
