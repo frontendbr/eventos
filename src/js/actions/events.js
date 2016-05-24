@@ -14,7 +14,7 @@ export const fetchEvents = () => {
       return Promise.resolve()
     }
     dispatch({ type: FETCH_EVENTS })
-    ajax().get('/data/events.json').then((events) => {
+    ajax().get('data/events.json').then((events) => {
       console.log('fetch events success', events)
       dispatch({
         type: EVENTS_SUCCESS,
