@@ -11,7 +11,7 @@ const HeaderBanner = ({ events }) => (
   <section className='banner'>
     <div className='banner-main'>
       <BannerBox
-        link='inner.html'
+        link={events[0].link}
         title={events[0].title}
         date={getDate(events[0].date)}
         image={events[0].image} />

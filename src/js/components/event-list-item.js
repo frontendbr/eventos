@@ -39,18 +39,18 @@ const EventListItem = ({
   shortDescription
 }) => (
   <article className='event'>
-    <a className='event-media' href={innerLink} title='Ver evento'>
-      <LazyImg src={image || '/svg/logo.svg'} alt={title} />
+    <a className='event-media' href={link} title='Ver evento'>
+      <LazyImg src={image || 'svg/logo.svg'} alt={title} />
     </a>
     <div className='event-main'>
-      <a className='content' href={innerLink} title='Ver evento'>
+      <a className='content' href={link} title='Ver evento'>
         <h2>{title}</h2>
         <p>{shortDescription}</p>
       </a>
       {!!link &&
         <a className='btn-link' href={link} target='_blank' title='Visitar site oficial'>
           <SvgIcon id='link' label='Link' />
-          {link.replace(/^http:\/\/(?:www.)?(.+?)\/$/, '$1')}
+          {link}
         </a>
       }
       <ul className='event-list'>

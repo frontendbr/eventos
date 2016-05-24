@@ -5,7 +5,7 @@ import React from 'react'
 const MainHeader = () => (
   <header className='header' role='banner'>
     <a className='logo' href='/' role='logo'>
-      <img src='/svg/logo.svg' />
+      <img src='svg/logo.svg' />
     </a>
     <a
       className='btn-link'
