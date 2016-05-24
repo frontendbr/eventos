@@ -3,7 +3,7 @@
 import React, { PropTypes, Component } from 'react'
 import { connect } from 'react-redux'
 import HeaderBanner from './header-banner'
-import HeaderFilter from './header-filter'
+// import HeaderFilter from './header-filter'
 import { fetchEvents } from '../../actions/index'
 
 class Header extends Component {
@@ -19,7 +19,7 @@ class Header extends Component {
         </h1>
 
         <HeaderBanner events={this.props.events} />
-        <HeaderFilter />
+        {/* <HeaderFilter /> */}
       </header>
     )
   }
@@ -30,7 +30,7 @@ Header.propTypes = {
 }
 
 const mapStateToProps = (state) => ({
-  events: state.events.events
+  events: state.events.events.filter((_, index) => index < 5)
 })
 
 export default connect(mapStateToProps)(Header)
