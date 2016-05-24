@@ -11,7 +11,7 @@
     "test": "tape -r babel-register test/**/*.js | tap-spec",
     "clean": "rm -rf build",
     "postinstall": "jspm install -y",
-    "deploy": "gulp deploy",
+    "deploy": "gulp build && gulp deploy",
     "lint": "gulp lint",
     "precommit": "npm run lint",
     "prepush": "npm run lint",
