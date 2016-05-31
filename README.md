@@ -83,7 +83,9 @@ To help you, this project has a `npm run fix` command to fix all jscs errors.
 ### Tasks
 
 - `npm start`: The same as `gulp`
-- `npm run deploy`: The same as `gulp-deploy`
+- `npm run start:dev`: Starts server to edit JS with Hot Reloading
+- `npm run build`: The same as `gulp build`
+- `npm run deploy`: The same as `gulp deploy`
 
 - `gulp`: run all tasks and initialize watch for changes and a server
 - `gulp js`: execute js files
