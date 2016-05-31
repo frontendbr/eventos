@@ -22,6 +22,10 @@
         </script>
         <% } %>
 
-        <script src="js/main.min.js"></script>
+        <% if (data && data.env !== 'production') { %>
+            <script src="js/bundle.js"></script>
+        <% } else { %>
+            <script src="js/main.min.js"></script>
+        <% } %>
     </body>
 </html>
