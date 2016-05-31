@@ -86,6 +86,7 @@ gulp.task('ejs', () => {
   const settings = { ext: '.html' }
   const config = {
     data: {
+      env: process.env.NODE_ENV
       // analytics: { ga: 1010 }
     }
   }
