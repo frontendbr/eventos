@@ -24,8 +24,8 @@ const MainFooter = () => (
           </p>
         </div>
         <ul className='footer-inner--nav'>
-          {footerLinks.map(({ href, title, content }) => (
-            <li>
+          {footerLinks.map(({ href, title, content }, index) => (
+            <li key={index}>
               <a className='btn-link' href={href} title={title}>
                 {content}
               </a>
