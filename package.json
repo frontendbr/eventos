@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "npm run clean && gulp",
-    "start:dev": "NODE_ENV=development gulp ejs && node src/server.js",
+    "start:dev": "NODE_ENV=development concurrently --kill-others 'gulp dev' 'node src/server.js'",
     "test": "tape -r babel-register test/**/*.js | tap-spec",
     "clean": "rm -rf build",
     "postinstall": "jspm install -y",
@@ -40,6 +40,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "babel-register": "^6.8.0",
     "browser-sync": "^2.11.2",
+    "concurrently": "^2.1.0",
     "express": "^4.13.4",
     "gulp": "^3.9.1",
     "gulp-cheerio": "^0.6.2",
