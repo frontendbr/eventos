@@ -22,7 +22,7 @@ const Page = ({ events }) => (
 )
 
 Page.propTypes = {
-  events: PropTypes.shape.isRequired
+  events: PropTypes.array.isRequired
 }
 
 const mapStateToProps = (state) => ({
