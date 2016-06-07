@@ -11,21 +11,41 @@ const fillFilterSelect = (select, options) => ({
   }
 })
 
+const removeDuplicatedEntries = (allEntries) => {
+  const options = []
+  allEntries.forEach((entry) => {
+    if (options.indexOf(entry) === -1) {
+      options.push(entry)
+    }
+  })
+  return options
+}
+
 export const prepareFilterSelects = (events) => {
   return (dispatch) => {
-    const months = [{
-      text: 'Janeiro',
-      value: 'Janeiro'
-    }, {
-      text: 'Fevereiro',
-      value: 'Fevereiro'
-    }]
+    const allMonths = events.map((event) => {
+      return event.date.month
+    })
 
-    const state = [{
-      text: 'SP',
-      value: 'SP'
-    }]
+    const allStates = events.map((event) => {
+      return event.location.state
+    })
+
+    const months = removeDuplicatedEntries(allMonths).map((month) => {
+      return {
+        text: month,
+        value: month
+      }
+    })
+
+    const states = removeDuplicatedEntries(allStates).map((state) => {
+      return {
+        text: state,
+        value: state
+      }
+    })
+
     dispatch(fillFilterSelect('months', months))
-    dispatch(fillFilterSelect('state', state))
+    dispatch(fillFilterSelect('state', states))
   }
 }
