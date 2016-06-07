@@ -38,7 +38,7 @@ const events = (state = initialState, action) => {
     case EVENTS_SUCCESS:
       return {
         ...state,
-        events: [...action.payload],
+        events: action.payload.events,
         isFetching: false
       }
 
