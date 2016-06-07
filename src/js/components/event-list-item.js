@@ -35,7 +35,6 @@ const EventListItem = ({
   date,
   price,
   location,
-  locationUrl,
   shortDescription
 }) => (
   <article className='event'>
@@ -62,10 +61,12 @@ const EventListItem = ({
           <SvgIcon id='price' label='Preço' />
           {price}
         </li>
-        {!!locationUrl &&
+        {!!location.locationUrl &&
           <li className='event-list--item'>
             <SvgIcon id='location' label='Local' />
-            <a href={locationUrl} target='_blank'>{location}</a>
+            <a href={location.locationUrl} target='_blank'>
+              {`${location.address} - ${location.city}/${location.state}`}
+            </a>
           </li>
         }
       </ul>
@@ -93,8 +94,12 @@ EventListItem.propTypes = {
     year: PropTypes.number.isRequired
   }).isRequired,
   price: PropTypes.string,
-  location: PropTypes.string,
-  locationUrl: PropTypes.string,
+  location: PropTypes.shape({
+    city: PropTypes.string,
+    state: PropTypes.string,
+    address: PropTypes.string,
+    locationUrl: PropTypes.string
+  }),
   shortDescription: PropTypes.string.isRequired
 }
 
