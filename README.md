@@ -114,8 +114,12 @@ Add event on `src/data/events.json`, in date order (**don't change innerLink**):
   "innerLink": "inner.html",
   "link": "http://linkofyourevent.com",
   "price": "R$ 10,00",
-  "location": "Rua lalal, 10 - SP",
-  "locationUrl": "http://googlemapsurl.com",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Rua lalal, 10",
+    "locationUrl": "http://googlemapsurl.com"
+  },
   "image": "http://someimage.png",
   "shortDescription": "Crazy event"
 }
