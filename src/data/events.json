@@ -1,60 +1,4 @@
 [{
-  "title": "Meetup CSS",
-  "date": {
-    "day": 24,
-    "month": "Maio",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/CSS-SP/events/231096531/",
-  "price": "Gratuito",
-  "location": "Vagas Tecnologia - Rua Guararapes, 2064 - 14º andar, São Paulo",
-  "locationUrl": "",
-  "image": "",
-  "shortDescription": "O Meetup deste mês será realizado na sede da VAGAS.com que fica localizada na Rua Guararapes, 2064 - 14º andar, São Paulo."
-}, {
-  "title": "BeerJS - São José dos Campos - Edição 01",
-  "date": {
-    "day": 27,
-    "month": "Maio",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://beerjs.github.io/sjc/",
-  "price": "É e sempre será free",
-  "location": "Boteco80 - R. Gen. Osório, 76 - Vila Ema",
-  "locationUrl": "",
-  "image": "",
-  "shortDescription": "BeerJS SJC é um grupo para JavaScripters de São José dos Campos e Região para se reunir em atividades que giram em torno de duas coisas: Cerveja e JS! A ideia central é não ter palestras, mas sim possibilitar que todos os participantes possam falar/debater/opinar. É uma roda de amigos, cerveja e JavaScript!"
-}, {
-  "title": "Conferência de JavaScript do Ceará",
-  "date": {
-    "day": 28,
-    "month": "Maio",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.cejs.com.br/",
-  "price": "R$ 120,00",
-  "location": "Av. Alm. Maximiano da Fonseca, 1395 - Eng. Luciano Cavalcante, 60811-020 - Fortaleza - CE",
-  "locationUrl": "",
-  "image": "",
-  "shortDescription": "O CEJS é um evento da comunidade para a comunidade."
-}, {
-  "title": "FrontUX Edição 12 no GuiaBolso",
-  "date": {
-    "day": 31,
-    "month": "Maio",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/FrontUX/events/231043428/",
-  "price": "Gratuito",
-  "location": "Av. Faria Lima, 1656, São Paulo",
-  "locationUrl": "",
-  "image": "",
-  "shortDescription": "O encontro tem o objetivo de promover a troca de conhecimento entre designers e desenvolvedores, aproximar os dois mundos e melhorar o fluxo de trabalho dos profissionais de cada área, possibilitando que designers opinem sobre tecnologia e desenvolvedores sobre interface. O formato do encontro será no estilo mesa redonda, com frequência mensal e cada edição será realizada em um lugar diferente, de preferência com fácil acesso."
-}, {
   "title": "Sampa.js",
   "date": {
     "day": 25,
@@ -64,8 +8,12 @@
   "innerLink": "inner.html",
   "link": "http://sampajs.site/",
   "price": "R$ 50 (primeiro lote)",
-  "location": "PUC Consolação",
-  "locationUrl": "",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "PUC Consolação",
+    "locationUrl": ""
+  },
   "image": "",
   "shortDescription": "Maior evento sobre JS de São Paulo"
 }, {
@@ -78,8 +26,12 @@
   "innerLink": "inner.html",
   "link": "http://www.codeinthedark.com.br/",
   "price": "Gratuito",
-  "location": "Google Brasil",
-  "locationUrl": "",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Google Brasil",
+    "locationUrl": ""
+  },
   "image": "",
   "shortDescription": "15 minutos. Só HTML/CSS. Sem previews. Um Campeão. O CodeintheDark é um evento que desafia os participantes a replicarem um layout apenas visualizando o código fonte em apenas 15 minutos. Além disso, quem decide o campeão é o púbico, num ambiente descontraído e com muito network. Simples, certo? Venha se divertir com a gente!"
 }, {
@@ -92,8 +44,12 @@
   "innerLink": "inner.html",
   "link": "http://www.eventick.com.br/frontinsampa-2016",
   "price": "R$ 199,99 (Primeiro Lote).",
-  "location": "Teatro do Colégio Maria Imaculada - Endereço: Av. Bernardino de Campos, 79 - Paraiso - São Paulo/SP (ao lado do shopping paulista)",
-  "locationUrl": "",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Teatro do Colégio Maria Imaculada - Endereço: Av. Bernardino de Campos, 79 - Paraiso (ao lado do shopping paulista)",
+    "locationUrl": ""
+  },
   "image": "",
   "shortDescription": "Stairway to Heaven - Calma, não vamos falar de Led Zeppelin por aqui... A novidade é que o Frontinsampa deixou o Inferno e pegou a escada para o Paraíso, literalmente. A 5ª edição será especial, num teatro para quase 400 pessoas, com uma ótima localização e com a tradição de trazer ótimas palestras e também muito networking, afinal, o lema do frontinsampa é Aprender, Compartilhar e se Divertir."
 }]
