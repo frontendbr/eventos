@@ -2,7 +2,8 @@
 
 import {
   FILL_FILTER_SELECTS,
-  CHOOSE_FILTER_SELECT
+  CHOOSE_FILTER_SELECT,
+  FILTER_BY_TEXT
 } from './index'
 
 const fillFilterSelect = (select, options) => ({
@@ -54,4 +55,9 @@ export const prepareFilterSelects = (events) => {
 export const chooseFilterSelect = (payload) => ({
   type: CHOOSE_FILTER_SELECT,
   payload
+})
+
+export const filterByText = (value) => ({
+  type: FILTER_BY_TEXT,
+  payload: { value }
 })
