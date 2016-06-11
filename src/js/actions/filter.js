@@ -1,7 +1,8 @@
 'use strict'
 
 import {
-  FILL_FILTER_SELECTS
+  FILL_FILTER_SELECTS,
+  CHOOSE_FILTER_SELECT
 } from './index'
 
 const fillFilterSelect = (select, options) => ({
@@ -49,3 +50,8 @@ export const prepareFilterSelects = (events) => {
     dispatch(fillFilterSelect('state', states))
   }
 }
+
+export const chooseFilterSelect = (payload) => ({
+  type: CHOOSE_FILTER_SELECT,
+  payload
+})
