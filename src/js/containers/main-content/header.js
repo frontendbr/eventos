@@ -6,7 +6,8 @@ import HeaderBanner from './header-banner'
 import HeaderFilter from './header-filter'
 import {
   fetchEvents,
-  chooseFilterSelect
+  chooseFilterSelect,
+  filterByText
 } from '../../actions/index'
 
 class Header extends Component {
@@ -17,6 +18,10 @@ class Header extends Component {
   handleChange (field, event) {
     const { value } = event.currentTarget
     this.props.dispatch(chooseFilterSelect({ field, value }))
+  }
+
+  handleChangeText (event) {
+    this.props.dispatch(filterByText(event.currentTarget.value))
   }
 
   render () {
@@ -34,6 +39,7 @@ class Header extends Component {
           searchField={searchField}
           handleChangeMonth={(e) => this.handleChange('months', e)}
           handleChangeState={(e) => this.handleChange('state', e)}
+          handleChangeText={(e) => this.handleChangeText(e)}
         />
       </header>
     )
