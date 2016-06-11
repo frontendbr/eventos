@@ -4,11 +4,19 @@ import React, { PropTypes, Component } from 'react'
 import { connect } from 'react-redux'
 import HeaderBanner from './header-banner'
 import HeaderFilter from './header-filter'
-import { fetchEvents } from '../../actions/index'
+import {
+  fetchEvents,
+  chooseFilterSelect
+} from '../../actions/index'
 
 class Header extends Component {
   componentDidMount () {
     this.props.dispatch(fetchEvents())
+  }
+
+  handleChange (field, event) {
+    const { value } = event.currentTarget
+    this.props.dispatch(chooseFilterSelect({ field, value }))
   }
 
   render () {
@@ -24,6 +32,8 @@ class Header extends Component {
           monthFilter={monthFilter}
           stateFilter={stateFilter}
           searchField={searchField}
+          handleChangeMonth={(e) => this.handleChange('months', e)}
+          handleChangeState={(e) => this.handleChange('state', e)}
         />
       </header>
     )
