@@ -8,11 +8,11 @@ import MainFooter from './main-footer'
 class App extends Component {
   render () {
     return (
-    <div>
-      <MainHeader />
-      <MainContent />
-      <MainFooter />
-    </div>
+      <div>
+        <MainHeader />
+        <MainContent />
+        <MainFooter />
+      </div>
     )
   }
 }
