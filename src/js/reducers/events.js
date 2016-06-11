@@ -3,27 +3,17 @@
 import {
   FETCH_EVENTS,
   EVENTS_SUCCESS,
-  EVENTS_FAILED
+  EVENTS_FAILED,
+
+  CHOOSE_FILTER_SELECT
 } from '../actions/index'
 
 const initialState = {
-  events: [{
+  events: Array.apply(null, { length: 5 }).map(() => ({
     title: '...',
     date: { day: 0, month: '', year: 0 },
     image: ''
-  }, {
-    title: '...',
-    date: { day: 0, month: '', year: 0 }
-  }, {
-    title: '...',
-    date: { day: 0, month: '', year: 0 }
-  }, {
-    title: '...',
-    date: { day: 0, month: '', year: 0 }
-  }, {
-    title: '...',
-    date: { day: 0, month: '', year: 0 }
-  }],
+  })),
   isFetching: false
 }
 
@@ -46,6 +36,38 @@ const events = (state = initialState, action) => {
       return {
         ...state,
         isFetching: false
+      }
+
+    case CHOOSE_FILTER_SELECT:
+      const { field, value } = action.payload
+      return {
+        ...state,
+        events: state.events.map((event) => {
+          let shouldShowByMonth = event.shouldShowByMonth === undefined
+            ? true
+            : event.shouldShowByMonth
+          let shouldShowByState = event.shouldShowByState === undefined
+            ? true
+            : event.shouldShowByState
+
+          if (field === 'months') {
+            shouldShowByMonth = !value
+              ? true
+              : event.date.month === value
+          }
+
+          if (field === 'state') {
+            shouldShowByState = !value
+              ? true
+              : event.location.state === value
+          }
+
+          return {
+            ...event,
+            shouldShowByMonth,
+            shouldShowByState
+          }
+        })
       }
   }
   return state
