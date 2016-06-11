@@ -17,6 +17,42 @@
   "image": "",
   "shortDescription": "Maior evento sobre JS de São Paulo"
 }, {
+  "title": "Front in Santa Maria",
+  "date": {
+    "day": 25,
+    "month": "Junho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://frontinsm.com.br/",
+  "price": "R$ 40",
+  "location": {
+    "city": "Santa Maria",
+    "state": "RS",
+    "address": "Itaimbé Palace Hotel - Rua Venâncio Aires, 2741",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "O Front-in SM (Santa Maria) foi criado com a finalidade de reunir o maior número possível de profissionais interessados em trocar conhecimento sobre tecnologias Front-End"
+}, {
+  "title": "Meetup #17 Especial - Pré Front in Sampa",
+  "date": {
+    "day": 30,
+    "month": "Junho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/CSS-SP/events/231719368/?eventId=231719368",
+  "price": "Gratuito",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Google Brasil Avenida Brigadeiro Faria Lima, 3477 - 18º andar",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "Pegando o gancho do Front in Sampa no sábado (02/07) e do Code in The Dark na sexta (01/07), vamos aproveitar para fazer uma edição gigante do MeetupCSS para dar a oportunidade de novas pessoas, inclusive de outras cidades, participarem. Além disso, para fechar a semana, vai rolar o FrontUX na quarta (29/06)."
+}, {
   "title": "CodeintheDark Brasil",
   "date": {
     "day": 1,
