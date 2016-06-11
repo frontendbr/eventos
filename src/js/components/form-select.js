@@ -3,7 +3,13 @@
 import React, { PropTypes } from 'react'
 import SvgIcon from './svg-icon'
 
-const FormSelect = ({ label, icon, options }) => {
+const FormSelect = ({
+  label,
+  selected,
+  options,
+  icon,
+  handleChange
+}) => {
   if (!options.length) {
     return null
   }
@@ -12,7 +18,7 @@ const FormSelect = ({ label, icon, options }) => {
     <div className='form-select'>
       {!!icon && <SvgIcon id={icon.id} label={icon.label} />}
       <label className='sr-only'>{label}</label>
-      <select>
+      <select value={selected} onChange={handleChange}>
         {options.map((option) => (
           <option key={option.text} value={option.value}>
             {option.text}
@@ -30,6 +36,7 @@ FormSelect.defaultProps = {
 
 FormSelect.propTypes = {
   label: PropTypes.string.isRequired,
+  selected: PropTypes.string.isRequired,
   options: PropTypes.array.isRequired,
   icon: PropTypes.shape({
     image: PropTypes.string,
