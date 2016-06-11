@@ -2,7 +2,8 @@
 
 import {
   FILL_FILTER_SELECTS,
-  CHOOSE_FILTER_SELECT
+  CHOOSE_FILTER_SELECT,
+  FILTER_BY_TEXT
 } from '../actions/index'
 
 const initialState = {
@@ -48,6 +49,12 @@ const filter = (state = initialState, action) => {
           ...state[action.payload.field],
           selected: action.payload.value
         }
+      }
+
+    case FILTER_BY_TEXT:
+      return {
+        ...state,
+        searchField: action.payload.value
       }
   }
   return state
