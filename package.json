@@ -9,7 +9,7 @@
   "scripts": {
     "start": "npm run clean && gulp",
     "start:dev": "NODE_ENV=development concurrently --kill-others 'gulp dev' 'node src/server.js'",
-    "test": "tape -r babel-register test/**/*.js | tap-spec",
+    "test": "npm run lint && tape -r babel-register test/**/*.js | tap-spec",
     "clean": "rm -rf build",
     "postinstall": "jspm install -y",
     "deploy": "NODE_ENV=production gulp build && gulp deploy",
@@ -69,7 +69,8 @@
     "tape": "^4.5.1",
     "webpack": "^1.13.1",
     "webpack-dev-middleware": "^1.6.1",
-    "webpack-hot-middleware": "^2.10.0"
+    "webpack-hot-middleware": "^2.10.0",
+    "whacko": "^0.19.1"
   },
   "dependencies": {
     "@fdaciuk/ajax": "^2.1.2",
