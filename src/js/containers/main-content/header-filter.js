@@ -9,7 +9,8 @@ const HeaderFilter = ({
   stateFilter,
   searchField,
   handleChangeMonth,
-  handleChangeState
+  handleChangeState,
+  handleChangeText
 }) => (
   <nav className='filter'>
     <FormSelect
@@ -22,7 +23,9 @@ const HeaderFilter = ({
       {...stateFilter}
       handleChange={handleChangeState} />
 
-    <FormSearch />
+    <FormSearch
+      searchField={searchField}
+      handleChangeText={handleChangeText} />
   </nav>
 )
 
@@ -31,7 +34,8 @@ HeaderFilter.propTypes = {
   stateFilter: PropTypes.object.isRequired,
   searchField: PropTypes.string.isRequired,
   handleChangeMonth: PropTypes.func.isRequired,
-  handleChangeState: PropTypes.func.isRequired
+  handleChangeState: PropTypes.func.isRequired,
+  handleChangeText: PropTypes.func.isRequired
 }
 
 export default HeaderFilter
