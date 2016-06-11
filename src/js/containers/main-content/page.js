@@ -25,8 +25,33 @@ Page.propTypes = {
   events: PropTypes.array.isRequired
 }
 
-const mapStateToProps = (state) => ({
-  events: state.events.events.filter((_, index) => index >= 5)
-})
+const mapStateToProps = (state) => {
+  const { filter } = state
+  const monthsFilter = filter.months
+  const stateFilter = filter.state
+  return {
+    events: state.events.events
+      .filter((event) => {
+        if (monthsFilter.selected && stateFilter.selected) {
+          console.log('selecionou os dois!')
+          return event.shouldShowByMonth !== false &&
+            event.shouldShowByState !== false
+        }
+
+        if (monthsFilter.selected && !stateFilter.selected) {
+          console.log('selecinou só mês!')
+          return event.shouldShowByMonth !== false
+        }
+
+        if (!monthsFilter.selected && stateFilter.selected) {
+          console.log('selecionou só estado!')
+          return event.shouldShowByState !== false
+        }
+
+        console.log('sem seleção!')
+        return event
+      })
+  }
+}
 
 export default connect(mapStateToProps)(Page)
