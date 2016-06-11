@@ -30,7 +30,6 @@ const formatDate = ({ day, month, year }) => {
 const EventListItem = ({
   title,
   image,
-  innerLink,
   link,
   date,
   price,
@@ -80,13 +79,16 @@ EventListItem.defaultProps = {
     month: 'xx',
     year: '0000'
   },
-  price: 'Grátis'
+  price: 'Grátis',
+  location: {
+    locationUrl: ''
+  },
+  shortDescription: ''
 }
 
 EventListItem.propTypes = {
   title: PropTypes.string.isRequired,
   image: PropTypes.string,
-  innerLink: PropTypes.string.isRequired,
   link: PropTypes.string,
   date: PropTypes.shape({
     day: PropTypes.number.isRequired,
