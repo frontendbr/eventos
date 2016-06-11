@@ -136,9 +136,16 @@ gulp.task('copy-data', () => {
 gulp.task('watch', () => {
   gulp.watch(srcPaths.ejs, ['ejs'])
   gulp.watch(srcPaths.css, ['css'])
-  gulp.watch(srcPaths.js, ['js'])
   gulp.watch(srcPaths.img, ['images'])
   gulp.watch(srcPaths.data, ['copy-data'])
+})
+
+gulp.task('watch:js', () => {
+  gulp.watch(srcPaths.js, ['js'])
+})
+
+gulp.task('watch:lint', ['lint'], () => {
+  gulp.watch(srcPaths.js, ['lint'])
 })
 
 gulp.task('browser-sync', () => {
@@ -160,6 +167,7 @@ gulp.task('pages', () => {
     }))
 })
 
-gulp.task('default', ['css', 'ejs', 'js', 'images', 'icons', 'copy-data', 'watch', 'browser-sync'])
+gulp.task('default', ['css', 'ejs', 'js', 'images', 'icons', 'copy-data', 'watch', 'watch:js', 'browser-sync'])
+gulp.task('dev', ['css', 'ejs', 'images', 'icons', 'copy-data', 'watch', 'watch:lint'])
 gulp.task('build', ['css', 'ejs', 'js', 'images', 'copy-data'])
 gulp.task('deploy', ['pages'])

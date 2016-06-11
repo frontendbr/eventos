@@ -30,12 +30,10 @@ const formatDate = ({ day, month, year }) => {
 const EventListItem = ({
   title,
   image,
-  innerLink,
   link,
   date,
   price,
   location,
-  locationUrl,
   shortDescription
 }) => (
   <article className='event'>
@@ -62,10 +60,12 @@ const EventListItem = ({
           <SvgIcon id='price' label='Preço' />
           {price}
         </li>
-        {!!locationUrl &&
+        {!!location.locationUrl &&
           <li className='event-list--item'>
             <SvgIcon id='location' label='Local' />
-            <a href={locationUrl} target='_blank'>{location}</a>
+            <a href={location.locationUrl} target='_blank'>
+              {`${location.address} - ${location.city}/${location.state}`}
+            </a>
           </li>
         }
       </ul>
@@ -79,13 +79,16 @@ EventListItem.defaultProps = {
     month: 'xx',
     year: '0000'
   },
-  price: 'Grátis'
+  price: 'Grátis',
+  location: {
+    locationUrl: ''
+  },
+  shortDescription: ''
 }
 
 EventListItem.propTypes = {
   title: PropTypes.string.isRequired,
   image: PropTypes.string,
-  innerLink: PropTypes.string.isRequired,
   link: PropTypes.string,
   date: PropTypes.shape({
     day: PropTypes.number.isRequired,
@@ -93,8 +96,12 @@ EventListItem.propTypes = {
     year: PropTypes.number.isRequired
   }).isRequired,
   price: PropTypes.string,
-  location: PropTypes.string,
-  locationUrl: PropTypes.string,
+  location: PropTypes.shape({
+    city: PropTypes.string,
+    state: PropTypes.string,
+    address: PropTypes.string,
+    locationUrl: PropTypes.string
+  }),
   shortDescription: PropTypes.string.isRequired
 }
 

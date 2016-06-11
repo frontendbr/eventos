@@ -15,3 +15,7 @@ render(
   </Provider>,
   document.querySelector('[data-js="app"]')
 )
+
+store.subscribe(() => {
+  console.log(store.getState())
+})

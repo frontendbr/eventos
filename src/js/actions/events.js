@@ -4,8 +4,19 @@ import ajax from '@fdaciuk/ajax'
 import {
   FETCH_EVENTS,
   EVENTS_SUCCESS,
-  EVENTS_FAILED
+  EVENTS_FAILED,
+
+  prepareFilterSelects
 } from './index'
+
+export const eventsSuccess = (events) => ({
+  type: EVENTS_SUCCESS,
+  payload: { events }
+})
+
+export const eventsFailed = () => ({
+  type: EVENTS_FAILED
+})
 
 export const fetchEvents = () => {
   return (dispatch, getState) => {
@@ -15,13 +26,11 @@ export const fetchEvents = () => {
     }
     dispatch({ type: FETCH_EVENTS })
     ajax().get('data/events.json').then((events) => {
-      dispatch({
-        type: EVENTS_SUCCESS,
-        payload: events
-      })
+      dispatch(eventsSuccess(events))
+      dispatch(prepareFilterSelects(events))
     })
     .catch(() => {
-      dispatch({ type: EVENTS_FAILED })
+      dispatch(eventsFailed())
     })
   }
 }
