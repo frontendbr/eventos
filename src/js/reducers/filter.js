@@ -1,14 +1,15 @@
 'use strict'
 
 import {
-  EVENTS_SUCCESS,
-  FILL_FILTER_SELECTS
+  FILL_FILTER_SELECTS,
+  CHOOSE_FILTER_SELECT
 } from '../actions/index'
 
 const initialState = {
   months: {
     icon: { id: 'date', label: 'Data' },
     label: 'Escolha um mês',
+    selected: '',
     options: [{
       text: 'Escolha um mês', value: ''
     }]
@@ -17,6 +18,7 @@ const initialState = {
   state: {
     icon: { id: 'location', label: 'Estado' },
     label: 'Escolha um estado',
+    selected: '',
     options: [{
       text: 'Escolha um estado', value: ''
     }]
@@ -36,6 +38,15 @@ const filter = (state = initialState, action) => {
             ...state[action.payload.select].options,
             ...action.payload.options
           ]
+        }
+      }
+
+    case CHOOSE_FILTER_SELECT:
+      return {
+        ...state,
+        [action.payload.field]: {
+          ...state[action.payload.field],
+          selected: action.payload.value
         }
       }
   }
