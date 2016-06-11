@@ -5,7 +5,8 @@ import {
   EVENTS_SUCCESS,
   EVENTS_FAILED,
 
-  CHOOSE_FILTER_SELECT
+  CHOOSE_FILTER_SELECT,
+  FILTER_BY_TEXT
 } from '../actions/index'
 
 const initialState = {
@@ -66,6 +67,18 @@ const events = (state = initialState, action) => {
             ...event,
             shouldShowByMonth,
             shouldShowByState
+          }
+        })
+      }
+
+    case FILTER_BY_TEXT:
+      return {
+        ...state,
+        events: state.events.map((event) => {
+          return {
+            ...event,
+            shouldShowByText: !!event.title
+              .match(new RegExp(`${action.payload.value}`, 'i'))
           }
         })
       }
