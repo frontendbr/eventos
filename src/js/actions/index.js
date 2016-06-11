@@ -6,6 +6,7 @@ export const EVENTS_FAILED = 'EVENTS_FAILED'
 
 export const FILL_FILTER_SELECTS = 'FILL_FILTER_SELECTS'
 export const CHOOSE_FILTER_SELECT = 'CHOOSE_FILTER_SELECT'
+export const FILTER_BY_TEXT = 'FILTER_BY_TEXT'
 
 export {
   fetchEvents,
@@ -15,5 +16,6 @@ export {
 
 export {
   prepareFilterSelects,
-  chooseFilterSelect
+  chooseFilterSelect,
+  filterByText
 } from './filter'
