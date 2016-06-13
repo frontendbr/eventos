@@ -8,13 +8,13 @@ Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de fronten
 
 # AVISO
 
-Estamos desenvolvendo uma ferramenta que exibirá os eventos de forma mais organizada. Você pode contribuir visitando os nossos milestones e conferindo o andamento desse projeto.
+Temos uma ferramenta que exibirá os eventos de forma mais organizada. Você pode contribuir visitando os nossos milestones e conferindo o andamento desse projeto.
 
-Se você quer contribuir, acesse a Wiki do projeto e saiba como participar.
+Para saber como contribuir, acesse o arquivo [about.md](about.md) e [CONTRIBUTING.md](CONTRIBUTING.md) e siga as instruções =)
 
 ## Como funciona
 
-Se você tem algum evento (seja participante ou mesmo criador) pode adicionar aqui, seguindo um template básico que vamos descrever logo abaixo.
+Se você tem algum evento (seja participante ou mesmo criador) pode adicionar aqui, seguindo um template básico que vamos descrever logo abaixo, ou enviando um pull request direto no nosso site. Siga as instruções [desse link](CONTRIBUTING.md).
 
 ## Template
 
@@ -23,9 +23,10 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 1. Abra uma [issue](https://github.com/frontendbr/eventos/issues/new);
 2. Coloque as seguintes informações:
 
-* * *
+---
+
 **Título**: [São Paulo] Meetup CSS
-  
+
 **Data**: 04/02/2016 19h30 - 21h
 
 **Local**: Avenida Paulista, 1000
@@ -39,8 +40,8 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 
 Aguarde a aprovação!
 
- 
-________
+---
+
 #### Repositórios da Front-End Brasil
 
 - [Fórum](https://github.com/frontendbr/forum)
