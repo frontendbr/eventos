@@ -1,0 +1,104 @@
+//  
+// Variables
+//
+// 1. Colors
+// 2. Spaces 
+// 3. Media Queries 
+// 4. Typography
+//
+// ===============================================================
+
+// 
+// 1. Colors
+// --------------------------------------------------
+
+// Grays
+// --------------------------------------------------
+
+$gray-darker  = #111
+$gray-dark    = #444
+$gray         = #525559
+$gray-light   = #999
+$gray-light-2 = #ccc
+$gray-lighter = #efefef
+$gray-white   = #f0f0f2
+
+
+// Hexas
+// --------------------------------------------------
+
+$yellow      = #876B25
+$blue        = #3b78e7
+$blue-light  = #35baf6 
+$red         = #cc0000
+$green       = #afcc49
+$orange      = #e07314
+
+$white-alpha = alpha(#fff, 80%)
+$gray-alpha  = alpha(#cfcfcf, 95%) 
+  
+
+// Brands
+// --------------------------------------------------
+ 
+$text-color      = $gray
+
+
+$brand-primary   = $blue
+$brand-secondary = $blue-light
+$brand-alternate = $green
+
+
+$brand-success   = #5cb85c
+$brand-info      = #5bc0de
+$brand-warning   = #f0ad4e
+$brand-danger    = #d9534f
+
+
+// 
+// 2. Spaces 
+// --------------------------------------------------
+
+$space         = 2rem                 // Regular space margin 
+$space-xs      = ($space / 4)         // Extra small space margin
+$space-sm      = ($space / 2)         // Small space margin
+$space-md      = ($space + $space-sm) // Medium space margin
+$space-lg      = ($space * 2)         // Large space margin
+$space-xlg     = ($space * 4)         // Extra Large space margin
+
+$space-gutter  = $space 
+
+$button-height = 6.5rem                 // Set the button height
+
+@lost gutter 3rem
+ 
+// 
+// 3. Media Queries 
+// --------------------------------------------------
+  
+$screen-xs   = 520px  // Extra small screen / phone   
+$screen-sm   = 768px  // Small screen / tablet   
+$screen-md   = 992px  // Medium screen / desktop   
+$screen-lg   = 1200px // Large screen / wide desktop  
+$screen-xlg  = 1400px // Extra Large screen / wide desktop 
+$screen-xxlg = 1900px // Extra Large screen / wide desktop 
+
+$screen-height = '(min-height: 900px) and (min-width: $screen-sm)'
+
+
+// Rupture Settings
+rupture.mobile-cutoff  = $screen-sm
+rupture.tablet-cutoff  = $screen-md
+rupture.desktop-cutoff = $screen-lg
+rupture.hd-cutoff      = $screen-xlg  
+
+rupture.scale          = 0 $screen-xs $screen-sm $screen-md $screen-lg $screen-xlg $screen-xxlg
+rupture.scale-names    = '0' 'xs' 'sm' 'md' 'lg' 'xlg' 'hd'
+rupture.anti-overlap   = -1px
+
+
+// 
+// 4. Typography
+// --------------------------------------------------
+
+$text-size = 2rem

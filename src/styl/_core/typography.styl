@@ -1,0 +1,114 @@
+//
+// Typography
+// --------------------------------------------------
+  
+// Font Family
+// --------------------------------------------------
+
+font-family(family) 
+  if (family == primary)
+    font-family 'Open Sans', sans-serif  
+    
+  if (family == secondary)
+    font-family 'Raleway', sans-serif
+  
+  
+// Transform
+// --------------------------------------------------
+
+font-transform(transform) 
+  if (transform == uppercase)
+    text-transform uppercase
+    letter-spacing .1rem
+
+  if (transform == lowercase)
+    text-transform lowercase
+    letter-spacing .1rem
+  
+  
+// Uppercase
+// --------------------------------------------------
+
+font-weight(arg = '') 
+  if (arg == bold) 
+    font-weight 700
+    
+  if (arg == regular) 
+    font-weight 400 
+    
+  if (arg == light) 
+    font-weight 300
+    
+
+// Fonts
+// --------------------------------------------------
+ 
+font(type = '', weight = '', family = '', transform = '')
+
+  // Type
+  // --------------------------------------------------
+     
+  if (type) 
+    
+    // Headings
+    // --------------------------------------------------
+      
+    if (type == h1) 
+      font-size 4rem
+      line-height 5rem 
+      
+    if (type == h2) 
+      font-size 3.1rem
+      line-height 4.0rem  
+      
+    if (type == h3) 
+      font-size 2.6rem
+      line-height 3.6rem 
+      
+    if (type == h4) 
+      font-size 2.2rem
+      line-height 3rem 
+      
+    if (type == h5) 
+      font-size 1.8rem
+      line-height 2.4rem
+      
+    if (type == h6) 
+      font-size 1.2rem
+      line-height 1.8rem
+       
+    // Paragraphs
+    // --------------------------------------------------
+     
+    if (type == p1) 
+      font-size $text-size
+      line-height 2.8rem 
+      
+    if (type == p2) 
+      font-size 1.6rem
+      line-height 2.4rem
+      
+    if (type == p3) 
+      font-size 1.2rem
+      line-height 2rem
+  
+
+  // Weights
+  // --------------------------------------------------
+     
+  if (weight)   
+      font-weight(weight)
+ 
+
+  // Font Secondary
+  // --------------------------------------------------
+
+  if (family)   
+      font-family(family) 
+    
+
+  // Transform
+  // --------------------------------------------------
+
+  if (transform)   
+      font-transform(transform)

@@ -1,0 +1,61 @@
+//
+// Forms
+//
+// 1. Control
+// 2. Select 
+//
+// --------------------------------------------------
+
+// 
+// 1. Select
+// --------------------------------------------------
+
+.form-control
+    form-control()   
+    background-color $gray-white
+   
+
+// 
+// 2. Select
+// --------------------------------------------------
+  
+.form-select 
+    position relative
+    
+    &:before
+    &:after
+        center(top) 
+
+    &:before
+        color $brand-primary
+        left 2.5rem
+         
+    &:after 
+        content '↓'
+        right 2.5rem
+         
+    select::-ms-expand 
+        display: none 
+    
+    select 
+        form-control()  
+        background-color $gray-white
+        appearance none 
+        padding-left $button-height
+        padding-right $button-height
+        text-indent 1px
+        text-overflow ''
+         
+    .icon
+        center(top)
+        fill $brand-primary
+        margin-top -3px
+        left $space 
+        
+    
+        
+
+        
+    
+    
+ 

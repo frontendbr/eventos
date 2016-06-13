@@ -1,0 +1,102 @@
+{
+  "name": "eventos",
+  "version": "0.0.1",
+  "description": "Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de frontend.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontendbr/eventos.git"
+  },
+  "scripts": {
+    "start": "npm run clean && gulp",
+    "start:dev": "NODE_ENV=development concurrently --kill-others 'gulp dev' 'node src/server.js'",
+    "test": "npm run lint && tape -r babel-register test/**/*.js | tap-spec",
+    "clean": "rm -rf build",
+    "postinstall": "jspm install -y",
+    "deploy": "NODE_ENV=production gulp build && gulp deploy",
+    "lint": "gulp lint",
+    "precommit": "npm run lint",
+    "prepush": "npm run lint",
+    "build": "NODE_ENV=production gulp build"
+  },
+  "keywords": [
+    "eventos",
+    "meetups",
+    "encontros",
+    "frontend"
+  ],
+  "author": "Comunidade Frontend BR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frontendbr/eventos/issues"
+  },
+  "homepage": "https://github.com/frontendbr/eventos#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.7.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-react-hmre": "^1.1.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.8.0",
+    "browser-sync": "^2.11.2",
+    "concurrently": "^2.1.0",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-cheerio": "^0.6.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-ejs": "^2.1.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-group-css-media-queries": "^1.1.0",
+    "gulp-htmlmin": "^1.3.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jspm": "^0.5.8",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-standard": "^6.0.5",
+    "gulp-stylus": "^2.3.1",
+    "gulp-svgmin": "^1.2.2",
+    "gulp-svgstore": "^6.0.0",
+    "gulp-uglify": "^1.5.3",
+    "jspm": "^0.16.34",
+    "lost": "^6.7.2",
+    "postcss-font-magician": "^1.4.0",
+    "poststylus": "^0.2.3",
+    "rucksack-css": "^0.8.5",
+    "rupture": "^0.6.1",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-hot-middleware": "^2.10.0",
+    "whacko": "^0.19.1"
+  },
+  "dependencies": {
+    "@fdaciuk/ajax": "^2.1.2",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-thunk": "^2.1.0"
+  },
+  "jspm": {
+    "directories": {
+      "baseURL": "src"
+    },
+    "configFile": "src/config-jspm.js",
+    "dependencies": {
+      "@fdaciuk/ajax": "npm:@fdaciuk/ajax@^2.0.1",
+      "react": "npm:react@^15.1.0",
+      "react-dom": "npm:react-dom@^15.1.0",
+      "react-redux": "npm:react-redux@^4.4.5",
+      "redux": "npm:redux@^3.5.2",
+      "redux-thunk": "npm:redux-thunk@^2.0.1"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
+}

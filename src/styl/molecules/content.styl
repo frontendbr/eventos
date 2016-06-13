@@ -1,0 +1,75 @@
+//
+// Content
+// --------------------------------------------------
+  
+.content
+    display block
+   
+    //
+    // Types
+    // --------------------------------------------------
+      
+    h1, h2, h3, h4, h5, h6   
+        &:first-child
+            margin-top 0
+    
+    h1   
+        font(h1, bold) 
+        margin-bottom $space-md
+       
+        
+    h2  
+        font(h2, bold) 
+        margin-top $space-xlg
+        margin-bottom $space 
+       
+
+    h3   
+        font(h3, bold) 
+        margin-top $space-lg
+        margin-bottom $space 
+      
+
+    h4  
+        font(h4, bold) 
+        margin-top $space-md
+        margin-bottom $space-sm 
+      
+
+    h5 
+        font(h5, bold) 
+        margin-bottom $space-sm 
+      
+
+    p 
+        font(p1, regular, secondary) 
+      
+
+    ol
+        font(p1, regular, secondary) 
+        margin-top 0
+        margin-left -40px
+        
+        li 
+            margin-bottom $space-sm
+        
+
+    ul 
+        reset(list)
+        font(p1, regular, secondary)
+        margin-top $space-md 
+         
+        li 
+            margin-bottom $space-sm 
+            position relative
+            
+            &:before 
+                background #000
+                content '' 
+                height 4px
+                margin-right 18px
+                position absolute
+                top 15px
+                right 100%
+                width 4px
+                 

@@ -1,0 +1,91 @@
+[{
+  "title": "Sampa.js",
+  "date": {
+    "day": 25,
+    "month": "Junho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://sampajs.site/",
+  "price": "R$ 50 (primeiro lote)",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "PUC Consolação",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "Maior evento sobre JS de São Paulo"
+}, {
+  "title": "Front in Santa Maria",
+  "date": {
+    "day": 25,
+    "month": "Junho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://frontinsm.com.br/",
+  "price": "R$ 40",
+  "location": {
+    "city": "Santa Maria",
+    "state": "RS",
+    "address": "Itaimbé Palace Hotel - Rua Venâncio Aires, 2741",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "O Front-in SM (Santa Maria) foi criado com a finalidade de reunir o maior número possível de profissionais interessados em trocar conhecimento sobre tecnologias Front-End"
+}, {
+  "title": "Meetup #17 Especial - Pré Front in Sampa",
+  "date": {
+    "day": 30,
+    "month": "Junho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/CSS-SP/events/231719368/?eventId=231719368",
+  "price": "Gratuito",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Google Brasil Avenida Brigadeiro Faria Lima, 3477 - 18º andar",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "Pegando o gancho do Front in Sampa no sábado (02/07) e do Code in The Dark na sexta (01/07), vamos aproveitar para fazer uma edição gigante do MeetupCSS para dar a oportunidade de novas pessoas, inclusive de outras cidades, participarem. Além disso, para fechar a semana, vai rolar o FrontUX na quarta (29/06)."
+}, {
+  "title": "CodeintheDark Brasil",
+  "date": {
+    "day": 1,
+    "month": "Julho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.codeinthedark.com.br/",
+  "price": "Gratuito",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Google Brasil",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "15 minutos. Só HTML/CSS. Sem previews. Um Campeão. O CodeintheDark é um evento que desafia os participantes a replicarem um layout apenas visualizando o código fonte em apenas 15 minutos. Além disso, quem decide o campeão é o púbico, num ambiente descontraído e com muito network. Simples, certo? Venha se divertir com a gente!"
+}, {
+  "title": "Frontinsampa 2016",
+  "date": {
+    "day": 2,
+    "month": "Julho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.eventick.com.br/frontinsampa-2016",
+  "price": "R$ 199,99 (Primeiro Lote).",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Teatro do Colégio Maria Imaculada - Endereço: Av. Bernardino de Campos, 79 - Paraiso (ao lado do shopping paulista)",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "Stairway to Heaven - Calma, não vamos falar de Led Zeppelin por aqui... A novidade é que o Frontinsampa deixou o Inferno e pegou a escada para o Paraíso, literalmente. A 5ª edição será especial, num teatro para quase 400 pessoas, com uma ótima localização e com a tradição de trazer ótimas palestras e também muito networking, afinal, o lema do frontinsampa é Aprender, Compartilhar e se Divertir."
+}]

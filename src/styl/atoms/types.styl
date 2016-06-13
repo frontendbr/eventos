@@ -1,0 +1,143 @@
+//
+// Types
+//
+// 1. Links
+// 2. Headings
+// 3. Paragraph
+// 4. Bold
+// 5. Italic
+// 6. Cite
+// 7. Small
+// 8. Blockquote
+// 9. Date 
+//
+// -------------------------------------------------- 
+
+//
+// 1. Links
+// --------------------------------------------------
+
+a 
+    color inherit
+    text-decoration none
+  
+    li &
+    p & 
+        color $brand-primary
+    
+    li &:hover
+    p &:hover  
+        text-decoration underline
+  
+
+//
+// 2. Headings
+// --------------------------------------------------
+
+h1, h2, h3, h4, h5, h6  
+    font-weight normal
+    margin 0
+  
+
+//
+// 3. Paragraph
+// --------------------------------------------------
+
+p 
+    margin 0 0 15px
+
+    &:last-child
+        margin-bottom 0 
+   
+
+.intro 
+    font(h2)
+  
+   
+
+//
+// 4. Bold
+// --------------------------------------------------
+ 
+b,
+strong
+    font-weight(bold)
+
+
+//
+// 5. Italic
+// --------------------------------------------------
+
+i,
+em    
+    font-style italic 
+
+
+//
+// 6. Cite
+// --------------------------------------------------
+
+cite  
+    font-style normal 
+
+
+//
+// 7. Small
+// --------------------------------------------------
+
+small 
+    font-size 85% 
+
+
+//
+// 8. Blockquote
+// --------------------------------------------------
+
+blockquote 
+    margin ($space-lg + $space) 0 ($space-lg + $space)
+    position relative
+
+    &:first-child 
+        margin-top 0
+
+    &:last-child 
+        margin-bottom 0
+
+    cite 
+        font(h1, light)  
+        display block 
+        position relative 
+        margin-bottom $space-sm
+
+        &:before
+        &:after   
+            font-size 150%
+            position absolute
+            margin-top -10px
+
+        &:before 
+            content '“' 
+            left -($space-md)
+
+        &:after  
+            content '”'   
+            margin-left ($space / 2)
+
+    p 
+        font(p2, light)  
+        margin-top $space-sm
+
+        &:before
+            content '– ' 
+ 
+
+//
+// 9. Date
+// --------------------------------------------------
+
+.date 
+    font(p2, bold, '', uppercase)
+    display block
+
+
+

@@ -1,0 +1,299 @@
+//  
+// Helpers
+//
+// 1. Center, horizontal and vertical 
+// 2. Resets
+// 3. Hidden 
+// 4. Triangle    
+// 5. Has Scrollbar 
+// 6. Block
+// 7. Forms
+// 8. Buttons
+// 9. Grid
+// 10. Media
+//  
+// ===============================================================
+
+//
+// 1. Center, horizontal and vertical
+// -----------------------------------
+
+center(arg = '', pos = '')
+    if (pos == fixed)
+        position fixed
+    
+    else 
+        position absolute  
+    
+    
+    if (arg == top)
+        top 50%
+        transform translateY(-50%)
+    
+    else if (arg == full)
+        top 50%
+        left 50%
+        transform translate(-50%,-50%)
+    
+    else
+        left 50%
+        transform translateX(-50%)
+
+ 
+//
+// 2. Resets
+// --------------------------------------------------
+
+reset(arg = '')
+  
+    if (arg == list) 
+        margin 0
+        padding-left 0
+        list-style none
+      
+    if (arg == form)  
+        background 0
+        border 0
+        padding 0
+  
+ 
+//
+// 3. Hidden
+// --------------------------------------------------
+
+hidden(arg = '') 
+  
+    // Hidden Font 
+    if (arg == font)
+        font-size 0
+        text-indent -999em 
+     
+    if (arg == xs)
+        +below('xs')
+          display none !important   
+           
+    // Hidden on small screens    
+    if (arg == sm)
+        +below('sm')
+            display none !important   
+            
+    // Hidden on medium screens   
+    if (arg == md)
+        +below('md')
+            display none !important   
+           
+    // Hidden All 
+    if (arg == all)
+        visibility hidden !important 
+        font-size 0 !important 
+        display none !important 
+
+
+visible(arg = '') 
+
+    // Visible on extra-small screens  
+    if (arg == xs)
+        +above('sm')
+            display none !important    
+
+
+    // Visible on small screens  
+    if (arg == sm)
+        display none !important  
+    
+    +above('sm')
+        display block !important 
+    
+
+    // Visible on large screens  
+    if (arg == lg)
+        display none !important  
+    
+        +above('lg')
+            display block !important 
+
+
+//
+// 4. Triangles
+// --------------------------------------------------
+ 
+// 
+// Default 
+// Usage: triangle(width, height, direction, color)
+// ------------------------------------------------------------ 
+         
+triangle($width = 10px, $height = 10px, $direction = 'bottom', $color = #000)
+
+    // Base triangle styles
+    width 0
+    height 0
+    background 0
+    border-style solid
+
+    // Styles for each direction
+    directions = {
+        top: {
+            border-width: 0 ($width * .5) $height ($width * .5),
+            border-color: transparent transparent $color transparent
+        },
+        topRight: {
+            border-width: 0 $width $height 0,
+            border-color: transparent $color transparent transparent
+        },
+        right: {
+            border-width: ($height * .5) 0 ($height *.5) $width,
+            border-color: transparent transparent transparent $color
+        },
+        bottomRight: {
+            border-width: 0 0 $height $width,
+            border-color: transparent transparent $color transparent
+        },
+        bottom: {
+            border-width: $height ($width * .5) 0 ($width * .5),
+            border-color: $color transparent transparent transparent
+        },
+        bottomLeft: {
+            border-width: $width 0 0 $height,
+            border-color: transparent transparent transparent $color
+        },
+        left: {
+            border-width: ($height * .5) $width ($height * .5) 0,
+            border-color: transparent $color transparent transparent
+        },
+        topLeft: {
+            border-width: $height $width 0 0,
+            border-color: $color transparent transparent transparent
+        }
+    }
+
+    // Mixin styles for passed direction
+    styles = directions[$direction]
+    {styles}
+  
+   
+// 
+// Line 
+// Usage: triangle-line(width, height, color-line, color-triangle, direction, position)  
+//------------------------------------------------------------ 
+
+triangle-line($width = '', $height = '', $color-line = '', $color-triangle = '', $direction = '', $position = '')  
+
+    w = -($width / 2)   
+      
+    &:before,
+    &:after 
+        content ""
+        position absolute  
+         
+        if ($position == 'left')
+            left: 0  
+        
+        else if ($position == 'right')
+            right: 0
+         
+        else
+            margin-left: w
+            left: 50%
+        
+        if ($direction == 'bottom')
+            top: 100% 
+      
+        else 
+            bottom: 100%
+      
+    &:before 
+        triangle($width, $height, $direction, $color-line) 
+    
+    &:after  
+        triangle(($width - 1.5), ($height - 2), $direction, $color-triangle) 
+        margin-left (w + 2)
+ 
+
+//
+// 5. Has Scrollbar
+// --------------------------------------------------
+
+has-scrollbar(color = #fff) 
+    overflow-y auto
+    
+    &::-webkit-scrollbar  
+        width $space-sm 
+   
+    &::-webkit-scrollbar-track 
+        box-shadow inset 0 0 3px alpha(color, 0.8)   
+        border-radius $space-sm  
+   
+    &::-webkit-scrollbar-thumb 
+        border-radius $space-sm 
+        box-shadow inset 0 0 5px alpha(color, 0.7)   
+   
+  
+//
+// 6. Block
+// --------------------------------------------------
+
+block-base(padding = $space-md)
+    padding-bottom padding
+    padding-top padding
+
+
+//
+// 7. Forms
+// --------------------------------------------------
+
+form-control(bg = #fff)
+    reset(form)
+    font(p2)
+    font-family(primary) 
+    background-color bg
+    display block
+    height $button-height
+    line-height $button-height
+    padding-left $space-md
+    padding-right $space-md
+    width 100%
+    
+  
+//
+// 8. Buttons
+// --------------------------------------------------
+   
+button(bg = $brand-primary, color = #fff, font-size = $text-size, width = '') 
+    reset(form)
+    background bg
+    color #fff
+    cursor pointer
+    font-size font-size
+    height $button-height
+    line-height $button-height
+    
+    if (width)
+        text-align center
+        width width
+   
+
+//
+// 9. Grid
+// --------------------------------------------------
+
+grid-space(size = partial, padding = $space-md)
+    if (size == full)
+        padding padding 
+        
+    else
+        padding-left padding
+        padding-right padding
+       
+       
+//
+// 10. Media
+// --------------------------------------------------
+
+media(fit = '')
+    position relative
+    
+    img
+        position absolute 0
+        height 100%
+        width 100%
+        object-fit fit
