@@ -12,7 +12,7 @@
     "test": "npm run lint && tape -r babel-register test/**/*.js | tap-spec",
     "clean": "rm -rf build",
     "postinstall": "jspm install -y",
-    "deploy": "NODE_ENV=production gulp build && gulp deploy",
+    "deploy": "NODE_ENV=production gulp build && gulp deploy && git checkout develop && git push upstream develop && git checkout master && git merge develop && git push upstream master && git checkout develop",
     "lint": "gulp lint",
     "precommit": "npm run lint",
     "prepush": "npm run lint",
