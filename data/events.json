@@ -1,4 +1,22 @@
 [{
+  "title": "FEMUG-ABC 11 - AngularJS e WP-API com Ciro Valente",
+  "date": {
+    "day": 18,
+    "month": "Junho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/femug-abc/events/231207151/",
+  "price": "Gratuito",
+  "location": {
+    "city": "São Bernardo do Campo",
+    "state": "SP",
+    "address": "Rua Atlântica, 700, Jardim do Mar, São Bernardo do Campo. 8º Andar, Bloco E, Sala 801",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "Faculdade Anhanguera de São Bernardo - FASBC"
+}, {
   "title": "Sampa.js",
   "date": {
     "day": 25,
