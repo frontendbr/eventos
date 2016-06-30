@@ -25,6 +25,7 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 
 ---
 
+```
 **Título**: [São Paulo] Meetup CSS
 
 **Data**: 04/02/2016 19h30 - 21h
@@ -36,6 +37,7 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 **Valor**: Gratuito
 
 **Mais informações**: http://link-para-o-evento.com.br
+```
 * * *
 
 Aguarde a aprovação!
