@@ -40,6 +40,28 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 
 Aguarde a aprovação!
 
+### Contribuindo com o site
+
+Comece baixando ou clonando o projeto, para executar localmente
+
+```bash
+# clone o projeto
+$ git clone git@github.com:frontendbr/eventos.git
+
+# Acesse a pasta do projeto
+$ cd eventos
+
+# Instale as dependencias
+$ npm install
+
+# Execute o projeto
+$ npm run start
+# ou
+$ gulp
+
+```
+
+
 ---
 #### Repositórios da Front-End Brasil
 
