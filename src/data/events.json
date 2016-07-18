@@ -125,60 +125,6 @@
   "image": "",
   "shortDescription": "O evento é voltado para todo e qualquer estudante ou profissional da área de designer gráfico à desenvolvedor de software que atue na área de FrontEnd ou que deseje entrar neste mercado que cresce exponencialmente a cada dia que passa. O evento será realizado durante todo o dia e será composto por diversas palestras sobre temas variados dentro do contexto e tecnologias no qual o evento está relacionado. Em paralelo as palestras iremos realizar uma atividade inédita chamada DojoInTheDark que ainda é um mistério de como irá funcionar, mas temos certeza de que será bastante divertido e que vocês irão gostar."
 }, {
-  "title": "Conferência Web.br 2016",
-  "date": {
-    "day": "13 e 14",
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://conferenciaweb.w3c.br/",
-  "price": "R$ 70 (primeiro lote)",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Centro de Convenções Rebouças. Av. Rebouças, 600 - Pinheiros, São Paulo - SP, 05402-000",
-    "locationUrl": ""
-  },
-  "image": "",
-  "shortDescription": "Conferência anual realizada pelo escritório do W3C no Brasil com conteúdo de diferentes assuntos que formam a Web, seja front-end, back-end, performance, empreendedorismo, entre outros. A Webbr deste ano terá como assunto principal o tema IoT on the Web, o evento terá palestras em diferentes trilhas (como interface, código, dados, empreendedorismo) abordando aspectos relacionados ao desenvolvimento web e também com forte relação com o assunto principal - Internet of Things. Dois keynotes já confirmaram participação para edição deste ano: Bert Bos, inventor do CSS, e Dave Ragget, um dos principais arquitetos do HTML e atualmente lidera as atividades de IoT on the Web do W3C."
-}, {
-  "title": "#1 ABCDev - 2016",
-  "date": {
-    "day": "17",
-    "month": "Setembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://2016.abcdevelopers.org/",
-  "price": "em definição",
-  "location": {
-    "city": "São Bernardo do Campo",
-    "state": "SP",
-    "address": "Auditório HP - SBC - Estrada Samuel Aizemberg, 1707 - Alves Dias, São Bernardo do Campo - SP, CEP 09851-550",
-    "locationUrl": ""
-  },
-  "image": "",
-  "shortDescription": "A primeira conferência sobre Desenvolvimento Web do Grande ABC"
-}, {
-  "title": "BeerJS - São José dos Campos - Edição 02",
-  "date": {
-    "day": "28",
-    "month": "Julho",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://beerjs.github.io/sjc/",
-  "price": "R$ 0",
-  "location": {
-    "city": "São José dos Campos",
-    "state": "SP",
-    "address": "O Turco Gordo - Rua Pedro de Toledo, 108 - Vila Adyana, São José dos Campos",
-    "locationUrl": ""
-  },
-  "image": "",
-  "shortDescription": "BeerJS SJC é um grupo para JavaScripters de São José dos Campos e Região para se reunir em atividades que giram em torno de duas coisas: Cerveja e JS! A ideia central é não ter palestras, mas sim possibilitar que todos os participantes possam falar/debater/opinar. É uma roda de amigos, cerveja e JavaScript!"
-}, {
   "title": "MeetupCSS 18",
   "date": {
     "day": "21",
@@ -214,4 +160,58 @@
   },
   "image": "",
   "shortDescription": "No 19º WordPress Meetup Rio de Janeiro, Hillary Sousa falará sobre Material Design, o framework de design da Google"
+}, {
+  "title": "BeerJS - São José dos Campos - Edição 02",
+  "date": {
+    "day": "28",
+    "month": "Julho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://beerjs.github.io/sjc/",
+  "price": "R$ 0",
+  "location": {
+    "city": "São José dos Campos",
+    "state": "SP",
+    "address": "O Turco Gordo - Rua Pedro de Toledo, 108 - Vila Adyana, São José dos Campos",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "BeerJS SJC é um grupo para JavaScripters de São José dos Campos e Região para se reunir em atividades que giram em torno de duas coisas: Cerveja e JS! A ideia central é não ter palestras, mas sim possibilitar que todos os participantes possam falar/debater/opinar. É uma roda de amigos, cerveja e JavaScript!"
+}, {
+  "title": "#1 ABCDev - 2016",
+  "date": {
+    "day": "17",
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://2016.abcdevelopers.org/",
+  "price": "em definição",
+  "location": {
+    "city": "São Bernardo do Campo",
+    "state": "SP",
+    "address": "Auditório HP - SBC - Estrada Samuel Aizemberg, 1707 - Alves Dias, São Bernardo do Campo - SP, CEP 09851-550",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "A primeira conferência sobre Desenvolvimento Web do Grande ABC"
+}, {
+  "title": "Conferência Web.br 2016",
+  "date": {
+    "day": "13 e 14",
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://conferenciaweb.w3c.br/",
+  "price": "R$ 70 (primeiro lote)",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Centro de Convenções Rebouças. Av. Rebouças, 600 - Pinheiros, São Paulo - SP, 05402-000",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "Conferência anual realizada pelo escritório do W3C no Brasil com conteúdo de diferentes assuntos que formam a Web, seja front-end, back-end, performance, empreendedorismo, entre outros. A Webbr deste ano terá como assunto principal o tema IoT on the Web, o evento terá palestras em diferentes trilhas (como interface, código, dados, empreendedorismo) abordando aspectos relacionados ao desenvolvimento web e também com forte relação com o assunto principal - Internet of Things. Dois keynotes já confirmaram participação para edição deste ano: Bert Bos, inventor do CSS, e Dave Ragget, um dos principais arquitetos do HTML e atualmente lidera as atividades de IoT on the Web do W3C."
 }]
