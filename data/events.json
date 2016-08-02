@@ -1,109 +1,91 @@
 [{
-  "title": "FEMUG-ABC 11 - AngularJS e WP-API com Ciro Valente",
+  "title": "MeetupCSS 18",
   "date": {
-    "day": 18,
-    "month": "Junho",
+    "day": 21,
+    "month": "Julho",
     "year": 2016
   },
   "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/femug-abc/events/231207151/",
-  "price": "Gratuito",
+  "link": "http://bit.ly/info-css-sp",
+  "price": "R$ 0",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Amaro - Rua Antonio Nagib Ibrahi, 30, São Paulo",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "19:30 - 20:00 => Coffee Break. 20:00 - 21:00 => Arquitetura CSS na Amaro. 21:00 - 21:45 => Debate"
+}, {
+  "title": "Material Design: do Smartphone ao Desktop - 19º WordPress Meetup RJ",
+  "date": {
+    "day": 28,
+    "month": "Julho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/wp-rio/events/232641957/?eventId=232641957",
+  "price": "R$ 0",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "SP",
+    "address": "Amaro - Rua Antonio Nagib Ibrahi, 30, São Paulo",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "No 19º WordPress Meetup Rio de Janeiro, Hillary Sousa falará sobre Material Design, o framework de design da Google"
+}, {
+  "title": "BeerJS - São José dos Campos - Edição 02",
+  "date": {
+    "day": 28,
+    "month": "Julho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://beerjs.github.io/sjc/",
+  "price": "R$ 0",
+  "location": {
+    "city": "São José dos Campos",
+    "state": "SP",
+    "address": "O Turco Gordo - Rua Pedro de Toledo, 108 - Vila Adyana, São José dos Campos",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "BeerJS SJC é um grupo para JavaScripters de São José dos Campos e Região para se reunir em atividades que giram em torno de duas coisas: Cerveja e JS! A ideia central é não ter palestras, mas sim possibilitar que todos os participantes possam falar/debater/opinar. É uma roda de amigos, cerveja e JavaScript!"
+}, {
+  "title": "#1 ABCDev - 2016",
+  "date": {
+    "day": 17,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://2016.abcdevelopers.org/",
+  "price": "em definição",
   "location": {
     "city": "São Bernardo do Campo",
     "state": "SP",
-    "address": "Rua Atlântica, 700, Jardim do Mar, São Bernardo do Campo. 8º Andar, Bloco E, Sala 801",
+    "address": "Auditório HP - SBC - Estrada Samuel Aizemberg, 1707 - Alves Dias, São Bernardo do Campo - SP, CEP 09851-550",
     "locationUrl": ""
   },
   "image": "",
-  "shortDescription": "Faculdade Anhanguera de São Bernardo - FASBC"
+  "shortDescription": "A primeira conferência sobre Desenvolvimento Web do Grande ABC"
 }, {
-  "title": "Sampa.js",
+  "title": "Conferência Web.br 2016",
   "date": {
-    "day": 25,
-    "month": "Junho",
+    "day": "13 e 14",
+    "month": "Outubro",
     "year": 2016
   },
   "innerLink": "inner.html",
-  "link": "http://sampajs.site/",
-  "price": "R$ 50 (primeiro lote)",
+  "link": "http://conferenciaweb.w3c.br/",
+  "price": "R$ 70 (primeiro lote)",
   "location": {
     "city": "São Paulo",
     "state": "SP",
-    "address": "PUC Consolação",
+    "address": "Centro de Convenções Rebouças. Av. Rebouças, 600 - Pinheiros, São Paulo - SP, 05402-000",
     "locationUrl": ""
   },
   "image": "",
-  "shortDescription": "Maior evento sobre JS de São Paulo"
-}, {
-  "title": "Front in Santa Maria",
-  "date": {
-    "day": 25,
-    "month": "Junho",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://frontinsm.com.br/",
-  "price": "R$ 40",
-  "location": {
-    "city": "Santa Maria",
-    "state": "RS",
-    "address": "Itaimbé Palace Hotel - Rua Venâncio Aires, 2741",
-    "locationUrl": ""
-  },
-  "image": "",
-  "shortDescription": "O Front-in SM (Santa Maria) foi criado com a finalidade de reunir o maior número possível de profissionais interessados em trocar conhecimento sobre tecnologias Front-End"
-}, {
-  "title": "Meetup #17 Especial - Pré Front in Sampa",
-  "date": {
-    "day": 30,
-    "month": "Junho",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/CSS-SP/events/231719368/?eventId=231719368",
-  "price": "Gratuito",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Google Brasil Avenida Brigadeiro Faria Lima, 3477 - 18º andar",
-    "locationUrl": ""
-  },
-  "image": "",
-  "shortDescription": "Pegando o gancho do Front in Sampa no sábado (02/07) e do Code in The Dark na sexta (01/07), vamos aproveitar para fazer uma edição gigante do MeetupCSS para dar a oportunidade de novas pessoas, inclusive de outras cidades, participarem. Além disso, para fechar a semana, vai rolar o FrontUX na quarta (29/06)."
-}, {
-  "title": "CodeintheDark Brasil",
-  "date": {
-    "day": 1,
-    "month": "Julho",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.codeinthedark.com.br/",
-  "price": "Gratuito",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Google Brasil",
-    "locationUrl": ""
-  },
-  "image": "",
-  "shortDescription": "15 minutos. Só HTML/CSS. Sem previews. Um Campeão. O CodeintheDark é um evento que desafia os participantes a replicarem um layout apenas visualizando o código fonte em apenas 15 minutos. Além disso, quem decide o campeão é o púbico, num ambiente descontraído e com muito network. Simples, certo? Venha se divertir com a gente!"
-}, {
-  "title": "Frontinsampa 2016",
-  "date": {
-    "day": 2,
-    "month": "Julho",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.frontinsampa.com.br",
-  "price": "R$ 300,00 (Lote Final).",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Teatro do Colégio Maria Imaculada - Endereço: Av. Bernardino de Campos, 79 - Paraiso (ao lado do shopping paulista)",
-    "locationUrl": ""
-  },
-  "image": "",
-  "shortDescription": "Stairway to Heaven - Calma, não vamos falar de Led Zeppelin por aqui... A novidade é que o Frontinsampa deixou o Inferno e pegou a escada para o Paraíso, literalmente. A 5ª edição será especial, num teatro para quase 400 pessoas, com uma ótima localização e com a tradição de trazer ótimas palestras e também muito networking, afinal, o lema do frontinsampa é Aprender, Compartilhar e se Divertir."
+  "shortDescription": "Conferência anual realizada pelo escritório do W3C no Brasil com conteúdo de diferentes assuntos que formam a Web, seja front-end, back-end, performance, empreendedorismo, entre outros. A Webbr deste ano terá como assunto principal o tema IoT on the Web, o evento terá palestras em diferentes trilhas (como interface, código, dados, empreendedorismo) abordando aspectos relacionados ao desenvolvimento web e também com forte relação com o assunto principal - Internet of Things. Dois keynotes já confirmaram participação para edição deste ano: Bert Bos, inventor do CSS, e Dave Ragget, um dos principais arquitetos do HTML e atualmente lidera as atividades de IoT on the Web do W3C."
 }]
