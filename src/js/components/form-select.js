@@ -19,8 +19,8 @@ const FormSelect = ({
       {!!icon && <SvgIcon id={icon.id} label={icon.label} />}
       <label className='sr-only'>{label}</label>
       <select value={selected} onChange={handleChange}>
-        {options.map((option) => (
-          <option key={option.text} value={option.value}>
+        {options.map((option, index) => (
+          <option key={option.text + index} value={option.value}>
             {option.text}
           </option>
         ))}

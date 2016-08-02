@@ -91,7 +91,10 @@ EventListItem.propTypes = {
   image: PropTypes.string,
   link: PropTypes.string,
   date: PropTypes.shape({
-    day: PropTypes.number.isRequired,
+    day: PropTypes.oneOfType([
+      PropTypes.number,
+      PropTypes.string
+    ]).isRequired,
     month: PropTypes.string.isRequired,
     year: PropTypes.number.isRequired
   }).isRequired,
