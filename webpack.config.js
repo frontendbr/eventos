@@ -2,30 +2,43 @@
 
 const path = require('path')
 const webpack = require('webpack')
+const validate = require('webpack-validator')
 
-module.exports = {
+module.exports = validate({
   devtool: 'source-map',
+
   entry: [
-    'webpack-hot-middleware/client',
-    './src/js/index'
+    'react-hot-loader/patch',
+    'webpack-dev-server/client?http://localhost:8080',
+    'webpack/hot/only-dev-server',
+    path.join(__dirname, 'src', 'js', 'index')
   ],
+
   output: {
-    path: path.join(__dirname, 'dist'),
+    path: path.join(__dirname, 'build', 'js'),
     filename: 'bundle.js',
-    publicPath: '/js/'
+    publicPath: '/static/'
   },
+
   plugins: [
     new webpack.optimize.OccurenceOrderPlugin(),
     new webpack.HotModuleReplacementPlugin()
   ],
+
   module: {
-    loaders: [
-      {
+    preLoaders: [{
+      test: /\.js$/,
+      exclude: /node_modules/,
+      include: /src\/js/,
+      loader: 'standard'
+    }],
+
+    loaders: [{
         test: /\.js$/,
-        loaders: ['babel'],
         exclude: /node_modules/,
-        include: /src\/js/
+        include: /src\/js/,
+        loader: 'babel'
       }
     ]
   }
-}
+})
