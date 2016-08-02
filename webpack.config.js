@@ -1,8 +1,10 @@
+'use strict'
+
 const path = require('path')
 const webpack = require('webpack')
 
 module.exports = {
-  devtool: 'cheap-module-eval-source-map',
+  devtool: 'source-map',
   entry: [
     'webpack-hot-middleware/client',
     './src/js/index'

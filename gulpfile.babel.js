@@ -71,16 +71,16 @@ gulp.task('lint', () => {
     .pipe(standard.reporter('default', {}))
 })
 
-gulp.task('js', ['lint'], () => {
-  return gulp.src(srcPaths.mainJS)
-    .pipe(sourcemaps.init())
-    .pipe(plumber())
-    .pipe(jspm({ selfExecutingBundle: true }))
-    .pipe(concat('main.min.js'))
-    .pipe(uglify())
-    .pipe(sourcemaps.write())
-    .pipe(gulp.dest(buildPaths.js))
-})
+// gulp.task('js', ['lint'], () => {
+//   return gulp.src(srcPaths.mainJS)
+//     .pipe(sourcemaps.init())
+//     .pipe(plumber())
+//     .pipe(jspm({ selfExecutingBundle: true }))
+//     .pipe(concat('main.min.js'))
+//     .pipe(uglify())
+//     .pipe(sourcemaps.write())
+//     .pipe(gulp.dest(buildPaths.js))
+// })
 
 gulp.task('ejs', () => {
   const settings = { ext: '.html' }
@@ -140,13 +140,13 @@ gulp.task('watch', () => {
   gulp.watch(srcPaths.data, ['copy-data'])
 })
 
-gulp.task('watch:js', () => {
-  gulp.watch(srcPaths.js, ['js'])
-})
+// gulp.task('watch:js', () => {
+//   gulp.watch(srcPaths.js, ['js'])
+// })
 
-gulp.task('watch:lint', ['lint'], () => {
-  gulp.watch(srcPaths.js, ['lint'])
-})
+// gulp.task('watch:lint', ['lint'], () => {
+//   gulp.watch(srcPaths.js, ['lint'])
+// })
 
 gulp.task('browser-sync', () => {
   var files = [
@@ -168,6 +168,6 @@ gulp.task('pages', () => {
 })
 
 gulp.task('default', ['css', 'ejs', 'js', 'images', 'icons', 'copy-data', 'watch', 'watch:js', 'browser-sync'])
-gulp.task('dev', ['css', 'ejs', 'images', 'icons', 'copy-data', 'watch', 'watch:lint'])
+gulp.task('dev', ['css', 'ejs', 'images', 'icons', 'copy-data', 'watch'])
 gulp.task('build', ['css', 'ejs', 'js', 'images', 'copy-data'])
 gulp.task('deploy', ['pages'])
