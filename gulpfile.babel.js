@@ -140,7 +140,7 @@ gulp.task('pages', () => {
     }))
 })
 
-gulp.task('default', ['css', 'ejs', 'js', 'images', 'icons', 'copy-data', 'watch', 'watch:js', 'browser-sync'])
+gulp.task('default', ['css', 'ejs', 'images', 'icons', 'copy-data', 'watch', 'browser-sync'])
 gulp.task('dev', ['css', 'ejs', 'images', 'icons', 'copy-data', 'watch'])
-gulp.task('build', ['css', 'ejs', 'js', 'images', 'copy-data'])
+gulp.task('build', ['css', 'ejs', 'images', 'icons', 'copy-data'])
 gulp.task('deploy', ['pages'])
