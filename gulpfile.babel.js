@@ -20,8 +20,6 @@ import ghPages from 'gulp-gh-pages'
 import svgmin from 'gulp-svgmin'
 import svgstore from 'gulp-svgstore'
 import cheerio from 'gulp-cheerio'
-import jspm from 'gulp-jspm'
-import standard from 'gulp-standard'
 
 const srcPaths = {
   js: 'src/js/**/*.js',
@@ -64,23 +62,6 @@ gulp.task('css', () => {
     .pipe(sourcemaps.write())
     .pipe(gulp.dest(buildPaths.css))
 })
-
-gulp.task('lint', () => {
-  gulp.src([srcPaths.js, srcPaths.gulpfile])
-    .pipe(standard())
-    .pipe(standard.reporter('default', {}))
-})
-
-// gulp.task('js', ['lint'], () => {
-//   return gulp.src(srcPaths.mainJS)
-//     .pipe(sourcemaps.init())
-//     .pipe(plumber())
-//     .pipe(jspm({ selfExecutingBundle: true }))
-//     .pipe(concat('main.min.js'))
-//     .pipe(uglify())
-//     .pipe(sourcemaps.write())
-//     .pipe(gulp.dest(buildPaths.js))
-// })
 
 gulp.task('ejs', () => {
   const settings = { ext: '.html' }
@@ -139,14 +120,6 @@ gulp.task('watch', () => {
   gulp.watch(srcPaths.img, ['images'])
   gulp.watch(srcPaths.data, ['copy-data'])
 })
-
-// gulp.task('watch:js', () => {
-//   gulp.watch(srcPaths.js, ['js'])
-// })
-
-// gulp.task('watch:lint', ['lint'], () => {
-//   gulp.watch(srcPaths.js, ['lint'])
-// })
 
 gulp.task('browser-sync', () => {
   var files = [
