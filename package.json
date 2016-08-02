@@ -11,7 +11,7 @@
     "start:dev": "cross-env NODE_ENV=development concurrently --kill-others 'gulp dev' 'node src/server.js'",
     "test": "npm run lint && tape -r babel-register test/**/*.js | tap-spec",
     "clean": "rm -rf build",
-    "deploy": "cross-env NODE_ENV=production gulp build && gulp deploy && git checkout develop && git push upstream develop && git checkout master && git merge develop && git push upstream master && git checkout develop",
+    "deploy": "cross-env NODE_ENV=production npm run lint && npm run build && gulp deploy && git checkout develop && git push upstream develop && git checkout master && git merge develop && git push upstream master && git checkout develop",
     "lint": "standard './src/**/*.js' | snazzy",
     "precommit": "npm run lint",
     "prepush": "npm run lint",
