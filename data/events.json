@@ -1,4 +1,58 @@
 [{
+  "title": "MeetupCSS 18",
+  "date": {
+    "day": 21,
+    "month": "Julho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://bit.ly/info-css-sp",
+  "price": "R$ 0",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Amaro - Rua Antonio Nagib Ibrahi, 30, São Paulo",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "19:30 - 20:00 => Coffee Break. 20:00 - 21:00 => Arquitetura CSS na Amaro. 21:00 - 21:45 => Debate"
+}, {
+  "title": "Material Design: do Smartphone ao Desktop - 19º WordPress Meetup RJ",
+  "date": {
+    "day": 28,
+    "month": "Julho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/wp-rio/events/232641957/?eventId=232641957",
+  "price": "R$ 0",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "SP",
+    "address": "Amaro - Rua Antonio Nagib Ibrahi, 30, São Paulo",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "No 19º WordPress Meetup Rio de Janeiro, Hillary Sousa falará sobre Material Design, o framework de design da Google"
+}, {
+  "title": "BeerJS - São José dos Campos - Edição 02",
+  "date": {
+    "day": 28,
+    "month": "Julho",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://beerjs.github.io/sjc/",
+  "price": "R$ 0",
+  "location": {
+    "city": "São José dos Campos",
+    "state": "SP",
+    "address": "O Turco Gordo - Rua Pedro de Toledo, 108 - Vila Adyana, São José dos Campos",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "BeerJS SJC é um grupo para JavaScripters de São José dos Campos e Região para se reunir em atividades que giram em torno de duas coisas: Cerveja e JS! A ideia central é não ter palestras, mas sim possibilitar que todos os participantes possam falar/debater/opinar. É uma roda de amigos, cerveja e JavaScript!"
+}, {
   "title": "#1 ABCDev - 2016",
   "date": {
     "day": 17,
