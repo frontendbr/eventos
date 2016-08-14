@@ -1,4 +1,23 @@
 [{
+  "title": "MeetupCSS #19",
+  "date": {
+    "day": 25,
+    "month": "Agosto",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/CSS-SP/events/233231383/?eventId=233231383",
+  "price": "Gratuito",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Rua Vergueiro, 3185, Sao Paulo (Auditório Caelum)",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "A edição 19 do Meetup CSSSP terá apresentação da Talk do Marco Bruno: Posicionando as coisas na tela com CSS"
+},
+  {
   "title": "#1 ABCDev - 2016",
   "date": {
     "day": 17,
@@ -16,7 +35,27 @@
   },
   "image": "",
   "shortDescription": "A primeira conferência sobre Desenvolvimento Web do Grande ABC"
-}, {
+},
+  {
+  "title": "WordCamp Rio de Janeiro 2016",
+  "date": {
+    "day": 24,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://2016.riodejaneiro.wordcamp.org/",
+  "price": "45,00",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "address": "Universidade Veiga de Almeida / Campus Tijuca - Rua Ibituruna, 108, Rio de Janeiro - RJ",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "WordCamps são encontros informais, eventos independentes organizados por pessoas que utilizam o WordPress, como você."
+},
+ {
   "title": "Conferência Web.br 2016",
   "date": {
     "day": "13 e 14",
@@ -34,4 +73,23 @@
   },
   "image": "",
   "shortDescription": "Conferência anual realizada pelo escritório do W3C no Brasil com conteúdo de diferentes assuntos que formam a Web, seja front-end, back-end, performance, empreendedorismo, entre outros. A Webbr deste ano terá como assunto principal o tema IoT on the Web, o evento terá palestras em diferentes trilhas (como interface, código, dados, empreendedorismo) abordando aspectos relacionados ao desenvolvimento web e também com forte relação com o assunto principal - Internet of Things. Dois keynotes já confirmaram participação para edição deste ano: Bert Bos, inventor do CSS, e Dave Ragget, um dos principais arquitetos do HTML e atualmente lidera as atividades de IoT on the Web do W3C."
+},
+  {
+  "title": "Front-end Carioca 2016",
+  "date": {
+    "day": 22,
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://frontendcarioca.com.br/",
+  "price": "A partir de R$ 50.00",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "address": "Rua Candelária, N˚ 9 - subsolo - Rio de Janeiro - Associação Comercial do Rio de Janeiro",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "O Front-End Carioca, é a maior conferência web do Rio de Janeiro, e já está com sua terceira edição planejada para o ano de 2016."
 }]
