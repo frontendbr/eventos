@@ -17,6 +17,44 @@
   "image": "",
   "shortDescription": "A edição 19 do Meetup CSSSP terá apresentação da Talk do Marco Bruno: Posicionando as coisas na tela com CSS"
 },
+{
+  "title": "BeerJS - São José dos Campos - Edição 03",
+  "date": {
+    "day": 27,
+    "month": "Agosto",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/Beer-JS-SJC/events/233397768/?eventId=233397768",
+  "price": "Gratuito",
+  "location": {
+    "city": "São José dos Campos",
+    "state": "SP",
+    "address": "O Turco Gordo - Rua Pedro de Toledo, 108 - Vila Adyana, São José dos Campos",
+    "locationUrl": ""
+  },
+  "image": "http://photos4.meetupstatic.com/photos/event/4/3/e/d/global_449417389.jpeg",
+  "shortDescription": "BeerJS SJC é um grupo para JavaScripters de São José dos Campos e Região para se reunir em atividades que giram em torno de duas coisas: Cerveja e JS! A ideia central é não ter palestras, mas sim possibilitar que todos os participantes possam falar/debater/opinar. É uma roda de amigos, cerveja e JavaScript!"
+},
+{
+  "title": "FrontInVale 2016",
+  "date": {
+    "day": 10,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://frontinvale.com.br/",
+  "price": "100,00",
+  "location": {
+    "city": "São José dos Campos",
+    "state": "SP",
+    "address": "Faro Hotel - Rua Síria, 25 - Jardim Oswaldo Cruz, São José dos Campos - SP.",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "Segunda edição do primeiro evento de Front-End do Vale do Paraíba. Um dia inteiro com conteúdos incríveis para você se tornar um front-end monstro!"
+},
   {
   "title": "#1 ABCDev - 2016",
   "date": {
@@ -52,7 +90,7 @@
     "address": "Universidade Veiga de Almeida / Campus Tijuca - Rua Ibituruna, 108, Rio de Janeiro - RJ",
     "locationUrl": ""
   },
-  "image": "",
+  "image": "https://cloud.githubusercontent.com/assets/5203138/17832528/5bfb5e70-66db-11e6-80d5-bfa7495b3c65.jpg",
   "shortDescription": "WordCamps são encontros informais, eventos independentes organizados por pessoas que utilizam o WordPress, como você."
 },
  {
