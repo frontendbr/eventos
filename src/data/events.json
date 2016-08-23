@@ -14,8 +14,27 @@
     "address": "Rua Vergueiro, 3185, Sao Paulo (Auditório Caelum)",
     "locationUrl": ""
   },
-  "image": "",
+  "image": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/7/8/f/2/global_410370962.jpeg",
   "shortDescription": "A edição 19 do Meetup CSSSP terá apresentação da Talk do Marco Bruno: Posicionando as coisas na tela com CSS"
+},
+{
+  "title": "FrontUX Meetup #15",
+  "date": {
+    "day": 26,
+    "month": "Agosto",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/FrontUX/events/233121158/",
+  "price": "Gratuito",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Reclame aqui - Rua Flórida, 1595 - Cidade Monções, São Paulo - SP",
+    "locationUrl": ""
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/17855243/025db4a2-684e-11e6-841c-8417f52d11ba.jpeg",
+  "shortDescription": "O encontro tem o objetivo de promover a troca de conhecimento entre designers e desenvolvedores, aproximar os dois mundos e melhorar o fluxo de trabalho dos profissionais de cada área, possibilitando que designers opinem sobre tecnologia e desenvolvedores sobre interface."
 },
 {
   "title": "BeerJS - São José dos Campos - Edição 03",
@@ -71,7 +90,7 @@
     "address": "Auditório HP - SBC - Estrada Samuel Aizemberg, 1707 - Alves Dias, São Bernardo do Campo - SP, CEP 09851-550",
     "locationUrl": ""
   },
-  "image": "",
+  "image": "http://2016.abcdevelopers.org/images/abcdev-horizontal-logo.svg",
   "shortDescription": "A primeira conferência sobre Desenvolvimento Web do Grande ABC"
 },
   {
