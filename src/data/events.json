@@ -55,6 +55,27 @@
   "image": "http://photos4.meetupstatic.com/photos/event/4/3/e/d/global_449417389.jpeg",
   "shortDescription": "BeerJS SJC é um grupo para JavaScripters de São José dos Campos e Região para se reunir em atividades que giram em torno de duas coisas: Cerveja e JS! A ideia central é não ter palestras, mas sim possibilitar que todos os participantes possam falar/debater/opinar. É uma roda de amigos, cerveja e JavaScript!"
 },
+
+{
+  "title": "2º Encontro FEMUG Maringá",
+  "date": {
+    "day": 3,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/developerparana/events/233035757/",
+  "price": "Gratuito",
+  "location": {
+    "city": "Maringá",
+    "state": "PR",
+    "address": "Serrabits - Av. das indústrias 462, Maringá, Paraná",
+    "locationUrl": ""
+  },
+  "image": "https://avatars0.githubusercontent.com/u/18558871?v=3&s=200",
+  "shortDescription": "O Front-End Meet-Up Group é um projeto que nasceu da necessidade de unir os desenvolvedores Front-End de São Paulo, e então tornou-se uma idéia coletiva, para que o acesso à informação seja feito em qualquer lugar que haja interesse do aprendizado."
+},
+
 {
   "title": "FrontInVale 2016",
   "date": {
