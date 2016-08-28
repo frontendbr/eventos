@@ -4,7 +4,9 @@
 
 **Local**: 
 
-**Descrição (breve)**: 
+**Descrição (breve)**:
+
+**Logotipo do evento:**: 
 
 **Valor**: 
 
