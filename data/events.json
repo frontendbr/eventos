@@ -1,25 +1,5 @@
 [
 {
-  "title": "2º Encontro FEMUG Maringá",
-  "date": {
-    "day": 3,
-    "month": "Setembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/developerparana/events/233035757/",
-  "price": "Gratuito",
-  "location": {
-    "city": "Maringá",
-    "state": "PR",
-    "address": "Serrabits - Av. das indústrias 462, Maringá, Paraná",
-    "locationUrl": ""
-  },
-  "image": "https://avatars0.githubusercontent.com/u/18558871?v=3&s=200",
-  "shortDescription": "O Front-End Meet-Up Group é um projeto que nasceu da necessidade de unir os desenvolvedores Front-End de São Paulo, e então tornou-se uma idéia coletiva, para que o acesso à informação seja feito em qualquer lugar que haja interesse do aprendizado."
-},
-
-{
   "title": "Meetup HTML SP #2",
   "date": {
     "day": 5,
@@ -58,6 +38,25 @@
   "image": "",
   "shortDescription": "Segunda edição do primeiro evento de Front-End do Vale do Paraíba. Um dia inteiro com conteúdos incríveis para você se tornar um front-end monstro!"
 },
+{
+  "title": "FrontendBR + FrontUX Beer",
+  "date": {
+    "day": 15,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://github.com/frontendbr/forum/issues/291",
+  "price": "Gratuito",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Bar das batidas",
+    "locationUrl": "https://www.google.com.br/maps/place/Bar+Das+Batidas/@-23.5670956,-46.6964196,15z/data=!4m5!3m4!1s0x0:0x58fa5a045e1b8cab!8m2!3d-23.5670956!4d-46.6964196"
+  },
+  "image": "",
+  "shortDescription": "Dia 15/09 vai acontecer o FrontUX Beer e já que somos comunidade, ja que a gente constroi sáite nessa porra, vamos juntar os roles e fazer um FrontendBR + FrontUX Beer. YAY!"
+},
   {
   "title": "#1 ABCDev - 2016",
   "date": {
@@ -67,7 +66,7 @@
   },
   "innerLink": "inner.html",
   "link": "http://2016.abcdevelopers.org/",
-  "price": "em definição",
+  "price": "A partir de R$ 35,00",
   "location": {
     "city": "São Bernardo do Campo",
     "state": "SP",
