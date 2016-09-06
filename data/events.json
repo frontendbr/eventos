@@ -1,25 +1,5 @@
 [
 {
-  "title": "Meetup HTML SP #2",
-  "date": {
-    "day": 5,
-    "month": "Setembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/html-sp/events/233576242/?eventId=233576242",
-  "price": "Gratuito",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Yahoo Brasil - Avenida Brigadeiro Faria Lima, 3600 - , São Paulo",
-    "locationUrl": ""
-  },
-  "image": "",
-  "shortDescription": "O HTML São Paulo vem com o objetivo de debatermos e trocarmos experiências sobre Front-End."
-},
-
-{
   "title": "FrontInVale 2016",
   "date": {
     "day": 10,
