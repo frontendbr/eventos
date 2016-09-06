@@ -9,7 +9,7 @@
 - Crie uma nova branch, onde você irá desenvolver a nova feature, com `git checkout -b <nome-da-sua-branch>`;
 - Instale as dependências do projeto com `npm i`;
 - Inicie o desenvolvimento da nova feature;
-- Para subir o servidor, execute `npm start:dev`, para iniciar o sevidor com _hot reloading_, no endereço `http://localhost:8080`;
+- Para subir o servidor, execute `npm run start:dev`, para iniciar o sevidor com _hot reloading_, no endereço `http://localhost:8080`;
 - Escreva testes para as novas features;
 - Envie apenas uma feature por pull request;
 - Ao terminar o seu código, faça os commits **em inglês**;
