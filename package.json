@@ -16,7 +16,7 @@
     "precommit": "npm run lint",
     "prepush": "npm run lint",
     "build": "cross-env NODE_ENV=production gulp build && npm run build:js",
-    "build:js": "webpack --progress --config webpack.config.prod.js -p"
+    "build:js": "cross-env NODE_ENV=production webpack --progress --config webpack.config.prod.js -p"
   },
   "keywords": [
     "eventos",
@@ -59,7 +59,7 @@
     "lost": "^6.7.2",
     "postcss-font-magician": "^1.4.0",
     "poststylus": "^0.2.3",
-    "react-hot-loader": "^3.0.0-beta.2",
+    "react-hot-loader": "^3.0.0-beta.3",
     "rucksack-css": "^0.8.5",
     "rupture": "^0.6.1",
     "snazzy": "^4.0.0",
