@@ -33,5 +33,13 @@ module.exports = validator({
       exclude: /node_modules|src\/server/,
       include: /src/
     }]
+  },
+
+  resolve: {
+    alias: {
+      'react': 'preact-compat',
+      'react-dom': 'preact-compat'
+    }
   }
+
 });

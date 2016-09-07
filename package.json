@@ -74,6 +74,8 @@
   },
   "dependencies": {
     "@fdaciuk/ajax": "^2.1.2",
+    "preact": "^6.0.1",
+    "preact-compat": "^3.0.0",
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
     "react-redux": "^4.4.5",
