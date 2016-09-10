@@ -1,5 +1,24 @@
 [ 
 {
+  "title": "FrontInVale 2016",
+  "date": {
+    "day": 10,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://frontinvale.com.br/",
+  "price": "100,00",
+  "location": {
+    "city": "São José dos Campos",
+    "state": "SP",
+    "address": "Faro Hotel - Rua Síria, 25 - Jardim Oswaldo Cruz, São José dos Campos - SP.",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "Segunda edição do primeiro evento de Front-End do Vale do Paraíba. Um dia inteiro com conteúdos incríveis para você se tornar um front-end monstro!"
+},
+{
   "title": "FrontendBR + FrontUX Beer",
   "date": {
     "day": 15,
@@ -55,25 +74,6 @@
   },
   "image": "https://cloud.githubusercontent.com/assets/5203138/17832528/5bfb5e70-66db-11e6-80d5-bfa7495b3c65.jpg",
   "shortDescription": "WordCamps são encontros informais, eventos independentes organizados por pessoas que utilizam o WordPress, como você."
-},
-{
-  "title": "Front In Salvador 2016",
-  "date": {
-    "day": 08,
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://frontinsalvador.com.br/",
-  "price": "A partir de R$ 40",
-  "location": {
-    "city": "Salvador",
-    "state": "Bahia",
-    "address": "Auditório da Ruy Barbosa (Rio Vermelho)",
-    "locationUrl": "https://www.google.com.br/maps/place/13%C2%B000'35.7%22S+38%C2%B028'52.9%22W/@-13.00992,-38.481368,15z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-13.00992!4d-38.481368"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/18361927/4c7664d2-75da-11e6-887d-dada1ba35227.png",
-  "shortDescription": "A primeira edição do Front in Salvador acontecerá dia 08 de Outubro de 2016. O evento tem como objetivo movimentar a comunidade e cultura de Front End. Durante um dia de sábado os participantes do evento irão desfrutar de palestras com os temas mais quentes do mundo Front-End."
 },
  {
   "title": "Conferência Web.br 2016",
