@@ -1,5 +1,4 @@
-[ 
-{
+[{
   "title": "FrontendBR + FrontUX Beer",
   "date": {
     "day": 15,
@@ -17,8 +16,7 @@
   },
   "image": "",
   "shortDescription": "Dia 15/09 vai acontecer o FrontUX Beer e já que somos comunidade, ja que a gente constroi sáite nessa porra, vamos juntar os roles e fazer um FrontendBR + FrontUX Beer. YAY!"
-},
-  {
+}, {
   "title": "#1 ABCDev - 2016",
   "date": {
     "day": 17,
@@ -36,8 +34,7 @@
   },
   "image": "http://2016.abcdevelopers.org/images/abcdev-horizontal-logo.svg",
   "shortDescription": "A primeira conferência sobre Desenvolvimento Web do Grande ABC"
-},
-  {
+}, {
   "title": "WordCamp Rio de Janeiro 2016",
   "date": {
     "day": 24,
@@ -55,11 +52,10 @@
   },
   "image": "https://cloud.githubusercontent.com/assets/5203138/17832528/5bfb5e70-66db-11e6-80d5-bfa7495b3c65.jpg",
   "shortDescription": "WordCamps são encontros informais, eventos independentes organizados por pessoas que utilizam o WordPress, como você."
-},
-{
+}, {
   "title": "Front In Salvador 2016",
   "date": {
-    "day": 08,
+    "day": "8",
     "month": "Outubro",
     "year": 2016
   },
@@ -68,14 +64,13 @@
   "price": "A partir de R$ 40",
   "location": {
     "city": "Salvador",
-    "state": "Bahia",
+    "state": "BA",
     "address": "Auditório da Ruy Barbosa (Rio Vermelho)",
-    "locationUrl": "https://www.google.com.br/maps/place/13%C2%B000'35.7%22S+38%C2%B028'52.9%22W/@-13.00992,-38.481368,15z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-13.00992!4d-38.481368"
+    "locationUrl": ""
   },
   "image": "https://cloud.githubusercontent.com/assets/5203138/18361927/4c7664d2-75da-11e6-887d-dada1ba35227.png",
   "shortDescription": "A primeira edição do Front in Salvador acontecerá dia 08 de Outubro de 2016. O evento tem como objetivo movimentar a comunidade e cultura de Front End. Durante um dia de sábado os participantes do evento irão desfrutar de palestras com os temas mais quentes do mundo Front-End."
-},
- {
+}, {
   "title": "Conferência Web.br 2016",
   "date": {
     "day": "13 e 14",
@@ -93,8 +88,7 @@
   },
   "image": "",
   "shortDescription": "Conferência anual realizada pelo escritório do W3C no Brasil com conteúdo de diferentes assuntos que formam a Web, seja front-end, back-end, performance, empreendedorismo, entre outros. A Webbr deste ano terá como assunto principal o tema IoT on the Web, o evento terá palestras em diferentes trilhas (como interface, código, dados, empreendedorismo) abordando aspectos relacionados ao desenvolvimento web e também com forte relação com o assunto principal - Internet of Things. Dois keynotes já confirmaram participação para edição deste ano: Bert Bos, inventor do CSS, e Dave Ragget, um dos principais arquitetos do HTML e atualmente lidera as atividades de IoT on the Web do W3C."
-},
-  {
+}, {
   "title": "Front-end Carioca 2016",
   "date": {
     "day": 22,
