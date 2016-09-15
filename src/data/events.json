@@ -16,7 +16,9 @@
   },
   "image": "",
   "shortDescription": "Dia 15/09 vai acontecer o FrontUX Beer e já que somos comunidade, ja que a gente constroi sáite nessa porra, vamos juntar os roles e fazer um FrontendBR + FrontUX Beer. YAY!"
-}, {
+},
+
+ {
   "title": "#1 ABCDev - 2016",
   "date": {
     "day": 17,
@@ -34,7 +36,69 @@
   },
   "image": "http://2016.abcdevelopers.org/images/abcdev-horizontal-logo.svg",
   "shortDescription": "A primeira conferência sobre Desenvolvimento Web do Grande ABC"
-}, {
+}, 
+
+{
+  "title": "Dojo #3 - ReactJS",
+  "date": {
+    "day": 21,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234091352/?eventId=234091352",
+  "price": "Pague o que beber",
+  "location": {
+    "city": "Campinas",
+    "state": "SP",
+    "address": "",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "O objetivo deste Dojo é aprendermos os conceitos básicos do framework React, codar muito, e para quem gosta, apreciar uma bela cerveja artesanal."
+},
+
+{
+  "title": "MeetupCSS #20",
+  "date": {
+    "day": 22,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/CSS-SP/events/234102615/",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "R. Flórida, 1595 - Cidade Monções, São Paulo - SP",
+    "locationUrl": ""
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/18520666/2f3e209a-7a7f-11e6-812a-98d14870ba34.png",
+  "shortDescription": "Talk do Ricardo Junior: Atomic Design - E se o átomo não for o começo?"
+},
+
+{
+  "title": "Meetup Front-End BH",
+  "date": {
+    "day": 24,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/Meetup-front-end-de-BH-e-regiao/events/234104173/?_locale=pt-BR",
+  "price": "Gratuito",
+  "location": {
+    "city": "Belo Horizonte",
+    "state": "BH",
+    "address": "Rua Sergipe 1014, 8º andar, Funcionários, Belo Horizonte",
+    "locationUrl": ""
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/18497082/d9724b5a-7a01-11e6-89f9-84ffeede31d6.jpeg",
+  "shortDescription": "Temos boas práticas a serem adotadas nos nossos projetos, e a cada dia surge mais detalhes com que devemos nos preocupar, vamos gastar tempo no que importa e automatizar todo o resto."
+},
+
+{
   "title": "WordCamp Rio de Janeiro 2016",
   "date": {
     "day": 24,
@@ -52,7 +116,9 @@
   },
   "image": "https://cloud.githubusercontent.com/assets/5203138/17832528/5bfb5e70-66db-11e6-80d5-bfa7495b3c65.jpg",
   "shortDescription": "WordCamps são encontros informais, eventos independentes organizados por pessoas que utilizam o WordPress, como você."
-}, {
+}, 
+
+{
   "title": "Front In Salvador 2016",
   "date": {
     "day": "08",
@@ -70,7 +136,9 @@
   },
   "image": "https://cloud.githubusercontent.com/assets/5203138/18361927/4c7664d2-75da-11e6-887d-dada1ba35227.png",
   "shortDescription": "A primeira edição do Front in Salvador acontecerá dia 08 de Outubro de 2016. O evento tem como objetivo movimentar a comunidade e cultura de Front End. Durante um dia de sábado os participantes do evento irão desfrutar de palestras com os temas mais quentes do mundo Front-End."
-}, {
+}, 
+
+{
   "title": "Conferência Web.br 2016",
   "date": {
     "day": "13 e 14",
@@ -88,7 +156,9 @@
   },
   "image": "",
   "shortDescription": "Conferência anual realizada pelo escritório do W3C no Brasil com conteúdo de diferentes assuntos que formam a Web, seja front-end, back-end, performance, empreendedorismo, entre outros. A Webbr deste ano terá como assunto principal o tema IoT on the Web, o evento terá palestras em diferentes trilhas (como interface, código, dados, empreendedorismo) abordando aspectos relacionados ao desenvolvimento web e também com forte relação com o assunto principal - Internet of Things. Dois keynotes já confirmaram participação para edição deste ano: Bert Bos, inventor do CSS, e Dave Ragget, um dos principais arquitetos do HTML e atualmente lidera as atividades de IoT on the Web do W3C."
-}, {
+}, 
+
+{
   "title": "Front-end Carioca 2016",
   "date": {
     "day": 22,
