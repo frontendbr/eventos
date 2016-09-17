@@ -1,44 +1,4 @@
 [{
-  "title": "FrontendBR + FrontUX Beer",
-  "date": {
-    "day": 15,
-    "month": "Setembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "https://github.com/frontendbr/forum/issues/291",
-  "price": "Pague o que consumir",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Bar das batidas",
-    "locationUrl": "https://www.google.com.br/maps/place/Bar+Das+Batidas/@-23.5670956,-46.6964196,15z/data=!4m5!3m4!1s0x0:0x58fa5a045e1b8cab!8m2!3d-23.5670956!4d-46.6964196"
-  },
-  "image": "",
-  "shortDescription": "Dia 15/09 vai acontecer o FrontUX Beer e já que somos comunidade, ja que a gente constroi sáite nessa porra, vamos juntar os roles e fazer um FrontendBR + FrontUX Beer. YAY!"
-},
-
- {
-  "title": "#1 ABCDev - 2016",
-  "date": {
-    "day": 17,
-    "month": "Setembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://2016.abcdevelopers.org/",
-  "price": "A partir de R$ 35,00",
-  "location": {
-    "city": "São Bernardo do Campo",
-    "state": "SP",
-    "address": "Auditório HP - SBC - Estrada Samuel Aizemberg, 1707 - Alves Dias, São Bernardo do Campo - SP, CEP 09851-550",
-    "locationUrl": ""
-  },
-  "image": "http://2016.abcdevelopers.org/images/abcdev-horizontal-logo.svg",
-  "shortDescription": "A primeira conferência sobre Desenvolvimento Web do Grande ABC"
-}, 
-
-{
   "title": "Dojo #3 - ReactJS",
   "date": {
     "day": 21,
