@@ -79,6 +79,26 @@
 }, 
 
 {
+  "title": "AngularSP VivaReal #9",
+  "date": {
+    "day": 29,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/events/233891513/?eventId=233891513",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Rua Bela Cintra, 539 - Consolação, São Paulo",
+    "locationUrl": "https://www.google.com.br/maps/place/R.+Bela+Cintra,+539+-+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo+-+SP/@-23.5534084,-46.6598965,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5833a5009b89:0x1239a786fd27a121!8m2!3d-23.5534084!4d-46.6577078"
+  },
+  "image": "",
+  "shortDescription": "Cumprindo nossa palavra de fazermos meetups mensais, vamos fazer mais um grande evento, dessa vez no auditório da VivaReal e o evento contará com 3 palestras."
+},
+
+{
   "title": "Front In Salvador 2016",
   "date": {
     "day": "08",
