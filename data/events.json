@@ -1,23 +1,4 @@
-[{
-  "title": "Dojo #3 - ReactJS",
-  "date": {
-    "day": 21,
-    "month": "Setembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234091352/?eventId=234091352",
-  "price": "Pague o que beber",
-  "location": {
-    "city": "Campinas",
-    "state": "SP",
-    "address": "",
-    "locationUrl": ""
-  },
-  "image": "",
-  "shortDescription": "O objetivo deste Dojo é aprendermos os conceitos básicos do framework React, codar muito, e para quem gosta, apreciar uma bela cerveja artesanal."
-},
-
+[
 {
   "title": "MeetupCSS #20",
   "date": {
@@ -79,6 +60,26 @@
 }, 
 
 {
+  "title": "11º Meetup WordPress Fortaleza",
+  "date": {
+    "day": 28,
+    "month": "Setembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/wpfortaleza/events/233598570/",
+  "price": "Free",
+  "location": {
+    "city": "Fortaleza",
+    "state": "CE",
+    "address": "FB Ideias",
+    "locationUrl": "https://www.google.com.br/maps/place/R.+Castro+Monte,+1325+-+Mucuripe,+Fortaleza+-+CE/@-3.7369373,-38.488084,17z/data=!3m1!4b1!4m5!3m4!1s0x7c748800931d399:0xf3ca10d1bf109989!8m2!3d-3.7369373!4d-38.4858953"
+  },
+  "image": "",
+  "shortDescription": "Bate papo sobre a nova versão do WordPress e a palestra 'Como Empreender com WordPress' que abordará como gerar receita usando WordPress para desenvolvedores implementando estratégias digitais no WP para negócios físicos"
+},
+
+{
   "title": "AngularSP VivaReal #9",
   "date": {
     "day": 29,
@@ -96,6 +97,26 @@
   },
   "image": "",
   "shortDescription": "Cumprindo nossa palavra de fazermos meetups mensais, vamos fazer mais um grande evento, dessa vez no auditório da VivaReal e o evento contará com 3 palestras."
+},
+
+{
+  "title": "Meetup Alphaville #1",
+  "date": {
+    "day": "05",
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/Meetup-DFUX-Litoral-Santista/events/234284258/",
+  "price": "Free",
+  "location": {
+    "city": "Barueri",
+    "state": "SP",
+    "address": "Catho",
+    "locationUrl": "https://www.google.com.br/maps/place/Alameda+Juari,+262+-+Tambor%C3%A9,+Barueri+-+SP,+06460-090/@-23.5022515,-46.83071,17z/data=!3m1!4b1!4m5!3m4!1s0x94cf01ff05e736a9:0xe2423f90ac342ee2!8m2!3d-23.5022515!4d-46.8285213"
+  },
+  "image": "",
+  "shortDescription": "Esse é um grupo para discussão sobre desenvolvimento web em geral, focado em qualidade e performance. Neste evento teremos a talk do Luiz Kota: Desenvolvimento Front-end em times grandes"
 },
 
 {
@@ -156,4 +177,26 @@
   },
   "image": "",
   "shortDescription": "O Front-End Carioca, é a maior conferência web do Rio de Janeiro, e já está com sua terceira edição planejada para o ano de 2016."
-}]
+},
+
+{
+  "title": "3º encontro do Meetup DFUX",
+  "date": {
+    "day": 24,
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/Meetup-DFUX-Litoral-Santista/events/234284258/",
+  "price": "Free",
+  "location": {
+    "city": "Santos",
+    "state": "SP",
+    "address": "Unimonte",
+    "locationUrl": "https://www.google.com.br/maps?q=Rua+Comendador+Martins+52,+Vila+Mathias,+Santos&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjpjrvzpKLPAhWGg5AKHV3sBB8Q_AUICCgB"
+  },
+  "image": "",
+  "shortDescription": "O evento visa o encontro entre designers, front-enders e UXers santistas. O evento é mensal e no estilo mesa redonda. Para este encontro traremos uma talk sobre Carreira de TI, com Rafael Ferreira, CEO da Metractive."
+}
+
+]
