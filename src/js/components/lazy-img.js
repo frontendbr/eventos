@@ -3,32 +3,47 @@
 import React, { PropTypes, Component } from 'react'
 
 class LazyImg extends Component {
+  constructor () {
+    super()
+    this.handleLoad = this.handleLoad.bind(this)
+  }
+
   componentWillMount () {
-    this.setState({ isLoaded: false })
+    this.setState({ loaded: false })
+    this.img = {}
   }
 
   handleLoad () {
-    this.setState({ isLoaded: true })
+    this.setState({ loaded: true })
+    this.props.onImageLoad()
+  }
+
+  componentDidMount () {
+    if (this.img.complete && !this.state.loaded) {
+      this.handleLoad()
+    }
   }
 
   render () {
     return (
-      <img
-        className={`${this.state.isLoaded ? 'lazyloaded' : 'lazyload'} lazyblur`}
-        src={this.props.src}
-        onLoad={() => this.handleLoad()}
-        alt={this.props.alt} />
+      <img src={this.props.src}
+        onLoad={this.handleLoad}
+        className={
+          `${this.state.loaded ? 'lazyloaded' : 'lazyload'} lazyblur`
+        }
+        ref={(img) => (this.img = img)}
+      />
     )
   }
 }
 
 LazyImg.defaultProps = {
-  alt: ''
+  onImageLoad: () => {}
 }
 
 LazyImg.propTypes = {
   src: PropTypes.string.isRequired,
-  alt: PropTypes.string
+  onImageLoad: PropTypes.func
 }
 
 export default LazyImg
