@@ -46,12 +46,5 @@ module.exports = validate({
         loader: 'babel'
       }
     ]
-  },
-
-  resolve: {
-    alias: {
-      'react': 'preact-compat',
-      'react-dom': 'preact-compat'
-    }
   }
 })
