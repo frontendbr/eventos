@@ -1,23 +1,4 @@
 [
-{
-  "title": "MeetupCSS #20",
-  "date": {
-    "day": 22,
-    "month": "Setembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/CSS-SP/events/234102615/",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "R. Flórida, 1595 - Cidade Monções, São Paulo - SP",
-    "locationUrl": ""
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/18520666/2f3e209a-7a7f-11e6-812a-98d14870ba34.png",
-  "shortDescription": "Talk do Ricardo Junior: Atomic Design - E se o átomo não for o começo?"
-},
 
 {
   "title": "Meetup Front-End BH",
