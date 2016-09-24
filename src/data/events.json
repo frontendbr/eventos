@@ -141,6 +141,26 @@
 }, 
 
 {
+  "title": "Meetup - Umuarama",
+  "date": {
+    "day": "18",
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/developerparana/events/232206834/",
+  "price": "Free",
+  "location": {
+    "city": "Umuarama",
+    "state": "PR",
+    "address": "Faculdade Alfa",
+    "locationUrl": "https://www.google.com.br/maps/place/Col%C3%A9gio+Alfa/@-23.7588948,-53.3159047,17z/data=!3m1!4b1!4m5!3m4!1s0x94f2d402e8fda3e3:0xae27a7aaa5653616!8m2!3d-23.7588948!4d-53.313716"
+  },
+  "image": "",
+  "shortDescription": "No Meetup será apresentados palestras sobre AngularJS, testes com CasperJS e Desenvolvimento de aplicações híbridas."
+},
+
+{
   "title": "Front-end Carioca 2016",
   "date": {
     "day": 22,
@@ -178,6 +198,26 @@
   },
   "image": "",
   "shortDescription": "O evento visa o encontro entre designers, front-enders e UXers santistas. O evento é mensal e no estilo mesa redonda. Para este encontro traremos uma talk sobre Carreira de TI, com Rafael Ferreira, CEO da Metractive."
+},
+
+{
+  "title": "DevParaná Conference 2016",
+  "date": {
+    "day": 26,
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.eventick.com.br/devparana-conference-2016",
+  "price": "A partir de R$ 65,00",
+  "location": {
+    "city": "Maringá",
+    "state": "PR",
+    "address": "Sebrae Maringá",
+    "locationUrl": "https://www.google.com.br/maps/place/Sebrae+Maring%C3%A1/@-23.4185148,-51.924231,17z/data=!3m1!4b1!4m5!3m4!1s0x94ecd0db931368a3:0xcb5132ff7f6db509!8m2!3d-23.4185148!4d-51.9220423"
+  },
+  "image": "",
+  "shortDescription": "O DevParaná Conference 2016 vai trazer palestrantes que são influência nacional em sua área de atuação, também como dará oportunidade a comunidade apresentar o que sabe fazer de melhor. Serão 8 talks de ótima qualidade, um dia inteiro de pura imersão em tecnologia!"
 }
 
 ]
