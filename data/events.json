@@ -1,46 +1,6 @@
 [
 
 {
-  "title": "Meetup Front-End BH",
-  "date": {
-    "day": 24,
-    "month": "Setembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/Meetup-front-end-de-BH-e-regiao/events/234104173/?_locale=pt-BR",
-  "price": "Gratuito",
-  "location": {
-    "city": "Belo Horizonte",
-    "state": "BH",
-    "address": "Rua Sergipe 1014, 8º andar, Funcionários, Belo Horizonte",
-    "locationUrl": ""
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/18497082/d9724b5a-7a01-11e6-89f9-84ffeede31d6.jpeg",
-  "shortDescription": "Temos boas práticas a serem adotadas nos nossos projetos, e a cada dia surge mais detalhes com que devemos nos preocupar, vamos gastar tempo no que importa e automatizar todo o resto."
-},
-
-{
-  "title": "WordCamp Rio de Janeiro 2016",
-  "date": {
-    "day": 24,
-    "month": "Setembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "https://2016.riodejaneiro.wordcamp.org/",
-  "price": "45,00",
-  "location": {
-    "city": "Rio de Janeiro",
-    "state": "RJ",
-    "address": "Universidade Veiga de Almeida / Campus Tijuca - Rua Ibituruna, 108, Rio de Janeiro - RJ",
-    "locationUrl": ""
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/17832528/5bfb5e70-66db-11e6-80d5-bfa7495b3c65.jpg",
-  "shortDescription": "WordCamps são encontros informais, eventos independentes organizados por pessoas que utilizam o WordPress, como você."
-}, 
-
-{
   "title": "11º Meetup WordPress Fortaleza",
   "date": {
     "day": 28,
