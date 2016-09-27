@@ -1,7 +1,7 @@
 {
   "name": "eventos",
   "version": "0.0.1",
-  "description": "Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de frontend.",
+  "description": "Lista de eventos, meetups, encontros e qualquer tipo de aglomeração frontender.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/frontendbr/eventos.git"
