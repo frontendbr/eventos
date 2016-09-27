@@ -81,6 +81,26 @@
 }, 
 
 {
+  "title": "3º FEMUG-MG",
+  "date": {
+    "day": "13",
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/FEMUG-MG/events/233463536/",
+  "price": "Free",
+  "location": {
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "address": "Belo Horizonte",
+    "locationUrl": ""
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/18858421/58ee5280-8442-11e6-8d2a-dc9a01b0561e.jpeg",
+  "shortDescription": "O Front-End Meet-Up Group trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados a front-end e tecnologias periféricas."
+}, 
+
+{
   "title": "Conferência Web.br 2016",
   "date": {
     "day": "13 e 14",
@@ -118,6 +138,26 @@
   },
   "image": "",
   "shortDescription": "No Meetup será apresentados palestras sobre AngularJS, testes com CasperJS e Desenvolvimento de aplicações híbridas."
+},
+
+{
+  "title": "InterCon 2016",
+  "date": {
+    "day": "21 e 22",
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://intercon2016.imasters.com.br/",
+  "price": "A partir de R$ 156.00",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "WTC Events Center",
+    "locationUrl": "https://www.google.com.br/maps/place/World+Trade+Center+S%C3%A3o+Paulo/@-23.6086132,-46.6992691,17z/data=!3m1!4b1!4m2!3m1!1s0x94ce5a7234b1a1c9:0x91fc795181d0e13f?hl=pt-BR"
+  },
+  "image": "",
+  "shortDescription": "Em sua 14ª edição e cada vez mais focado em desenvolvimento web de alto nível, o InterCon reunirá 1.500 developers em 3 grandes auditórios, uma maratona hacker, fablab, community spaces e diversos espaços simultâneos."
 },
 
 {
