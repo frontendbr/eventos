@@ -81,6 +81,26 @@
 }, 
 
 {
+  "title": "Campinas Front-End Meetup #8",
+  "date": {
+    "day": "13",
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234451102/",
+  "price": "Free",
+  "location": {
+    "city": "Campinas",
+    "state": "SP",
+    "address": "Av. José Rocha Bonfim, 214",
+    "locationUrl": "https://www.google.com.br/maps/place/Av.+Jos%C3%A9+Rocha+Bomfim,+214+-+Lot.+Center+Santa+Genebra,+Campinas+-+SP/@-22.8473492,-47.0867824,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8c6ee93485d6b:0xe603f2e036ba6ce9!8m2!3d-22.8473492!4d-47.0845937"
+  },
+  "image": "http://photos3.meetupstatic.com/photos/event/b/0/f/1/global_437685297.jpeg",
+  "shortDescription": "Faremos o evento desta vez com 3 palestras sobre alguns frameworks/libs JS da moda! Venha aprender sobre Polymer, Vue.js e ReactJS."
+}, 
+
+{
   "title": "3º FEMUG-MG",
   "date": {
     "day": "13",
@@ -201,6 +221,26 @@
 },
 
 {
+  "title": "Mobile Summit 2016",
+  "date": {
+    "day": "18 e 19",
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.msummit.com.br/",
+  "price": "A partir de R$ 120,00",
+  "location": {
+    "city": "Porto Alegre",
+    "state": "RS",
+    "address": "Auditório Master - UniRitter",
+    "locationUrl": "https://www.google.com.br/maps/search/Rua+Orfanotr%C3%B3fio,+555+-+Alto+Teres%C3%B3polis,+Porto+Alegre/@-30.081423,-51.2237192,17z/data=!3m1!4b1"
+  },
+  "image": "",
+  "shortDescription": "Reunirá influenciadores da indústria e comunidades de tecnologia, os participantes terão um um ambiente para networking, aprendizado e compartilhamento de ideias sobre o que há de mais atual, podendo transformar suas empresas, carreira e soluções móveis em grandes experiências."
+},
+
+{
   "title": "DevParaná Conference 2016",
   "date": {
     "day": 26,
@@ -215,6 +255,26 @@
     "state": "PR",
     "address": "Sebrae Maringá",
     "locationUrl": "https://www.google.com.br/maps/place/Sebrae+Maring%C3%A1/@-23.4185148,-51.924231,17z/data=!3m1!4b1!4m5!3m4!1s0x94ecd0db931368a3:0xcb5132ff7f6db509!8m2!3d-23.4185148!4d-51.9220423"
+  },
+  "image": "",
+  "shortDescription": "O DevParaná Conference 2016 vai trazer palestrantes que são influência nacional em sua área de atuação, também como dará oportunidade a comunidade apresentar o que sabe fazer de melhor. Serão 8 talks de ótima qualidade, um dia inteiro de pura imersão em tecnologia!"
+},
+
+{
+  "title": "Front in Aracaju 2016",
+  "date": {
+    "day": "03",
+    "month": "Dezembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.frontinaracaju.com.br/",
+  "price": "A partir de R$ 75,00",
+  "location": {
+    "city": "Aracaju",
+    "state": "SE",
+    "address": "Radisson Hotel Aracaju",
+    "locationUrl": "https://www.google.com.br/maps/place/-10.976599+-37.04079899999999/@-10.976599,-37.04079899999999,15z"
   },
   "image": "",
   "shortDescription": "O DevParaná Conference 2016 vai trazer palestrantes que são influência nacional em sua área de atuação, também como dará oportunidade a comunidade apresentar o que sabe fazer de melhor. Serão 8 talks de ótima qualidade, um dia inteiro de pura imersão em tecnologia!"
