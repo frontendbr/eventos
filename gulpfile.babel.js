@@ -22,26 +22,26 @@ import svgstore from 'gulp-svgstore'
 import cheerio from 'gulp-cheerio'
 
 const srcPaths = {
-  js: 'src/js/**/*.js',
-  mainJS: 'src/js/index.js',
-  css: 'src/styl/**/*.styl',
-  mainStyl: 'src/styl/main.styl',
-  ejs: 'src/templates/**/*.ejs',
-  img: 'src/img/**/*',
-  icons: 'src/svg/icons/*',
-  svg: 'src/svg/',
-  data: 'src/data/**/*',
-  gulpfile: 'gulpfile.babel.js'
+  js:         'src/js/**/*.js',
+  mainJS:     'src/js/index.js',
+  css:        'src/styl/**/*.styl',
+  mainStyl:   'src/styl/main.styl',
+  ejs:        'src/templates/**/*.ejs',
+  img:        'src/img/**/*',
+  icons:      'src/svg/icons/*',
+  svg:        'src/svg/',
+  data:       'src/data/**/*',
+  gulpfile:   'gulpfile.babel.js'
 }
 
 const buildPaths = {
-  build: 'build/**/*',
-  js: 'build/js/',
-  css: 'build/css/',
-  ejs: 'build/',
-  img: 'build/img',
-  svg: 'build/svg/',
-  data: 'build/data'
+  build:  'build/**/*',
+  js:     'build/js/',
+  css:    'build/css/',
+  ejs:    'build/',
+  img:    'build/img',
+  svg:    'build/svg/',
+  data:   'build/data'
 }
 
 gulp.task('css', () => {
