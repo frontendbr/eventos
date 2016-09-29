@@ -31,8 +31,7 @@ const srcPaths = {
   icons:      'src/svg/icons/*',
   svg:        'src/svg/',
   data:       'src/data/**/*',
-  gulpfile:   'gulpfile.babel.js',
-  cname :     'CNAME'
+  gulpfile:   'gulpfile.babel.js'
 }
 
 const buildPaths = {
@@ -42,8 +41,7 @@ const buildPaths = {
   ejs:    'build/',
   img:    'build/img',
   svg:    'build/svg/',
-  data:   'build/data',
-  cname:  'build/'
+  data:   'build/data'
 }
 
 gulp.task('css', () => {
@@ -116,11 +114,6 @@ gulp.task('copy-data', () => {
     .pipe(gulp.dest(buildPaths.data))
 })
 
-gulp.task('cname', () => {
-  gulp.src(srcPaths.cname)
-    .pipe(gulp.dest(buildPaths.cname))
-})
-
 gulp.task('watch', () => {
   gulp.watch(srcPaths.ejs, ['ejs'])
   gulp.watch(srcPaths.css, ['css'])
@@ -149,5 +142,5 @@ gulp.task('pages', () => {
 
 gulp.task('default', ['css', 'ejs', 'images', 'icons', 'copy-data', 'watch', 'browser-sync'])
 gulp.task('dev', ['css', 'ejs', 'images', 'icons', 'copy-data', 'watch'])
-gulp.task('build', ['css', 'ejs', 'images', 'icons', 'copy-data', 'cname'])
+gulp.task('build', ['css', 'ejs', 'images', 'icons', 'copy-data'])
 gulp.task('deploy', ['pages'])
