@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "11º Meetup WordPress Fortaleza",
-  "date": {
-    "day": 28,
-    "month": "Setembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/wpfortaleza/events/233598570/",
-  "price": "Free",
-  "location": {
-    "city": "Fortaleza",
-    "state": "CE",
-    "address": "FB Ideias",
-    "locationUrl": "https://www.google.com.br/maps/place/R.+Castro+Monte,+1325+-+Mucuripe,+Fortaleza+-+CE/@-3.7369373,-38.488084,17z/data=!3m1!4b1!4m5!3m4!1s0x7c748800931d399:0xf3ca10d1bf109989!8m2!3d-3.7369373!4d-38.4858953"
-  },
-  "image": "",
-  "shortDescription": "Bate papo sobre a nova versão do WordPress e a palestra 'Como Empreender com WordPress' que abordará como gerar receita usando WordPress para desenvolvedores implementando estratégias digitais no WP para negócios físicos"
-},
-
-{
   "title": "AngularSP VivaReal #9",
   "date": {
     "day": 29,
@@ -161,6 +141,26 @@
 },
 
 {
+  "title": "DevFest Nordeste 2016",
+  "date": {
+    "day": "21 e 22",
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://devfestne.com.br/",
+  "price": "A partir de R$ 70,00",
+  "location": {
+    "city": "Maceió",
+    "state": "AL",
+    "address": "Pratagy Beach Resort",
+    "locationUrl": "https://www.google.com.br/maps/place/Wyndham+Pratagy+Beach+Resort/@-9.5503066,-35.6328926,17z/data=!3m1!4b1!4m5!3m4!1s0x70147316a5a2175:0xc4bcebe000103c5f!8m2!3d-9.5503066!4d-35.6307039"
+  },
+  "image": "",
+  "shortDescription": "O DevFest Nordeste é um evento organizado por diversas comunidades da região Nordeste e conta com apoio de empresas e profissionais do Brasil e também do exterior."
+},
+
+{
   "title": "InterCon 2016",
   "date": {
     "day": "21 e 22",
@@ -218,6 +218,26 @@
   },
   "image": "",
   "shortDescription": "O evento visa o encontro entre designers, front-enders e UXers santistas. O evento é mensal e no estilo mesa redonda. Para este encontro traremos uma talk sobre Carreira de TI, com Rafael Ferreira, CEO da Metractive."
+},
+
+{
+  "title": "Jurassic JavaScript Park",
+  "date": {
+    "day": 27,
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.coletividad.org/events/jurassic-javascript-park-construindo-aplicacoes-offline",
+  "price": "A partir de R$ 110,00",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Germinadora",
+    "locationUrl": "https://www.google.com.br/maps/place/Germinadora/@-23.5986416,-46.6340703,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5bccb5257ad3:0x1bf62abc709867a2!8m2!3d-23.5986416!4d-46.6318816"
+  },
+  "image": "",
+  "shortDescription": "O curso ensinará formas de transformar aplicações e sites para que funcionem mesmo sem acesso à internet, apresentando maneiras de armazenar informação utilizando as API's do JavaScript. O objetivo será compreender a utilização dessas aplicações, realizar testes em páginas da internet e por em prática as funcionalidades aprendidas através de dinâmicas propostas pelo facilitador."
 },
 
 {
