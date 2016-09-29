@@ -22,26 +22,28 @@ import svgstore from 'gulp-svgstore'
 import cheerio from 'gulp-cheerio'
 
 const srcPaths = {
-  js: 'src/js/**/*.js',
-  mainJS: 'src/js/index.js',
-  css: 'src/styl/**/*.styl',
-  mainStyl: 'src/styl/main.styl',
-  ejs: 'src/templates/**/*.ejs',
-  img: 'src/img/**/*',
-  icons: 'src/svg/icons/*',
-  svg: 'src/svg/',
-  data: 'src/data/**/*',
-  gulpfile: 'gulpfile.babel.js'
+  js:         'src/js/**/*.js',
+  mainJS:     'src/js/index.js',
+  css:        'src/styl/**/*.styl',
+  mainStyl:   'src/styl/main.styl',
+  ejs:        'src/templates/**/*.ejs',
+  img:        'src/img/**/*',
+  icons:      'src/svg/icons/*',
+  svg:        'src/svg/',
+  data:       'src/data/**/*',
+  gulpfile:   'gulpfile.babel.js',
+  cname :     'CNAME'
 }
 
 const buildPaths = {
-  build: 'build/**/*',
-  js: 'build/js/',
-  css: 'build/css/',
-  ejs: 'build/',
-  img: 'build/img',
-  svg: 'build/svg/',
-  data: 'build/data'
+  build:  'build/**/*',
+  js:     'build/js/',
+  css:    'build/css/',
+  ejs:    'build/',
+  img:    'build/img',
+  svg:    'build/svg/',
+  data:   'build/data',
+  cname:  'build/'
 }
 
 gulp.task('css', () => {
@@ -114,6 +116,11 @@ gulp.task('copy-data', () => {
     .pipe(gulp.dest(buildPaths.data))
 })
 
+gulp.task('cname', () => {
+  gulp.src(srcPaths.cname)
+    .pipe(gulp.dest(buildPaths.cname))
+})
+
 gulp.task('watch', () => {
   gulp.watch(srcPaths.ejs, ['ejs'])
   gulp.watch(srcPaths.css, ['css'])
@@ -142,5 +149,5 @@ gulp.task('pages', () => {
 
 gulp.task('default', ['css', 'ejs', 'images', 'icons', 'copy-data', 'watch', 'browser-sync'])
 gulp.task('dev', ['css', 'ejs', 'images', 'icons', 'copy-data', 'watch'])
-gulp.task('build', ['css', 'ejs', 'images', 'icons', 'copy-data'])
+gulp.task('build', ['css', 'ejs', 'images', 'icons', 'copy-data', 'cname'])
 gulp.task('deploy', ['pages'])
