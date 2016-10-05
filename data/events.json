@@ -101,6 +101,26 @@
 }, 
 
 {
+  "title": "DevFest Cerrado 2016",
+  "date": {
+    "day": "15",
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://devfestcerrado.com.br/",
+  "price": "R$ 75",
+  "location": {
+    "city": "Goiânia",
+    "state": "GO",
+    "address": "Espaço Equatore",
+    "locationUrl": "https://www.google.com.br/maps/place/Espa%C3%A7o+Equatore/@-16.7013,-49.2798351,17z/data=!3m1!4b1!4m5!3m4!1s0x935ef135ffc04bdd:0xae4b03d3886b2287!8m2!3d-16.7013!4d-49.2776464"
+  },
+  "image": "",
+  "shortDescription": "Conferência sobre tecnologias Google do Cerrado Brasileiro, organizada especialmente pela comunidade GDG!"
+}, 
+
+{
   "title": "Meetup - Umuarama",
   "date": {
     "day": "18",
@@ -129,7 +149,7 @@
   },
   "innerLink": "inner.html",
   "link": "https://devfestne.com.br/",
-  "price": "A partir de R$ 70,00",
+  "price": "A partir de R$ 70",
   "location": {
     "city": "Maceió",
     "state": "AL",
@@ -149,7 +169,7 @@
   },
   "innerLink": "inner.html",
   "link": "http://intercon2016.imasters.com.br/",
-  "price": "A partir de R$ 156.00",
+  "price": "A partir de R$ 156",
   "location": {
     "city": "São Paulo",
     "state": "SP",
@@ -169,7 +189,7 @@
   },
   "innerLink": "inner.html",
   "link": "http://frontendcarioca.com.br/",
-  "price": "A partir de R$ 50.00",
+  "price": "A partir de R$ 50",
   "location": {
     "city": "Rio de Janeiro",
     "state": "RJ",
@@ -209,7 +229,7 @@
   },
   "innerLink": "inner.html",
   "link": "http://www.coletividad.org/events/jurassic-javascript-park-construindo-aplicacoes-offline",
-  "price": "A partir de R$ 110,00",
+  "price": "A partir de R$ 110",
   "location": {
     "city": "São Paulo",
     "state": "SP",
@@ -221,6 +241,46 @@
 },
 
 {
+  "title": "DevFest Paraná 2016",
+  "date": {
+    "day": 29,
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://devfestpr-14f3c.firebaseapp.com/",
+  "price": "A partir de R$ 75",
+  "location": {
+    "city": "Foz do Iguaçu",
+    "state": "PR",
+    "address": "Hotel Golden Park Internacional",
+    "locationUrl": "https://www.google.com.br/maps/place/Hotel+Golden+Park+Internacional+Foz/@-25.5373254,-54.5863539,17z/data=!3m1!4b1!4m5!3m4!1s0x94f6904902b29589:0xe9a4b4387258c2c1!8m2!3d-25.5373254!4d-54.5841652"
+  },
+  "image": "",
+  "shortDescription": "É um grande evento organizado pela comunidade, que pode oferecer sessões de palestras de várias áreas, codelabs e muito mais. Cada DevFest é inspirado e voltado unicamente para as necessidades da comunidade de desenvolvedores que participam do evento."
+},
+
+{
+  "title": "DevFest São Paulo 2016",
+  "date": {
+    "day": "12",
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://sp.devfest.com.br/",
+  "price": "A partir 130",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Faculdade Impacta (Barra Funda)",
+    "locationUrl": "https://www.google.com.br/maps/place/Faculdade+Impacta+Tecnologia/@-23.5258552,-46.6515106,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5a36ed390d1b:0x774f96e1ad521edb!8m2!3d-23.5258552!4d-46.6493219"
+  },
+  "image": "",
+  "shortDescription": "No DevFest você terá a oportunidade de interagir com conteúdo técnico sobre tecnologias e produtos do Google, oferecido por alguns dos mais renomados profissionais do país."
+},
+
+{
   "title": "Mobile Summit 2016",
   "date": {
     "day": "18 e 19",
@@ -229,7 +289,7 @@
   },
   "innerLink": "inner.html",
   "link": "http://www.msummit.com.br/",
-  "price": "A partir de R$ 120,00",
+  "price": "A partir de R$ 120",
   "location": {
     "city": "Porto Alegre",
     "state": "RS",
@@ -249,7 +309,7 @@
   },
   "innerLink": "inner.html",
   "link": "https://www.eventick.com.br/devparana-conference-2016",
-  "price": "A partir de R$ 65,00",
+  "price": "A partir de R$ 65",
   "location": {
     "city": "Maringá",
     "state": "PR",
@@ -269,7 +329,7 @@
   },
   "innerLink": "inner.html",
   "link": "http://www.frontinaracaju.com.br/",
-  "price": "A partir de R$ 75,00",
+  "price": "A partir de R$ 75",
   "location": {
     "city": "Aracaju",
     "state": "SE",
