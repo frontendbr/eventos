@@ -1,46 +1,6 @@
 [
 
 {
-  "title": "Meetup Alphaville #1",
-  "date": {
-    "day": "05",
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/Meetup-Alphaville/events/234302440/",
-  "price": "Free",
-  "location": {
-    "city": "Barueri",
-    "state": "SP",
-    "address": "Catho",
-    "locationUrl": "https://www.google.com.br/maps/place/Alameda+Juari,+262+-+Tambor%C3%A9,+Barueri+-+SP,+06460-090/@-23.5022515,-46.83071,17z/data=!3m1!4b1!4m5!3m4!1s0x94cf01ff05e736a9:0xe2423f90ac342ee2!8m2!3d-23.5022515!4d-46.8285213"
-  },
-  "image": "",
-  "shortDescription": "Esse é um grupo para discussão sobre desenvolvimento web em geral, focado em qualidade e performance. Neste evento teremos a talk do Luiz Kota: Desenvolvimento Front-end em times grandes"
-},
-
-{
-  "title": "Front In Salvador 2016",
-  "date": {
-    "day": "08",
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://frontinsalvador.com.br/",
-  "price": "A partir de R$ 40",
-  "location": {
-    "city": "Salvador",
-    "state": "BA",
-    "address": "Auditório da Ruy Barbosa (Rio Vermelho)",
-    "locationUrl": ""
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/18361927/4c7664d2-75da-11e6-887d-dada1ba35227.png",
-  "shortDescription": "A primeira edição do Front in Salvador acontecerá dia 08 de Outubro de 2016. O evento tem como objetivo movimentar a comunidade e cultura de Front End. Durante um dia de sábado os participantes do evento irão desfrutar de palestras com os temas mais quentes do mundo Front-End."
-}, 
-
-{
   "title": "Campinas Front-End Meetup #8",
   "date": {
     "day": "13",
@@ -201,6 +161,26 @@
 },
 
 {
+  "title": "1º CodePen Meetup Brasil",
+  "date": {
+    "day": 22,
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://nvite.com/CodePenSorocaba/",
+  "price": "Free",
+  "location": {
+    "city": "Sorocaba",
+    "state": "SP",
+    "address": "FATEC Sorocaba",
+    "locationUrl": "https://www.google.com/maps?q=Av.+Eng.+Carlos+Reinaldo+Mendes,+2015,+Sorocaba,+SP"
+  },
+  "image": "http://i.imgur.com/1JFeQuP.jpg",
+  "shortDescription": "Show & Tell, Dribbble + CodePen cross-overs e um coffee bem legal pra fazermos novas amizades e compartilharmos conhecimento."
+},
+
+{
   "title": "3º encontro do Meetup DFUX",
   "date": {
     "day": 24,
@@ -298,6 +278,26 @@
   },
   "image": "",
   "shortDescription": "Reunirá influenciadores da indústria e comunidades de tecnologia, os participantes terão um um ambiente para networking, aprendizado e compartilhamento de ideias sobre o que há de mais atual, podendo transformar suas empresas, carreira e soluções móveis em grandes experiências."
+},
+
+{
+  "title": "JSDay Recife 2016",
+  "date": {
+    "day": 26,
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.sympla.com.br/jsday-recife-2016__88256",
+  "price": "A partir de R$ 80",
+  "location": {
+    "city": "Recife",
+    "state": "PE",
+    "address": "Faculdade CESAR",
+    "locationUrl": "https://www.google.com.br/maps/place/Faculdade+CESAR/@-8.059838,-34.8740497,17z/data=!3m1!4b1!4m5!3m4!1s0x7ab18a2e119c589:0xbe95f51560281a93!8m2!3d-8.059838!4d-34.871861"
+  },
+  "image": "",
+  "shortDescription": "Serão abordados assuntos como Open Web App, AngularJS, React.js, Ember, QUnit entre outros. O objetivo do evento é difundir conhecimento a respeito do JavaScript com profissionais, estudantes e demais interessados no assunto."
 },
 
 {
