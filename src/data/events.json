@@ -201,6 +201,26 @@
 },
 
 {
+  "title": "MeetupCSS #21",
+  "date": {
+    "day": "25",
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/CSS-SP/events/234501775/?eventId=234501775",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Av Paulista 2300, Conjunto 41",
+    "locationUrl": "https://www.google.com.br/maps/place/Av.+Paulista,+2300+-+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo+-+SP,+01310-300/@-23.5566852,-46.6633967,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce582d5bd30287:0xf813d85cfe7ea520!8m2!3d-23.5566852!4d-46.661208"
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/18520666/2f3e209a-7a7f-11e6-812a-98d14870ba34.png",
+  "shortDescription": "A edição #21 contará com a talk da Andréa Zambrana que falará sobre Sass maps - my precious"
+}, 
+
+{
   "title": "Jurassic JavaScript Park",
   "date": {
     "day": 27,
