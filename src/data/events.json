@@ -18,7 +18,7 @@
   },
   "image": "http://photos3.meetupstatic.com/photos/event/b/0/f/1/global_437685297.jpeg",
   "shortDescription": "Faremos o evento desta vez com 3 palestras sobre alguns frameworks/libs JS da moda! Venha aprender sobre Polymer, Vue.js e ReactJS."
-}, 
+},
 
 {
   "title": "3º FEMUG-MG",
@@ -38,7 +38,7 @@
   },
   "image": "https://cloud.githubusercontent.com/assets/5203138/18858421/58ee5280-8442-11e6-8d2a-dc9a01b0561e.jpeg",
   "shortDescription": "O Front-End Meet-Up Group trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados a front-end e tecnologias periféricas."
-}, 
+},
 
 {
   "title": "Conferência Web.br 2016",
@@ -58,7 +58,7 @@
   },
   "image": "",
   "shortDescription": "Conferência anual realizada pelo escritório do W3C no Brasil com conteúdo de diferentes assuntos que formam a Web, seja front-end, back-end, performance, empreendedorismo, entre outros. A Webbr deste ano terá como assunto principal o tema IoT on the Web, o evento terá palestras em diferentes trilhas (como interface, código, dados, empreendedorismo) abordando aspectos relacionados ao desenvolvimento web e também com forte relação com o assunto principal - Internet of Things. Dois keynotes já confirmaram participação para edição deste ano: Bert Bos, inventor do CSS, e Dave Ragget, um dos principais arquitetos do HTML e atualmente lidera as atividades de IoT on the Web do W3C."
-}, 
+},
 
 {
   "title": "DevFest Cerrado 2016",
@@ -78,7 +78,7 @@
   },
   "image": "",
   "shortDescription": "Conferência sobre tecnologias Google do Cerrado Brasileiro, organizada especialmente pela comunidade GDG!"
-}, 
+},
 
 {
   "title": "Meetup - Umuarama",
@@ -218,7 +218,7 @@
   },
   "image": "https://cloud.githubusercontent.com/assets/5203138/18520666/2f3e209a-7a7f-11e6-812a-98d14870ba34.png",
   "shortDescription": "A edição #21 contará com a talk da Andréa Zambrana que falará sobre Sass maps - my precious"
-}, 
+},
 
 {
   "title": "Jurassic JavaScript Park",
@@ -358,6 +358,26 @@
   },
   "image": "",
   "shortDescription": "O DevParaná Conference 2016 vai trazer palestrantes que são influência nacional em sua área de atuação, também como dará oportunidade a comunidade apresentar o que sabe fazer de melhor. Serão 8 talks de ótima qualidade, um dia inteiro de pura imersão em tecnologia!"
+},
+
+{
+  "title": "Front in POA 2016",
+  "date": {
+    "day": "10",
+    "month": "Dezembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://frontinpoa.com.br/2016/",
+  "price": "A partir de R$ 75",
+  "location": {
+    "city": "Porto Alegre",
+    "state": "RS",
+    "address": "Auditório do SENAC",
+    "locationUrl": "https://www.google.com.br/maps/place/R.+Cel.+Genuino,+130+-+Centro+Hist%C3%B3rico,+Porto+Alegre+-+RS/@-30.0352924,-51.2286036,17z/data=!4m5!3m4!1s0x95197906aa06c9c3:0xc23530a0fea94372!8m2!3d-30.0352924!4d-51.2264149"
+  },
+  "image": "",
+  "shortDescription": "Evento de tecnologia de desenvolvimento Web que ocorre em Porto Alegre."
 }
 
 ]
