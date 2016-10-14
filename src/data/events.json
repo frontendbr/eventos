@@ -1,46 +1,6 @@
 [
 
 {
-  "title": "Campinas Front-End Meetup #8",
-  "date": {
-    "day": "13",
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234451102/",
-  "price": "Free",
-  "location": {
-    "city": "Campinas",
-    "state": "SP",
-    "address": "Av. José Rocha Bonfim, 214",
-    "locationUrl": "https://www.google.com.br/maps/place/Av.+Jos%C3%A9+Rocha+Bomfim,+214+-+Lot.+Center+Santa+Genebra,+Campinas+-+SP/@-22.8473492,-47.0867824,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8c6ee93485d6b:0xe603f2e036ba6ce9!8m2!3d-22.8473492!4d-47.0845937"
-  },
-  "image": "http://photos3.meetupstatic.com/photos/event/b/0/f/1/global_437685297.jpeg",
-  "shortDescription": "Faremos o evento desta vez com 3 palestras sobre alguns frameworks/libs JS da moda! Venha aprender sobre Polymer, Vue.js e ReactJS."
-},
-
-{
-  "title": "3º FEMUG-MG",
-  "date": {
-    "day": "13",
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/FEMUG-MG/events/233463536/",
-  "price": "Free",
-  "location": {
-    "city": "Belo Horizonte",
-    "state": "MG",
-    "address": "Belo Horizonte",
-    "locationUrl": ""
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/18858421/58ee5280-8442-11e6-8d2a-dc9a01b0561e.jpeg",
-  "shortDescription": "O Front-End Meet-Up Group trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados a front-end e tecnologias periféricas."
-},
-
-{
   "title": "Conferência Web.br 2016",
   "date": {
     "day": "13 e 14",
