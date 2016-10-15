@@ -1,46 +1,6 @@
 [
 
 {
-  "title": "Conferência Web.br 2016",
-  "date": {
-    "day": "13 e 14",
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://conferenciaweb.w3c.br/",
-  "price": "R$ 70 (primeiro lote)",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Centro de Convenções Rebouças. Av. Rebouças, 600 - Pinheiros, São Paulo - SP, 05402-000",
-    "locationUrl": ""
-  },
-  "image": "",
-  "shortDescription": "Conferência anual realizada pelo escritório do W3C no Brasil com conteúdo de diferentes assuntos que formam a Web, seja front-end, back-end, performance, empreendedorismo, entre outros. A Webbr deste ano terá como assunto principal o tema IoT on the Web, o evento terá palestras em diferentes trilhas (como interface, código, dados, empreendedorismo) abordando aspectos relacionados ao desenvolvimento web e também com forte relação com o assunto principal - Internet of Things. Dois keynotes já confirmaram participação para edição deste ano: Bert Bos, inventor do CSS, e Dave Ragget, um dos principais arquitetos do HTML e atualmente lidera as atividades de IoT on the Web do W3C."
-},
-
-{
-  "title": "DevFest Cerrado 2016",
-  "date": {
-    "day": "15",
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://devfestcerrado.com.br/",
-  "price": "R$ 75",
-  "location": {
-    "city": "Goiânia",
-    "state": "GO",
-    "address": "Espaço Equatore",
-    "locationUrl": "https://www.google.com.br/maps/place/Espa%C3%A7o+Equatore/@-16.7013,-49.2798351,17z/data=!3m1!4b1!4m5!3m4!1s0x935ef135ffc04bdd:0xae4b03d3886b2287!8m2!3d-16.7013!4d-49.2776464"
-  },
-  "image": "",
-  "shortDescription": "Conferência sobre tecnologias Google do Cerrado Brasileiro, organizada especialmente pela comunidade GDG!"
-},
-
-{
   "title": "Meetup - Umuarama",
   "date": {
     "day": "18",
@@ -198,6 +158,26 @@
   },
   "image": "",
   "shortDescription": "O curso ensinará formas de transformar aplicações e sites para que funcionem mesmo sem acesso à internet, apresentando maneiras de armazenar informação utilizando as API's do JavaScript. O objetivo será compreender a utilização dessas aplicações, realizar testes em páginas da internet e por em prática as funcionalidades aprendidas através de dinâmicas propostas pelo facilitador."
+},
+
+{
+  "title": "FrontUX-SJC Edição #1",
+  "date": {
+    "day": 29,
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/FrontUX-SJC/events/234615586/",
+  "price": "Free",
+  "location": {
+    "city": "São José dos Campos",
+    "state": "SP",
+    "address": "HyperClass",
+    "locationUrl": "https://www.google.com.br/maps/place/Av.+Cassiano+Ricardo,+601+-+Parque+Res.+Aquarius,+S%C3%A3o+Jos%C3%A9+dos+Campos+-+SP/@-23.2200777,-45.9127799,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc3582786ada35:0x72d68fda0af82f84!8m2!3d-23.2200777!4d-45.9105912"
+  },
+  "image": "https://cloud.githubusercontent.com/assets/1218337/19387872/416440b6-91f3-11e6-9d99-77023678c816.png",
+  "shortDescription": "O encontro tem o objetivo de promover a troca de conhecimento entre designers e desenvolvedores, aproximar os dois mundos e melhorar o fluxo de trabalho dos profissionais de cada área, possibilitando que designers opinem sobre tecnologia e desenvolvedores sobre interface."
 },
 
 {
