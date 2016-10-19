@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Meetup - Umuarama",
-  "date": {
-    "day": "18",
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/developerparana/events/232206834/",
-  "price": "Free",
-  "location": {
-    "city": "Umuarama",
-    "state": "PR",
-    "address": "Faculdade Alfa",
-    "locationUrl": "https://www.google.com.br/maps/place/Col%C3%A9gio+Alfa/@-23.7588948,-53.3159047,17z/data=!3m1!4b1!4m5!3m4!1s0x94f2d402e8fda3e3:0xae27a7aaa5653616!8m2!3d-23.7588948!4d-53.313716"
-  },
-  "image": "",
-  "shortDescription": "No Meetup será apresentados palestras sobre AngularJS, testes com CasperJS e Desenvolvimento de aplicações híbridas."
-},
-
-{
   "title": "DevFest Nordeste 2016",
   "date": {
     "day": "21 e 22",
