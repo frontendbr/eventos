@@ -221,26 +221,6 @@
 },
 
 {
-  "title": "Front in Floripa 2016",
-  "date": {
-    "day": 26,
-    "month": "Novembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://frontinfloripa.com.br/",
-  "price": "A partir de R$ 70",
-  "location": {
-    "city": "Florianópolis",
-    "state": "SC",
-    "address": "Hotel Maria do Mar ",
-    "locationUrl": "https://www.google.com.br/maps/place/Maria+do+Mar+Hotel/@-27.5547112,-48.5146174,17z/data=!3m1!4b1!4m5!3m4!1s0x9527477d00ae732b:0xd2bcbaa6036deb39!8m2!3d-27.5547112!4d-48.5124287"
-  },
-  "image": "",
-  "shortDescription": "4ª edição do Front in Floripa, onde se encontram profissionais da área de desenvolvimento web de todo o estado e também do Brasil. O evento é focado em front-end (responsável por projetar, construir e otimizar as interfaces de aplicações e websites), mas é essencial para qualquer profissional de desenvolvimento web!"
-},
-
-{
   "title": "JSDay Recife 2016",
   "date": {
     "day": 26,
@@ -258,6 +238,26 @@
   },
   "image": "",
   "shortDescription": "Serão abordados assuntos como Open Web App, AngularJS, React.js, Ember, QUnit entre outros. O objetivo do evento é difundir conhecimento a respeito do JavaScript com profissionais, estudantes e demais interessados no assunto."
+},
+
+{
+  "title": "Front in Floripa 2016",
+  "date": {
+    "day": 26,
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://frontinfloripa.com.br/",
+  "price": "A partir de R$ 70",
+  "location": {
+    "city": "Florianópolis",
+    "state": "SC",
+    "address": "Hotel Maria do Mar ",
+    "locationUrl": "https://www.google.com.br/maps/place/Maria+do+Mar+Hotel/@-27.5547112,-48.5146174,17z/data=!3m1!4b1!4m5!3m4!1s0x9527477d00ae732b:0xd2bcbaa6036deb39!8m2!3d-27.5547112!4d-48.5124287"
+  },
+  "image": "",
+  "shortDescription": "4ª edição do Front in Floripa, onde se encontram profissionais da área de desenvolvimento web de todo o estado e também do Brasil. O evento é focado em front-end (responsável por projetar, construir e otimizar as interfaces de aplicações e websites), mas é essencial para qualquer profissional de desenvolvimento web!"
 },
 
 {
