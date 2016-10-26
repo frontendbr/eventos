@@ -1,46 +1,6 @@
 [
 
 {
-  "title": "3º encontro do Meetup DFUX",
-  "date": {
-    "day": 24,
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/Meetup-DFUX-Litoral-Santista/events/234284258/",
-  "price": "Free",
-  "location": {
-    "city": "Santos",
-    "state": "SP",
-    "address": "Unimonte",
-    "locationUrl": "https://www.google.com.br/maps?q=Rua+Comendador+Martins+52,+Vila+Mathias,+Santos&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjpjrvzpKLPAhWGg5AKHV3sBB8Q_AUICCgB"
-  },
-  "image": "",
-  "shortDescription": "O evento visa o encontro entre designers, front-enders e UXers santistas. O evento é mensal e no estilo mesa redonda. Para este encontro traremos uma talk sobre Carreira de TI, com Rafael Ferreira, CEO da Metractive."
-},
-
-{
-  "title": "MeetupCSS #21",
-  "date": {
-    "day": "25",
-    "month": "Outubro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/pt-BR/CSS-SP/events/234501775/?eventId=234501775",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Av Paulista 2300, Conjunto 41",
-    "locationUrl": "https://www.google.com.br/maps/place/Av.+Paulista,+2300+-+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo+-+SP,+01310-300/@-23.5566852,-46.6633967,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce582d5bd30287:0xf813d85cfe7ea520!8m2!3d-23.5566852!4d-46.661208"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/18520666/2f3e209a-7a7f-11e6-812a-98d14870ba34.png",
-  "shortDescription": "A edição #21 contará com a talk da Andréa Zambrana que falará sobre Sass maps - my precious"
-},
-
-{
   "title": "Jurassic JavaScript Park",
   "date": {
     "day": 27,
@@ -98,6 +58,26 @@
   },
   "image": "",
   "shortDescription": "É um grande evento organizado pela comunidade, que pode oferecer sessões de palestras de várias áreas, codelabs e muito mais. Cada DevFest é inspirado e voltado unicamente para as necessidades da comunidade de desenvolvedores que participam do evento."
+},
+
+{
+  "title": "Dojo #4 Vue.js",
+  "date": {
+    "day": "12",
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234831495/",
+  "price": "Free",
+  "location": {
+    "city": "Campinas",
+    "state": "SP",
+    "address": "CDI Campinas",
+    "locationUrl": "https://www.google.com.br/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8c8c888729d81:0xf80451070c91fc17!8m2!3d-22.9144043!4d-47.0672385"
+  },
+  "image": "",
+  "shortDescription": "Teremos uma breve apresentação introdutória, dirigida pelo Luis Felipe, e em seguida vamos por a mão no code para aprendermos este framework que está dando o que falar!"
 },
 
 {
