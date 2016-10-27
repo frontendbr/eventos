@@ -1,6 +1,26 @@
 [
 
 {
+  "title": "BeerJS #05",
+  "date": {
+    "day": 27,
+    "month": "Outubro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/Beer-JS-SJC/events/234940500/?eventId=234940500",
+  "price": "Consumação individual",
+  "location": {
+    "city": "São José dos Campos",
+    "state": "SP",
+    "address": "O Turco Gordo",
+    "locationUrl": "https://www.google.com.br/maps/place/Turco+Gordo/@-23.1992326,-45.8959973,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc4a6defc9228f:0x66cd05072d5b6c50!8m2!3d-23.1992326!4d-45.8938086"
+  },
+  "image": "",
+  "shortDescription": "BeerJS SJC é um grupo para JavaScripters de São José dos Campos e Região para se reunir em atividades que giram em torno de duas coisas: Cerveja e JS! A ideia central é não ter palestras, mas sim possibilitar que todos os participantes possam falar/debater/opinar. É uma roda de amigos, cerveja e JavaScript!"
+},
+
+{
   "title": "Jurassic JavaScript Park",
   "date": {
     "day": 27,
