@@ -1,43 +1,43 @@
 [
 
 {
-  "title": "BeerJS #05",
+  "title": "20º WordPress Meetup RJ",
   "date": {
-    "day": 27,
+    "day": 29,
     "month": "Outubro",
     "year": 2016
   },
   "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/Beer-JS-SJC/events/234940500/?eventId=234940500",
-  "price": "Consumação individual",
+  "link": "http://www.meetup.com/pt-BR/wp-rio/events/234915870/",
+  "price": "Free",
   "location": {
-    "city": "São José dos Campos",
-    "state": "SP",
-    "address": "O Turco Gordo",
-    "locationUrl": "https://www.google.com.br/maps/place/Turco+Gordo/@-23.1992326,-45.8959973,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc4a6defc9228f:0x66cd05072d5b6c50!8m2!3d-23.1992326!4d-45.8938086"
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "address": "UVA Tijuca",
+    "locationUrl": "https://www.google.com.br/maps?q=UVA+Tijuca+(Rua+Ibituruna,+108,+Maracan%C3%A3,+Rio+de+Janeiro)&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjYjtPAjvzPAhVE7iYKHcaSD2QQ_AUICCgB"
   },
-  "image": "",
-  "shortDescription": "BeerJS SJC é um grupo para JavaScripters de São José dos Campos e Região para se reunir em atividades que giram em torno de duas coisas: Cerveja e JS! A ideia central é não ter palestras, mas sim possibilitar que todos os participantes possam falar/debater/opinar. É uma roda de amigos, cerveja e JavaScript!"
+  "image": "https://cloud.githubusercontent.com/assets/5203138/19779383/ab33f2d6-9c5f-11e6-82fd-d6bc95e7fc87.jpeg",
+  "shortDescription": "Além da palestra Qual ferramenta utilizar para montar um Site? vai rolar uma desconferência com Experiências na área e painel aberto."
 },
 
 {
-  "title": "Jurassic JavaScript Park",
+  "title": "WordPress Meetup SP",
   "date": {
-    "day": 27,
+    "day": 29,
     "month": "Outubro",
     "year": 2016
   },
   "innerLink": "inner.html",
-  "link": "http://www.coletividad.org/events/jurassic-javascript-park-construindo-aplicacoes-offline",
-  "price": "A partir de R$ 110",
+  "link": "http://www.meetup.com/pt-BR/wpsampa/events/235153901/?eventId=235153901",
+  "price": "Free",
   "location": {
     "city": "São Paulo",
     "state": "SP",
-    "address": "Germinadora",
-    "locationUrl": "https://www.google.com.br/maps/place/Germinadora/@-23.5986416,-46.6340703,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5bccb5257ad3:0x1bf62abc709867a2!8m2!3d-23.5986416!4d-46.6318816"
+    "address": "Polo Alameda Santos",
+    "locationUrl": "https://www.google.com.br/maps/place/Polo+S%C3%A3o+Paulo/@-23.558976,-46.6636367,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59d299fab993:0x6e8f94ee8ecdb98d!8m2!3d-23.558976!4d-46.661448"
   },
-  "image": "",
-  "shortDescription": "O curso ensinará formas de transformar aplicações e sites para que funcionem mesmo sem acesso à internet, apresentando maneiras de armazenar informação utilizando as API's do JavaScript. O objetivo será compreender a utilização dessas aplicações, realizar testes em páginas da internet e por em prática as funcionalidades aprendidas através de dinâmicas propostas pelo facilitador."
+  "image": "https://cloud.githubusercontent.com/assets/5203138/19779200/cf13481a-9c5e-11e6-97e2-4dbcf55e7808.jpeg",
+  "shortDescription": "Vamos conversar sobre técnicas front-end com a Cah Felix​, desenvolvedora web da Abril e com o Leo Baiano, desenvolvedor da editora 3."
 },
 
 {
