@@ -1,6 +1,26 @@
 [
 
 {
+  "title": "DevFest Belo Horizonte 2016",
+  "date": {
+    "day": "5",
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/GDG-BH/events/233215266/",
+  "price": "A partir de R$ 70",
+  "location": {
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "address": "Ouro Minas Palace Hotel",
+    "locationUrl": "https://www.google.com/maps/place/Ouro+Minas+Palace+Hotel/@-19.873241,-43.92872,15z/data=!4m5!3m4!1s0x0:0x8d25db686872cb31!8m2!3d-19.8762457!4d-43.9293386?ll=-19.873241,-43.92872&z=15&t=m&hl=pt&gl=US&mapclient=apiv3&cid=10170776574961568561"
+  },
+  "image": "http://photos2.meetupstatic.com/photos/event/2/5/d/7/600_452949687.jpeg",
+  "shortDescription": "Vem aí o GDG DevFest Belo Horizonte '16! \\o/ \n O GDG DevFest é um evento que acontece no mundo inteiro, voltado para desenvolvedores e organizado pela comunidade Google Developers Groups."
+},
+
+{
   "title": "Dojo #4 Vue.js",
   "date": {
     "day": "12",
