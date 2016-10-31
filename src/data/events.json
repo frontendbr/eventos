@@ -1,6 +1,26 @@
 [
 
 {
+  "title": "ASP.NET Core meetup",
+  "date": {
+    "day": "11",
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/Random-Hacks/events/235145688/",
+  "price": "Free",
+  "location": {
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "address": "CI&T",
+    "locationUrl": "https://goo.gl/maps/XakJ1Vnmqok"
+  },
+  "image": "",
+  "shortDescription": "Vamos conversar um pouco sobre ASP.NET Core? Estamos curiosos para saber quais novidades a Microsoft está trazendo para nós nessa nova tecnologia!"
+},
+
+{
   "title": "Dojo #4 Vue.js",
   "date": {
     "day": "12",
