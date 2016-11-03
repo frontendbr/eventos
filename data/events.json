@@ -180,4 +180,26 @@
   "shortDescription": "Evento de tecnologia de desenvolvimento Web que ocorre em Porto Alegre."
 }
 
+,
+
+{
+  "title": "WordCamp São Paulo 2016",
+  "date": {
+    "day": "10",
+    "month": "Dezembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://2016.saopaulo.wordcamp.org/",
+  "price": "R$ 50",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "UNICID - Campus Tatuapé",
+    "locationUrl": "https://www.google.com.br/maps/place/R.+Ces%C3%A1rio+Galero,+448+-+Tatuap%C3%A9,+S%C3%A3o+Paulo+-+SP/@-23.5493848,-46.589856,13.5z/data=!4m5!3m4!1s0x94ce5ef1523ebc7f:0x9f3bf432caa4a5f5!8m2!3d-23.5360482!4d-46.5598794"
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/19947208/33f296f4-a12e-11e6-870d-6e302789f8d5.jpg",
+  "shortDescription": "Os WordCamps são eventos que apresentam as últimas novidades do universo WordPress, promovem o conhecimento e utilização da plataforma, além de propiciar um excelente networking para profissionais da área. Nesta edição do WordCamp São Paulo, a conferência será o maior evento de WordPress já sediado no Brasil."
+}
+
 ]
