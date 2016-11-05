@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "DevFest Belo Horizonte 2016",
-  "date": {
-    "day": "5",
-    "month": "Novembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.meetup.com/GDG-BH/events/233215266/",
-  "price": "A partir de R$ 70",
-  "location": {
-    "city": "Belo Horizonte",
-    "state": "MG",
-    "address": "Ouro Minas Palace Hotel",
-    "locationUrl": "https://www.google.com/maps/place/Ouro+Minas+Palace+Hotel/@-19.873241,-43.92872,15z/data=!4m5!3m4!1s0x0:0x8d25db686872cb31!8m2!3d-19.8762457!4d-43.9293386?ll=-19.873241,-43.92872&z=15&t=m&hl=pt&gl=US&mapclient=apiv3&cid=10170776574961568561"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/7543296/19856595/508e538a-9f61-11e6-97c3-b96476ff1df0.jpg",
-  "shortDescription": "Vem aí o GDG DevFest Belo Horizonte '16! \\o/ \n O GDG DevFest é um evento que acontece no mundo inteiro, voltado para desenvolvedores e organizado pela comunidade Google Developers Groups."
-},
-
-{
   "title": "Dojo #4 Vue.js",
   "date": {
     "day": "12",
@@ -138,6 +118,26 @@
   },
   "image": "https://cloud.githubusercontent.com/assets/697486/19818233/9b9eab6c-9d2d-11e6-8107-99f6d77960f0.png",
   "shortDescription": "O DevParaná Conference 2016 vai trazer palestrantes que são influência nacional em sua área de atuação, também como dará oportunidade a comunidade apresentar o que sabe fazer de melhor. Serão 8 talks de ótima qualidade, um dia inteiro de pura imersão em tecnologia!"
+},
+
+{
+  "title": "1º Meetup WordPress Baixada Rio",
+  "date": {
+    "day": 26,
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://www.meetup.com/pt-BR/baixada-rio/events/234971202/",
+  "price": "Free",
+  "location": {
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "address": "Universidade Estácio de Sá",
+    "locationUrl": "https://www.google.com.br/maps/place/Est%C3%A1cio+-+Campus+Nova+Igua%C3%A7u/@-22.7607992,-43.4298352,17z/data=!3m1!4b1!4m5!3m4!1s0x9966573e97fefd:0x6d4206c381c89d7c!8m2!3d-22.7607992!4d-43.4276465"
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/19973443/60600fa2-a1cc-11e6-96ad-3452ffcb3690.png",
+  "shortDescription": "Nesta primeira edição teremos a palestra 'WordPress Blog ou Site Profissional?' com Ernandes Ferreira e em seguida 'Organizando CSS sem perder a sanidade' com Anderson Nascimento. Fechando o meetup acontecerá uma mesa redonda com tópicos pertinentes ao CMS."
 },
 
 {
