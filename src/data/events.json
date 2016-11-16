@@ -21,6 +21,26 @@
 },
 
 {
+  "title": "21º WordPress Meetup RJ",
+  "date": {
+    "day": "19",
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/wp-rio/events/235437308/",
+  "price": "Free",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "address": "UVA Tijuca",
+    "locationUrl": "https://www.google.com.br/maps?ion=1&espv=2&q=UVA+Tijuca+(Rua+Ibituruna,+108,+Maracan%C3%A3,+Rio+de+Janeiro)&bav=on.2,or.r_cp.&biw=1877&bih=966&dpr=1&um=1&ie=UTF-8&sa=X&ved=0ahUKEwir4vL3kqzQAhWGW5AKHfqRB10Q_AUIBigB"
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/19779383/ab33f2d6-9c5f-11e6-82fd-d6bc95e7fc87.jpeg",
+  "shortDescription": "Vamos explorar como o WordPress funciona e suas principais estruturas. Essa etapa é muito importante para que você consiga gerenciar ou desenvolver seu site com maior clareza e sem mágicas."
+},
+
+{
   "title": "AngularSP #10",
   "date": {
     "day": 24,
