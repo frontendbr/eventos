@@ -41,6 +41,26 @@
 },
 
 {
+  "title": "HTML SP #4",
+  "date": {
+    "day": "22",
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/html-sp/events/235651237/?eventId=235651237",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "GetNinjas",
+    "locationUrl": "https://www.google.com.br/maps/place/Av.+Rebou%C3%A7as,+2472+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+05402-300/@-23.5670218,-46.6860383,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce57764184b6b7:0x13d1bca6c5c334e6!8m2!3d-23.5670218!4d-46.6838496"
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/20414387/4ea0009e-ad19-11e6-9b8e-e01dcd62500c.jpeg",
+  "shortDescription": "Teremos uma talk voltada explicitamente a HTML, sobre tags conhecidas ou não e semântica, com Eduardo Matos."
+},
+
+{
   "title": "AngularSP #10",
   "date": {
     "day": 24,
