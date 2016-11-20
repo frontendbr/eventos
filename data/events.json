@@ -1,46 +1,6 @@
 [
 
 {
-  "title": "Mobile Summit 2016",
-  "date": {
-    "day": "18 e 19",
-    "month": "Novembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.msummit.com.br/",
-  "price": "A partir de R$ 120",
-  "location": {
-    "city": "Porto Alegre",
-    "state": "RS",
-    "address": "Auditório Master - UniRitter",
-    "locationUrl": "https://www.google.com.br/maps/search/Rua+Orfanotr%C3%B3fio,+555+-+Alto+Teres%C3%B3polis,+Porto+Alegre/@-30.081423,-51.2237192,17z/data=!3m1!4b1"
-  },
-  "image": "",
-  "shortDescription": "Reunirá influenciadores da indústria e comunidades de tecnologia, os participantes terão um um ambiente para networking, aprendizado e compartilhamento de ideias sobre o que há de mais atual, podendo transformar suas empresas, carreira e soluções móveis em grandes experiências."
-},
-
-{
-  "title": "21º WordPress Meetup RJ",
-  "date": {
-    "day": "19",
-    "month": "Novembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/wp-rio/events/235437308/",
-  "price": "Free",
-  "location": {
-    "city": "Rio de Janeiro",
-    "state": "RJ",
-    "address": "UVA Tijuca",
-    "locationUrl": "https://www.google.com.br/maps?ion=1&espv=2&q=UVA+Tijuca+(Rua+Ibituruna,+108,+Maracan%C3%A3,+Rio+de+Janeiro)&bav=on.2,or.r_cp.&biw=1877&bih=966&dpr=1&um=1&ie=UTF-8&sa=X&ved=0ahUKEwir4vL3kqzQAhWGW5AKHfqRB10Q_AUIBigB"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/19779383/ab33f2d6-9c5f-11e6-82fd-d6bc95e7fc87.jpeg",
-  "shortDescription": "Vamos explorar como o WordPress funciona e suas principais estruturas. Essa etapa é muito importante para que você consiga gerenciar ou desenvolver seu site com maior clareza e sem mágicas."
-},
-
-{
   "title": "HTML SP #4",
   "date": {
     "day": "22",
