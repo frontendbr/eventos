@@ -41,6 +41,26 @@
 },
 
 {
+  "title": "DEV-ES - CONF 2016",
+  "date": {
+    "day": 26,
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "http://dev-es.org/",
+  "price": "Free",
+  "location": {
+    "city": "Vila Velha",
+    "state": "ES",
+    "address": "UVV",
+    "locationUrl": "https://www.google.com.br/maps/place/Universidade+Vila+Velha,+Campus+Boa+Vista/@-20.3540715,-40.3013428,17z/data=!3m1!4b1!4m5!3m4!1s0xb8160595555555:0xeab993fdd7de1f61!8m2!3d-20.3540715!4d-40.2991541"
+  },
+  "image": "",
+  "shortDescription": "Serão 6 horas de palestras onde você poderá aprender e discutir sobre DevOps, Azure, ReactJS, programação funcional, web apps e trabalho remoto. É uma excelente oportunidade para você enriquecer os seus conhecimentos, fazer novos contatos e principalmente, conhecer a comunidade Dev-ES mais de perto."
+},
+
+{
   "title": "JSDay Recife 2016",
   "date": {
     "day": 26,
