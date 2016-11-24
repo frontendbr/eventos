@@ -21,6 +21,26 @@
 },
 
 {
+  "title": "FrontUX-SJC #02",
+  "date": {
+    "day": 26,
+    "month": "Novembro",
+    "year": 2016
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/FrontUX-SJC/events/235768305/",
+  "price": "Free",
+  "location": {
+    "city": "São José dos Campos",
+    "state": "SP",
+    "address": "HyperClass",
+    "locationUrl": "https://www.google.com.br/maps/place/Av.+Cassiano+Ricardo,+601+-+123+-+Parque+Res.+Aquarius,+S%C3%A3o+Jos%C3%A9+dos+Campos+-+SP/@-23.2178099,-45.9123454,17z/data=!4m5!3m4!1s0x94cc3582786ada35:0x4df8737119c7d9a9!8m2!3d-23.2200777!4d-45.9105912"
+  },
+  "image": "https://cloud.githubusercontent.com/assets/1218337/19387872/416440b6-91f3-11e6-9d99-77023678c816.png",
+  "shortDescription": "O encontro tem o objetivo de promover a troca de conhecimento entre designers e desenvolvedores do Vale do Paraíba, aproximar os dois mundos e melhorar o fluxo de trabalho dos profissionais de cada área, possibilitando que designers opinem sobre tecnologia e desenvolvedores sobre interface."
+},
+
+{
   "title": "DEV-ES - CONF 2016",
   "date": {
     "day": 26,
