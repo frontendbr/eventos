@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "MeetupCSS #22",
-  "date": {
-    "day": 29,
-    "month": "Novembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/CSS-SP/events/235413480/?eventId=235413480",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Direct Talk",
-    "locationUrl": "https://www.google.com.br/maps/place/Direct+Talk/@-23.6081002,-46.6971501,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce50cd2bf1f4ef:0x87b6b4cbba619b05!8m2!3d-23.6081002!4d-46.6949614"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/18520666/2f3e209a-7a7f-11e6-812a-98d14870ba34.png",
-  "shortDescription": "Para essa edição iremos testar um novo formato: 4 live codings rápidos de assuntos diferentes com o objetivo de gerar idéias, tirar dúvidas e mostrar uma linha de raciocínio em cima de um projeto, idéia, etc."
-},
-
-{
   "title": "Front in Aracaju 2016",
   "date": {
     "day": "03",
