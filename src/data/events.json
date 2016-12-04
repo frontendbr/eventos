@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Front in Aracaju 2016",
-  "date": {
-    "day": "03",
-    "month": "Dezembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.frontinaracaju.com.br/",
-  "price": "A partir de R$ 75",
-  "location": {
-    "city": "Aracaju",
-    "state": "SE",
-    "address": "Radisson Hotel Aracaju",
-    "locationUrl": "https://www.google.com.br/maps/place/-10.976599+-37.04079899999999/@-10.976599,-37.04079899999999,15z"
-  },
-  "image": "",
-  "shortDescription": "O DevParaná Conference 2016 vai trazer palestrantes que são influência nacional em sua área de atuação, também como dará oportunidade a comunidade apresentar o que sabe fazer de melhor. Serão 8 talks de ótima qualidade, um dia inteiro de pura imersão em tecnologia!"
-},
-
-{
   "title": "Front in POA 2016",
   "date": {
     "day": "10",
