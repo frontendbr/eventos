@@ -1,45 +1,23 @@
 [
 
 {
-  "title": "Front in POA 2016",
+  "title": "Front in Sampa 2017",
   "date": {
-    "day": "10",
-    "month": "Dezembro",
-    "year": 2016
+    "day": "01",
+    "month": "Julho",
+    "year": 2017
   },
   "innerLink": "inner.html",
-  "link": "http://frontinpoa.com.br/2016/",
-  "price": "A partir de R$ 75",
-  "location": {
-    "city": "Porto Alegre",
-    "state": "RS",
-    "address": "Auditório do SENAC",
-    "locationUrl": "https://www.google.com.br/maps/place/R.+Cel.+Genuino,+130+-+Centro+Hist%C3%B3rico,+Porto+Alegre+-+RS/@-30.0352924,-51.2286036,17z/data=!4m5!3m4!1s0x95197906aa06c9c3:0xc23530a0fea94372!8m2!3d-30.0352924!4d-51.2264149"
-  },
-  "image": "",
-  "shortDescription": "Evento de tecnologia de desenvolvimento Web que ocorre em Porto Alegre."
-}
-
-,
-
-{
-  "title": "WordCamp São Paulo 2016",
-  "date": {
-    "day": "10",
-    "month": "Dezembro",
-    "year": 2016
-  },
-  "innerLink": "inner.html",
-  "link": "https://2016.saopaulo.wordcamp.org/",
-  "price": "R$ 50",
+  "link": "http://www.frontinsampa.com.br/",
+  "price": "A partir de R$ 90",
   "location": {
     "city": "São Paulo",
     "state": "SP",
-    "address": "UNICID - Campus Tatuapé",
-    "locationUrl": "https://www.google.com.br/maps/place/R.+Ces%C3%A1rio+Galero,+448+-+Tatuap%C3%A9,+S%C3%A3o+Paulo+-+SP/@-23.5493848,-46.589856,13.5z/data=!4m5!3m4!1s0x94ce5ef1523ebc7f:0x9f3bf432caa4a5f5!8m2!3d-23.5360482!4d-46.5598794"
+    "address": "Teatro do Colégio Maria Imaculada",
+    "locationUrl": "https://www.google.com.br/maps/place/Av.+Bernardino+de+Campos,+79+-+Para%C3%ADso,+S%C3%A3o+Paulo+-+SP,+04004-041/@-23.5716738,-46.6453438,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5997bb190aab:0xc6fae0414cd01b64!8m2!3d-23.5716738!4d-46.6431551"
   },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/19947208/33f296f4-a12e-11e6-870d-6e302789f8d5.jpg",
-  "shortDescription": "Os WordCamps são eventos que apresentam as últimas novidades do universo WordPress, promovem o conhecimento e utilização da plataforma, além de propiciar um excelente networking para profissionais da área. Nesta edição do WordCamp São Paulo, a conferência será o maior evento de WordPress já sediado no Brasil."
+  "image": "https://cloud.githubusercontent.com/assets/5203138/21165552/258446f2-c187-11e6-9bb9-d51828c99017.jpg",
+  "shortDescription": "Conteúdo relevante e atualizado, bate-papo com profissionais da área, networking e aquele pós-evento que ninguém quer perder."
 }
 
 ]
