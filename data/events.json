@@ -1,5 +1,25 @@
 [
 
+  {
+  "title": "Front-end Meetup #9",
+  "date": {
+    "day": "11",
+    "month": "Janeiro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/236684099/",
+  "price": "Free",
+  "location": {
+    "city": "Campinas",
+    "state": "SP",
+    "address": "Ci&T Campinas",
+    "locationUrl": "https://www.google.com/maps/place/CI%26T/@-22.81258,-47.0459827,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8c425aaaaaaab:0x3b132ab59519bfbf!8m2!3d-22.81258!4d-47.043794"
+  },
+  "image": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/0/f/1/global_437685297.jpeg",
+  "shortDescription": "Primeiro meetup do ano, na CI&T. Teremos uma talk super legal sobre chat bots em JS, e logo em seguida faremos uma mesa redonda para discutir sobre este e outros assuntos de front-end."
+},
+
 {
   "title": "Front in Sampa 2017",
   "date": {
