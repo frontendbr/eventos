@@ -40,13 +40,12 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 
 Aguarde a aprovação!
 
+ 
 ## Licença
 
 [MIT](LICENSE.md) &copy; FrontendBR
 
-
-________
-#### Repositórios da Front-End Brasil
+## Repositórios da Front-End Brasil
 
 - [Fórum](https://github.com/frontendbr/forum)
 - [Eventos](https://github.com/frontendbr/eventos)
@@ -56,4 +55,3 @@ ________
 - [Open Source](https://github.com/frontendbr/open-source)
 - [Front-End Week](https://github.com/frontendbr/frontendweek)
 - [Sugestões](https://github.com/frontendbr/sugestoes)
-
