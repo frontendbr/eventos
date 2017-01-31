@@ -20,6 +20,26 @@
   "shortDescription": "Venha fazer parte da comunidade WordPress Baixada Rio, neste encontro iremos falar um pouco sobre este magnifico CMS!"
 },
 
+  {
+  "title": "Hangout Front End Carioca",
+  "date": {
+    "day": "11",
+    "month": "Fevereiro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.facebook.com/events/180345479116675/",
+  "price": "Free",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "address": "Online",
+    "locationUrl": "#"
+  },
+  "image": "",
+  "shortDescription": "Primeiro evento de 2017 pra conhecer melhor a galera, ouvir sugestões do grupo de como melhorar a comunidade no RJ e falar um pouco sobre como começar na area de Front end."
+},
+
 {
   "title": "Front in Sampa 2017",
   "date": {
