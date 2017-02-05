@@ -1,26 +1,6 @@
 [
 
-  {
-  "title": "2º Meetup WordPress Baixada Rio",
-  "date": {
-    "day": "04",
-    "month": "Fevereiro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/baixada-rio/events/236220478/",
-  "price": "Free",
-  "location": {
-    "city": "Nova Iguaçu",
-    "state": "RJ",
-    "address": "Universidade Estácio de Sá",
-    "locationUrl": "https://www.google.com.br/maps/place/Est%C3%A1cio+-+Campus+Nova+Igua%C3%A7u/@-22.7610974,-43.4302506,17z/data=!3m1!4b1!4m5!3m4!1s0x9966573e97fefd:0x6d4206c381c89d7c!8m2!3d-22.7610974!4d-43.4280619"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/19973443/60600fa2-a1cc-11e6-96ad-3452ffcb3690.png",
-  "shortDescription": "Venha fazer parte da comunidade WordPress Baixada Rio, neste encontro iremos falar um pouco sobre este magnifico CMS!"
-},
-
-  {
+{
   "title": "Hangout Front End Carioca",
   "date": {
     "day": "11",
