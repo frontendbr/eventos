@@ -41,6 +41,26 @@
 },
 
 {
+  "title": "RSJS 2017",
+  "date": {
+    "day": "08",
+    "month": "Abril",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "http://rsjs.org/2017/",
+  "price": "Em breve",
+  "location": {
+    "city": "Porto Alegre",
+    "state": "RS",
+    "address": "Senac - Rua Cel. Genuíno, 130",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.0566117283347!2d-51.228750084885064!3d-30.035233681885664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95197906a9d397f5%3A0x514b4935e97fbf4d!2sFaculdade+Senac+Porto+Alegre!5e0!3m2!1spt-BR!2sbr!4v1486846502600"
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/22785784/d9a42f3c-eebc-11e6-9522-16f5c269efb1.jpg",
+  "shortDescription": "Sexta edição do mais tradicional evento gaudério de JavaScript do Rio Grande do Sul."
+},
+
+{
   "title": "Front in Sampa 2017",
   "date": {
     "day": "01",
