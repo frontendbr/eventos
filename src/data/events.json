@@ -21,6 +21,26 @@
 },
 
 {
+  "title": "3º VueJS SP Meetup",
+  "date": {
+    "day": "16",
+    "month": "Março",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/VueJS-SP/events/237926657/?eventId=237926657",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Av. Faria Lima, 3064 - 12º andar",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.581360845902!2d-46.68633158502185!3d-23.583474484671836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce576975364071%3A0xca790930bb156fc0!2sMoip!5e0!3m2!1spt-BR!2sbr!4v1487904977889"
+  },
+  "image": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/c/5/3/global_451188211.jpeg",
+  "shortDescription": "E é com muita satisfação e alegria nas pernas que anuncio nosso terceiro VueJS SP Meetup. Talks: Igor Luiz - VueJS com GraphQL e VueX Live Coding com Vedovelli"
+},
+
+{
   "title": "RSJS 2017",
   "date": {
     "day": "08",
