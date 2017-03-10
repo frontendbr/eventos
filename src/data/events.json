@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "MeetupCSS #24",
-  "date": {
-    "day": "07",
-    "month": "Março",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com//pt-BR/CSS-SP/events/237700174/",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Rua Dr. Geraldo Campos Moreira, 240 - Monções",
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.0962929265!2d-46.69500538502151!3d-23.600879284663225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5736930a4f41%3A0x1c77fea274fad451!2sR.+Dr.+Geraldo+Campos+Moreira%2C+240+-+Cidade+Mon%C3%A7%C3%B5es%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1spt-BR!2sbr!4v1488499973137"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/18520666/2f3e209a-7a7f-11e6-812a-98d14870ba34.png",
-  "shortDescription": "O Meetup deste mês será realizado na sede do Pagar.me com as palestras: Mario Souto - Icônico-SVG e Alda Rocha - CSS grid e o Layout Santo Graal."
-},
-
-{
   "title": "CodeintheDarkBR 2017",
   "date": {
     "day": "10",
