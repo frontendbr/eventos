@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "CodeintheDarkBR 2017",
-  "date": {
-    "day": "10",
-    "month": "Março",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "http://codeinthedark.com.br/",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Rua Oscar Freire, 2379 - Pinheiros",
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.4492216167228!2d-46.6777260421978!3d-23.55230437541949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce578fa07155fb%3A0xb36656098e23d7a2!2sRua+Oscar+Freire%2C+2379+-+Pinheiros%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1spt-BR!2sbr!4v1486603067416"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/22705484/d29d44c8-ed52-11e6-918b-0ffc0ef95002.jpg",
-  "shortDescription": "Vários desenvolvedores(as) front-end precisam codificar uma página em apenas 15 minutos... Até aí o desafio já é enorme, concorda? Agora adicione o fato de que eles(as) não podem ver o resultado da página no browser, somente o código fonte, usando apenas HTML e CSS: Esse é o Code in the Dark!"
-},
-
-{
   "title": "3º VueJS SP Meetup",
   "date": {
     "day": "16",
