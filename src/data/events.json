@@ -41,6 +41,26 @@
 },
 
 {
+  "title": "Roadsec - Recife",
+  "date": {
+    "day": "27",
+    "month": "Maio",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "http://roadsec.com.br/recife2017/",
+  "price": "A partir de 40",
+  "location": {
+    "city": "Recife",
+    "state": "PE",
+    "address": "",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "Evento sobre hacking, segurança e tecnologia, conta com uma série de palestras e oficinas."
+},
+
+{
   "title": "Front in Sampa 2017",
   "date": {
     "day": "01",
@@ -93,12 +113,12 @@
   "link": "http://frontinbh.com.br/",
   "price": "A partir de R$ 90",
   "location": {
-    "city": "Belo Horizonte",
-    "state": "MG",
-    "address": "Teatro UNI-BH",
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.3913635323083!2d-43.94374718508575!3d-19.907906186616117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa69a004df830bd%3A0x7ecd347f6d37b8d3!2sR.+Diamantina%2C+463+-+Lagoinha%2C+Belo+Horizonte+-+MG%2C+31110-320!5e0!3m2!1spt-BR!2sbr!4v1489628284295"
+    "city": "",
+    "state": "",
+    "address": "",
+    "locationUrl": ""
   },
-  "image": "",
+  "image": "http://www.theandersonn.com/wp-content/themes/theandersonn/assets/images/logotypes/front-in-bh-logo-2017-black.svg",
   "shortDescription": "O Front in BH nasceu da necessidade de fortalecer a comunidade Front-end local, através de um circuito de palestras focado em promover o relacionamento e a integração entre os profissionais de Front-end e das áreas a afins."
 }
 
