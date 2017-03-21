@@ -9,7 +9,7 @@
   },
   "innerLink": "inner.html",
   "link": "http://rsjs.org/2017/",
-  "price": "Em breve",
+  "price": "A partir R$ 59,90",
   "location": {
     "city": "Porto Alegre",
     "state": "RS",
@@ -18,6 +18,26 @@
   },
   "image": "https://cloud.githubusercontent.com/assets/5203138/22785784/d9a42f3c-eebc-11e6-9522-16f5c269efb1.jpg",
   "shortDescription": "Sexta edição do mais tradicional evento gaudério de JavaScript do Rio Grande do Sul."
+},
+
+{
+  "title": "React CWB #1",
+  "date": {
+    "day": "12",
+    "month": "Abril",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/ReactJS-CWB/events/238242209/",
+  "price": "Free",
+  "location": {
+    "city": "Curitiba",
+    "state": "PR",
+    "address": "Impact Hub",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3603.30391639257!2d-49.2601698849857!3d-25.42810098378927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dce44724b72601%3A0x9c858e254de5e5fb!2sR.+Fernando+Amaro%2C+60+-+Alto+da+Rua+XV%2C+Curitiba+-+PR!5e0!3m2!1spt-BR!2sbr!4v1490066542284"
+  },
+  "image": "",
+  "shortDescription": "SSe você quer conhecer mais o que é React e aprender junto conosco, venha se reunir conosco. Neste primeiro meetup vamos fazer uma introdução ao React/Redux e discutirmos um pouco sobre a melhor forma de seguirmos com o grupo para termos encontros mensais."
 },
 
 {
