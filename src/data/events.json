@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "AngularSP - Especial Mês das Mulheres no CUBO",
-  "date": {
-    "day": "27",
-    "month": "Março",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/AngularJS-Sao-Paulo/events/238274496/",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Rua Casa do Ator, 919 Vila Olímpia",
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.1840352565755!2d-46.68437488502145!3d-23.59773188466487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce574e7bd03c45%3A0xd2dbb6a949696039!2sR.+Casa+do+Ator%2C+919+-+Vila+Olimpia%2C+S%C3%A3o+Paulo+-+SP%2C+04546-003!5e0!3m2!1spt-BR!2sbr!4v1490066837005"
-  },
-  "image": "",
-  "shortDescription": "Este é um mês muito especial, pois como todos sabemos, dia 8 de março celebramos o dia das mulheres. Sendo assim vamos fazer um evento especial, com 3 palestras, mas apenas com mulheres palestrantes! Longe de oferecer flores e fingir que essa é uma data apenas comemorativa, queremos ajudar que as mulheres a firmarem seu espaço de direito no mundo de tecnologia, que ha tempos parece ser uma zona apenas dos cuecas, para que elas demonstrem e compartilhem seu conhecimento, e servindo de exemplo para as próximas garotas que estão começando na área!"
-},
-
-{
   "title": "RSJS 2017",
   "date": {
     "day": "08",
