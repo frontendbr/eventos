@@ -6,7 +6,7 @@
 
 **Descrição (breve)**:
 
-**Logotipo do evento:**: 
+**Logotipo do evento**: 
 
 **Valor**: 
 
