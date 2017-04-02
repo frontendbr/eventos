@@ -8,6 +8,26 @@
     "year": 2017
   },
   "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/ReactJS-SP/events/238832881/",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Reclame Aqui",
+    "locationUrl": "https://www.google.com.br/maps/place/R.+Fl%C3%B3rida,+1595+-+Cidade+Mon%C3%A7%C3%B5es,+S%C3%A3o+Paulo+-+SP,+04565-001/@-23.6078339,-46.6955219,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce50cb3fcdaab9:0x467ba1d7e2cf7166!8m2!3d-23.6078339!4d-46.6933332?q=R.+Fl%C3%B3rida,+1595+-+6%C2%B0+Andar+-+Cidade+Mon%C3%A7%C3%B5es,+S%C3%A3o+Paulo+-+SP&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjSypy0sobTAhUGGZAKHWmmD2cQ_AUICCgB"
+  },
+  "image": "https://cloud.githubusercontent.com/assets/6207220/24551997/2574f6fc-15fb-11e7-9e22-e71a22a5c108.png",
+  "shortDescription": "Apresentação do styled-components e outras soluções para deixar seu CSS organizado e escalável e também uma boa comparação entre as libraries de CSS in JS mais utilizadas."
+},
+
+{
+  "title": "React SP #8",
+  "date": {
+    "day": "11",
+    "month": "Abril",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
   "link": "http://rsjs.org/2017/",
   "price": "A partir R$ 59,90",
   "location": {
@@ -38,6 +58,46 @@
   },
   "image": "",
   "shortDescription": "SSe você quer conhecer mais o que é React e aprender junto conosco, venha se reunir conosco. Neste primeiro meetup vamos fazer uma introdução ao React/Redux e discutirmos um pouco sobre a melhor forma de seguirmos com o grupo para termos encontros mensais."
+},
+
+{
+  "title": "Vale do Carbono Conference 2017",
+  "date": {
+    "day": "20",
+    "month": "Maio",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "http://valedocarbono.org/",
+  "price": "A partir de R$ 90",
+  "location": {
+    "city": "Criciúma",
+    "state": "SC",
+    "address": "Associação Empresarial de Criciúma",
+    "locationUrl": "https://www.google.com.br/maps/place/Associa%C3%A7%C3%A3o+Empresarial+de+Crici%C3%BAma/@-28.6796825,-49.3579432,17z/data=!3m1!4b1!4m5!3m4!1s0x95217888b1705b45:0xb479cb3c236ae722!8m2!3d-28.6796825!4d-49.3557545"
+  },
+  "image": "http://valedocarbono.org/conference/assets/img/logo-vale-do-carbono.svg",
+  "shortDescription": "Com duas trilhas de palestras simultâneas, divididas em Tecnologia e Negócios, os participantes contarão com 14 palestras, ministrados por profissionais vindos de todo o Brasil, e experimentarão in loco do poder transformador que a conexão entre ideias e pessoas pode proporcionar."
+},
+
+{
+  "title": "Front In Salvador 2017",
+  "date": {
+    "day": "27",
+    "month": "Maio",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "http://frontinssa.com/",
+  "price": "A partir de R$ 45",
+  "location": {
+    "city": "Salvador",
+    "state": "BA",
+    "address": "Faculdade DeVry Ruy Barbosa",
+    "locationUrl": "https://www.google.com.br/maps/place/Rua+Theodomiro+Baptista,+422+-+Rio+Vermelho,+Salvador+-+BA/@-13.0098638,-38.4837851,17z/data=!3m1!4b1!4m5!3m4!1s0x7161cabb962d7c3:0xd7bb3f12fa847e58!8m2!3d-13.0098638!4d-38.4815964?q=Rua+Theodomiro+Batista,+422,+Rio+Vermelho+-+BA&um=1&ie=UTF-8&sa=X&ved=0ahUKEwitrd_8sobTAhXBfpAKHcirAwAQ_AUICCgB"
+  },
+  "image": "",
+  "shortDescription": "O evento tem como objetivo movimentar a comunidade e cultura de Front End. Durante um dia de sábado os participantes do evento irão desfrutar de palestras com os temas mais quentes do mundo Front-End."
 },
 
 {
