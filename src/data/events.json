@@ -61,6 +61,26 @@
 },
 
 {
+  "title": "WordCamp POA 2017",
+  "date": {
+    "day": "06",
+    "month": "Maio",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://2017.portoalegre.wordcamp.org/",
+  "price": "Em breve",
+  "location": {
+    "city": "Porto Alegre",
+    "state": "RS",
+    "address": "Faculdade Senac",
+    "locationUrl": "https://www.google.com.br/maps/place/Faculdade+Senac+Porto+Alegre/@-30.0362333,-51.2296706,17z/data=!4m8!1m2!2m1!1sRua+Cel.+Genu%C3%ADno,+130+%E2%80%93+Centro+Porto+Alegre+%E2%80%93+RS,+90010-350!3m4!1s0x95197906a9d397f5:0x514b4935e97fbf4d!8m2!3d-30.0352337!4d-51.2265614"
+  },
+  "image": "",
+  "shortDescription": "Destinado a usuários, desenvolvedores ou qualquer entusiasta do WordPress, o WordCamp está de braços abertos para te receber neste dia de intensa programação e confraternização. Te aprochega, tchê!"
+},
+
+{
   "title": "Vale do Carbono Conference 2017",
   "date": {
     "day": "20",
