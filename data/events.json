@@ -1,7 +1,27 @@
 [
 
 {
-  "title": "RSJS 2017",
+  "title": "Front-end Meetup #12",
+  "date": {
+    "day": "08",
+    "month": "Abril",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/238971470/",
+  "price": "Free",
+  "location": {
+    "city": "Campinas",
+    "state": "SP",
+    "address": "Minha Campinas ",
+    "locationUrl": "https://www.google.com/maps/place/R.+Luzitana,+1779+-+Bosque,+Campinas+-+SP,+13026-065,+Brasil/@-22.8981934,-47.0615259,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8c8ad3e837901:0x3df6f91b1b5dfab7!8m2!3d-22.8981934!4d-47.0593372?hl"
+  },
+  "image": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/0/f/1/global_437685297.jpeg",
+  "shortDescription": "No dia 08/04 realizaremos a 12ª edição do Campinas Front-end Meetup. As inscrições começam a partir do dia 05/02 as 10h da manhã e irão até 07/03. Essa edição acontecerá na nova sede da Minha Campinas e teremos ao todo 30 vagas."
+},
+
+{
+  "title": "React SP #8",
   "date": {
     "day": "08",
     "month": "Abril",
@@ -21,7 +41,7 @@
 },
 
 {
-  "title": "React SP #8",
+  "title": "RSJS 2017",
   "date": {
     "day": "11",
     "month": "Abril",
