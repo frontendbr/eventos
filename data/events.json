@@ -73,11 +73,11 @@
   "location": {
     "city": "Recife",
     "state": "PE",
-    "address": "",
-    "locationUrl": ""
+    "address": "Faculdade dos Guararapes",
+    "locationUrl": "https://www.google.com.br/maps/place/Faculdade+dos+Guararapes/@-8.162124,-34.9188047,17z/data=!3m1!4b1!4m5!3m4!1s0x7aae1c862375f21:0x482634f6ee93ec8d!8m2!3d-8.162124!4d-34.916616"
   },
   "image": "",
-  "shortDescription": "Evento sobre hacking, segurança e tecnologia, conta com uma série de palestras e oficinas."
+  "shortDescription": "É um roadshow itinerante que abandona o velho percurso tradicional de eventos para chegar em todo canto do Brasil. Com 4 anos de estrada e mais de 40 edições, já recebemos mais de 25.000 participantes!"
 },
 
 {
@@ -118,6 +118,26 @@
   },
   "image": "https://braziljs.org/wp-content/themes/braziljs/assets/img/logos/braziljs-00508dcfc4.svg",
   "shortDescription": "A já tradicional e querida BrazilJS Conf, maior conferência JavaScript do mundo, está com os dias de sua sétima edição confirmados: 25 e 26 de Agosto, no Barra Shopping Sul, na zona Sul de Porto Alegre."
+},
+
+{
+  "title": "BrazilJS - Fortaleza",
+  "date": {
+    "day": "01 e 02",
+    "month": "Setembro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://braziljs.org/conf/",
+  "price": "A partir de R$ 149,90",
+  "location": {
+    "city": "Fortaleza",
+    "state": "CE",
+    "address": "Faculdade Sete de Setembro",
+    "locationUrl": "https://www.google.com.br/maps/place/UNI7+-+Centro+Universit%C3%A1rio+7+de+Setembro/@-3.7710272,-38.4858382,17z/data=!3m1!4b1!4m5!3m4!1s0x7c745fefe74c177:0x3d5127cdeb3dde1d!8m2!3d-3.7710272!4d-38.4836495?q=FA7+-+Faculdade+Sete+de+Setembro&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiej9re3dfTAhVKGpAKHRwOBPwQ_AUICigB"
+  },
+  "image": "https://braziljs.org/wp-content/themes/braziljs/assets/img/logos/braziljs-00508dcfc4.svg",
+  "shortDescription": "A já tradicional e querida BrazilJS Conf, maior conferência JavaScript do mundo, está de volta a Fortaleza! Dias 01 e 02 de Setembro (logo após a edição de Porto Alegre) na FA7 - Faculdade Sete de Setembro."
 },
 
 {
