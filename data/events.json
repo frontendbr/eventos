@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "WordCamp POA 2017",
-  "date": {
-    "day": "06",
-    "month": "Maio",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://2017.portoalegre.wordcamp.org/",
-  "price": "Em breve",
-  "location": {
-    "city": "Porto Alegre",
-    "state": "RS",
-    "address": "Faculdade Senac",
-    "locationUrl": "https://www.google.com.br/maps/place/Faculdade+Senac+Porto+Alegre/@-30.0362333,-51.2296706,17z/data=!4m8!1m2!2m1!1sRua+Cel.+Genu%C3%ADno,+130+%E2%80%93+Centro+Porto+Alegre+%E2%80%93+RS,+90010-350!3m4!1s0x95197906a9d397f5:0x514b4935e97fbf4d!8m2!3d-30.0352337!4d-51.2265614"
-  },
-  "image": "",
-  "shortDescription": "Destinado a usuários, desenvolvedores ou qualquer entusiasta do WordPress, o WordCamp está de braços abertos para te receber neste dia de intensa programação e confraternização. Te aprochega, tchê!"
-},
-
-{
   "title": "Vale do Carbono Conference 2017",
   "date": {
     "day": "20",
@@ -78,6 +58,26 @@
   },
   "image": "",
   "shortDescription": "É um roadshow itinerante que abandona o velho percurso tradicional de eventos para chegar em todo canto do Brasil. Com 4 anos de estrada e mais de 40 edições, já recebemos mais de 25.000 participantes!"
+},
+
+{
+  "title": "JS Experience 2017",
+  "date": {
+    "day": "22 e 23",
+    "month": "Junho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "ttps://jsexperience2017.imasters.com.br/",
+  "price": "A partir de R$ 195",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Hotel Pullman - Vila Olimpia",
+    "locationUrl": "https://www.google.com.br/maps/place/Hotel+Pullman+Sao+Paulo+Vila+Olimpia/@-23.5956615,-46.6870368,17z/data=!4m5!3m4!1s0x94ce574f3127b917:0x8be45396adb4f0fc!8m2!3d-23.595893!4d-46.684418"
+  },
+  "image": "https://cloud.githubusercontent.com/assets/5203138/25748778/b20bf7d0-3182-11e7-9a14-55f722227d21.jpg",
+  "shortDescription": "O JS Experience 2017 é o primeiro grande evento do iMasters dedicado exclusivamente a Javascript. Serão 2 dias de conteúdo avançado e cerca de 1.000 desenvolvedores para palestras, workshops e diversas ações de networking."
 },
 
 {
