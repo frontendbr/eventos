@@ -101,6 +101,26 @@
 },
 
 {
+  "title": "1° Hangout Frontend RJ",
+  "date": {
+    "day": "07",
+    "month": "Junho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/frontendrj/events/240096866/",
+  "price": "Free",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "address": "Online",
+    "locationUrl": "https://www.youtube.com/watch?v=313XwXcYpKk"
+  },
+  "image": "",
+  "shortDescription": "Neste primeiro meetup teremos um hangout com Vinicius Reis sobre JavaScript em 2017 - Como sobreviver a essa sopa de letrinhas com Vue.js. E também falaremos sobre encontros presenciais que estamos planejando."
+},
+
+{
   "title": "JS Experience 2017",
   "date": {
     "day": "22 e 23",
@@ -108,7 +128,7 @@
     "year": 2017
   },
   "innerLink": "inner.html",
-  "link": "ttps://jsexperience2017.imasters.com.br/",
+  "link": "https://jsexperience2017.imasters.com.br/",
   "price": "A partir de R$ 195",
   "location": {
     "city": "São Paulo",
