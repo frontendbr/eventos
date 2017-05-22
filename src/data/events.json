@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Vale do Carbono Conference 2017",
-  "date": {
-    "day": "20",
-    "month": "Maio",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "http://valedocarbono.org/",
-  "price": "A partir de R$ 90",
-  "location": {
-    "city": "Criciúma",
-    "state": "SC",
-    "address": "Associação Empresarial de Criciúma",
-    "locationUrl": "https://www.google.com.br/maps/place/Associa%C3%A7%C3%A3o+Empresarial+de+Crici%C3%BAma/@-28.6796825,-49.3579432,17z/data=!3m1!4b1!4m5!3m4!1s0x95217888b1705b45:0xb479cb3c236ae722!8m2!3d-28.6796825!4d-49.3557545"
-  },
-  "image": "http://valedocarbono.org/conference/assets/img/logo-vale-do-carbono.svg",
-  "shortDescription": "Com duas trilhas de palestras simultâneas, divididas em Tecnologia e Negócios, os participantes contarão com 14 palestras, ministrados por profissionais vindos de todo o Brasil, e experimentarão in loco do poder transformador que a conexão entre ideias e pessoas pode proporcionar."
-},
-
-{
   "title": "Quarto VueJS SP Meetup",
   "date": {
     "day": "25",
