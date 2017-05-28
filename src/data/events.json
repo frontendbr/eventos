@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Front In Salvador 2017",
-  "date": {
-    "day": "27",
-    "month": "Maio",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "http://frontinssa.com/",
-  "price": "A partir de R$ 45",
-  "location": {
-    "city": "Salvador",
-    "state": "BA",
-    "address": "Faculdade DeVry Ruy Barbosa",
-    "locationUrl": "https://www.google.com.br/maps/place/Rua+Theodomiro+Baptista,+422+-+Rio+Vermelho,+Salvador+-+BA/@-13.0098638,-38.4837851,17z/data=!3m1!4b1!4m5!3m4!1s0x7161cabb962d7c3:0xd7bb3f12fa847e58!8m2!3d-13.0098638!4d-38.4815964?q=Rua+Theodomiro+Batista,+422,+Rio+Vermelho+-+BA&um=1&ie=UTF-8&sa=X&ved=0ahUKEwitrd_8sobTAhXBfpAKHcirAwAQ_AUICCgB"
-  },
-  "image": "",
-  "shortDescription": "O evento tem como objetivo movimentar a comunidade e cultura de Front End. Durante um dia de sábado os participantes do evento irão desfrutar de palestras com os temas mais quentes do mundo Front-End."
-},
-
-{
   "title": "Roadsec - Recife",
   "date": {
     "day": "27",
