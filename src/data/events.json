@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Quarto VueJS SP Meetup",
-  "date": {
-    "day": "25",
-    "month": "Maio",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/VueJS-SP/events/239813833/",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Moip",
-    "locationUrl": "https://www.google.com/maps/place/Av.+Brg.+Faria+Lima,+3064+-+Ch%C3%A1cara+Itaim,+S%C3%A3o+Paulo+-+SP,+Brazil/@-23.5835158,-46.6863465,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5769ec6f7b9f:0xc2e65e8f951aabaa!8m2!3d-23.5835158!4d-46.6841578?f=q&hl=en&q=Av.+Faria+Lima,+3064+-+12%C2%BA+andar,+S%C3%A3o+Paulo,+br"
-  },
-  "image": "https://secure.meetupstatic.com/photos/event/b/c/5/3/global_451188211.jpeg",
-  "shortDescription": "Quarto encontro sobre VueJS rolando aqui em SP, em breve teremos a programação com os temas das palestras."
-},
-
-{
   "title": "Tech Interior 2017",
   "date": {
     "day": "27",
