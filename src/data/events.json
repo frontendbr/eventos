@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Tech Interior 2017",
-  "date": {
-    "day": "27",
-    "month": "Maio",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "http://techinterior.com.br/",
-  "price": "R$ 60",
-  "location": {
-    "city": "Jaboticabal",
-    "state": "SP",
-    "address": "Hotel Recreio São Jorge",
-    "locationUrl": "https://www.google.com.br/maps/place/Hotel+Recreio+S%C3%A3o+Jorge/@-21.2550318,-48.3094533,17z/data=!3m1!4b1!4m5!3m4!1s0x94b96c7f3fbc53ff:0x4f8b3de706b22bc3!8m2!3d-21.2550318!4d-48.3072646"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/25964315/cd7800ea-365a-11e7-8663-28833ee8a14a.png",
-  "shortDescription": "Em 2017 acontece a terceira edição do maior encontro de tecnologia da região na cidade de Jaboticabal no interior de São Paulo. A ideia de realizar um grande evento de tecnologia por aqui surgiu da carência de eventos desta categoria na região."
-},
-
-{
   "title": "Front In Salvador 2017",
   "date": {
     "day": "27",
