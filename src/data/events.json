@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Roadsec - Recife",
-  "date": {
-    "day": "27",
-    "month": "Maio",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "http://roadsec.com.br/recife2017/",
-  "price": "A partir de 40",
-  "location": {
-    "city": "Recife",
-    "state": "PE",
-    "address": "Faculdade dos Guararapes",
-    "locationUrl": "https://www.google.com.br/maps/place/Faculdade+dos+Guararapes/@-8.162124,-34.9188047,17z/data=!3m1!4b1!4m5!3m4!1s0x7aae1c862375f21:0x482634f6ee93ec8d!8m2!3d-8.162124!4d-34.916616"
-  },
-  "image": "",
-  "shortDescription": "É um roadshow itinerante que abandona o velho percurso tradicional de eventos para chegar em todo canto do Brasil. Com 4 anos de estrada e mais de 40 edições, já recebemos mais de 25.000 participantes!"
-},
-
-{
   "title": "React SP #9 - Introdução ao React Native com CRNA",
   "date": {
     "day": "06",
