@@ -41,6 +41,26 @@
 },
 
 {
+  "title": "Full Stack Experience",
+  "date": {
+    "day": "09",
+    "month": "Junho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "http://fsxp.org/",
+  "price": "R$ 150",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Microsoft HQ",
+    "locationUrl": "https://www.google.com.br/maps/place/Microsoft/@-23.60803,-46.6988894,17z/data=!4m8!1m2!2m1!1sAvenida+Na%C3%A7%C3%B5es+Unidas,+12.901+Torre+Norte,+31%C2%BA+S%C3%A3o+Paulo,+SP!3m4!1s0x94ce50cd22bb0037:0xbce55ea4a57cc613!8m2!3d-23.605892!4d-46.696572"
+  },
+  "image": "",
+  "shortDescription": "Nossa essência é ser um encontro único, com curadoria técnica, buscando conectar desenvolvedores e influenciadores de diversas áreas como DevOps, Machine Learning e Javascript (é claro!), num ambiente de aprendizado e troca de conhecimentos."
+},
+
+{
   "title": "JS Experience 2017",
   "date": {
     "day": "22 e 23",
