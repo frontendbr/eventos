@@ -100,6 +100,25 @@
   "shortDescription": "Um evento sobre tecnologia com diversas palestras e minicursos envolvendo as mais diversas áreas, sendo alguma delas: Machine Learning, Infra-estrutura, Programação, Banco de Dados, Segurança da Informação, entre outras. A inscrição é Gratruita sem Coffe-Break ou RR 10,00 com Coffe-Break."
 },
 
+{
+  "title": "React CWB #3",
+  "date": {
+    "day": "21",
+    "month": "Junho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/ReactJS-CWB/events/240181208/",
+  "price": "Free",
+  "location": {
+    "city": "Curitiba",
+    "state": "PR",
+    "address": "Impact Hub",
+    "locationUrl": "https://www.google.com/maps/place/R.+Fernando+Amaro,+60+-+Alto+da+Rua+XV,+Curitiba+-+PR,+80045-080,+Brazil/@-25.4281023,-49.2601672,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce4473b6b056b:0x2b1e1e94c53782ba!8m2!3d-25.4281023!4d-49.2579785?f=q&hl=en&q=R.+Fernando+Amaro,+60+-+Alto+da+Rua+XV,+Curitiba+-+PR,+Curitiba,+br"
+  },
+  "image": "https://secure.meetupstatic.com/photos/event/7/4/7/1/global_458909809.jpeg",
+  "shortDescription": "Venha aprender e discutir conosco sobre React e o ecossistema que cerca essa ferramenta incrível!"
+},
 
 {
   "title": "JS Experience 2017",
