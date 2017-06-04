@@ -101,6 +101,26 @@
 },
 
 {
+  "title": "1° Meetup Frontend RJ",
+  "date": {
+    "day": "14",
+    "month": "Junho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/frontendrj/events/240273739/",
+  "price": "Gratuito",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "address": "MundiPagg",
+    "locationUrl": "https://www.google.com.br/maps/place/Av.+Gen.+Justo,+375+-+Centro,+Rio+de+Janeiro+-+RJ,+20021-130/@-22.9072867,-43.1709332,17z/data=!3m1!4b1!4m5!3m4!1s0x9981e721f70f99:0x353d209da598ffd!8m2!3d-22.9072867!4d-43.1687445"
+  },
+  "image": "https://secure.meetupstatic.com/photos/event/b/a/5/5/global_461207701.jpeg",
+  "shortDescription": "O Frontend RJ tem o objetivo de unir pessoas ligada ao mundo de desenvolvimento web e front-end em geral para poder compartilhar conhecimento e fazer networking entre os membros da comunidade do RJ. Teremos algumas palestras que serão divulgadas na página do meetup."
+},
+
+{
   "title": "React CWB #3",
   "date": {
     "day": "21",
