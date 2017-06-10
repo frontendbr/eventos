@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "React SP #9 - Introdução ao React Native com CRNA",
-  "date": {
-    "day": "06",
-    "month": "Junho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/ReactJS-SP/events/240212915/?eventId=240212915",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Natura",
-    "locationUrl": "https://www.google.com.br/maps/place/Rua+Werner+Von+Siemens,+101+-+Lapa+de+Baixo,+S%C3%A3o+Paulo+-+SP/@-23.5130511,-46.7114632,17z/data=!3m1!4b1!4m5!3m4!1s0x94cef8f58b6b1945:0xd5a679e0781ef784!8m2!3d-23.5130511!4d-46.7092745"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/6207220/24551997/2574f6fc-15fb-11e7-9e22-e71a22a5c108.png",
-  "shortDescription": "Nessa talk vamos falar sobre como começar à desenvolver um app usando React Native com o mínimo de configuração ou fazer um protótipo rápido usando o create-react-native-app."
-},
-
-{
   "title": "1° Hangout Frontend RJ",
   "date": {
     "day": "07",
