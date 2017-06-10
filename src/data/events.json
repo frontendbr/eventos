@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Campinas Front-end Meetup #14",
-  "date": {
-    "day": "10",
-    "month": "Junho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/240449219/",
-  "price": "Free",
-  "location": {
-    "city": "Campinas",
-    "state": "SP",
-    "address": "Superlógica Labs",
-    "locationUrl": "https://www.google.com.br/maps/place/R.+Joaquim+Vilac,+501+-+Vila+Teixeira,+Campinas+-+SP,+13032-385/@-22.9063631,-47.0866361,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8c89a5ec9705d:0xe4a9d2ee3bf89577!8m2!3d-22.9063631!4d-47.0844474"
-  },
-  "image": "https://secure.meetupstatic.com/photos/event/c/2/7/6/global_460009782.jpeg",
-  "shortDescription": "No dia 10/06 realizaremos a 14ª edição do Campinas Front-end Meetup. As inscrições começam a partir do dia 02/06 as 10h da manhã e irão até 09/06. Patrícia Silva apresentará a palestra: Faça de seu website uma experiência mágica de alta velocidade com AMP."
-},
-
-{
   "title": "TechDay V",
   "date": {
     "day": "13",
