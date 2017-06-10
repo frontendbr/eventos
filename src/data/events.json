@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "1° Hangout Frontend RJ",
-  "date": {
-    "day": "07",
-    "month": "Junho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/frontendrj/events/240096866/",
-  "price": "Free",
-  "location": {
-    "city": "Rio de Janeiro",
-    "state": "RJ",
-    "address": "Online",
-    "locationUrl": "https://www.youtube.com/watch?v=313XwXcYpKk"
-  },
-  "image": "",
-  "shortDescription": "Neste primeiro meetup teremos um hangout com Vinicius Reis sobre JavaScript em 2017 - Como sobreviver a essa sopa de letrinhas com Vue.js. E também falaremos sobre encontros presenciais que estamos planejando."
-},
-
-{
   "title": "Full Stack Experience",
   "date": {
     "day": "09",
