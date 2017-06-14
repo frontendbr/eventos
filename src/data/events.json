@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "TechDay V",
-  "date": {
-    "day": "13",
-    "month": "Junho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.fatecbauru.edu.br/techday/",
-  "price": "R$ 10 com Coffe",
-  "location": {
-    "city": "Bauru",
-    "state": "SP",
-    "address": "FATEC",
-    "locationUrl": "https://www.google.com.br/maps/place/FATEC+-+Faculdade+de+Tecnologia+de+Bauru/@-22.3294263,-49.076178,17z/data=!3m1!4b1!4m5!3m4!1s0x94bf67a8fb520e6f:0xa3f3024b37620558!8m2!3d-22.3294263!4d-49.0739893"
-  },
-  "image": "",
-  "shortDescription": "Um evento sobre tecnologia com diversas palestras e minicursos envolvendo as mais diversas áreas, sendo alguma delas: Machine Learning, Infra-estrutura, Programação, Banco de Dados, Segurança da Informação, entre outras. A inscrição é Gratruita sem Coffe-Break ou RR 10,00 com Coffe-Break."
-},
-
-{
   "title": "1° Meetup Frontend RJ",
   "date": {
     "day": "14",
