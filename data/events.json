@@ -203,21 +203,42 @@
 {
   "title": "FrontInBH 2K17",
   "date": {
-    "day": "07",
-    "month": "Outubro",
+    "day": "23",
+    "month": "Setembro",
     "year": 2017
   },
   "innerLink": "inner.html",
   "link": "http://frontinbh.com.br/",
   "price": "A partir de R$ 90",
   "location": {
-    "city": "",
-    "state": "",
-    "address": "",
-    "locationUrl": ""
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "address": "Teatro Ney Soares",
+    "locationUrl": "https://www.google.com.br/maps/place/Teatro+Professor+Ney+Soares+-+R.+Diamantina,+463+-+Lagoinha,+31110-150/@-19.9079062,-43.9415585,14z/data=!4m2!3m1!1s0xa69a004df830bd:0x9742c3e372cb7e44"
   },
   "image": "http://www.theandersonn.com/wp-content/themes/theandersonn/assets/images/logotypes/front-in-bh-logo-2017-black.svg",
   "shortDescription": "O Front in BH nasceu da necessidade de fortalecer a comunidade Front-end local, através de um circuito de palestras focado em promover o relacionamento e a integração entre os profissionais de Front-end e das áreas a afins."
+},
+
+{
+  "title": "React Conf Brasil 2017",
+  "date": {
+    "day": "07",
+    "month": "Outubro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "http://reactconfbr.com.br/",
+  "price": "Consultar",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "",
+    "locationUrl": ""
+  },
+  "image": "",
+  "shortDescription": "A primeira React Conf da América Latina é no Brasil. Inspirados nas conferências dos Estados Unidos e Europa, queremos reunir em um único dia o bleeding edge dos desenvolvedores e empresas de tecnologia, com um único propósito: move foward."
 }
+
 
 ]
