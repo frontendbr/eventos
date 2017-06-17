@@ -81,6 +81,26 @@
 },
 
 {
+  "title": "JSDay Feira de Santana 2017",
+  "date": {
+    "day": "15",
+    "month": "Julho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "http://fsa.jsday.com.br/",
+  "price": "A partir de R$ 100",
+  "location": {
+    "city": "Feira de Santana",
+    "state": "BA",
+    "address": "FTC",
+    "locationUrl": "https://www.google.com.br/maps/place/FTC+-+Faculdade+de+Tecnologia+e+Ci%C3%AAncias,+Feira+de+Santana/@-12.2468695,-38.9268951,17z/data=!3m1!4b1!4m5!3m4!1s0x714379ad05d23f9:0xdd45d4243737b427!8m2!3d-12.2468695!4d-38.9247064"
+  },
+  "image": "",
+  "shortDescription": "Serão 08 horas de evento, onde teremos palestras de especialistas locais e internacionais, e palestras que serão selecionadas através de Call for Papers. Durante as palestras haverá uma Hackathon com um tema surpresa e os vencedores levarão brindes especiais. Teremos mais 4 workshops."
+},
+
+{
   "title": "DevParaná Conference 2017",
   "date": {
     "day": "22",
