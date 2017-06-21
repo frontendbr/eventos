@@ -61,6 +61,26 @@
 },
 
 {
+  "title": "Projetos de Software - 1ª Temporada 2017",
+  "date": {
+    "day": "23 e 24",
+    "month": "Junho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.sympla.com.br/projetos-de-software---1-temporada-2017---dia-2306-e-2406__155283",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Escola SENAI de Informática",
+    "locationUrl": "https://www.google.com.br/maps/place/Escola+SENAI+de+Inform%C3%A1tica/@-23.5365517,-46.6484913,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5843deb99025:0xb23619858bc7e63e!8m2!3d-23.5365517!4d-46.6463026"
+  },
+  "image": "https://user-images.githubusercontent.com/1044034/27347595-78141a12-55c7-11e7-9a5f-e268d5390d66.png",
+  "shortDescription": "Vamos abordar linguagens novas, dicas, live coding, lightning talk, VR e outros temas atuais que fazem parte do nosso dia a dia na tecnologia. Evento pra todos os públicos!"
+},
+
+{
   "title": "MeetupCSS #25",
   "date": {
     "day": "27",
