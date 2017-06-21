@@ -61,6 +61,26 @@
 },
 
 {
+  "title": "Projetos de Software - 1ª Temporada 2017",
+  "date": {
+    "day": "23 e 24",
+    "month": "Junho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.sympla.com.br/projetos-de-software---1-temporada-2017---dia-2306-e-2406__155283",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Escola SENAI de Informática",
+    "locationUrl": "https://www.google.com.br/maps/place/Escola+SENAI+de+Inform%C3%A1tica/@-23.5365517,-46.6484913,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5843deb99025:0xb23619858bc7e63e!8m2!3d-23.5365517!4d-46.6463026"
+  },
+  "image": "https://user-images.githubusercontent.com/1044034/27347595-78141a12-55c7-11e7-9a5f-e268d5390d66.png",
+  "shortDescription": "Vamos abordar linguagens novas, dicas, live coding, lightning talk, VR e outros temas atuais que fazem parte do nosso dia a dia na tecnologia. Evento pra todos os públicos!"
+},
+
+{
   "title": "MeetupCSS #25",
   "date": {
     "day": "27",
@@ -78,6 +98,26 @@
   },
   "image": "https://cloud.githubusercontent.com/assets/5203138/18520666/2f3e209a-7a7f-11e6-812a-98d14870ba34.png",
   "shortDescription": "Vamos para a edição 25 do nosso Meetup CSS, sendo um dos eventos de mais uma Front-End Week em São Paulo! Vai rolar palestra com Sérgio Lopes e Zeno Rocha."
+},
+
+{
+  "title": "19º Encontro Locaweb SP",
+  "date": {
+    "day": "28",
+    "month": "Junho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://eventos.locaweb.com.br/proximos-eventos/19o-encontro-locaweb-sao-paulo/#inscrevase",
+  "price": "A partir de R$ 150",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "FecomercioSP",
+    "locationUrl": "https://www.google.com.br/maps/place/FecomercioSP/@-23.5579696,-46.6545049,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59ca152fdc01:0x1306382599ff1741!8m2!3d-23.5579696!4d-46.6523162"
+  },
+  "image": "https://user-images.githubusercontent.com/4412692/27344112-975b9cda-55bb-11e7-96db-468d1d3757b4.jpg",
+  "shortDescription": "A 19º edição do roadshow Encontro Locaweb tem como objetivo levar conteúdo de qualidade e promover networking para mais de 3000 profissionais de internet e empreendedores nas cidades de Belo Horizonte, Recife, Curitiba, Porto Alegre e São Paulo. Use o cupom **PRC_frontendbr** e ganhe 50% de desconto (válido na compra de ingresso de valor cheio R$200,00)"
 },
 
 {
