@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Projetos de Software - 1ª Temporada 2017",
-  "date": {
-    "day": "23 e 24",
-    "month": "Junho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.sympla.com.br/projetos-de-software---1-temporada-2017---dia-2306-e-2406__155283",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Escola SENAI de Informática",
-    "locationUrl": "https://www.google.com.br/maps/place/Escola+SENAI+de+Inform%C3%A1tica/@-23.5365517,-46.6484913,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5843deb99025:0xb23619858bc7e63e!8m2!3d-23.5365517!4d-46.6463026"
-  },
-  "image": "https://user-images.githubusercontent.com/1044034/27347595-78141a12-55c7-11e7-9a5f-e268d5390d66.png",
-  "shortDescription": "Vamos abordar linguagens novas, dicas, live coding, lightning talk, VR e outros temas atuais que fazem parte do nosso dia a dia na tecnologia. Evento pra todos os públicos!"
-},
-
-{
   "title": "MeetupCSS #25",
   "date": {
     "day": "27",
@@ -78,6 +58,26 @@
   },
   "image": "https://secure.meetupstatic.com/photos/event/b/a/5/5/global_461207701.jpeg",
   "shortDescription": "Neste meetup teremos a presença do Andrey Sitnik (Autor do PostCSS e Autoprefixer), ele está no Rio de Janeiro e quer conhecer o comunidade de front local, e fazer uma palestra para nós, por isso este espaço de tempo tão curto entre um meetup e outro."
+},
+
+{
+  "title": "React SP 10",
+  "date": {
+    "day": "30",
+    "month": "Junho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/ReactJS-SP/events/240424358/",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Giganti",
+    "locationUrl": "https://www.google.com/maps/place/Av.+das+Na%C3%A7%C3%B5es+Unidas,+18801+-+Santo+Amaro,+S%C3%A3o+Paulo+-+SP,+04795-100,+Brazil/@-23.6532554,-46.7226348,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce510840802017:0x78c3e544518417b6!8m2!3d-23.6532554!4d-46.7204461?hl=en"
+  },
+  "image": "https://secure.meetupstatic.com/photos/event/c/d/5/c/global_455272572.jpeg",
+  "shortDescription": "Na Talk Fernando Daciuk mostrará o que é a Context API, quais problemas ela resolve, os GAPs, e como utilizá-la com segurança em nossas aplicações React."
 },
 
 {
@@ -139,6 +139,27 @@
   "image": "http://www.devparana.org/conf/themes/devparana-conf-2017/img/logo-black.png",
   "shortDescription": "8 palestras, 4 convidados (Loiane Groner, Otávio Santana, Alê Borba e Jeferson Noronha) + 4 palestras escolhidas por call4papers."
 },
+
+{
+  "title": "Android DevConference 2017",
+  "date": {
+    "day": "23, 24 e 25",
+    "month": "Agosto",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://eventos.imasters.com.br/android-devconference",
+  "price": "A partir de R$ 180",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Hotel Pullman Vila Olimpia",
+    "locationUrl": "https://www.google.com.br/maps/place/Hotel+Pullman+Sao+Paulo+Vila+Olimpia/@-23.5956615,-46.6870368,17z/data=!4m5!3m4!1s0x94ce574f3127b917:0x8be45396adb4f0fc!8m2!3d-23.595893!4d-46.684418"
+  },
+  "image": "",
+  "shortDescription": "O Android DevConference 2017 reúne cerca de 1.200 desenvolvedores em São Paulo, para palestras nacionais e internacionais, workshops, áreas de comunidade, salão de negócios e diversas ações de networking, divididos em três dias de muito conteúdo."
+},
+
 
 {
   "title": "BrazilJS Conf 2017",
@@ -238,7 +259,26 @@
   },
   "image": "http://reactconfbr.com.br/assets/images/social.png",
   "shortDescription": "A primeira React Conf da América Latina é no Brasil. Inspirados nas conferências dos Estados Unidos e Europa, queremos reunir em um único dia o bleeding edge dos desenvolvedores e empresas de tecnologia, com um único propósito: move foward."
-}
+},
 
+{
+  "title": "InterCon 2017",
+  "date": {
+    "day": "20 e 21",
+    "month": "Outubro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://eventos.imasters.com.br/intercon",
+  "price": "Em Breve",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "WTC Events Center",
+    "locationUrl": "https://www.google.com.br/maps/place/WORLD+TRADE+CENTER+DE+S%C3%83O+PAULO/@-23.6086142,-46.6993606,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce50cd27fba56d:0x66cfe4aa61ec7a3a!8m2!3d-23.6086142!4d-46.6971719?hl=pt-BR"
+  },
+  "image": "",
+  "shortDescription": "Em sua 15ª edição e cada vez mais focado em desenvolvimento web de alto nível, o InterCon reunirá 1.800 developers em 3 grandes auditórios, uma maratona hacker, fablab, community spaces e diversos espaços simultâneos, se posicionando como a maior conferência dev da América Latina."
+}
 
 ]
