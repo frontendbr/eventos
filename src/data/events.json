@@ -218,7 +218,26 @@
   },
   "image": "http://reactconfbr.com.br/assets/images/social.png",
   "shortDescription": "A primeira React Conf da América Latina é no Brasil. Inspirados nas conferências dos Estados Unidos e Europa, queremos reunir em um único dia o bleeding edge dos desenvolvedores e empresas de tecnologia, com um único propósito: move foward."
-}
+},
 
+{
+  "title": "InterCon 2017",
+  "date": {
+    "day": "20 e 21",
+    "month": "Outubro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://eventos.imasters.com.br/intercon",
+  "price": "Em Breve",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "WTC Events Center",
+    "locationUrl": "https://www.google.com.br/maps/place/WORLD+TRADE+CENTER+DE+S%C3%83O+PAULO/@-23.6086142,-46.6993606,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce50cd27fba56d:0x66cfe4aa61ec7a3a!8m2!3d-23.6086142!4d-46.6971719?hl=pt-BR"
+  },
+  "image": "",
+  "shortDescription": "Em sua 15ª edição e cada vez mais focado em desenvolvimento web de alto nível, o InterCon reunirá 1.800 developers em 3 grandes auditórios, uma maratona hacker, fablab, community spaces e diversos espaços simultâneos, se posicionando como a maior conferência dev da América Latina."
+}
 
 ]
