@@ -141,6 +141,27 @@
 },
 
 {
+  "title": "Android DevConference 2017",
+  "date": {
+    "day": "23, 24 e 25",
+    "month": "Agosto",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://eventos.imasters.com.br/android-devconference",
+  "price": "A partir de R$ 180",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Hotel Pullman Vila Olimpia",
+    "locationUrl": "https://www.google.com.br/maps/place/Hotel+Pullman+Sao+Paulo+Vila+Olimpia/@-23.5956615,-46.6870368,17z/data=!4m5!3m4!1s0x94ce574f3127b917:0x8be45396adb4f0fc!8m2!3d-23.595893!4d-46.684418"
+  },
+  "image": "",
+  "shortDescription": "O Android DevConference 2017 reúne cerca de 1.200 desenvolvedores em São Paulo, para palestras nacionais e internacionais, workshops, áreas de comunidade, salão de negócios e diversas ações de networking, divididos em três dias de muito conteúdo."
+},
+
+
+{
   "title": "BrazilJS Conf 2017",
   "date": {
     "day": "25 e 26",
