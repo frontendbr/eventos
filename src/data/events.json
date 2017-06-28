@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "MeetupCSS #25",
-  "date": {
-    "day": "27",
-    "month": "Junho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/CSS-SP/events/239847887/",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Cubo",
-    "locationUrl": "https://www.google.com/maps/place/R.+Casa+do+Ator,+919+-+Vila+Olimpia,+S%C3%A3o+Paulo+-+SP,+04546-003,+Brazil/@-23.5977319,-46.6843749,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce574e7bd03c45:0xd2dbb6a949696039!8m2!3d-23.5977319!4d-46.6821862?f=q&hl=en&q=R.+Casa+do+Ator,+919+Vila+Ol%C3%ADmpia+S%C3%A3o+Paulo,+SP+04546-003+,+S%C3%A3o+Paulo,+br"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/5203138/18520666/2f3e209a-7a7f-11e6-812a-98d14870ba34.png",
-  "shortDescription": "Vamos para a edição 25 do nosso Meetup CSS, sendo um dos eventos de mais uma Front-End Week em São Paulo! Vai rolar palestra com Sérgio Lopes e Zeno Rocha."
-},
-
-{
   "title": "19º Encontro Locaweb SP",
   "date": {
     "day": "28",
