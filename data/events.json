@@ -1,46 +1,6 @@
 [
 
 {
-  "title": "19º Encontro Locaweb SP",
-  "date": {
-    "day": "28",
-    "month": "Junho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://eventos.locaweb.com.br/proximos-eventos/19o-encontro-locaweb-sao-paulo/#inscrevase",
-  "price": "A partir de R$ 150",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "FecomercioSP",
-    "locationUrl": "https://www.google.com.br/maps/place/FecomercioSP/@-23.5579696,-46.6545049,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59ca152fdc01:0x1306382599ff1741!8m2!3d-23.5579696!4d-46.6523162"
-  },
-  "image": "https://user-images.githubusercontent.com/4412692/27344112-975b9cda-55bb-11e7-96db-468d1d3757b4.jpg",
-  "shortDescription": "A 19º edição do roadshow Encontro Locaweb tem como objetivo levar conteúdo de qualidade e promover networking para mais de 3000 profissionais de internet e empreendedores nas cidades de Belo Horizonte, Recife, Curitiba, Porto Alegre e São Paulo. Use o cupom **PRC_frontendbr** e ganhe 50% de desconto (válido na compra de ingresso de valor cheio R$200,00)"
-},
-
-{
-  "title": "2° Meetup Frontend RJ",
-  "date": {
-    "day": "28",
-    "month": "Junho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/frontendrj/events/240858040/",
-  "price": "Free",
-  "location": {
-    "city": "Rio de Janeiro",
-    "state": "RJ",
-    "address": "MundiPagg",
-    "locationUrl": "https://www.google.com.br/maps/place/Av.+Gen.+Justo,+375+-+Centro,+Rio+de+Janeiro+-+RJ,+20021-130/@-22.9072867,-43.1709332,17z/data=!3m1!4b1!4m5!3m4!1s0x9981e721f70f99:0x353d209da598ffd!8m2!3d-22.9072867!4d-43.1687445"
-  },
-  "image": "https://secure.meetupstatic.com/photos/event/b/a/5/5/global_461207701.jpeg",
-  "shortDescription": "Neste meetup teremos a presença do Andrey Sitnik (Autor do PostCSS e Autoprefixer), ele está no Rio de Janeiro e quer conhecer o comunidade de front local, e fazer uma palestra para nós, por isso este espaço de tempo tão curto entre um meetup e outro."
-},
-
-{
   "title": "React SP 10",
   "date": {
     "day": "30",
