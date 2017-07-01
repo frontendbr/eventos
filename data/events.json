@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "React SP 10",
-  "date": {
-    "day": "30",
-    "month": "Junho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/ReactJS-SP/events/240424358/",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Giganti",
-    "locationUrl": "https://www.google.com/maps/place/Av.+das+Na%C3%A7%C3%B5es+Unidas,+18801+-+Santo+Amaro,+S%C3%A3o+Paulo+-+SP,+04795-100,+Brazil/@-23.6532554,-46.7226348,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce510840802017:0x78c3e544518417b6!8m2!3d-23.6532554!4d-46.7204461?hl=en"
-  },
-  "image": "https://secure.meetupstatic.com/photos/event/c/d/5/c/global_455272572.jpeg",
-  "shortDescription": "Na Talk Fernando Daciuk mostrará o que é a Context API, quais problemas ela resolve, os GAPs, e como utilizá-la com segurança em nossas aplicações React."
-},
-
-{
   "title": "Front in Sampa 2017",
   "date": {
     "day": "01",
