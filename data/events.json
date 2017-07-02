@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Front in Sampa 2017",
-  "date": {
-    "day": "01",
-    "month": "Julho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "http://www.frontinsampa.com.br/",
-  "price": "A partir de R$ 90",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Teatro do hotel Maksoud Plaza",
-    "locationUrl": "https://www.google.com/maps/place/Teatro+Maksoud+Plaza/@-23.5631973,-46.6533364,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59c7f895c915:0x6bd71858382f31fc!8m2!3d-23.5631973!4d-46.6511477"
-  },
-  "image": "https://cloud.githubusercontent.com/assets/1714296/21594300/23f7a5d2-d108-11e6-8b31-30dd197a40b3.png",
-  "shortDescription": "Devido ao feedback tão positivo do pessoal sobre o evento no Teatro... do Colégio Maria Imaculada, no bairro do Paraíso, decidimos realizar o Frontinsampa 2017 novamente no local, mas... devido algumas solicitações e a necessidade de um lugar maior e com uma infraestrutura melhor, mudamos novamente e escolhemos o Teatro do hotel Maksoud Plaza, que está localizado a uma quadra da Paulista, a avenida mais importante de São Paulo, e próximo à efervescente vida cultural e gastronômica da capital paulistana."
-},
-
-{
   "title": "JSDay Feira de Santana 2017",
   "date": {
     "day": "15",
