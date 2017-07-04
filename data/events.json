@@ -41,6 +41,26 @@
 },
 
 {
+  "title": "4° Frontend São Paulo Meetup",
+  "date": {
+    "day": "27",
+    "month": "Julho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/Frontend-Dev-SP-Meetup/events/241021329/",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "VivaReal",
+    "locationUrl": "https://www.google.com.br/maps/place/VivaReal/@-23.5534103,-46.6597479,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5833a475809d:0x1b906aed6c87a2da!8m2!3d-23.5534103!4d-46.6575592?q=VivaReal+-+R.+Bela+Cintra,+539+-+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo+-+SP&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjLusiYv-7UAhUCx5AKHRSuBYoQ_AUICigB"
+  },
+  "image": "https://image.ibb.co/eDJSsk/FRONTENDSa_o_Paulo_Meetup_2.png",
+  "shortDescription": "Talks sobre Carreiras Web, como funciona o Browser e JS antes de escolher um framework!"
+},
+
+{
   "title": "Android DevConference 2017",
   "date": {
     "day": "23, 24 e 25",
