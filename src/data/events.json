@@ -61,6 +61,26 @@
 },
 
 {
+  "title": "CSSday Maceió",
+  "date": {
+    "day": "12",
+    "month": "Agosto",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.eventbrite.com.br/e/cssday-2017-registration-35964516838",
+  "price": "R$ 25",
+  "location": {
+    "city": "Maceió",
+    "state": "AL",
+    "address": "Centro Universitário Tiradentes",
+    "locationUrl": "https://www.google.com.br/maps/place/UNIT+-+Centro+Universit%C3%A1rio+Tiradentes/@-9.6340055,-35.7037779,15z/data=!4m5!3m4!1s0x0:0xea461a1e1fec7f30!8m2!3d-9.6340055!4d-35.7037779?shorturl=1"
+  },
+  "image": "",
+  "shortDescription": "Venha participar do CSSday 2017 e se aventure em um dia imersivo com tópicos relacionados à Desenvolvimento Web com ênfase em CSS, tais como: Acessibilidade, Animação, CSS Grids, Pré-processadores, Propriedades customizadas e muito mais."
+},
+
+{
   "title": "Android DevConference 2017",
   "date": {
     "day": "23, 24 e 25",
