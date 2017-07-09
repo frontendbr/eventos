@@ -239,6 +239,26 @@
   },
   "image": "",
   "shortDescription": "Em sua 15ª edição e cada vez mais focado em desenvolvimento web de alto nível, o InterCon reunirá 1.800 developers em 3 grandes auditórios, uma maratona hacker, fablab, community spaces e diversos espaços simultâneos, se posicionando como a maior conferência dev da América Latina."
+},
+
+{
+  "title": "Web.br 2017",
+  "date": {
+    "day": "24 e 25",
+    "month": "Outubro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "http://conferenciaweb.w3c.br/",
+  "price": "A partir de R$ 130",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Maksoud Plaza",
+    "locationUrl": "https://www.google.com.br/maps/place/Maksoud+Plaza+Hotel+Distributed+by+AccorHotels/@-23.5632864,-46.6533244,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59b80265c569:0x5ee7a8ebd0a1ac93!8m2!3d-23.5632864!4d-46.6511357"
+  },
+  "image": "https://user-images.githubusercontent.com/5203138/27996574-5cfd810c-64bb-11e7-9fae-22eb24146970.png",
+  "shortDescription": "A conferência Webbr2017 acontecerá nos dias 24 e 25 de outubro e promoverá discussões que buscam Transcender a Web"
 }
 
 ]
