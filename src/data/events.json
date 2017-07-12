@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "6º Meetup de Node.js",
-  "date": {
-    "day": "11",
-    "month": "Julho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/Node-js-Porto-Alegre-Meetup/events/240055229/",
-  "price": "Free",
-  "location": {
-    "city": "Porto Alegre",
-    "state": "RS",
-    "address": "ilegra",
-    "locationUrl": "https://www.google.com/maps/place/Rua+Washington+Luiz,+820+-+Centro,+Porto+Alegre+-+RS,+90010-460,+Brazil/@-30.0366595,-51.2343594,17z/data=!3m1!4b1!4m5!3m4!1s0x9519791b4e623965:0x9219d902e33290b9!8m2!3d-30.0366595!4d-51.2321707?f=q&hl=en&q=Rua:+Washington+Luis,+820+-+Centro+Hist%C3%B3rico,+Porto+Alegre,+br"
-  },
-  "image": "https://user-images.githubusercontent.com/5203138/27959945-d98fe54c-62ff-11e7-96f0-ee83d28c010e.jpeg",
-  "shortDescription": "Já temos data e local definidos para o nosso encontro. O 6º Meetup de Node.js vai ser na Ilegra, no dia 11 de Julho, às 19hs."
-},
-
-{
   "title": "JSDay Feira de Santana 2017",
   "date": {
     "day": "15",
