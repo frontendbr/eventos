@@ -1,109 +1,109 @@
 //
 // Event
-// 
+//
 // 1. Media
 // 2. Main
 // 3. List
 //
 // --------------------------------------------------
-  
-.event 
+
+.event
     background-color #fff
     display flex
     padding $space-lg $space
     flex-direction column
-    
-    +above('xs') 
+
+    +above('xs')
         flex-direction row
-    
-    &:not(:last-child)  
+
+    &:not(:last-child)
         border-bottom solid 1px rgba($gray, .2)
         margin-bottom $space-md
-    
-      
-    // Types    
+
+
+    // Types
     // --------------------------------------------------
-      
-    .title 
-        font(h2, bold) 
+
+    .title
+        font(h2, bold)
         margin-bottom $space
-        
+
     .icon
         fill $gray-light
         margin-right $space-xs
-        
-    .btn-link 
+
+    .btn-link
         color $brand-primary
         margin-top $space
-        
-    .content 
-        &:hover
-        &:focus 
-            text-decoration underline
-    
+        word-break break-all
 
-// 
+    .content
+        &:hover
+        &:focus
+            text-decoration underline
+
+
+//
 // 1. Media
 // --------------------------------------------------
 
-.event-media 
+.event-media
     align-items center
     display flex
     justify-content center
-    transition opacity .1s  
+    transition opacity .1s
 
     +below('xs')
-        margin-bottom $space-md 
+        margin-bottom $space-md
         width 100%
 
-    +above('sm') 
-        grid-space() 
-        lost-column 2/7 flex 
-       
-    
+    +above('sm')
+        grid-space()
+        lost-column 2/7 flex
+
+
     a&:hover
-    a&:focus 
+    a&:focus
         opacity .6
-        
+
     img
         +below('xs')
             max-width 50%
-   
 
-// 
+
+//
 // 2. Main
 // --------------------------------------------------
 
 .event-main
-    +above('sm') 
-        grid-space()  
-        lost-column 5/7 flex 
-            
+    +above('sm')
+        grid-space()
+        lost-column 5/7 flex
 
-// 
+
+//
 // 3. List
 // --------------------------------------------------
 
-.event-list 
+.event-list
     reset(list)
     font(p2)
-    display flex  
-    flex-direction column 
+    display flex
+    flex-direction column
     margin-top $space-md
 
-    +above('lg') 
+    +above('lg')
         flex-direction row
 
 
 .event-list--item
-    &:not(:last-child) 
-        margin-bottom $space-xs 
-        
-        +above('lg') 
-            margin-right $space 
-            
-            &:last-child  
-                lost-column 4/7 flex 
+    &:not(:last-child)
+        margin-bottom $space-xs
+
+        +above('lg')
+            margin-right $space
+
+            &:last-child
+                lost-column 4/7 flex
 
 
-     
