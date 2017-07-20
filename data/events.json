@@ -61,6 +61,26 @@
 },
 
 {
+  "title": "4° Ember-SP",
+  "date": {
+    "day": "27",
+    "month": "Julho",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/spember/events/241787163/",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Creditas",
+    "locationUrl": "https://www.google.com/maps/place/Av.+Engenheiro+Lu%C3%ADs+Carlos+Berrini,+105+-+Itaim+Bibi,+S%C3%A3o+Paulo+-+SP,+04571-010,+Brazil/@-23.5984776,-46.6921556,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5737cb7c021b:0xc41a79696971421d!8m2!3d-23.5984776!4d-46.6899669?f=q&hl=en&q=Av.+Engenheiro+Luis+Carlos+Berrini,+105+-+11%C2%BA+andar.,+S%C3%A3o+Paulo,+br"
+  },
+  "image": "",
+  "shortDescription": "Primeiro evento da comunidade Ember.js este ano! Venha ajudar a montar e organizar a comunidade."
+},
+
+{
   "title": "CSSday Maceió",
   "date": {
     "day": "12",
