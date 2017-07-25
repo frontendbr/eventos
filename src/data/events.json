@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Code in the Dark - Recife",
-  "date": {
-    "day": "23",
-    "month": "Julho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.facebook.com/events/283898428739189/?ref=br_rs",
-  "price": "Free",
-  "location": {
-    "city": "Recife",
-    "state": "PE",
-    "address": "Estelita",
-    "locationUrl": "https://www.google.com.br/maps/place/Av.+Saturnino+de+Brito,+385+-+S%C3%A3o+Jos%C3%A9,+Recife+-+PE,+50090-310/@-8.0790471,-34.8949286,17z/data=!3m1!4b1!4m5!3m4!1s0x7ab1f31821cb199:0xda0ef5a5be91b2f3!8m2!3d-8.0790471!4d-34.8927399"
-  },
-  "image": "",
-  "shortDescription": "Code in the Dark é uma competição de front-end (HTML, CSS), onde cada participante compete para implementar um site a partir de apenas uma image."
-},
-
-{
   "title": "4° Frontend São Paulo Meetup",
   "date": {
     "day": "27",
