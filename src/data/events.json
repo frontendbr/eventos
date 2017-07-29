@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "11° FEMUG PE",
-  "date": {
-    "day": "28",
-    "month": "Julho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.sympla.com.br/femug-pe-11__168083",
-  "price": "Free",
-  "location": {
-    "city": "Recife",
-    "state": "PE",
-    "address": "CESAR",
-    "locationUrl": "https://www.google.com.br/maps/place/R.+Bione,+220+-+Recife,+PE,+50030-390/@-8.0582591,-34.8741051,17z/data=!3m1!4b1!4m5!3m4!1s0x7ab18a298249a2d:0xed6b97ded984c6ee!8m2!3d-8.0582591!4d-34.8719164?q=Rua+Bione,+220,+Bairro+do+Recife+Recife,+PE&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjXgevf9J3VAhXBUZAKHSvaCV0Q_AUICigB"
-  },
-  "image": "",
-  "shortDescription": "Front-End Meet-Up Group é um projeto que nasceu da necessidade de unir os desenvolvedores para que o acesso à informação seja feito em qualquer lugar que haja interesse do aprendizado. Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos."
-},
-
-{
   "title": "CSSday Maceió",
   "date": {
     "day": "12",
