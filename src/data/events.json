@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Geek Night Recife",
-  "date": {
-    "day": "27",
-    "month": "Julho",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://geeknightrecife.github.io/",
-  "price": "Free",
-  "location": {
-    "city": "Recife",
-    "state": "PE",
-    "address": "ThoughtWorks",
-    "locationUrl": "https://www.google.com.br/maps/place/ThoughtWorks+Brazil/@-8.064856,-34.896807,15z/data=!4m5!3m4!1s0x0:0x6d2882b29fde67a4!8m2!3d-8.064856!4d-34.896807?sa=X&ved=0ahUKEwjKy9fNtMbKAhVLXR4KHdkCBTQQ_BIIgQEwDQ"
-  },
-  "image": "",
-  "shortDescription": "A Geek Night é um encontro informal mensal onde escolhemos e discutimos sobre um tópico de tecnologia relevante/interessante. Esperamos criar um espaço para discussão de idéias, tecnologias e técnicas no campo do desenvolvimento de software. Pode ser um grupo de pessoas trabalhando em um projeto open source ou trazer seu próprio projeto para trabalharmos."
-},
-
-{
   "title": "4° Frontend São Paulo Meetup",
   "date": {
     "day": "27",
