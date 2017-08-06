@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "FEMUG-MGA #6 - FCV",
-  "date": {
-    "day": "05",
-    "month": "Agosto",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/femugmga/events/242049798/?a=socialmedia&_locale=pt-BR",
-  "price": "Free",
-  "location": {
-    "city": "Maringa",
-    "state": "PR",
-    "address": "Faculdade Cidade Verde",
-    "locationUrl": "https://www.google.com/maps/place/Av.+Advogado+Hor%C3%A1cio+Raccanello+Filho,+5950+-+Zona+01,+Maring%C3%A1+-+PR,+Brazil/@-23.4179513,-51.9413056,17z/data=!3m1!4b1!4m5!3m4!1s0x94ecd72a8b3b4591:0x8b82d1f0d33a8122!8m2!3d-23.4179513!4d-51.9391169?hl=en"
-  },
-  "image": "http://i.imgur.com/FpWep4C.png",
-  "shortDescription": "O FEMUG de Maringá, lembrando que você também pode falar sobre algum assunto se inscrevendo aqui, https://git.io/v7GLN"
-},
-
-{
   "title": "CSSday Maceió",
   "date": {
     "day": "12",
