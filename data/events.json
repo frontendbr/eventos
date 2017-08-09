@@ -21,6 +21,26 @@
 },
 
 {
+  "title": "Rio.css#01",
+  "date": {
+    "day": "15",
+    "month": "Agosto",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "http://bit.ly/Riocss01",
+  "price": "Free",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "address": "Stone Pagamentos",
+    "locationUrl": "https://www.google.com/maps/place/Av.+Gen.+Justo,+375+-+Centro,+Rio+de+Janeiro+-+RJ,+20021-130,+Brazil/@-22.9072867,-43.1709332,17z/data=!3m1!4b1!4m5!3m4!1s0x9981e721f70f99:0x353d209da598ffd!8m2!3d-22.9072867!4d-43.1687445?hl=en"
+  },
+  "image": "https://secure.meetupstatic.com/photos/event/2/b/3/8/global_463151064.jpeg",
+  "shortDescription": "Neste primeiro meetup teremos uma talk sobre Grid Layout com o Maujor e logo após isso teremos espaço aberto para conversar sobre a talk, e espaço aberto para quem quiser puxar um assunto. Então vem compartilhar conhecimento e trocar experiências sobre CSS."
+},
+
+{
   "title": "Android DevConference 2017",
   "date": {
     "day": "23, 24 e 25",
