@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Rio.css#01",
-  "date": {
-    "day": "15",
-    "month": "Agosto",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "http://bit.ly/Riocss01",
-  "price": "Free",
-  "location": {
-    "city": "Rio de Janeiro",
-    "state": "RJ",
-    "address": "Stone Pagamentos",
-    "locationUrl": "https://www.google.com/maps/place/Av.+Gen.+Justo,+375+-+Centro,+Rio+de+Janeiro+-+RJ,+20021-130,+Brazil/@-22.9072867,-43.1709332,17z/data=!3m1!4b1!4m5!3m4!1s0x9981e721f70f99:0x353d209da598ffd!8m2!3d-22.9072867!4d-43.1687445?hl=en"
-  },
-  "image": "https://secure.meetupstatic.com/photos/event/2/b/3/8/global_463151064.jpeg",
-  "shortDescription": "Neste primeiro meetup teremos uma talk sobre Grid Layout com o Maujor e logo após isso teremos espaço aberto para conversar sobre a talk, e espaço aberto para quem quiser puxar um assunto. Então vem compartilhar conhecimento e trocar experiências sobre CSS."
-},
-
-{
   "title": "Android DevConference 2017",
   "date": {
     "day": "23, 24 e 25",
@@ -59,6 +39,26 @@
   },
   "image": "https://braziljs.org/wp-content/themes/braziljs/assets/img/logos/braziljs-00508dcfc4.svg",
   "shortDescription": "A já tradicional e querida BrazilJS Conf, maior conferência JavaScript do mundo, está com os dias de sua sétima edição confirmados: 25 e 26 de Agosto, no Barra Shopping Sul, na zona Sul de Porto Alegre."
+},
+
+{
+  "title": "Nodebots Day Salvador",
+  "date": {
+    "day": "27",
+    "month": "Agosto",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com//pt-BR/Pyladies-SSA/events/240892993/",
+  "price": "Free",
+  "location": {
+    "city": "Salvador",
+    "state": "BA",
+    "address": "Grupo Rede+",
+    "locationUrl": "https://www.google.com.br/maps/place/Av.+Sete+de+Setembro,+3959+-+Barra,+Salvador+-+BA/@-13.0056062,-38.5349429,17z/data=!3m1!4b1!4m5!3m4!1s0x716038484fbf397:0x8ae74e7538d5dc63!8m2!3d-13.0056062!4d-38.5327542"
+  },
+  "image": "",
+  "shortDescription": "Todo ano, a comunidade Nodebots se reúne em várias partes do mundo para aprender e criar coisas usando JavaScript. Esse dia é chamado Nodebots International Day. Vai rolar introdução a JS e a eletrônica, e como a galera do grupo de estudos Make:Eletronics estará presente, será realizada introdução ao Arduíno também."
 },
 
 {
