@@ -102,6 +102,26 @@
 },
 
 {
+  "title": "GDG DevFest Maceió 2017",
+  "date": {
+    "day": "23",
+    "month": "Setembro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://devfest.gdgmaceio.org/",
+  "price": "R$ 30",
+  "location": {
+    "city": "Maceió",
+    "state": "AL",
+    "address": "Ritz Lagoa da Anta",
+    "locationUrl": "https://www.google.com.br/maps/place/Ritz+Lagoa+da+Anta/@-9.6392722,-35.701012,17z/data=!3m1!4b1!4m5!3m4!1s0x70145d2d07808f1:0x9e24a4e01542c37c!8m2!3d-9.6392722!4d-35.6988233"
+  },
+  "image": "",
+  "shortDescription": "Será um evento totalmente imersivo no mundo da tecnologia e negócios com produtos do Google e não Google, para trazer para todo participante um experiência singular de várias áreas da tecnologia como IoT, Android, Web, Mobile como também do mundo de negócios como startups, cases de sucesso e muito networking para aumentar o leque de conhecimento de cada participante. Inscrições: R$ 30,00 reais mais 1kg de alimento não perecível."
+},
+
+{
   "title": "FrontInBH 2K17",
   "date": {
     "day": "23",
