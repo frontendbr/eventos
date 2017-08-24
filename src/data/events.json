@@ -62,6 +62,26 @@
 },
 
 {
+  "title": "#5 Frontend São Paulo Meetup",
+  "date": {
+    "day": "31",
+    "month": "Agosto",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/Frontend-Dev-SP-Meetup/events/242147345/",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Lambda3",
+    "locationUrl": "https://www.google.com/maps/place/Av.+Ang%C3%A9lica,+2318+-+11+-+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo+-+SP,+01228-200,+Brazil/@-23.5522844,-46.6635452,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce582e01306873:0xc3c3fc3a3af42a19!8m2!3d-23.5522844!4d-46.6613565?f=q&hl=en&q=Av.+Ang%C3%A9lica,+2318,+cj.+11/12,+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo,+br"
+  },
+  "image": "https://image.ibb.co/eDJSsk/FRONTENDSa_o_Paulo_Meetup_2.png",
+  "shortDescription": "Palestras sobre Go Horse, posicionamento em CSS e Elm!"
+},
+
+{
   "title": "BrazilJS - Fortaleza",
   "date": {
     "day": "01 e 02",
