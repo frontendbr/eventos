@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "BrazilJS Conf 2017",
-  "date": {
-    "day": "25 e 26",
-    "month": "Agosto",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://braziljs.org/conf/",
-  "price": "Consultar lote",
-  "location": {
-    "city": "Porto Alegre",
-    "state": "RS",
-    "address": "Barra Shopping Sul",
-    "locationUrl": "https://www.google.com.br/maps/place/Av.+Di%C3%A1rio+de+Not%C3%ADcias,+300+-+Cristal,+Porto+Alegre+-+RS,+90810-080/@-30.0843589,-51.247648,17z/data=!3m1!4b1!4m5!3m4!1s0x951978a13a1fc8e1:0x5a0c7dba4d3c2b97!8m2!3d-30.0843589!4d-51.2454593?q=Av.+Di%C3%A1rio+de+Not%C3%ADcias,+300+-+Porto+Alegre/RS+-+Cristal&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiev_CHzcPTAhVLIJAKHSUxBVEQ_AUICigB"
-  },
-  "image": "https://braziljs.org/wp-content/themes/braziljs/assets/img/logos/braziljs-00508dcfc4.svg",
-  "shortDescription": "A já tradicional e querida BrazilJS Conf, maior conferência JavaScript do mundo, está com os dias de sua sétima edição confirmados: 25 e 26 de Agosto, no Barra Shopping Sul, na zona Sul de Porto Alegre."
-},
-
-{
   "title": "Nodebots Day Salvador",
   "date": {
     "day": "27",
