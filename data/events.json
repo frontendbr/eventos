@@ -1,46 +1,6 @@
 [
 
 {
-  "title": "#5 Frontend São Paulo Meetup",
-  "date": {
-    "day": "31",
-    "month": "Agosto",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/Frontend-Dev-SP-Meetup/events/242147345/",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Lambda3",
-    "locationUrl": "https://www.google.com/maps/place/Av.+Ang%C3%A9lica,+2318+-+11+-+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo+-+SP,+01228-200,+Brazil/@-23.5522844,-46.6635452,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce582e01306873:0xc3c3fc3a3af42a19!8m2!3d-23.5522844!4d-46.6613565?f=q&hl=en&q=Av.+Ang%C3%A9lica,+2318,+cj.+11/12,+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo,+br"
-  },
-  "image": "https://image.ibb.co/eDJSsk/FRONTENDSa_o_Paulo_Meetup_2.png",
-  "shortDescription": "Palestras sobre Go Horse, posicionamento em CSS e Elm!"
-},
-
-{
-  "title": "BrazilJS - Fortaleza",
-  "date": {
-    "day": "01 e 02",
-    "month": "Setembro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://braziljs.org/conf/",
-  "price": "A partir de R$ 149,90",
-  "location": {
-    "city": "Fortaleza",
-    "state": "CE",
-    "address": "Faculdade Sete de Setembro",
-    "locationUrl": "https://www.google.com.br/maps/place/UNI7+-+Centro+Universit%C3%A1rio+7+de+Setembro/@-3.7710272,-38.4858382,17z/data=!3m1!4b1!4m5!3m4!1s0x7c745fefe74c177:0x3d5127cdeb3dde1d!8m2!3d-3.7710272!4d-38.4836495?q=FA7+-+Faculdade+Sete+de+Setembro&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiej9re3dfTAhVKGpAKHRwOBPwQ_AUICigB"
-  },
-  "image": "https://braziljs.org/wp-content/themes/braziljs/assets/img/logos/braziljs-00508dcfc4.svg",
-  "shortDescription": "A já tradicional e querida BrazilJS Conf, maior conferência JavaScript do mundo, está de volta a Fortaleza! Dias 01 e 02 de Setembro (logo após a edição de Porto Alegre) na FA7 - Faculdade Sete de Setembro."
-},
-
-{
   "title": "FrontInVale 2017",
   "date": {
     "day": "16",
