@@ -1,7 +1,7 @@
 [
 
 {
-  "title": "AngularSP Coding Dojo #1 ",
+  "title": "AngularSP Coding Dojo #1",
   "date": {
     "day": "06",
     "month": "Setembro",
@@ -18,6 +18,47 @@
   },
   "image": "https://user-images.githubusercontent.com/2189998/30032310-9403698c-916b-11e7-9f1b-b1e628e60d62.png",
   "shortDescription": "Coding Dojo é mais uma maneira de podermos treinarmos nosso conhecimento juntos, sendo de grande valia principalmente para quem esta começando na área ou começando a aprender Angular e/ou testes automatizados com TDD. Coding Dojo é um modelo de reunião onde programadores se juntam para resolver algum desafio juntos, com o objetivo de aprender novas técnicas, ferramentas e habilidades de maneira divertida e interativa."
+}, 
+
+{
+  "title": "3° Meetup Frontend RJ",
+  "date": {
+    "day": "11",
+    "month": "Setembro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/frontendrj/events/242923748/",
+  "price": "Free",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "address": "Stone Pagamentos",
+    "locationUrl": "https://www.google.com/maps/place/Av.+Gen.+Justo,+375+-+Centro,+Rio+de+Janeiro+-+RJ,+20021-130,+Brazil/@-22.9072867,-43.1709332,17z/data=!3m1!4b1!4m5!3m4!1s0x9981e721f70f99:0x353d209da598ffd!8m2!3d-22.9072867!4d-43.1687445?f=q&hl=en&q=Av.+General+Justo,+375.+9%C2%BA+Andar.,+Rio+de+Janeiro,+br"
+  },
+  "image": "https://user-images.githubusercontent.com/5203138/30166910-1ca8751a-93bb-11e7-9fa8-a456c81d9f52.jpeg",
+  "shortDescription": "Afonso Pacifer apresentará a palestra: Front-End Development in less than12 parcecs!"
+},
+
+
+{
+  "title": "Front-end Meetup #17",
+  "date": {
+    "day": "12",
+    "month": "Setembro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/242832222/",
+  "price": "Free",
+  "location": {
+    "city": "Campinas",
+    "state": "SP",
+    "address": "Movile Campinas",
+    "locationUrl": "https://www.google.com/maps/place/Dahruj+Tower/@-22.8941844,-47.0501518,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8cf5141e57965:0xd42254690d617d69!8m2!3d-22.8941844!4d-47.0479631?f=q&hl=en&q=Av.+Coronel+Silva+Teles,+977+-+5%C2%BA+andar+-+Ed.+Dahruj+Tower,+Campinas,+br"
+  },
+  "image": "https://secure.meetupstatic.com/photos/event/c/2/7/6/global_460009782.jpeg",
+  "shortDescription": "No dia 12/09 realizaremos a 17ª edição do Campinas Front-end Meetup com Lucas Bragalia e Raphael Moraes falando sobre frameworks Javascript."
 },  
 
 {
