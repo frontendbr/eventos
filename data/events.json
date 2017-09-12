@@ -1,47 +1,6 @@
 [
 
 {
-  "title": "AngularSP Coding Dojo #1",
-  "date": {
-    "day": "06",
-    "month": "Setembro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/events/242769329/",
-  "price": "De graça!",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Lambda 3",
-    "locationUrl": "https://www.google.com.br/maps/place/Av.+Ang%C3%A9lica,+2318+-+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo+-+SP,+01228-200/@-23.5522844,-46.6635452,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce582e01306873:0xdf8c331d37f0cebb!8m2!3d-23.5522844!4d-46.6613565?q=Avenida+Ang%C3%A9lica,+2318+-+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo+-+SP&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiS-bjyh43WAhXDWSYKHTz6AdkQ_AUICigB"
-  },
-  "image": "https://user-images.githubusercontent.com/2189998/30032310-9403698c-916b-11e7-9f1b-b1e628e60d62.png",
-  "shortDescription": "Coding Dojo é mais uma maneira de podermos treinarmos nosso conhecimento juntos, sendo de grande valia principalmente para quem esta começando na área ou começando a aprender Angular e/ou testes automatizados com TDD. Coding Dojo é um modelo de reunião onde programadores se juntam para resolver algum desafio juntos, com o objetivo de aprender novas técnicas, ferramentas e habilidades de maneira divertida e interativa."
-}, 
-
-{
-  "title": "3° Meetup Frontend RJ",
-  "date": {
-    "day": "11",
-    "month": "Setembro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/frontendrj/events/242923748/",
-  "price": "Free",
-  "location": {
-    "city": "Rio de Janeiro",
-    "state": "RJ",
-    "address": "Stone Pagamentos",
-    "locationUrl": "https://www.google.com/maps/place/Av.+Gen.+Justo,+375+-+Centro,+Rio+de+Janeiro+-+RJ,+20021-130,+Brazil/@-22.9072867,-43.1709332,17z/data=!3m1!4b1!4m5!3m4!1s0x9981e721f70f99:0x353d209da598ffd!8m2!3d-22.9072867!4d-43.1687445?f=q&hl=en&q=Av.+General+Justo,+375.+9%C2%BA+Andar.,+Rio+de+Janeiro,+br"
-  },
-  "image": "https://user-images.githubusercontent.com/5203138/30166910-1ca8751a-93bb-11e7-9fa8-a456c81d9f52.jpeg",
-  "shortDescription": "Afonso Pacifer apresentará a palestra: Front-End Development in less than12 parcecs!"
-},
-
-
-{
   "title": "Front-end Meetup #17",
   "date": {
     "day": "12",
@@ -119,6 +78,26 @@
   },
   "image": "http://www.theandersonn.com/wp-content/themes/theandersonn/assets/images/logotypes/front-in-bh-logo-2017-black.svg",
   "shortDescription": "O Front in BH nasceu da necessidade de fortalecer a comunidade Front-end local, através de um circuito de palestras focado em promover o relacionamento e a integração entre os profissionais de Front-end e das áreas a afins."
+},
+
+{
+  "title": "6 Frontend SP Meetup",
+  "date": {
+    "day": "28",
+    "month": "Setembro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/preview/Frontend-Dev-SP-Meetup/events/243252361",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Pagarme",
+    "locationUrl": "https://www.google.com/maps/place/R.+Fid%C3%AAncio+Ramos,+308+-+Vila+Olimpia,+S%C3%A3o+Paulo+-+SP,+04551-010,+Brasil/@-23.5950568,-46.6869975,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5748804b7bc9:0xd02ad72508fe7a97!8m2!3d-23.5950568!4d-46.6869975?api=1&query=Rua+Fid%C3%AAncio+Ramos%2C+308+-+12%C2%BA+andar%2C+Vila+Olimpia%2C+S%C3%A3o+Paulo%2C+br"
+  },
+  "image": "https://image.ibb.co/eDJSsk/FRONTENDSa_o_Paulo_Meetup_2.png",
+  "shortDescription": "Talks sobre acessibilidade, ES6 e pré processadores de CSS!"
 },
 
 {
