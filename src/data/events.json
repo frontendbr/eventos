@@ -81,6 +81,26 @@
 },
 
 {
+  "title": "6 Frontend SP Meetup",
+  "date": {
+    "day": "28",
+    "month": "Setembro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/preview/Frontend-Dev-SP-Meetup/events/243252361",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Pagarme",
+    "locationUrl": "https://www.google.com/maps/place/R.+Fid%C3%AAncio+Ramos,+308+-+Vila+Olimpia,+S%C3%A3o+Paulo+-+SP,+04551-010,+Brasil/@-23.5950568,-46.6869975,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5748804b7bc9:0xd02ad72508fe7a97!8m2!3d-23.5950568!4d-46.6869975?api=1&query=Rua+Fid%C3%AAncio+Ramos%2C+308+-+12%C2%BA+andar%2C+Vila+Olimpia%2C+S%C3%A3o+Paulo%2C+br"
+  },
+  "image": "https://image.ibb.co/eDJSsk/FRONTENDSa_o_Paulo_Meetup_2.png",
+  "shortDescription": "Talks sobre acessibilidade, ES6 e pré processadores de CSS!"
+},
+
+{
   "title": "React Conf Brasil 2017",
   "date": {
     "day": "07",
