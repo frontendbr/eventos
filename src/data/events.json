@@ -1,27 +1,6 @@
 [
 
 {
-  "title": "3° Meetup Frontend RJ",
-  "date": {
-    "day": "11",
-    "month": "Setembro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/frontendrj/events/242923748/",
-  "price": "Free",
-  "location": {
-    "city": "Rio de Janeiro",
-    "state": "RJ",
-    "address": "Stone Pagamentos",
-    "locationUrl": "https://www.google.com/maps/place/Av.+Gen.+Justo,+375+-+Centro,+Rio+de+Janeiro+-+RJ,+20021-130,+Brazil/@-22.9072867,-43.1709332,17z/data=!3m1!4b1!4m5!3m4!1s0x9981e721f70f99:0x353d209da598ffd!8m2!3d-22.9072867!4d-43.1687445?f=q&hl=en&q=Av.+General+Justo,+375.+9%C2%BA+Andar.,+Rio+de+Janeiro,+br"
-  },
-  "image": "https://user-images.githubusercontent.com/5203138/30166910-1ca8751a-93bb-11e7-9fa8-a456c81d9f52.jpeg",
-  "shortDescription": "Afonso Pacifer apresentará a palestra: Front-End Development in less than12 parcecs!"
-},
-
-
-{
   "title": "Front-end Meetup #17",
   "date": {
     "day": "12",
