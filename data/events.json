@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Front-end Meetup #17",
-  "date": {
-    "day": "12",
-    "month": "Setembro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/242832222/",
-  "price": "Free",
-  "location": {
-    "city": "Campinas",
-    "state": "SP",
-    "address": "Movile Campinas",
-    "locationUrl": "https://www.google.com/maps/place/Dahruj+Tower/@-22.8941844,-47.0501518,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8cf5141e57965:0xd42254690d617d69!8m2!3d-22.8941844!4d-47.0479631?f=q&hl=en&q=Av.+Coronel+Silva+Teles,+977+-+5%C2%BA+andar+-+Ed.+Dahruj+Tower,+Campinas,+br"
-  },
-  "image": "https://secure.meetupstatic.com/photos/event/c/2/7/6/global_460009782.jpeg",
-  "shortDescription": "No dia 12/09 realizaremos a 17ª edição do Campinas Front-end Meetup com Lucas Bragalia e Raphael Moraes falando sobre frameworks Javascript."
-},  
-
-{
   "title": "FrontInVale 2017",
   "date": {
     "day": "16",
