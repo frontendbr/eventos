@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "FrontInVale 2017",
-  "date": {
-    "day": "16",
-    "month": "Setembro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.eventick.com.br/frontinvale2017",
-  "price": "A partir de R$ 65",
-  "location": {
-    "city": "São José dos Campos",
-    "state": "SP",
-    "address": "Faro Hotel",
-    "locationUrl": "https://www.google.com.br/maps/place/Faro+Hotel/@-23.1990464,-45.8859712,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc4a42f3190209:0x91ee04f155df318e!8m2!3d-23.1990464!4d-45.8837825"
-  },
-  "image": "",
-  "shortDescription": "Tereceira edição do maior evento de Front-End do Vale do Paraíba. Um dia inteiro com conteúdos incríveis para você se tornar um front-end monstro! ;)"
-},
-
-{
   "title": "GDG DevFest Maceió 2017",
   "date": {
     "day": "23",
