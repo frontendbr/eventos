@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "FrontInBH 2K17",
-  "date": {
-    "day": "23",
-    "month": "Setembro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "http://frontinbh.com.br/",
-  "price": "A partir de R$ 90",
-  "location": {
-    "city": "Belo Horizonte",
-    "state": "MG",
-    "address": "Teatro Ney Soares",
-    "locationUrl": "https://www.google.com.br/maps/place/Teatro+Professor+Ney+Soares+-+R.+Diamantina,+463+-+Lagoinha,+31110-150/@-19.9079062,-43.9415585,14z/data=!4m2!3m1!1s0xa69a004df830bd:0x9742c3e372cb7e44"
-  },
-  "image": "http://www.theandersonn.com/wp-content/themes/theandersonn/assets/images/logotypes/front-in-bh-logo-2017-black.svg",
-  "shortDescription": "O Front in BH nasceu da necessidade de fortalecer a comunidade Front-end local, através de um circuito de palestras focado em promover o relacionamento e a integração entre os profissionais de Front-end e das áreas a afins."
-},
-
-{
   "title": "AngularSP Talks #15",
   "date": {
     "day": "28",
