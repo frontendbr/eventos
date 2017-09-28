@@ -61,6 +61,26 @@
 },
 
 {
+  "title": "#5 Meetup Ember-SP",
+  "date": {
+    "day": "19",
+    "month": "Outubro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/spember/events/243683167/#emberjs",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "GetNinjas",
+    "locationUrl": "https://www.google.com/maps/place/Av.+Rebou%C3%A7as,+2472+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+05402-300,+Brazil/@-23.567018,-46.6860547,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce57765d64c0cd:0x6e653b16a4eb9f4b!8m2!3d-23.567018!4d-46.683866?f=q&hl=en&q=Av.+Rebou%C3%A7as,+2472+-+Pinheiros,+S%C3%A3o+Paulo,+br"
+  },
+  "image": "https://secure.meetupstatic.com/photos/event/b/3/9/d/global_464865981.jpeg",
+  "shortDescription": "Teremos 3 palestras escolhidas pela comunidade via Call4Papers, será na quinta-feira às 19h. Diferente do último encontro, vamos focar em assuntos técnicos, algo mais mão na massa com Ember."
+},
+
+{
   "title": "InterCon 2017",
   "date": {
     "day": "20 e 21",
