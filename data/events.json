@@ -1,46 +1,6 @@
 [
 
 {
-  "title": "AngularSP Talks #15",
-  "date": {
-    "day": "28",
-    "month": "Setembro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/AngularJS-Sao-Paulo/events/243067541/",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Google Brasil ",
-    "locationUrl": "https://www.google.com.br/maps/place/Google+S%C3%A3o+Paulo/@-23.5864194,-46.6840772,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5744e0ebff5b:0x769bf4a32f914782!8m2!3d-23.5864194!4d-46.6818885?q=Google+Brasil+-+Av+Brigadeiro+Faria+Lima,+3477&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjqp9zm1bLWAhXMH5AKHX5rBHIQ_AUICigB"
-  },
-  "image": "https://secure.meetupstatic.com/photos/event/8/5/9/3/global_450634195.jpeg",
-  "shortDescription": "Teremos 3 grandes palestras da comunidade: Iniciando com o AngularCLI, programação reativa com Angular e gerenciamento de estado com NgRx, o Redux do Angular."
-},
-
-{
-  "title": "6 Frontend SP Meetup",
-  "date": {
-    "day": "28",
-    "month": "Setembro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/preview/Frontend-Dev-SP-Meetup/events/243252361",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Pagarme",
-    "locationUrl": "https://www.google.com/maps/place/R.+Fid%C3%AAncio+Ramos,+308+-+Vila+Olimpia,+S%C3%A3o+Paulo+-+SP,+04551-010,+Brasil/@-23.5950568,-46.6869975,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5748804b7bc9:0xd02ad72508fe7a97!8m2!3d-23.5950568!4d-46.6869975?api=1&query=Rua+Fid%C3%AAncio+Ramos%2C+308+-+12%C2%BA+andar%2C+Vila+Olimpia%2C+S%C3%A3o+Paulo%2C+br"
-  },
-  "image": "https://image.ibb.co/eDJSsk/FRONTENDSa_o_Paulo_Meetup_2.png",
-  "shortDescription": "Talks sobre acessibilidade, ES6 e pré processadores de CSS!"
-},
-
-{
   "title": "React Conf Brasil 2017",
   "date": {
     "day": "07",
