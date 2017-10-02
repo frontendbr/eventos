@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "AngularSP Talks #15",
-  "date": {
-    "day": "28",
-    "month": "Setembro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/AngularJS-Sao-Paulo/events/243067541/",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Google Brasil ",
-    "locationUrl": "https://www.google.com.br/maps/place/Google+S%C3%A3o+Paulo/@-23.5864194,-46.6840772,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5744e0ebff5b:0x769bf4a32f914782!8m2!3d-23.5864194!4d-46.6818885?q=Google+Brasil+-+Av+Brigadeiro+Faria+Lima,+3477&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjqp9zm1bLWAhXMH5AKHX5rBHIQ_AUICigB"
-  },
-  "image": "https://secure.meetupstatic.com/photos/event/8/5/9/3/global_450634195.jpeg",
-  "shortDescription": "Teremos 3 grandes palestras da comunidade: Iniciando com o AngularCLI, programação reativa com Angular e gerenciamento de estado com NgRx, o Redux do Angular."
-},
-
-{
   "title": "6 Frontend SP Meetup",
   "date": {
     "day": "28",
