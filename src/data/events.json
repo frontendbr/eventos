@@ -21,6 +21,66 @@
 },
 
 {
+  "title": "Quinto VueJS SP Meetup",
+  "date": {
+    "day": "10",
+    "month": "Outubro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "www.meetup.com/VueJS-SP/events/242937351/",
+  "price": "Free",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "address": "Accenture",
+    "locationUrl": "https://www.google.com/maps?f=q&hl=en&q=Rua+Alexandre+Dumas,+2051,+São+Paulo,+br"
+  },
+  "image": "https://secure.meetupstatic.com/photos/event/b/c/5/3/global_451188211.jpeg",
+  "shortDescription": "E é com muito orgulho e satisfação que estamos anunciando nosso Quinto VueJS SP Meetup. E desta vez nosso encontro será na Accenture, e estamos preparando tudo para fazermos um meetup inesquecível!"
+},
+
+{
+  "title": "Beer.vue",
+  "date": {
+    "day": "10",
+    "month": "Outubro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/Vuejs-at-BH/events/243346508/",
+  "price": "Free",
+  "location": {
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "address": "Rei Savassi",
+    "locationUrl": "https://maps.google.com/maps?f=q&hl=en&q=R.+Ant%C3%B4nio+de+Albuquerque%2C+422+-+Savassi%2C+Belo+Horizonte+-+MG%2C+30112-010%2C+Belo+Horizonte%2C+br"
+  },
+  "image": "https://secure.meetupstatic.com/photos/event/1/8/e/a/global_459186378.jpeg",
+  "shortDescription": "Este ainda vai ser mais um evento informal para bater um papo e preparar novas coisas!"
+},
+
+{
+  "title": "2º Vue.js Floripa",
+  "date": {
+    "day": "18",
+    "month": "Outubro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://www.meetup.com/pt-BR/floripa-vuejs/events/243932293/",
+  "price": "Free",
+  "location": {
+    "city": "Florianópolis",
+    "state": "SC",
+    "address": "Chaordic",
+    "locationUrl": "https://maps.google.com/maps?f=q&hl=en&q=Av.+Afonso+Delambert+Neto%2C+26+-+Lagoa+da+Concei%C3%A7%C3%A3o%2C+Florian%C3%B3polis%2C+br"
+  },
+  "image": "https://secure.meetupstatic.com/photos/theme_head/8/a/6/a/full_7535434.jpeg",
+  "shortDescription": "Agora dia 18 de outubro a partir das 19:30h na Chaordic vai rolar o segundo encontro do Vue.js Floripa! Seja você desenvolvedor, frontend, backend, designer ou amante de tecnologia, contamos com a sua presença! Lembrando a todos que o evento é gratuito."
+},
+
+{
   "title": "#5 Meetup Ember-SP",
   "date": {
     "day": "19",
