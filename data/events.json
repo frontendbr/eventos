@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "React Conf Brasil 2017",
-  "date": {
-    "day": "07",
-    "month": "Outubro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "http://reactconfbr.com.br/",
-  "price": "Ingressos esgotados",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Teatro Augusta",
-    "locationUrl": "https://www.google.com.br/maps/place/Teatro+Augusta/@-23.55328,-46.654681,15z/data=!4m2!3m1!1s0x0:0x778f48ed3d1c2e0a?sa=X&ved=0ahUKEwjX5OW5tJnVAhWGHZAKHWoDDAQQ_BIIhAEwDQ"
-  },
-  "image": "http://reactconfbr.com.br/assets/images/social.png",
-  "shortDescription": "A primeira React Conf da América Latina é no Brasil. Inspirados nas conferências dos Estados Unidos e Europa, queremos reunir em um único dia o bleeding edge dos desenvolvedores e empresas de tecnologia, com um único propósito: move foward."
-},
-
-{
   "title": "Quinto VueJS SP Meetup",
   "date": {
     "day": "10",
