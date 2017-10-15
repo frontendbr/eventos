@@ -98,6 +98,26 @@
   },
   "image": "https://user-images.githubusercontent.com/5203138/27996574-5cfd810c-64bb-11e7-9fae-22eb24146970.png",
   "shortDescription": "A conferência Webbr2017 acontecerá nos dias 24 e 25 de outubro e promoverá discussões que buscam Transcender a Web"
+},
+
+{
+  "title": "FEMUG-MGA #8",
+  "date": {
+    "day": "28",
+    "month": "Outubro",
+    "year": 2017
+  },
+  "innerLink": "inner.html",
+  "link": "https://goo.gl/iS8UzH",
+  "price": "Free",
+  "location": {
+    "city": "Maringá",
+    "state": "PR",
+    "address": "Tecnospeed",
+    "locationUrl": "https://www.google.com.br/maps/place/Condom%C3%ADnio+New+Tower+Plaza/@-23.4177118,-51.9416132,17z/data=!3m1!4b1!4m5!3m4!1s0x94ecd72a613d435f:0xfd44339154e4b896!8m2!3d-23.4177118!4d-51.9394192"
+  },
+  "image": "http://i.imgur.com/FpWep4C.png",
+  "shortDescription": "O FEMUG de Maringá, lembrando que você também pode falar sobre algum assunto se inscrevendo aqui, https://goo.gl/FiLtNK"
 }
 
 ]
