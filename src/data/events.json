@@ -1,26 +1,6 @@
 [
 
 {
-  "title": "Workshop de ReactJS - Frontend SP Meetup",
-  "date": {
-    "day": "19",
-    "month": "Outubro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.meetup.com/preview/Frontend-Dev-SP-Meetup/events/244065795",
-  "price": "Free",
-  "location": {
-    "city": "São Paulo",
-    "state": "SP",
-    "address": "Sprinklr",
-    "locationUrl": "https://www.google.com.br/maps/place/Sprinklr/@-23.5566584,-46.6634115,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce582d5bd30275:0xf80873128e06ae57!8m2!3d-23.5566584!4d-46.6612175"
-  },
-  "image": "https://image.ibb.co/eDJSsk/FRONTENDSa_o_Paulo_Meetup_2.png",
-  "shortDescription": "Workshop de ReactJS com Keuller Magalhães"
-},
-
-{
   "title": "InterCon 2017",
   "date": {
     "day": "20 e 21",
