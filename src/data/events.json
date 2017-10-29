@@ -1,44 +1,23 @@
 [
 
-
-{
-  "title": "FEMUG-MGA #8",
-  "date": {
-    "day": "28",
-    "month": "Outubro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://goo.gl/iS8UzH",
-  "price": "Free",
-  "location": {
-    "city": "Maringá",
-    "state": "PR",
-    "address": "Tecnospeed",
-    "locationUrl": "https://www.google.com.br/maps/place/Condom%C3%ADnio+New+Tower+Plaza/@-23.4177118,-51.9416132,17z/data=!3m1!4b1!4m5!3m4!1s0x94ecd72a613d435f:0xfd44339154e4b896!8m2!3d-23.4177118!4d-51.9394192"
-  },
-  "image": "http://i.imgur.com/FpWep4C.png",
-  "shortDescription": "O FEMUG de Maringá, lembrando que você também pode falar sobre algum assunto se inscrevendo aqui, https://goo.gl/FiLtNK"
-},
-
-{
-  "title": "14° FEMUG PE",
-  "date": {
-    "day": "31",
-    "month": "Outubro",
-    "year": 2017
-  },
-  "innerLink": "inner.html",
-  "link": "https://www.sympla.com.br/femug-pe-14__204096",
-  "price": "Free",
-  "location": {
-    "city": "Recife",
-    "state": "PE",
-    "address": "In Loco Media",
-    "locationUrl": "https://www.google.com.br/maps/place/Av.+Rio+Branco,+23+-+Recife,+PE/@-8.0630742,-34.8739671,17z/data=!3m1!4b1!4m5!3m4!1s0x7ab18a49727d9cd:0xaa02882e3b9c7d08!8m2!3d-8.0630742!4d-34.8717784?q=Av.+Rio+Branco,+23,+Recife+Recife,+PE&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjdz4qA3orXAhUCOpAKHeq_BJUQ_AUICigB"
-  },
-  "image": "",
-  "shortDescription": "Front-End Meet-Up Group é um projeto que nasceu da necessidade de unir os desenvolvedores para que o acesso à informação seja feito em qualquer lugar que haja interesse do aprendizado. Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos."
-}
+  {
+    "title": "14° FEMUG PE",
+    "date": {
+      "day": "31",
+      "month": "Outubro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.sympla.com.br/femug-pe-14__204096",
+    "price": "Free",
+    "location": {
+      "city": "Recife",
+      "state": "PE",
+      "address": "In Loco Media",
+      "locationUrl": "https://www.google.com.br/maps/place/Av.+Rio+Branco,+23+-+Recife,+PE/@-8.0630742,-34.8739671,17z/data=!3m1!4b1!4m5!3m4!1s0x7ab18a49727d9cd:0xaa02882e3b9c7d08!8m2!3d-8.0630742!4d-34.8717784?q=Av.+Rio+Branco,+23,+Recife+Recife,+PE&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjdz4qA3orXAhUCOpAKHeq_BJUQ_AUICigB"
+    },
+    "image": "",
+    "shortDescription": "Front-End Meet-Up Group é um projeto que nasceu da necessidade de unir os desenvolvedores para que o acesso à informação seja feito em qualquer lugar que haja interesse do aprendizado. Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos."
+  }
 
 ]
