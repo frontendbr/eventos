@@ -1,23 +1,23 @@
 [
 
   {
-    "title": "14° FEMUG PE",
+    "title": "Front in Floripa",
     "date": {
-      "day": "31",
-      "month": "Outubro",
+      "day": "02",
+      "month": "Dezembro",
       "year": 2017
     },
     "innerLink": "inner.html",
-    "link": "https://www.sympla.com.br/femug-pe-14__204096",
-    "price": "Free",
+    "link": "http://frontinfloripa.com.br/",
+    "price": "R$ 80 (primeiro lote)",
     "location": {
-      "city": "Recife",
-      "state": "PE",
-      "address": "In Loco Media",
-      "locationUrl": "https://www.google.com.br/maps/place/Av.+Rio+Branco,+23+-+Recife,+PE/@-8.0630742,-34.8739671,17z/data=!3m1!4b1!4m5!3m4!1s0x7ab18a49727d9cd:0xaa02882e3b9c7d08!8m2!3d-8.0630742!4d-34.8717784?q=Av.+Rio+Branco,+23,+Recife+Recife,+PE&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjdz4qA3orXAhUCOpAKHeq_BJUQ_AUICigB"
+      "city": "Florianópolis",
+      "state": "SC",
+      "address": "Hotel Maria do Mar",
+      "locationUrl": "https://www.google.com.br/maps/place/Maria+do+Mar+Hotel/@-27.5547112,-48.5146174,17z/data=!3m1!4b1!4m5!3m4!1s0x9527477d00ae732b:0xd2bcbaa6036deb39!8m2!3d-27.5547112!4d-48.5124287"
     },
     "image": "",
-    "shortDescription": "Front-End Meet-Up Group é um projeto que nasceu da necessidade de unir os desenvolvedores para que o acesso à informação seja feito em qualquer lugar que haja interesse do aprendizado. Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos."
+    "shortDescription": "Esse o ano o Front in Floripa chega em sua 5ª edição. Cada edição são 220 desenvolvedores, designers e entusiastas de toda Santa Catarina e do Brasil reunidos. Esse ano estamos trabalhando em 3 pilares para um ótimo evento."
   }
 
 ]
