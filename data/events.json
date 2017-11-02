@@ -1,6 +1,66 @@
 [
 
   {
+    "title": "Meetup React SP 15 - especial SP Tech Week",
+    "date": {
+      "day": "09",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/ReactJS-SP/events/244724543/",
+    "price": "Free",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "Webforce Coworking",
+      "locationUrl": "https://www.google.com.br/maps/place/Webforce+Networks/@-23.583261,-46.6653942,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59e43358b567:0x10b3d5e260af490e!8m2!3d-23.583261!4d-46.6632055?q=Webforce+Coworking+-+Av.+Rep%C3%BAblica+do+L%C3%ADbano,+331+Ibirapuera+S%C3%A3o+Paulo+SP&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiksKP86Z_XAhUK4SYKHbKsBPIQ_AUICigB"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/32324827-cc244e64-bfb3-11e7-8e8f-75a54aad83d1.png",
+    "shortDescription": "Nosso encontro #15 será uma edição especial para a São Paulo Tech Week com duas talks: O Eduardo Shin do Meetup Frontend SP e da Monkey Exchange falando de MobX e o Luiz Camargo da Entria falando sobre Flexbox no React Native. O encontro será na Webforce Coworking, totalmente integrado ao Parque do Ibirapuera! Teremos a presença de Food Trucks vendendo hamburguers, doces e bebidas."
+  },
+
+  {
+    "title": "DevFest Paraná",
+    "date": {
+      "day": "11",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://devfestpr.org/",
+    "price": "R$ 80 (3º lote)",
+    "location": {
+      "city": "Maringá",
+      "state": "PR",
+      "address": "SEBRAE",
+      "locationUrl": "https://www.google.com/maps/place/Sebrae+Maring%C3%A1/@-23.4185148,-51.9231366,18z/data=!3m1!4b1!4m5!3m4!1s0x94ecd0db931368a3:0xcb5132ff7f6db509!8m2!3d-23.4185148!4d-51.9220423?shorturl=1"
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/partners%2Fdevparana.svg?alt=media&token=1ba53844-faa9-4161-8361-806f10b624d1",
+    "shortDescription": "O WordCamp é a conferência anual de WordPress que se originou nos Estados Unidos. Em São Paulo esta será a 6ª edição do evento, contando com um dia de workshops, palestras e muita troca de conhecimento sobre a plataforma de criação de sites mais utilizada da atualidade."
+  },
+
+  {
+    "title": "WordCamp São Paulo 2017",
+    "date": {
+      "day": "02",
+      "month": "Dezembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://2017.saopaulo.wordcamp.org",
+    "price": "$15 (dólares)",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "Faculdade Impacta",
+      "locationUrl": "https://www.google.com.br/maps/place/Faculdade+Impacta+Tecnologia/@-23.5258552,-46.6515159,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5a36ed390d1b:0x774f96e1ad521edb!8m2!3d-23.5258552!4d-46.6493219"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/32284781-621c194c-bf0f-11e7-817e-2eed1f22c9d4.png",
+    "shortDescription": "O WordCamp é a conferência anual de WordPress que se originou nos Estados Unidos. Em São Paulo esta será a 6ª edição do evento, contando com um dia de workshops, palestras e muita troca de conhecimento sobre a plataforma de criação de sites mais utilizada da atualidade."
+  },
+
+  {
     "title": "Front in Floripa",
     "date": {
       "day": "02",
@@ -16,7 +76,7 @@
       "address": "Hotel Maria do Mar",
       "locationUrl": "https://www.google.com.br/maps/place/Maria+do+Mar+Hotel/@-27.5547112,-48.5146174,17z/data=!3m1!4b1!4m5!3m4!1s0x9527477d00ae732b:0xd2bcbaa6036deb39!8m2!3d-27.5547112!4d-48.5124287"
     },
-    "image": "",
+    "image": "https://user-images.githubusercontent.com/487669/32276829-92cd4ee8-bef7-11e7-9014-dfaee6d469ff.png",
     "shortDescription": "Esse o ano o Front in Floripa chega em sua 5ª edição. Cada edição são 220 desenvolvedores, designers e entusiastas de toda Santa Catarina e do Brasil reunidos. Esse ano estamos trabalhando em 3 pilares para um ótimo evento."
   }
 
