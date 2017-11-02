@@ -1,6 +1,26 @@
 [
 
   {
+    "title": "Meetup React SP 15 - especial SP Tech Week",
+    "date": {
+      "day": "09",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/ReactJS-SP/events/244724543/",
+    "price": "Free",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "Webforce Coworking",
+      "locationUrl": "https://www.google.com.br/maps/place/Webforce+Networks/@-23.583261,-46.6653942,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59e43358b567:0x10b3d5e260af490e!8m2!3d-23.583261!4d-46.6632055?q=Webforce+Coworking+-+Av.+Rep%C3%BAblica+do+L%C3%ADbano,+331+Ibirapuera+S%C3%A3o+Paulo+SP&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiksKP86Z_XAhUK4SYKHbKsBPIQ_AUICigB"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/32324827-cc244e64-bfb3-11e7-8e8f-75a54aad83d1.png",
+    "shortDescription": "Nosso encontro #15 será uma edição especial para a São Paulo Tech Week com duas talks: O Eduardo Shin do Meetup Frontend SP e da Monkey Exchange falando de MobX e o Luiz Camargo da Entria falando sobre Flexbox no React Native. O encontro será na Webforce Coworking, totalmente integrado ao Parque do Ibirapuera! Teremos a presença de Food Trucks vendendo hamburguers, doces e bebidas."
+  },
+
+  {
     "title": "DevFest Paraná",
     "date": {
       "day": "11",
