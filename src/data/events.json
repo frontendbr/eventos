@@ -41,6 +41,26 @@
   },
 
   {
+    "title": "Rio Sul Valley Dev Summit",
+    "date": {
+      "day": "25",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "Rio Sul Valley Dev Summit",
+    "price": "R$ 50",
+    "location": {
+      "city": "Volta Redonda",
+      "state": "RJ",
+      "address": "UGB",
+      "locationUrl": "https://www.google.com.br/maps/place/UGB/@-22.5084635,-44.0917772,17z/data=!3m1!4b1!4m5!3m4!1s0x9ea2addf821f97:0xec27f71b0ab5d076!8m2!3d-22.5084635!4d-44.0895885?q=UGB+-+VOLTA+REDONDA+-+RJ&um=1&ie=UTF-8&sa=X&ved=0ahUKEwi7w5aA6aPXAhULhZAKHb66BaIQ_AUICigB"
+    },
+    "image": "http://riosulvalley.com.br/devsummit/assets/images/sponsors/riosulvalley.png",
+    "shortDescription": "Será um dia inteiro para interagir, discutir, conhecer pessoas e nos divertir. O RSV DEV SUMMIT é um evento da comunidade feito para a comunidade. O objetivo é disseminar o conhecimento e atualizar os desenvolvedores com novidades tecnológicas."
+  },
+
+  {
     "title": "WordCamp São Paulo 2017",
     "date": {
       "day": "02",
