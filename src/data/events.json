@@ -1,6 +1,26 @@
 [
 
   {
+    "title": "AngularSP Talks #16",
+    "date": {
+      "day": "09",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/AngularJS-Sao-Paulo/events/244695377/",
+    "price": "Free",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "iMasters",
+      "locationUrl": "https://www.google.com.br/maps/place/iMasters/@-23.5523916,-46.6800878,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce582d2ea12a15:0xbe87cea048990b91!8m2!3d-23.5523916!4d-46.6778991?q=iMasters+-+Rua+Oscar+Freire,+2379+-+Pinheiros,+S%C3%A3o+Paulo&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiLnoS2rLDXAhWPl5AKHVluBDYQ_AUICigB"
+    },
+    "image": "https://user-images.githubusercontent.com/2189998/32505472-72902e8a-c3c9-11e7-9bf7-b411741f5f2f.png",
+    "shortDescription": "Novidades do Angular v5.0, WebAssembly, performance e muito mais no próximo meetup do AngularSP!"
+  },
+
+  {
     "title": "Meetup React SP 15 - especial SP Tech Week",
     "date": {
       "day": "09",
