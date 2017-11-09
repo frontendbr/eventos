@@ -1,6 +1,26 @@
 [
 
   {
+    "title": "AngularSP Talks #16",
+    "date": {
+      "day": "09",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/AngularJS-Sao-Paulo/events/244695377/",
+    "price": "Free",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "iMasters",
+      "locationUrl": "https://www.google.com.br/maps/place/iMasters/@-23.5523916,-46.6800878,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce582d2ea12a15:0xbe87cea048990b91!8m2!3d-23.5523916!4d-46.6778991?q=iMasters+-+Rua+Oscar+Freire,+2379+-+Pinheiros,+S%C3%A3o+Paulo&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiLnoS2rLDXAhWPl5AKHVluBDYQ_AUICigB"
+    },
+    "image": "https://user-images.githubusercontent.com/2189998/32505472-72902e8a-c3c9-11e7-9bf7-b411741f5f2f.png",
+    "shortDescription": "Novidades do Angular v5.0, WebAssembly, performance e muito mais no próximo meetup do AngularSP!"
+  },
+
+  {
     "title": "Meetup React SP 15 - especial SP Tech Week",
     "date": {
       "day": "09",
@@ -57,7 +77,27 @@
       "locationUrl": "https://www.google.com.br/maps/place/iMasters/@-23.5523916,-46.6778991,15z/data=!4m2!3m1!1s0x0:0xbe87cea048990b91?sa=X&ved=0ahUKEwikp7z5vqrXAhWFYyYKHcvlDowQ_BIIeDAN"
     },
     "image": "https://image.ibb.co/eDJSsk/FRONTENDSa_o_Paulo_Meetup_2.png",
-    "shortDescription": "Palestras e discussões sobre Data Science e !"
+    "shortDescription": "Palestras e discussões sobre Data Science e Vue vs React!"
+  },
+
+  {
+    "title": "15º Meetup WordPress Floripa",
+    "date": {
+      "day": "18",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/Meetup-Wordpress-Floripa/events/244489452/",
+    "price": "Free",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "Mansão da InCuca",
+      "locationUrl": "https://www.google.com.br/maps/place/InCuca+Tecnologia/@-27.6914119,-48.4984913,17z/data=!3m1!4b1!4m5!3m4!1s0x952738544297518f:0xeb1ac232bfa23e11!8m2!3d-27.6914119!4d-48.4963026"
+    },
+    "image": "https://secure.meetupstatic.com/photos/event/5/b/e/2/highres_453863522.jpeg",
+    "shortDescription": "Talk de abertura: Qual a importância de formar uma comunidade exponencial e colaborativa Speaker: Lucas Adiers Stefanello. OFICINA PRÁTICA: Vamos realizar algumas oficinas práticas sobre a instalação do WordPress, criar um Tema, criar Plugins, Otimizar SEO, Otimizar Performance. Todas as aplicações serão dedicadas a casos reais de entidades sociais sem fins lucrativos. Vamos aprender juntos e ajudar quem precisa. Monitores: Luã Ciceri, Vitor Cardoso, Samuel Adiers Stefanello, Marcelo Ecker, Walker Gusmão"
   },
 
   {
