@@ -81,6 +81,26 @@
   },
 
   {
+    "title": "GDG Devfest Rio de Janeiro 2017",
+    "date": {
+      "day": "25",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://gdgrio.github.io/devfest/",
+    "price": "A partir de R$ 40",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "Centro de Convenções SulAmérica",
+      "locationUrl": "https://www.google.com.br/maps/place/Centro+de+Conven%C3%A7%C3%B5es+SulAm%C3%A9rica/@-22.9124853,-43.2115087,17z/data=!3m1!4b1!4m5!3m4!1s0x997f0056854d75:0x539b0105727ec977!8m2!3d-22.9124853!4d-43.20932?q=Centro+de+Conven%C3%A7%C3%B5es+SulAm%C3%A9rica+Av.+Paulo+de+Frontin,+1,+Rio+de+Janeiro&um=1&ie=UTF-8&sa=X&ved=0ahUKEwipvo20ybbXAhXFGJAKHQ_OB9UQ_AUICigB"
+    },
+    "image": "",
+    "shortDescription": "Devfest Rio de Janeiro vai acontecer no dia 25 de novembro de 2017 na cidade maravilhosa. Então venha fazer parte desse evento maravilhoso e compartilhar conhecimento conosco!"
+  },
+
+  {
     "title": "Rio Sul Valley Dev Summit",
     "date": {
       "day": "25",
