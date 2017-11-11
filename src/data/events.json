@@ -101,6 +101,26 @@
   },
 
   {
+    "title": "Rio.css#03",
+    "date": {
+      "day": "21",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/Rio-css/events/244992576/",
+    "price": "Free",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "M4U",
+      "locationUrl": "https://www.google.com/maps/place/Praia+de+Botafogo,+518+-+Botafogo,+Rio+de+Janeiro+-+RJ,+22250-040/@-22.9511765,-43.1834679,17z/data=!3m1!4b1!4m5!3m4!1s0x997ff0f1864387:0xebecacc44523a438!8m2!3d-22.9511765!4d-43.1812792?f=q&hl=en&q=Praia+de+Botafogo+518+/+12%C2%BA+andar,+Rio+de+Janeiro,+br"
+    },
+    "image": "https://secure.meetupstatic.com/photos/event/2/b/3/8/global_463151064.jpeg",
+    "shortDescription": "Neste segundo meetup falaremos sobre metodologias CSS, vamos conversar sobre maneiras para domar essa fera que construimos todo dia, pois como ja dizia tio Ben 'Com grandes poderes vem grandes responsabilidades e um CSS saudável é uma mente saudável', talvez ele não tenha dito isso tudo, mas deu pra entender."
+  },
+
+  {
     "title": "Rio Sul Valley Dev Summit",
     "date": {
       "day": "25",
