@@ -1,46 +1,6 @@
 [
 
   {
-    "title": "AngularSP Talks #16",
-    "date": {
-      "day": "09",
-      "month": "Novembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/AngularJS-Sao-Paulo/events/244695377/",
-    "price": "Free",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "iMasters",
-      "locationUrl": "https://www.google.com.br/maps/place/iMasters/@-23.5523916,-46.6800878,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce582d2ea12a15:0xbe87cea048990b91!8m2!3d-23.5523916!4d-46.6778991?q=iMasters+-+Rua+Oscar+Freire,+2379+-+Pinheiros,+S%C3%A3o+Paulo&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiLnoS2rLDXAhWPl5AKHVluBDYQ_AUICigB"
-    },
-    "image": "https://user-images.githubusercontent.com/2189998/32505472-72902e8a-c3c9-11e7-9bf7-b411741f5f2f.png",
-    "shortDescription": "Novidades do Angular v5.0, WebAssembly, performance e muito mais no próximo meetup do AngularSP!"
-  },
-
-  {
-    "title": "Meetup React SP 15 - especial SP Tech Week",
-    "date": {
-      "day": "09",
-      "month": "Novembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/ReactJS-SP/events/244724543/",
-    "price": "Free",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Webforce Coworking",
-      "locationUrl": "https://www.google.com.br/maps/place/Webforce+Networks/@-23.583261,-46.6653942,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59e43358b567:0x10b3d5e260af490e!8m2!3d-23.583261!4d-46.6632055?q=Webforce+Coworking+-+Av.+Rep%C3%BAblica+do+L%C3%ADbano,+331+Ibirapuera+S%C3%A3o+Paulo+SP&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiksKP86Z_XAhUK4SYKHbKsBPIQ_AUICigB"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/32324827-cc244e64-bfb3-11e7-8e8f-75a54aad83d1.png",
-    "shortDescription": "Nosso encontro #15 será uma edição especial para a São Paulo Tech Week com duas talks: O Eduardo Shin do Meetup Frontend SP e da Monkey Exchange falando de MobX e o Luiz Camargo da Entria falando sobre Flexbox no React Native. O encontro será na Webforce Coworking, totalmente integrado ao Parque do Ibirapuera! Teremos a presença de Food Trucks vendendo hamburguers, doces e bebidas."
-  },
-
-  {
     "title": "DevFest Paraná",
     "date": {
       "day": "11",
@@ -98,6 +58,26 @@
     },
     "image": "https://secure.meetupstatic.com/photos/event/5/b/e/2/highres_453863522.jpeg",
     "shortDescription": "Talk de abertura: Qual a importância de formar uma comunidade exponencial e colaborativa Speaker: Lucas Adiers Stefanello. OFICINA PRÁTICA: Vamos realizar algumas oficinas práticas sobre a instalação do WordPress, criar um Tema, criar Plugins, Otimizar SEO, Otimizar Performance. Todas as aplicações serão dedicadas a casos reais de entidades sociais sem fins lucrativos. Vamos aprender juntos e ajudar quem precisa. Monitores: Luã Ciceri, Vitor Cardoso, Samuel Adiers Stefanello, Marcelo Ecker, Walker Gusmão"
+  },
+
+  {
+    "title": "Rio.css#03",
+    "date": {
+      "day": "21",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/Rio-css/events/244992576/",
+    "price": "Free",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "M4U",
+      "locationUrl": "https://www.google.com/maps/place/Praia+de+Botafogo,+518+-+Botafogo,+Rio+de+Janeiro+-+RJ,+22250-040/@-22.9511765,-43.1834679,17z/data=!3m1!4b1!4m5!3m4!1s0x997ff0f1864387:0xebecacc44523a438!8m2!3d-22.9511765!4d-43.1812792?f=q&hl=en&q=Praia+de+Botafogo+518+/+12%C2%BA+andar,+Rio+de+Janeiro,+br"
+    },
+    "image": "https://secure.meetupstatic.com/photos/event/2/b/3/8/global_463151064.jpeg",
+    "shortDescription": "Neste segundo meetup falaremos sobre metodologias CSS, vamos conversar sobre maneiras para domar essa fera que construimos todo dia, pois como ja dizia tio Ben 'Com grandes poderes vem grandes responsabilidades e um CSS saudável é uma mente saudável', talvez ele não tenha dito isso tudo, mas deu pra entender."
   },
 
   {
