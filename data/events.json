@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "DevFest Paraná",
-    "date": {
-      "day": "11",
-      "month": "Novembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://devfestpr.org/",
-    "price": "R$ 80 (3º lote)",
-    "location": {
-      "city": "Maringá",
-      "state": "PR",
-      "address": "SEBRAE",
-      "locationUrl": "https://www.google.com/maps/place/Sebrae+Maring%C3%A1/@-23.4185148,-51.9231366,18z/data=!3m1!4b1!4m5!3m4!1s0x94ecd0db931368a3:0xcb5132ff7f6db509!8m2!3d-23.4185148!4d-51.9220423?shorturl=1"
-    },
-    "image": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/partners%2Fdevparana.svg?alt=media&token=1ba53844-faa9-4161-8361-806f10b624d1",
-    "shortDescription": "Google Developers Group (GDG) - É a comunidade aberta de desenvolvedores que criam projetos e compartilham experiências sobre as tecnologias do Google e outras tecnologias relacionadas."
-  },
-
-  {
     "title": "#7 Frontend SP Meetup",
     "date": {
       "day": "16",
@@ -178,6 +158,26 @@
     },
     "image": "https://user-images.githubusercontent.com/487669/32276829-92cd4ee8-bef7-11e7-9014-dfaee6d469ff.png",
     "shortDescription": "Esse o ano o Front in Floripa chega em sua 5ª edição. Cada edição são 220 desenvolvedores, designers e entusiastas de toda Santa Catarina e do Brasil reunidos. Esse ano estamos trabalhando em 3 pilares para um ótimo evento."
+  },
+
+  {
+    "title": "JSDay Recife 2017",
+    "date": {
+      "day": "16",
+      "month": "Dezembro",
+      "year": 2017
+    },
+    "innerLink": "inner.html",
+    "link": "http://rec.jsday.com.br/",
+    "price": "A partir de R$ 100",
+    "location": {
+      "city": "Recife",
+      "state": "PE",
+      "address": "FICR",
+      "locationUrl": "https://www.google.com.br/maps/place/FICR+-+Faculdade+Imaculada+Concei%C3%A7%C3%A3o+do+Recife/@-8.018858,-34.9418261,17z/data=!3m1!4b1!4m5!3m4!1s0x7ab199240000001:0xca8aee19ccd4b76f!8m2!3d-8.018858!4d-34.9396374?dcr=0"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/32779054-768e616e-c923-11e7-8102-1faac5236820.jpg",
+    "shortDescription": "Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão."
   }
 
 ]
