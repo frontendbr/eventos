@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "DevFest Paraná",
-    "date": {
-      "day": "11",
-      "month": "Novembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://devfestpr.org/",
-    "price": "R$ 80 (3º lote)",
-    "location": {
-      "city": "Maringá",
-      "state": "PR",
-      "address": "SEBRAE",
-      "locationUrl": "https://www.google.com/maps/place/Sebrae+Maring%C3%A1/@-23.4185148,-51.9231366,18z/data=!3m1!4b1!4m5!3m4!1s0x94ecd0db931368a3:0xcb5132ff7f6db509!8m2!3d-23.4185148!4d-51.9220423?shorturl=1"
-    },
-    "image": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/partners%2Fdevparana.svg?alt=media&token=1ba53844-faa9-4161-8361-806f10b624d1",
-    "shortDescription": "Google Developers Group (GDG) - É a comunidade aberta de desenvolvedores que criam projetos e compartilham experiências sobre as tecnologias do Google e outras tecnologias relacionadas."
-  },
-
-  {
     "title": "#7 Frontend SP Meetup",
     "date": {
       "day": "16",
