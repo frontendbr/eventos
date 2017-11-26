@@ -118,6 +118,26 @@
     },
     "image": "https://user-images.githubusercontent.com/5203138/32779054-768e616e-c923-11e7-8102-1faac5236820.jpg",
     "shortDescription": "Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão."
+  },
+
+  {
+    "title": "Criciúma Dev Conference",
+    "date": {
+      "day": "19",
+      "month": "Maio",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://criciumadev.com.br/conference/",
+    "price": "A partir de R$ 25",
+    "location": {
+      "city": "Criciúma",
+      "state": "SC",
+      "address": "ACIC",
+      "locationUrl": "https://www.google.com.br/maps/place/R.+Ernesto+Bianchini+G%C3%B3es,+91+-+Pr%C3%B3spera,+Crici%C3%BAma+-+SC,+88815-030/@-28.6796323,-49.3575293,17z/data=!3m1!4b1!4m5!3m4!1s0x95217888aa98d741:0xfa9b727e20d8b070!8m2!3d-28.6796323!4d-49.3553406"
+    },
+    "image": "https://criciumadev.com.br/diversos/logo-criciuma-dev.png",
+    "shortDescription": "O evento Criciúma Dev Conference chega para firmar a união da comunidade, fomentar idéias e colocar Criciúma de vez no mapa dos grandes eventos de tecnologia do Brasil."
   }
 
 ]
