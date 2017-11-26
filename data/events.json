@@ -1,63 +1,23 @@
 [
 
   {
-    "title": "Rio.css#03",
+    "title": "HTML SP #9",
     "date": {
-      "day": "21",
+      "day": "27",
       "month": "Novembro",
       "year": 2017
     },
     "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/Rio-css/events/244992576/",
+    "link": "https://www.meetup.com/html-sp/events/244905181/",
     "price": "Free",
     "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "M4U",
-      "locationUrl": "https://www.google.com/maps/place/Praia+de+Botafogo,+518+-+Botafogo,+Rio+de+Janeiro+-+RJ,+22250-040/@-22.9511765,-43.1834679,17z/data=!3m1!4b1!4m5!3m4!1s0x997ff0f1864387:0xebecacc44523a438!8m2!3d-22.9511765!4d-43.1812792?f=q&hl=en&q=Praia+de+Botafogo+518+/+12%C2%BA+andar,+Rio+de+Janeiro,+br"
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "Elo7",
+      "locationUrl": "https://www.google.com/maps/place/R.+Beira+Rio,+57+-+Centro,+S%C3%A3o+Paulo+-+SP,+04548-050/@-23.5945507,-46.6908803,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce573868d4693f:0xe90c0b9cf79894d3!8m2!3d-23.5945507!4d-46.6908803"
     },
-    "image": "https://secure.meetupstatic.com/photos/event/2/b/3/8/global_463151064.jpeg",
-    "shortDescription": "Neste segundo meetup falaremos sobre metodologias CSS, vamos conversar sobre maneiras para domar essa fera que construimos todo dia, pois como ja dizia tio Ben 'Com grandes poderes vem grandes responsabilidades e um CSS saudável é uma mente saudável', talvez ele não tenha dito isso tudo, mas deu pra entender."
-  },
-
-  {
-    "title": "GDG Devfest Rio de Janeiro 2017",
-    "date": {
-      "day": "25",
-      "month": "Novembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://gdgrio.github.io/devfest/",
-    "price": "A partir de R$ 40",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "Centro de Convenções SulAmérica",
-      "locationUrl": "https://www.google.com.br/maps/place/Centro+de+Conven%C3%A7%C3%B5es+SulAm%C3%A9rica/@-22.9124853,-43.2115087,17z/data=!3m1!4b1!4m5!3m4!1s0x997f0056854d75:0x539b0105727ec977!8m2!3d-22.9124853!4d-43.20932?q=Centro+de+Conven%C3%A7%C3%B5es+SulAm%C3%A9rica+Av.+Paulo+de+Frontin,+1,+Rio+de+Janeiro&um=1&ie=UTF-8&sa=X&ved=0ahUKEwipvo20ybbXAhXFGJAKHQ_OB9UQ_AUICigB"
-    },
-    "image": "",
-    "shortDescription": "Devfest Rio de Janeiro vai acontecer no dia 25 de novembro de 2017 na cidade maravilhosa. Então venha fazer parte desse evento maravilhoso e compartilhar conhecimento conosco!"
-  },
-
-  {
-    "title": "Rio Sul Valley Dev Summit",
-    "date": {
-      "day": "25",
-      "month": "Novembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "http://riosulvalley.com.br/devsummit/",
-    "price": "R$ 50",
-    "location": {
-      "city": "Volta Redonda",
-      "state": "RJ",
-      "address": "UGB",
-      "locationUrl": "https://www.google.com.br/maps/place/UGB/@-22.5084635,-44.0917772,17z/data=!3m1!4b1!4m5!3m4!1s0x9ea2addf821f97:0xec27f71b0ab5d076!8m2!3d-22.5084635!4d-44.0895885?q=UGB+-+VOLTA+REDONDA+-+RJ&um=1&ie=UTF-8&sa=X&ved=0ahUKEwi7w5aA6aPXAhULhZAKHb66BaIQ_AUICigB"
-    },
-    "image": "http://riosulvalley.com.br/devsummit/assets/images/sponsors/riosulvalley.png",
-    "shortDescription": "Será um dia inteiro para interagir, discutir, conhecer pessoas e nos divertir. O RSV DEV SUMMIT é um evento da comunidade feito para a comunidade. O objetivo é disseminar o conhecimento e atualizar os desenvolvedores com novidades tecnológicas."
+    "image": "https://secure.meetupstatic.com/photos/event/4/c/e/f/global_452539695.jpeg",
+    "shortDescription": "Estaremos com o formato, fora das tradicionais palestras, será realizado um Dojo, recapitulando todos os temas que já conversamos e aprendemos até o momento no HTML São Paulo."
   },
 
   {
@@ -158,6 +118,26 @@
     },
     "image": "https://user-images.githubusercontent.com/5203138/32779054-768e616e-c923-11e7-8102-1faac5236820.jpg",
     "shortDescription": "Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão."
+  },
+
+  {
+    "title": "Criciúma Dev Conference",
+    "date": {
+      "day": "19",
+      "month": "Maio",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://criciumadev.com.br/conference/",
+    "price": "A partir de R$ 25",
+    "location": {
+      "city": "Criciúma",
+      "state": "SC",
+      "address": "ACIC",
+      "locationUrl": "https://www.google.com.br/maps/place/R.+Ernesto+Bianchini+G%C3%B3es,+91+-+Pr%C3%B3spera,+Crici%C3%BAma+-+SC,+88815-030/@-28.6796323,-49.3575293,17z/data=!3m1!4b1!4m5!3m4!1s0x95217888aa98d741:0xfa9b727e20d8b070!8m2!3d-28.6796323!4d-49.3553406"
+    },
+    "image": "https://criciumadev.com.br/diversos/logo-criciuma-dev.png",
+    "shortDescription": "O evento Criciúma Dev Conference chega para firmar a união da comunidade, fomentar idéias e colocar Criciúma de vez no mapa dos grandes eventos de tecnologia do Brasil."
   }
 
 ]
