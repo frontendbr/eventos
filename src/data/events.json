@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "HTML SP #9",
-    "date": {
-      "day": "27",
-      "month": "Novembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/html-sp/events/244905181/",
-    "price": "Free",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Elo7",
-      "locationUrl": "https://www.google.com/maps/place/R.+Beira+Rio,+57+-+Centro,+S%C3%A3o+Paulo+-+SP,+04548-050/@-23.5945507,-46.6908803,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce573868d4693f:0xe90c0b9cf79894d3!8m2!3d-23.5945507!4d-46.6908803"
-    },
-    "image": "https://secure.meetupstatic.com/photos/event/4/c/e/f/global_452539695.jpeg",
-    "shortDescription": "Estaremos com o formato, fora das tradicionais palestras, será realizado um Dojo, recapitulando todos os temas que já conversamos e aprendemos até o momento no HTML São Paulo."
-  },
-
-  {
     "title": "GDG DevFest Brasilia 2017",
     "date": {
       "day": "02",
