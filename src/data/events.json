@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "GDG DevFest Brasilia 2017",
-    "date": {
-      "day": "02",
-      "month": "Dezembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/GDG-Brasilia/events/245236290/",
-    "price": "R$ 10",
-    "location": {
-      "city": "Brasilia",
-      "state": "DF",
-      "address": " Vicente Pires Coworking",
-      "locationUrl": "https://www.google.com.br/maps/place/St.+Hab.+Vicente+Pires+-+Taguatinga,+Bras%C3%ADlia+-+DF,+70297-400/@-15.8039956,-48.0393556,15z/data=!3m1!4b1!4m5!3m4!1s0x935a33a8f6d7fe81:0x1d05d8541ea7e6a8!8m2!3d-15.8032275!4d-48.0175522"
-    },
-    "image": "https://softstribe.com/wp-content/uploads/2014/06/chrome-developer-tools.png",
-    "shortDescription": "Evento organizado pelos GDG's do mundo inteiro, vamos ter o DevFest Brasília 2017. Um evento de tecnologia (mais voltado pra programação, mobile e design) para reunir conhecimento, experiências e juntar comunidades locais e globais."
-  },
-
-  {
     "title": "2º CodePen Meetup Brasil",
     "date": {
       "day": "02",
