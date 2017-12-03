@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "WordCamp São Paulo 2017",
-    "date": {
-      "day": "02",
-      "month": "Dezembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://2017.saopaulo.wordcamp.org",
-    "price": "$15 (dólares)",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Faculdade Impacta",
-      "locationUrl": "https://www.google.com.br/maps/place/Faculdade+Impacta+Tecnologia/@-23.5258552,-46.6515159,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5a36ed390d1b:0x774f96e1ad521edb!8m2!3d-23.5258552!4d-46.6493219"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/32284781-621c194c-bf0f-11e7-817e-2eed1f22c9d4.png",
-    "shortDescription": "O WordCamp é a conferência anual de WordPress que se originou nos Estados Unidos. Em São Paulo esta será a 6ª edição do evento, contando com um dia de workshops, palestras e muita troca de conhecimento sobre a plataforma de criação de sites mais utilizada da atualidade."
-  },
-
-  {
     "title": "Front in Floripa",
     "date": {
       "day": "02",
