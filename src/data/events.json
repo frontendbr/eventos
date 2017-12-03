@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "2º CodePen Meetup Brasil",
-    "date": {
-      "day": "02",
-      "month": "Dezembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://nvite.com/CodePenMeetupBrasil/3vw2pl",
-    "price": "Free",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Google",
-      "locationUrl": "https://www.google.com/maps/place/P%C3%A1tio+Victor+Malzoni+-+Av.+Brg.+Faria+Lima,+3477+-+Itaim+Bibi,+S%C3%A3o+Paulo+-+SP,+04538-133/@-23.5865005,-46.684222,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce574310080af1:0x18591c99b6da9c29!8m2!3d-23.5864794!4d-46.6820784?q=Av.+Brig.+Faria+Lima,+3477,+S%C3%A3o+Paulo,+State+of+S%C3%A3o+Paulo"
-    },
-    "image": "http://i.imgur.com/1JFeQuP.jpg",
-    "shortDescription": "Após o sucesso do 1º Meetup Oficial do Codepen no Brasil, chega a São Paulo a segunda edição do evento! Essa edição será muito especial, teremos: Show & Tell com Fernanda Bernardo, Gisele Atadaime, Felipe Santo, Miguel Soares e Maujor, Dribbble + CodePen cross-overs e um coffee bem legal para fazermos novas amizades e compartilharmos conhecimento."
-  },
-
-  {
     "title": "WordCamp São Paulo 2017",
     "date": {
       "day": "02",
