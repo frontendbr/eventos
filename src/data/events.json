@@ -21,26 +21,6 @@
   },
 
   {
-    "title": "JSDay Recife 2017",
-    "date": {
-      "day": "16",
-      "month": "Dezembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "http://rec.jsday.com.br/",
-    "price": "A partir de R$ 100",
-    "location": {
-      "city": "Recife",
-      "state": "PE",
-      "address": "FICR",
-      "locationUrl": "https://www.google.com.br/maps/place/FICR+-+Faculdade+Imaculada+Concei%C3%A7%C3%A3o+do+Recife/@-8.018858,-34.9418261,17z/data=!3m1!4b1!4m5!3m4!1s0x7ab199240000001:0xca8aee19ccd4b76f!8m2!3d-8.018858!4d-34.9396374?dcr=0"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/32779054-768e616e-c923-11e7-8102-1faac5236820.jpg",
-    "shortDescription": "Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão."
-  },
-
-  {
     "title": "WordPress POA Meetup dez 2017",
     "date": {
       "day": "19",
