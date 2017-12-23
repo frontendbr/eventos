@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "HTML SP #10",
-    "date": {
-      "day": "19",
-      "month": "Dezembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/html-sp/events/244906075/",
-    "price": "Free",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "iMasters Developer Hub",
-      "locationUrl": "https://www.google.com/maps/place/Rua+Oscar+Freire,+2379+-+Pinheiros,+S%C3%A3o+Paulo+-+SP/@-23.5523916,-46.6778991,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce578fa0370cc3:0x2af59db66a7bb4e9!8m2!3d-23.5523916!4d-46.6778991"
-    },
-    "image": "https://secure.meetupstatic.com/photos/event/4/c/e/f/global_452539695.jpeg",
-    "shortDescription": "Estaremos com um novo formato, fora das tradicionais palestras, será realizado um Dojo, recapitulando todos os temas que já conversamos e aprendemos até o momento no HTML São Paulo. Iremos pegar Layouts de sites e desenvolver o código dele APENAS COM HTML."
-  },
-
-  {
     "title": "WordPress POA Meetup dez 2017",
     "date": {
       "day": "19",
