@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "WordPress POA Meetup dez 2017",
-    "date": {
-      "day": "19",
-      "month": "Dezembro",
-      "year": 2017
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/wp-poa/events/240528162/",
-    "price": "Free",
-    "location": {
-      "city": "Porto Alegre",
-      "state": "RS",
-      "address": "Atum Workstyle",
-      "locationUrl": "https://www.google.com.br/maps/place/Atum+Workstyle/@-30.0283909,-51.1603235,17z/data=!4m8!1m2!2m1!1sAtum+Workstyle+Av.+Dr.+Nilo+Pe%C3%A7anha,+3228+%C2%B7+Porto+Alegre!3m4!1s0x951977bd7069ad63:0xa3437753633553ae!8m2!3d-30.028679!4d-51.15811"
-    },
-    "image": "",
-    "shortDescription": "Vamos discutir várias coisas, o formato dos Meetups, melhor dia para o evento ocorrer, sugestões de palestras e novo local. Ainda, vamos falar sobre o WordCamp Porto Alegre 2018, sim, vai ter! Então estará imperdível, contamos com sua presença!"
-  },
-
-  {
     "title": "Criciúma Dev Conference",
     "date": {
       "day": "19",
