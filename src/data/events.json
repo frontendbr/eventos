@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "16º Meetup WordPress Floripa",
-    "date": {
-      "day": "20",
-      "month": "Janeiro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/Meetup-Wordpress-Floripa/events/245890104/",
-    "price": "Free",
-    "location": {
-      "city": "Florianópolis",
-      "state": "SC",
-      "address": "Mansão da InCuca",
-      "locationUrl": "https://www.google.com.br/maps/place/InCuca+Tecnologia/@-27.6915701,-48.4985312,17z/data=!3m1!4b1!4m5!3m4!1s0x952738544297518f:0xeb1ac232bfa23e11!8m2!3d-27.6915701!4d-48.4963425"
-    },
-    "image": "https://secure.meetupstatic.com/photos/event/5/b/e/2/global_453863522.jpeg",
-    "shortDescription": "Vamos realizar algumas oficinas práticas sobre a instalação do WordPress, criar um Tema, criar Plugins, Otimizar SEO, Otimizar Performance. Todas as aplicações serão dedicadas a casos reais de entidades sociais sem fins lucrativos. Vamos aprender juntos e ajudar quem precisa."
-  },
-
-  {
     "title": "Criciúma Dev Conference",
     "date": {
       "day": "19",
