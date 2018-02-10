@@ -1,5 +1,25 @@
 [
   {
+    "title": "7º Meetup - ReactJS Florianópolis",
+    "date": {
+      "day": "24",
+      "month": "Fevereiro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/ReactJS-Floripa/events/247310962/",
+    "price": "Free",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC",
+      "address": "Segware",
+      "locationUrl": "https://www.google.com.br/maps/place/Segware/@-27.591993,-48.5159187,17z/data=!3m1!4b1!4m5!3m4!1s0x952746f0d9e76155:0xb2d6c64880616870!8m2!3d-27.591993!4d-48.51373"
+    },
+    "image": "",
+    "shortDescription": "Vamos começar a agitar a comunidade de ReactJS com esse primeiro encontro do ano. Mais uma vez a Segware abrindo as portas para a comunidade de ReactJS. Teremos talks de 15 a 40 minutos, então teremos vários formatos para que os palestrantes possam escolher o tempo necessário para seu conteúdo."
+  },
+
+  {
     "title": "17º Meetup WordPress Floripa",
     "date": {
       "day": "03",
