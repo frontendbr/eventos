@@ -1,25 +1,5 @@
 [
   {
-    "title": "7º Meetup - ReactJS Florianópolis",
-    "date": {
-      "day": "24",
-      "month": "Fevereiro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/ReactJS-Floripa/events/247310962/",
-    "price": "Free",
-    "location": {
-      "city": "Florianópolis",
-      "state": "SC",
-      "address": "Segware",
-      "locationUrl": "https://www.google.com.br/maps/place/Segware/@-27.591993,-48.5159187,17z/data=!3m1!4b1!4m5!3m4!1s0x952746f0d9e76155:0xb2d6c64880616870!8m2!3d-27.591993!4d-48.51373"
-    },
-    "image": "",
-    "shortDescription": "Vamos começar a agitar a comunidade de ReactJS com esse primeiro encontro do ano. Mais uma vez a Segware abrindo as portas para a comunidade de ReactJS. Teremos talks de 15 a 40 minutos, então teremos vários formatos para que os palestrantes possam escolher o tempo necessário para seu conteúdo."
-  },
-
-  {
     "title": "17º Meetup WordPress Floripa",
     "date": {
       "day": "03",
@@ -37,6 +17,26 @@
     },
     "image": "https://secure.meetupstatic.com/photos/event/5/b/e/2/highres_453863522.jpeg",
     "shortDescription": "Neste meetup Lucas Adiers Stefanello iniciará com a talk Qual a importância de formar uma comunidade exponencial e colaborativa. Em seguida faremos o famoso jogo de perguntas e respostas onde cada participante pode escrever suas dúvidas, curiosidades, assuntos sobre WordPress para os participantes responderem. Vamos continuar as definições e criações dos preparativos para o WordCamp Floripa 2018, que será realizado dia 07/04 no SENAC no Centro de Florianópolis. Teremos Coffee-break!!!"
+  },
+
+  {
+    "title": "Front in Campinas 2018",
+    "date": {
+      "day": "12",
+      "month": "Maio",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "http://frontincampinas.com.br",
+    "price": "A partir de R$ 90",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "Vitória Hotel Concept Campinas",
+      "locationUrl": "https://www.google.com.br/maps/place/VIT%C3%93RIA+HOTEL+CONCEPT+CAMPINAS/@-22.9024731,-47.0501841,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8cf463aa8d455:0x17bc5c6b4ce7c6ff!8m2!3d-22.9024731!4d-47.0479954"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/36631265-a23b83e8-1953-11e8-9068-ce9365427097.png",
+    "shortDescription": "Primeira edição de um evento 100% focado em front-end na cidade de Campinas. Será um dia todo com conteúdos de alta qualidade, diversão e muito networking."
   },
 
   {
