@@ -37,6 +37,26 @@
     },
     "image": "https://criciumadev.com.br/diversos/logo-criciuma-dev.png",
     "shortDescription": "O evento Criciúma Dev Conference chega para firmar a união da comunidade, fomentar idéias e colocar Criciúma de vez no mapa dos grandes eventos de tecnologia do Brasil."
+  },
+
+  {
+    "title": "BrazilJS 2018",
+    "date": {
+      "day": "24 e 25",
+      "month": "Agosto",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/conf/",
+    "price": "A partir de R$ 124,90 (para estudantes)",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Barra Shopping Sul",
+      "locationUrl": "https://www.google.com.br/maps/place/Barra+Shopping+Sul/@-30.0840547,-51.2478259,17z/data=!4m8!1m2!2m1!1sBarra+Shopping+Sul!3m4!1s0x951978a0f03108f3:0x6d93ede7b30eb35f!8m2!3d-30.0843929!4d-51.245396"
+    },
+    "image": "",
+    "shortDescription": "A já tradicional e querida BrazilJS Conf, maior conferência JavaScript do mundo, está com os dias de sua sétima edição confirmados: 24 e 25 de Agosto, no Barra Shopping Sul, na zona Sul de Porto Alegre."
   }
 
 ]
