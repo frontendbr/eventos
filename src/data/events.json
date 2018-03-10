@@ -1,25 +1,5 @@
 [
   {
-    "title": "17º Meetup WordPress Floripa",
-    "date": {
-      "day": "03",
-      "month": "Março",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/Meetup-Wordpress-Floripa/events/247344194/",
-    "price": "Free",
-    "location": {
-      "city": "Florianópolis",
-      "state": "SC",
-      "address": "Mansão da InCuca",
-      "locationUrl": "https://www.google.com/maps/place/Servid%C3%A3o+Aroeiras+do+Gramal,+250+-+Campeche,+Florian%C3%B3polis+-+SC,+88063-094/@-27.6942078,-48.4953942,17z/data=!4m5!3m4!1s0x95273b40d641b55b:0xdf941f8b5354c4db!8m2!3d-27.6917474!4d-48.4955551?hl=en"
-    },
-    "image": "https://secure.meetupstatic.com/photos/event/5/b/e/2/highres_453863522.jpeg",
-    "shortDescription": "Neste meetup Lucas Adiers Stefanello iniciará com a talk Qual a importância de formar uma comunidade exponencial e colaborativa. Em seguida faremos o famoso jogo de perguntas e respostas onde cada participante pode escrever suas dúvidas, curiosidades, assuntos sobre WordPress para os participantes responderem. Vamos continuar as definições e criações dos preparativos para o WordCamp Floripa 2018, que será realizado dia 07/04 no SENAC no Centro de Florianópolis. Teremos Coffee-break!!!"
-  },
-
-  {
     "title": "Front in Campinas 2018",
     "date": {
       "day": "12",
