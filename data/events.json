@@ -1,22 +1,23 @@
 [
+
   {
-    "title": "17º Meetup WordPress Floripa",
+    "title": "WordCamp Floripa 2018",
     "date": {
-      "day": "03",
-      "month": "Março",
+      "day": "07",
+      "month": "Abril",
       "year": 2018
     },
     "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/Meetup-Wordpress-Floripa/events/247344194/",
-    "price": "Free",
+    "link": "https://2018.floripa.wordcamp.org/",
+    "price": "Em breve",
     "location": {
       "city": "Florianópolis",
       "state": "SC",
-      "address": "Mansão da InCuca",
-      "locationUrl": "https://www.google.com/maps/place/Servid%C3%A3o+Aroeiras+do+Gramal,+250+-+Campeche,+Florian%C3%B3polis+-+SC,+88063-094/@-27.6942078,-48.4953942,17z/data=!4m5!3m4!1s0x95273b40d641b55b:0xdf941f8b5354c4db!8m2!3d-27.6917474!4d-48.4955551?hl=en"
+      "address": "Senac - Centro",
+      "locationUrl": "https://www.google.com.br/maps/place/Faculdade+Senac+Florian%C3%B3polis/@-27.5987629,-48.5562727,16z/data=!4m8!1m2!2m1!1ssenac+centro+florianopolis!3m4!1s0x95273831874b03cf:0x738d23b15d5cc78b!8m2!3d-27.6038901!4d-48.5464452"
     },
-    "image": "https://secure.meetupstatic.com/photos/event/5/b/e/2/highres_453863522.jpeg",
-    "shortDescription": "Neste meetup Lucas Adiers Stefanello iniciará com a talk Qual a importância de formar uma comunidade exponencial e colaborativa. Em seguida faremos o famoso jogo de perguntas e respostas onde cada participante pode escrever suas dúvidas, curiosidades, assuntos sobre WordPress para os participantes responderem. Vamos continuar as definições e criações dos preparativos para o WordCamp Floripa 2018, que será realizado dia 07/04 no SENAC no Centro de Florianópolis. Teremos Coffee-break!!!"
+    "image": "https://2018.floripa.wordcamp.org/files/2018/02/logo-home.png",
+    "shortDescription": "O WordCamp é a conferência anual de WordPress que se originou nos Estados Unidos. Em Florianópolis esta será a 1ª edição do evento, contando com um dia de workshops, palestras e muita troca de conhecimento sobre a plataforma de criação de sites mais utilizada da atualidade."
   },
 
   {
@@ -55,8 +56,28 @@
       "address": "ACIC",
       "locationUrl": "https://www.google.com.br/maps/place/R.+Ernesto+Bianchini+G%C3%B3es,+91+-+Pr%C3%B3spera,+Crici%C3%BAma+-+SC,+88815-030/@-28.6796323,-49.3575293,17z/data=!3m1!4b1!4m5!3m4!1s0x95217888aa98d741:0xfa9b727e20d8b070!8m2!3d-28.6796323!4d-49.3553406"
     },
-    "image": "https://criciumadev.com.br/diversos/logo-criciuma-dev.png",
+    "image": "https://criciumadev.com.br/assets/images/logo-criciuma-dev-dark.svg",
     "shortDescription": "O evento Criciúma Dev Conference chega para firmar a união da comunidade, fomentar idéias e colocar Criciúma de vez no mapa dos grandes eventos de tecnologia do Brasil."
+  },
+
+  {
+    "title": "BrazilJS 2018",
+    "date": {
+      "day": "24 e 25",
+      "month": "Agosto",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/conf/",
+    "price": "A partir de R$ 124,90 (para estudantes) - 2º lote",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Barra Shopping Sul",
+      "locationUrl": "https://www.google.com.br/maps/place/Barra+Shopping+Sul/@-30.0840547,-51.2478259,17z/data=!4m8!1m2!2m1!1sBarra+Shopping+Sul!3m4!1s0x951978a0f03108f3:0x6d93ede7b30eb35f!8m2!3d-30.0843929!4d-51.245396"
+    },
+    "image": "https://braziljs.org/wp-content/themes/portal-wp-theme-master/assets/img/logos/braziljs-00508dcfc4.svg",
+    "shortDescription": "A já tradicional e querida BrazilJS Conf, maior conferência JavaScript do mundo, está com os dias de sua sétima edição confirmados: 24 e 25 de Agosto, no Barra Shopping Sul, na zona Sul de Porto Alegre."
   }
 
 ]
