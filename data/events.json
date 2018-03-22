@@ -9,7 +9,7 @@
     },
     "innerLink": "inner.html",
     "link": "https://2018.floripa.wordcamp.org/",
-    "price": "Em breve",
+    "price": "R$ 60",
     "location": {
       "city": "Florianópolis",
       "state": "SC",
@@ -58,6 +58,26 @@
     },
     "image": "https://criciumadev.com.br/assets/images/logo-criciuma-dev-dark.svg",
     "shortDescription": "O evento Criciúma Dev Conference chega para firmar a união da comunidade, fomentar idéias e colocar Criciúma de vez no mapa dos grandes eventos de tecnologia do Brasil."
+  },
+
+  {
+    "title": "BrazilJS on the Road Sorocaba",
+    "date": {
+      "day": "09",
+      "month": "Junho",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/on-the-road-sorocaba/",
+    "price": "A partir de R$ 44,90 - meia estudantes",
+    "location": {
+      "city": "Sorocaba",
+      "state": "SP",
+      "address": "",
+      "locationUrl": ""
+    },
+    "image": "https://i.imgur.com/dNp0SDD.png",
+    "shortDescription": "BrazilJS on the road é uma série de eventos oficiais e com curadoria da BrazilJS e primeiro destino da série BRJS on The Road é Sorocaba, no estado de SP. Nosso objetivo é levar conteúdo exclusivo em forma de evento para comunidades regionais em todo Brasil."
   },
 
   {
