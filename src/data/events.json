@@ -61,6 +61,26 @@
   },
 
   {
+    "title": "BrazilJS on the Road Sorocaba",
+    "date": {
+      "day": "09",
+      "month": "Junho",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/on-the-road-sorocaba/",
+    "price": "A partir de R$ 44,90 - meia estudantes",
+    "location": {
+      "city": "Sorocaba",
+      "state": "SP",
+      "address": "",
+      "locationUrl": ""
+    },
+    "image": "https://i.imgur.com/dNp0SDD.png",
+    "shortDescription": "BrazilJS on the road é uma série de eventos oficiais e com curadoria da BrazilJS e primeiro destino da série BRJS on The Road é Sorocaba, no estado de SP. Nosso objetivo é levar conteúdo exclusivo em forma de evento para comunidades regionais em todo Brasil."
+  },
+
+  {
     "title": "BrazilJS 2018",
     "date": {
       "day": "24 e 25",
