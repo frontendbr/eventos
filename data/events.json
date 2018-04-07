@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "WordCamp Floripa 2018",
-    "date": {
-      "day": "07",
-      "month": "Abril",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://2018.floripa.wordcamp.org/",
-    "price": "R$ 60",
-    "location": {
-      "city": "Florianópolis",
-      "state": "SC",
-      "address": "Senac - Centro",
-      "locationUrl": "https://www.google.com.br/maps/place/Faculdade+Senac+Florian%C3%B3polis/@-27.5987629,-48.5562727,16z/data=!4m8!1m2!2m1!1ssenac+centro+florianopolis!3m4!1s0x95273831874b03cf:0x738d23b15d5cc78b!8m2!3d-27.6038901!4d-48.5464452"
-    },
-    "image": "https://2018.floripa.wordcamp.org/files/2018/02/logo-home.png",
-    "shortDescription": "O WordCamp é a conferência anual de WordPress que se originou nos Estados Unidos. Em Florianópolis esta será a 1ª edição do evento, contando com um dia de workshops, palestras e muita troca de conhecimento sobre a plataforma de criação de sites mais utilizada da atualidade."
-  },
-
-  {
     "title": "Front in Campinas 2018",
     "date": {
       "day": "12",
@@ -78,6 +58,26 @@
     },
     "image": "https://i.imgur.com/dNp0SDD.png",
     "shortDescription": "BrazilJS on the road é uma série de eventos oficiais e com curadoria da BrazilJS e primeiro destino da série BRJS on The Road é Sorocaba, no estado de SP. Nosso objetivo é levar conteúdo exclusivo em forma de evento para comunidades regionais em todo Brasil."
+  },
+
+  {
+    "title": "Front In Sampa 2018",
+    "date": {
+      "day": "14",
+      "month": "Julho",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "http://www.frontinsampa.com.br/",
+    "price": "299,00 (3º lote)",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "Teatro do Maksoud Plaza",
+      "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.146056372235!2d-46.65333638502209!3d-23.563197284682058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c7f895c915%3A0x6bd71858382f31fc!2sTeatro+Maksoud+Plaza!5e0!3m2!1spt-BR!2sbr!4v1522963782743"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/38392950-9545ddde-38ff-11e8-9614-0bbb872101b0.png",
+    "shortDescription": "O mais tradicional evento sobre front-end está de volta para reunir a comunidade em torno do melhor conteúdo sobre desenvolvimento de interfaces através de apresentações inesquecíveis."
   },
 
   {
