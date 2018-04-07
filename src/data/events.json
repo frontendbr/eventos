@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "WordCamp Floripa 2018",
-    "date": {
-      "day": "07",
-      "month": "Abril",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://2018.floripa.wordcamp.org/",
-    "price": "R$ 60",
-    "location": {
-      "city": "Florianópolis",
-      "state": "SC",
-      "address": "Senac - Centro",
-      "locationUrl": "https://www.google.com.br/maps/place/Faculdade+Senac+Florian%C3%B3polis/@-27.5987629,-48.5562727,16z/data=!4m8!1m2!2m1!1ssenac+centro+florianopolis!3m4!1s0x95273831874b03cf:0x738d23b15d5cc78b!8m2!3d-27.6038901!4d-48.5464452"
-    },
-    "image": "https://2018.floripa.wordcamp.org/files/2018/02/logo-home.png",
-    "shortDescription": "O WordCamp é a conferência anual de WordPress que se originou nos Estados Unidos. Em Florianópolis esta será a 1ª edição do evento, contando com um dia de workshops, palestras e muita troca de conhecimento sobre a plataforma de criação de sites mais utilizada da atualidade."
-  },
-
-  {
     "title": "Front in Campinas 2018",
     "date": {
       "day": "12",
