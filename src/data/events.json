@@ -40,6 +40,26 @@
     "shortDescription": "O evento Criciúma Dev Conference chega para firmar a união da comunidade, fomentar idéias e colocar Criciúma de vez no mapa dos grandes eventos de tecnologia do Brasil."
   },
 
+    {
+      "title": "JSDay Rio de Janeiro",
+      "date": {
+        "day": "09",
+        "month": "Junho",
+        "year": 2018
+      },
+      "innerLink": "inner.html",
+      "link": "http://rio.jsday.com.br/",
+      "price": "A partir de R$ 32,40",
+      "location": {
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "address": "NAVE Cidade Olímpica",
+        "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.4935136966706!2d-43.295945785034604!3d-22.895161085017705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997d0616ff52a5%3A0xfa3f33009ef8a209!2sMuseu+Cidade+Ol%C3%ADmpica+e+Paral%C3%ADmpica!5e0!3m2!1spt-BR!2sbr!4v1524182311589"
+      },
+      "image": "https://d1gkntzr8mxq7s.cloudfront.net/5abafdcf09a25-lg.jpg",
+      "shortDescription": "O JSDay Brasil foi criado para trazer temas atuais e inovadores sobre a linguagem mais utilizada do mundo, o JavaScript!"
+    },
+
   {
     "title": "BrazilJS on the Road Sorocaba",
     "date": {
