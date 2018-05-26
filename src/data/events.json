@@ -61,6 +61,26 @@
   },
 
   {
+    "title": "DevParaná Conference 2018",
+    "date": {
+      "day": "28",
+      "month": "Julho",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.devparana.org/conf/",
+    "price": "A partir de R$ 50",
+    "location": {
+      "city": "Maringá",
+      "state": "PR",
+      "address": "Parque Internacional de Exposições Francisco Feio Ribeiro",
+      "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.1043942324027!2d-51.904008385025!3d-23.420595784753008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd0f17111b82f%3A0xbfb7c9cce3800fc1!2sParque+Internacional+de+Exposi%C3%A7%C3%B5es+Francisco+Feio+Ribeiro!5e0!3m2!1spt-BR!2sbr!4v1527337252906"
+    },
+    "image": "https://user-images.githubusercontent.com/697486/39828150-69797908-5390-11e8-80ea-77d8efe6c52d.PNG",
+    "shortDescription": "A conferência tem por objetivo trazer palestrantes que são referência nacional em sua área de atuação, assim como palestrantes que são destaque na comunidade através de uma chamada para submissão de palestras."
+  },
+
+  {
     "title": "BrazilJS 2018",
     "date": {
       "day": "24 e 25",
