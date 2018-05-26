@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "FEMUG Maringá 13ª edição",
-    "date": {
-      "day": "12",
-      "month": "Maio",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/femugmga/events/250075455/",
-    "price": "Free",
-    "location": {
-      "city": "Maringá",
-      "state": "PR",
-      "address": "Orbital Aceleradora de Startups",
-      "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.1870041989905!2d-51.94148468502486!3d-23.417610984754468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd72a88fcc7bf%3A0xb30de6c63ac8b8ba!2sORBITAL+Aceleradora+Startups!5e0!3m2!1spt-BR!2sbr!4v1525745019801"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/39733728-7d96ef8e-524a-11e8-98e2-6f136c517182.png",
-    "shortDescription": "Estamos com mais uma edição do encontro de desenvolvedores frontend aqui em Maringá. Desta vez iremos realizar na Orbital Aceleradora de Startups, no centro de Maringá. O evento será das 13:30 até as 18:00, teremos pausa para um coffe break."
-  },
-
-  {
     "title": "Front in Campinas 2018",
     "date": {
       "day": "12",
