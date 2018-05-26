@@ -1,65 +1,5 @@
 [
 
-  {
-    "title": "FEMUG Maringá 13ª edição",
-    "date": {
-      "day": "12",
-      "month": "Maio",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/femugmga/events/250075455/",
-    "price": "Free",
-    "location": {
-      "city": "Maringá",
-      "state": "PR",
-      "address": "Orbital Aceleradora de Startups",
-      "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.1870041989905!2d-51.94148468502486!3d-23.417610984754468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd72a88fcc7bf%3A0xb30de6c63ac8b8ba!2sORBITAL+Aceleradora+Startups!5e0!3m2!1spt-BR!2sbr!4v1525745019801"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/39733728-7d96ef8e-524a-11e8-98e2-6f136c517182.png",
-    "shortDescription": "Estamos com mais uma edição do encontro de desenvolvedores frontend aqui em Maringá. Desta vez iremos realizar na Orbital Aceleradora de Startups, no centro de Maringá. O evento será das 13:30 até as 18:00, teremos pausa para um coffe break."
-  },
-
-  {
-    "title": "Front in Campinas 2018",
-    "date": {
-      "day": "12",
-      "month": "Maio",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "http://frontincampinas.com.br",
-    "price": "A partir de R$ 90",
-    "location": {
-      "city": "Campinas",
-      "state": "SP",
-      "address": "Vitória Hotel Concept Campinas",
-      "locationUrl": "https://www.google.com.br/maps/place/VIT%C3%93RIA+HOTEL+CONCEPT+CAMPINAS/@-22.9024731,-47.0501841,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8cf463aa8d455:0x17bc5c6b4ce7c6ff!8m2!3d-22.9024731!4d-47.0479954"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/36631265-a23b83e8-1953-11e8-9068-ce9365427097.png",
-    "shortDescription": "Primeira edição de um evento 100% focado em front-end na cidade de Campinas. Será um dia todo com conteúdos de alta qualidade, diversão e muito networking."
-  },
-
-  {
-    "title": "Criciúma Dev Conference",
-    "date": {
-      "day": "19",
-      "month": "Maio",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://criciumadev.com.br/conference/",
-    "price": "A partir de R$ 25",
-    "location": {
-      "city": "Criciúma",
-      "state": "SC",
-      "address": "ACIC",
-      "locationUrl": "https://www.google.com.br/maps/place/R.+Ernesto+Bianchini+G%C3%B3es,+91+-+Pr%C3%B3spera,+Crici%C3%BAma+-+SC,+88815-030/@-28.6796323,-49.3575293,17z/data=!3m1!4b1!4m5!3m4!1s0x95217888aa98d741:0xfa9b727e20d8b070!8m2!3d-28.6796323!4d-49.3553406"
-    },
-    "image": "https://criciumadev.com.br/assets/images/logo-criciuma-dev-dark.svg",
-    "shortDescription": "O evento Criciúma Dev Conference chega para firmar a união da comunidade, fomentar idéias e colocar Criciúma de vez no mapa dos grandes eventos de tecnologia do Brasil."
-  },
-
     {
       "title": "JSDay Rio de Janeiro",
       "date": {
@@ -118,6 +58,26 @@
     },
     "image": "https://user-images.githubusercontent.com/5203138/38392950-9545ddde-38ff-11e8-9614-0bbb872101b0.png",
     "shortDescription": "O mais tradicional evento sobre front-end está de volta para reunir a comunidade em torno do melhor conteúdo sobre desenvolvimento de interfaces através de apresentações inesquecíveis."
+  },
+
+  {
+    "title": "DevParaná Conference 2018",
+    "date": {
+      "day": "28",
+      "month": "Julho",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.devparana.org/conf/",
+    "price": "A partir de R$ 50",
+    "location": {
+      "city": "Maringá",
+      "state": "PR",
+      "address": "Parque Internacional de Exposições Francisco Feio Ribeiro",
+      "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.1043942324027!2d-51.904008385025!3d-23.420595784753008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd0f17111b82f%3A0xbfb7c9cce3800fc1!2sParque+Internacional+de+Exposi%C3%A7%C3%B5es+Francisco+Feio+Ribeiro!5e0!3m2!1spt-BR!2sbr!4v1527337252906"
+    },
+    "image": "https://user-images.githubusercontent.com/697486/39828150-69797908-5390-11e8-80ea-77d8efe6c52d.PNG",
+    "shortDescription": "A conferência tem por objetivo trazer palestrantes que são referência nacional em sua área de atuação, assim como palestrantes que são destaque na comunidade através de uma chamada para submissão de palestras."
   },
 
   {
