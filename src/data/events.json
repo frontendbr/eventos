@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "Front in Campinas 2018",
-    "date": {
-      "day": "12",
-      "month": "Maio",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "http://frontincampinas.com.br",
-    "price": "A partir de R$ 90",
-    "location": {
-      "city": "Campinas",
-      "state": "SP",
-      "address": "Vitória Hotel Concept Campinas",
-      "locationUrl": "https://www.google.com.br/maps/place/VIT%C3%93RIA+HOTEL+CONCEPT+CAMPINAS/@-22.9024731,-47.0501841,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8cf463aa8d455:0x17bc5c6b4ce7c6ff!8m2!3d-22.9024731!4d-47.0479954"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/36631265-a23b83e8-1953-11e8-9068-ce9365427097.png",
-    "shortDescription": "Primeira edição de um evento 100% focado em front-end na cidade de Campinas. Será um dia todo com conteúdos de alta qualidade, diversão e muito networking."
-  },
-
-  {
     "title": "Criciúma Dev Conference",
     "date": {
       "day": "19",
