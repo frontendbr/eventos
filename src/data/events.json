@@ -1,6 +1,26 @@
 [
 
   {
+    "title": "RSJS 2018",
+    "date": {
+      "day": "30",
+      "month": "Junho",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/rsjs-2018/",
+    "price": "A partir de R$99,00 (meia)",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Senac",
+      "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.0545657490948!2d-51.22860358488512!3d-30.035292381885625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95197906acdae77f%3A0x3c15bb6b7754488e!2sR.+Cel.+Genu%C3%ADno%2C+130+-+Centro+Hist%C3%B3rico%2C+Porto+Alegre+-+RS!5e0!3m2!1spt-BR!2sbr!4v1528769114668"
+    },
+    "image": "https://event-kraken.s3.amazonaws.com/event/posters/24229/medium.jpg",
+    "shortDescription": "Sétima edição do mais tradicional evento gaudério de JavaScript do Rio Grande do Sul."
+  },
+
+  {
     "title": "Front In Sampa 2018",
     "date": {
       "day": "14",
