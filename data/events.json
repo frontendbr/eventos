@@ -1,43 +1,23 @@
 [
 
-    {
-      "title": "JSDay Rio de Janeiro",
-      "date": {
-        "day": "09",
-        "month": "Junho",
-        "year": 2018
-      },
-      "innerLink": "inner.html",
-      "link": "http://rio.jsday.com.br/",
-      "price": "A partir de R$ 32,40",
-      "location": {
-        "city": "Rio de Janeiro",
-        "state": "RJ",
-        "address": "Oito Coworking",
-        "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7346.143493130039!2d-43.20551052502053!3d-22.984389039889482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd517752d7a8b%3A0x1848bbebfad17474!2zT2l0byAtIEVzcGHDp28gZGUgSW5vdmHDp8Ojbw!5e0!3m2!1spt-BR!2sbr!4v1525744593139"
-      },
-      "image": "https://scontent.fsdu12-1.fna.fbcdn.net/v/t31.0-8/30815816_1540459836063025_5665579936355515864_o.jpg?_nc_cat=0&oh=19907a6cded7568613b22a7bff6124c0&oe=5B63D26C",
-      "shortDescription": "O JSDay Brasil foi criado para trazer temas atuais e inovadores sobre a linguagem mais utilizada do mundo, o JavaScript!"
-    },
-
   {
-    "title": "BrazilJS on the Road Sorocaba",
+    "title": "RSJS 2018",
     "date": {
-      "day": "09",
+      "day": "30",
       "month": "Junho",
       "year": 2018
     },
     "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/on-the-road-sorocaba/",
-    "price": "A partir de R$ 44,90 - meia estudantes",
+    "link": "https://braziljs.org/eventos/rsjs-2018/",
+    "price": "A partir de R$99,00 (meia)",
     "location": {
-      "city": "Sorocaba",
-      "state": "SP",
-      "address": "",
-      "locationUrl": ""
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Senac",
+      "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.0545657490948!2d-51.22860358488512!3d-30.035292381885625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95197906acdae77f%3A0x3c15bb6b7754488e!2sR.+Cel.+Genu%C3%ADno%2C+130+-+Centro+Hist%C3%B3rico%2C+Porto+Alegre+-+RS!5e0!3m2!1spt-BR!2sbr!4v1528769114668"
     },
-    "image": "https://i.imgur.com/dNp0SDD.png",
-    "shortDescription": "BrazilJS on the road é uma série de eventos oficiais e com curadoria da BrazilJS e primeiro destino da série BRJS on The Road é Sorocaba, no estado de SP. Nosso objetivo é levar conteúdo exclusivo em forma de evento para comunidades regionais em todo Brasil."
+    "image": "https://event-kraken.s3.amazonaws.com/event/posters/24229/medium.jpg",
+    "shortDescription": "Sétima edição do mais tradicional evento gaudério de JavaScript do Rio Grande do Sul."
   },
 
   {
