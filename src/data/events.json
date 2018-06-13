@@ -1,6 +1,26 @@
 [
 
   {
+    "title": "26º WordPress Meetup RJ",
+    "date": {
+      "day": "28",
+      "month": "Junho",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/wp-rio/events/251667343/",
+    "price": "Free",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "WeWork Carioca",
+      "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.162950004986!2d-43.1751797!3d-22.907359800000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f600630e5ab%3A0xf71ef75c93432449!2sAv.+Alm.+Barroso%2C+81+-+Centro%2C+Rio+de+Janeiro+-+RJ%2C+20031-004!5e0!3m2!1spt-BR!2sbr!4v1528819991858"
+    },
+    "image": "https://secure.meetupstatic.com/photos/event/5/0/9/5/highres_471980629.jpeg",
+    "shortDescription": "Nesta edição falaremos mais sobre carreira em WordPress e teremos um painel aberto para dúvidas e debates."
+  },
+
+  {
     "title": "RSJS 2018",
     "date": {
       "day": "30",
