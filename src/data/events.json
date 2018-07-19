@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "JS Experience 2018",
-    "date": {
-      "day": "05",
-      "month": "Julho",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://eventos.imasters.com.br/jsexperience/",
-    "price": "A partir R$165,00 (lote1)",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Renaissance São Paulo Hotel",
-      "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.2655970173837!2d-46.664144385022254!3d-23.558902684684064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c89e6dca17%3A0xb62609d26a3a7180!2sRenaissance+S%C3%A3o+Paulo+Hotel!5e0!3m2!1spt-BR!2sbr!4v1528819691605"
-    },
-    "image": "https://eventos.imasters.com.br/jsexperience/wp-content/uploads/sites/2/2018/05/logo_capa.png",
-    "shortDescription": "Em sua segunda edição, o iMasters JS Experience 2018 é o grande evento do iMasters dedicado exclusivamente a Javascript. Será um dia de imersão em conteúdo avançado e cerca de 800 desenvolvedores para palestras e diversas ações de networking."
-  },
-
-  {
     "title": "DevParaná Conference 2018",
     "date": {
       "day": "28",
