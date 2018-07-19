@@ -21,26 +21,6 @@
   },
 
   {
-    "title": "Front In Sampa 2018",
-    "date": {
-      "day": "14",
-      "month": "Julho",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "http://www.frontinsampa.com.br/",
-    "price": "299,00 (3º lote)",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Teatro do Maksoud Plaza",
-      "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.146056372235!2d-46.65333638502209!3d-23.563197284682058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c7f895c915%3A0x6bd71858382f31fc!2sTeatro+Maksoud+Plaza!5e0!3m2!1spt-BR!2sbr!4v1522963782743"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/38392950-9545ddde-38ff-11e8-9614-0bbb872101b0.png",
-    "shortDescription": "O mais tradicional evento sobre front-end está de volta para reunir a comunidade em torno do melhor conteúdo sobre desenvolvimento de interfaces através de apresentações inesquecíveis."
-  },
-
-  {
     "title": "DevParaná Conference 2018",
     "date": {
       "day": "28",
