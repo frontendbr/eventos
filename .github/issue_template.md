@@ -13,3 +13,5 @@
 **Mais informações**: 
 
 **Transmissão ao vivo**:
+
+**O conteúdo será gravado**:
