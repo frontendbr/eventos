@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "FEMUG MGA #16",
-    "date": {
-      "day": "29",
-      "month": "Setembro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/femugmga/events/254492028/",
-    "price": "Free",
-    "location": {
-      "city": "Maringá",
-      "state": "PR",
-      "address": "Universidade Estadual de Maringá",
-      "locationUrl": "https://goo.gl/maps/JfZ9FJneUZz"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/45269184-f760a900-b45f-11e8-9ace-b7d5537088c2.png",
-    "shortDescription": "No mês de Setembro, estaremos com mais uma edição do Encontro de Frontend, aqui em Maringá. Este FEMUG terá muito conhecimento e networking!"
-  },
-
-  {
     "title": "CEJS 2018",
     "date": {
       "day": "06",
