@@ -1,23 +1,23 @@
 [
 
   {
-    "title": "FEMUG MGA #16",
+    "title": "CEJS 2018",
     "date": {
-      "day": "29",
-      "month": "Setembro",
+      "day": "06",
+      "month": "Outubro",
       "year": 2018
     },
     "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/femugmga/events/254492028/",
-    "price": "Free",
+    "link": "http://www.cejs.com.br/",
+    "price": "R$120 (4º lote)",
     "location": {
-      "city": "Maringá",
-      "state": "PR",
-      "address": "Universidade Estadual de Maringá",
-      "locationUrl": "https://goo.gl/maps/JfZ9FJneUZz"
+      "city": "Fortaleza",
+      "state": "Ceará",
+      "address": "UNI7",
+      "locationUrl": "https://goo.gl/maps/xEzPrFFVWZA2"
     },
-    "image": "https://user-images.githubusercontent.com/5203138/45269184-f760a900-b45f-11e8-9ace-b7d5537088c2.png",
-    "shortDescription": "No mês de Setembro, estaremos com mais uma edição do Encontro de Frontend, aqui em Maringá. Este FEMUG terá muito conhecimento e networking!"
+    "image": "http://www.cejs.com.br/images/logo-yellow-small.png",
+    "shortDescription": "Mais uma Conferência de JavaScript em Fortaleza, capital do Ceará, com grandes representantes do Front-end no Brasil."
   },
 
   {
@@ -78,6 +78,26 @@
     },
     "image": "https://codersinrio.com.br/wp-content/uploads/2018/06/logosite-1.png",
     "shortDescription": "O CODERS IN RIO SUMMIT foi criado pelos maiores influenciadores de comunidades técnicas do Rio de Janeiro com o objetivo de reunir todas as pessoas que tem paixão pelo conhecimento. Venha prestigiar e aprender com conteúdo altamente selecionado e prepare-se para agregar valor ao seu conhecimento profissional e fazer muito networking. Serão mais de 8 horas de imersão nas tecnologias mais faladas no momento com os maiores nomes da comunidade técnica do Brasil."
+  },
+
+  {
+    "title": "BrazilJS On the road Brasília",
+    "date": {
+      "day": "17",
+      "month": "Novembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/braziljs-on-the-road-brasilia/",
+    "price": "A partir de R$49.90",
+    "location": {
+      "city": "Brasília",
+      "state": "DF",
+      "address": "Casa Thomas Jefferson",
+      "locationUrl": "https://goo.gl/maps/uJAwQXseGRP2"
+    },
+    "image": "https://i.imgur.com/iyOnWNg.png",
+    "shortDescription": "Edição Brasiliense da versão itinerante da BrasilJS Conf."
   }
 
 ]
