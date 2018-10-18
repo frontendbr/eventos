@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "CEJS 2018",
-    "date": {
-      "day": "06",
-      "month": "Outubro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "http://www.cejs.com.br/",
-    "price": "R$120 (4º lote)",
-    "location": {
-      "city": "Fortaleza",
-      "state": "Ceará",
-      "address": "UNI7",
-      "locationUrl": "https://goo.gl/maps/xEzPrFFVWZA2"
-    },
-    "image": "http://www.cejs.com.br/images/logo-yellow-small.png",
-    "shortDescription": "Mais uma Conferência de JavaScript em Fortaleza, capital do Ceará, com grandes representantes do Front-end no Brasil."
-  },
-
-  {
     "title": "WordCamp São Paulo 2018",
     "date": {
       "day": "13",
