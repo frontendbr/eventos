@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "WordCamp São Paulo 2018",
-    "date": {
-      "day": "13",
-      "month": "Outubro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://2018.saopaulo.wordcamp.org/",
-    "price": "60",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Universidade Nove de Julho - Campus Vergueiro",
-      "locationUrl": "https://goo.gl/maps/CFJuTdRiCmk"
-    },
-    "image": "https://2018.saopaulo.wordcamp.org/files/2018/08/wcsp-site-logo.png",
-    "shortDescription": "O WordCamp São Paulo é a conferência oficial de WordPress da cidade de São Paulo. Reunindo entusiastas do WordPress, sejam eles desenvolvedores, designers, jornalistas dentre outros profissionais, em prol de discutir e apresentar conteúdos sobre WordPress em um dia cheio de palestras."
-  },
-
-  {
     "title": "GDG DevFest Cerrado 2018",
     "date": {
       "day": "20",
