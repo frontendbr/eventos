@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "GDG DevFest Cerrado 2018",
-    "date": {
-      "day": "20",
-      "month": "Outubro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://devfestcerrado.com.br/",
-    "price": "A partir R$55",
-    "location": {
-      "city": "Goiás",
-      "state": "Goiânia",
-      "address": "Oliveiras Place",
-      "locationUrl": "https://goo.gl/maps/6rkD4PqCPiu"
-    },
-    "image": "https://devfestcerrado.com.br/images/logo.svg",
-    "shortDescription": "O maior evento sobre tecnologias Google do Cerrado!"
-  },
-
-  {
     "title": "28º WordPress Meetup RJ",
     "date": {
       "day": "24",
@@ -39,6 +19,27 @@
     "image": "https://secure.meetupstatic.com/photos/event/3/5/f/6/highres_475513814.jpeg",
     "shortDescription": "O Meetup iniciará com a palestra: JavaScript básico para WordPress com Vitor Paladini e em seguida a palestra: Gestão de dependências em temas e plugins com Rudá Almeida."
   },
+
+  {
+    "title": "BrazilJS On the road Belo Horizonte",
+    "date": {
+      "day": "27",
+      "month": "Outubro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/braziljs-on-the-road-belo-horizonte/",
+    "price": "R$49.90",
+    "location": {
+      "city": "Belo Horizonte",
+      "state": "BH",
+      "address": "Samba Tech",
+      "locationUrl": "https://goo.gl/maps/KBuChRhdCN42"
+    },
+    "image": "",
+    "shortDescription": "A BrazilJS chega pela primeira vez em Belo Horizonte! Venha participar da primeira edição do BrazilJS on the road na cidade, vai ser incrível"
+  },
+
 
   {
     "title": "Coders In Rio Summit 2018",
