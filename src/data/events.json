@@ -21,6 +21,27 @@
   },
 
   {
+    "title": "BrazilJS On the road Belo Horizonte",
+    "date": {
+      "day": "27",
+      "month": "Outubro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/braziljs-on-the-road-belo-horizonte/",
+    "price": "R$49.90",
+    "location": {
+      "city": "Belo Horizonte",
+      "state": "BH",
+      "address": "Samba Tech",
+      "locationUrl": "https://goo.gl/maps/KBuChRhdCN42"
+    },
+    "image": "",
+    "shortDescription": "A BrazilJS chega pela primeira vez em Belo Horizonte! Venha participar da primeira edição do BrazilJS on the road na cidade, vai ser incrível"
+  },
+
+
+  {
     "title": "Coders In Rio Summit 2018",
     "date": {
       "day": "10",
