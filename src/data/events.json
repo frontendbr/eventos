@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "GDG DevFest Cerrado 2018",
-    "date": {
-      "day": "20",
-      "month": "Outubro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://devfestcerrado.com.br/",
-    "price": "A partir R$55",
-    "location": {
-      "city": "Goiás",
-      "state": "Goiânia",
-      "address": "Oliveiras Place",
-      "locationUrl": "https://goo.gl/maps/6rkD4PqCPiu"
-    },
-    "image": "https://devfestcerrado.com.br/images/logo.svg",
-    "shortDescription": "O maior evento sobre tecnologias Google do Cerrado!"
-  },
-
-  {
     "title": "28º WordPress Meetup RJ",
     "date": {
       "day": "24",
