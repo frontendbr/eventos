@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "28º WordPress Meetup RJ",
-    "date": {
-      "day": "24",
-      "month": "Outubro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/wp-rio/events/255599197/",
-    "price": "Free",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "SENAC Santa Luzia",
-      "locationUrl": "https://goo.gl/maps/7A6PsqZ9h8D2"
-    },
-    "image": "https://secure.meetupstatic.com/photos/event/3/5/f/6/highres_475513814.jpeg",
-    "shortDescription": "O Meetup iniciará com a palestra: JavaScript básico para WordPress com Vitor Paladini e em seguida a palestra: Gestão de dependências em temas e plugins com Rudá Almeida."
-  },
-
-  {
     "title": "BrazilJS On the road Belo Horizonte",
     "date": {
       "day": "27",
@@ -79,6 +59,46 @@
     },
     "image": "https://i.imgur.com/iyOnWNg.png",
     "shortDescription": "Edição Brasiliense da versão itinerante da BrasilJS Conf."
+  },
+
+  {
+    "title": "BrazilJS On the road Joinville",
+    "date": {
+      "day": "24",
+      "month": "Novembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/braziljs-on-the-road-joinville/",
+    "price": "A partir de R$49.90",
+    "location": {
+      "city": "Joinville",
+      "state": "SC",
+      "address": "Conta Azul",
+      "locationUrl": "https://goo.gl/maps/SjspKbzisNm"
+    },
+    "image": "",
+    "shortDescription": "A BrazilJS chega pela primeira vez em Joinville! Venha participar da primeira edição do BrazilJS on the road na cidade, vai ser incrível. Nossa super parceira ContaAzul nos receberá em sua casa para um dia cheio de conteúdo e networking."
+  },
+
+  {
+    "title": "Front in Floripa 2018",
+    "date": {
+      "day": "01",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "http://frontinfloripa.com.br/",
+    "price": "R$ 90 (2º lote)",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC",
+      "address": "Hotel Maria do Mar",
+      "locationUrl": "https://goo.gl/maps/KE6RuYgcPxo"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/47515287-db229b00-d858-11e8-9bcb-69296b27f1bc.png",
+    "shortDescription": "Maior evento front-end de Santa Catarina."
   }
 
 ]
