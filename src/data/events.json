@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "28º WordPress Meetup RJ",
-    "date": {
-      "day": "24",
-      "month": "Outubro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/wp-rio/events/255599197/",
-    "price": "Free",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "SENAC Santa Luzia",
-      "locationUrl": "https://goo.gl/maps/7A6PsqZ9h8D2"
-    },
-    "image": "https://secure.meetupstatic.com/photos/event/3/5/f/6/highres_475513814.jpeg",
-    "shortDescription": "O Meetup iniciará com a palestra: JavaScript básico para WordPress com Vitor Paladini e em seguida a palestra: Gestão de dependências em temas e plugins com Rudá Almeida."
-  },
-
-  {
     "title": "BrazilJS On the road Belo Horizonte",
     "date": {
       "day": "27",
