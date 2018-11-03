@@ -1,27 +1,6 @@
 [
 
   {
-    "title": "BrazilJS On the road Belo Horizonte",
-    "date": {
-      "day": "27",
-      "month": "Outubro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/braziljs-on-the-road-belo-horizonte/",
-    "price": "R$49.90",
-    "location": {
-      "city": "Belo Horizonte",
-      "state": "BH",
-      "address": "Samba Tech",
-      "locationUrl": "https://goo.gl/maps/KBuChRhdCN42"
-    },
-    "image": "",
-    "shortDescription": "A BrazilJS chega pela primeira vez em Belo Horizonte! Venha participar da primeira edição do BrazilJS on the road na cidade, vai ser incrível"
-  },
-
-
-  {
     "title": "Coders In Rio Summit 2018",
     "date": {
       "day": "10",
@@ -39,6 +18,26 @@
     },
     "image": "https://codersinrio.com.br/wp-content/uploads/2018/06/logosite-1.png",
     "shortDescription": "O CODERS IN RIO SUMMIT foi criado pelos maiores influenciadores de comunidades técnicas do Rio de Janeiro com o objetivo de reunir todas as pessoas que tem paixão pelo conhecimento. Venha prestigiar e aprender com conteúdo altamente selecionado e prepare-se para agregar valor ao seu conhecimento profissional e fazer muito networking. Serão mais de 8 horas de imersão nas tecnologias mais faladas no momento com os maiores nomes da comunidade técnica do Brasil."
+  },
+
+  {
+    "title": "GDG DevFest Rio de Janeiro 2018",
+    "date": {
+      "day": "17",
+      "month": "Novembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://gdgrio.github.io/devfest/",
+    "price": "A partir de R$40",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "Centro de Convenções CBC",
+      "locationUrl": "https://goo.gl/maps/NHrGTPnbvjk"
+    },
+    "image": "https://gdgrio.github.io/devfest/img/organizers/logo-gdg-rio.png",
+    "shortDescription": "O maior evento de tecnologia do Google no Rio de Janeiro, feito com carinho pela comunidade do Google Developers Group do Rio de Janeiro. Teremos palestras internacionais com direito a tradução para quem não fala inglês e de brazucas selecionadas a dedo."
   },
 
   {
