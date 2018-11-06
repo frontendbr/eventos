@@ -1,6 +1,47 @@
 [
 
   {
+    "title": "20º HTML SP",
+    "date": {
+      "day": "07",
+      "month": "Novembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/html-sp/events/255836172/",
+    "price": "Free",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "iMasters Developer Hub",
+      "locationUrl": "https://goo.gl/maps/LrNmDGyMw2G2"
+    },
+    "image": "",
+    "shortDescription": "Vamos fazer nosso primeiro workshop, o objetivo vai ser entender melhor a estrutura de um documento HTML e como trabalhar com posicionamento e estilização com CSS criando um layout simples, o conteúdo será introdutório mas cobriremos aspectos importantes e básicos mas que não são amplamente falados e que acabam gerando problemas diversos com performance e manutenibilidade."
+  },
+
+
+  {
+    "title": "20º Meetup WordPress Floripa",
+    "date": {
+      "day": "10",
+      "month": "Novembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/Meetup-WordPress-Floripa/events/254765730/",
+    "price": "Free",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC",
+      "address": "InCuca",
+      "locationUrl": "https://goo.gl/maps/vM42CV7vnq12"
+    },
+    "image": "",
+    "shortDescription": "Vamos realizar algumas oficinas práticas sobre a instalação do WordPress, criar um Tema, criar Plugins, Otimizar SEO, Otimizar Performance. Todas as aplicações serão dedicadas a casos reais de entidades sociais sem fins lucrativos. Vamos aprender juntos e ajudar quem precisa."
+  },
+
+  {
     "title": "Coders In Rio Summit 2018",
     "date": {
       "day": "10",
