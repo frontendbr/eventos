@@ -48,7 +48,7 @@
       "year": 2018
     },
     "innerLink": "inner.html",
-    "link": "https://frontendce.com.br",
+    "link": "https://www.meetup.com/pt-BR/frontend-ce/",
     "price": "1KG de Alimento não perecível",
     "location": {
       "city": "Fortaleza",
@@ -59,7 +59,6 @@
     "image": "",
     "shortDescription": "Nós somos uma comunidade fundada com o princípio de levar a tecnologia como fator de mudança na vida de muitas pessoas, unir a comunidade, se conhecer e fazer com que o Ceará se consolide como um das maiores e melhores polos de Desenvolvimento Front-end no Brasil. Essa é a primeira rodada de meetups da comunidade."
   },
-
 
   {
     "title": "BrazilJS On the road Joinville",
@@ -79,6 +78,26 @@
     },
     "image": "",
     "shortDescription": "A BrazilJS chega pela primeira vez em Joinville! Venha participar da primeira edição do BrazilJS on the road na cidade, vai ser incrível. Nossa super parceira ContaAzul nos receberá em sua casa para um dia cheio de conteúdo e networking."
+  },
+
+  {
+    "title": "29º WordPress Meetup RJ",
+    "date": {
+      "day": "28",
+      "month": "Novembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/wp-rio/events/256031653/",
+    "price": "Free",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "Senac Botafogo",
+      "locationUrl": "https://goo.gl/maps/HY4CexFAPeQ2"
+    },
+    "image": "",
+    "shortDescription": "WP Meetup em novo endereço! Desta vez em Botafogo, pertinho do metrô. Detalhes das palestras ainda a confirmar."
   },
 
   {
