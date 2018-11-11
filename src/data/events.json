@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "Coders In Rio Summit 2018",
-    "date": {
-      "day": "10",
-      "month": "Novembro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://codersinrio.com.br/",
-    "price": "A partir de R$150 - lote 1",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "Senac - Flamengo",
-      "locationUrl": "https://goo.gl/maps/Q7jo8CLDbuD2"
-    },
-    "image": "https://codersinrio.com.br/wp-content/uploads/2018/06/logosite-1.png",
-    "shortDescription": "O CODERS IN RIO SUMMIT foi criado pelos maiores influenciadores de comunidades técnicas do Rio de Janeiro com o objetivo de reunir todas as pessoas que tem paixão pelo conhecimento. Venha prestigiar e aprender com conteúdo altamente selecionado e prepare-se para agregar valor ao seu conhecimento profissional e fazer muito networking. Serão mais de 8 horas de imersão nas tecnologias mais faladas no momento com os maiores nomes da comunidade técnica do Brasil."
-  },
-
-  {
     "title": "GDG DevFest Rio de Janeiro 2018",
     "date": {
       "day": "17",
