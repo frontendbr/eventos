@@ -65,10 +65,12 @@ gulp.task('css', () => {
 
 gulp.task('ejs', () => {
   const settings = { ext: '.html' }
+  const isDev = process.env.NODE_ENV === 'development'
   const config = {
     data: {
-      env: process.env.NODE_ENV,
-      analytics: { ga: 'UA-2909836-24' }
+      env: process.env.NODE_ENV || 'development',
+      analytics: { ga: 'UA-2909836-24' },
+      baseUrl: isDev ? 'http://localhost:8080' : 'https://eventos.frontendbr.com.br'
     }
   }
   gulp.src(srcPaths.ejs)

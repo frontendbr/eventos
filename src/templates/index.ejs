@@ -8,17 +8,17 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="Eventos - FrontEnd BR">
         <meta name="twitter:description" content="Portal de eventos da comunidade FrontEnd BR.">
-        <meta property="twitter:image:src" content="http://frontendbr.com.br/eventos/img/social-image.png">
-        <meta property="og:url" content="http://frontendbr.com.br/eventos/">
+        <meta property="twitter:image:src" content="<%= data.baseUrl %>/img/social-image.png">
+        <meta property="og:url" content="<%= data.baseUrl %>">
         <meta property="og:title" content="Eventos - FrontEnd BR">
-        <meta property="og:image" content="http://frontendbr.com.br/eventos/img/social-image.png">
+        <meta property="og:image" content="<%= data.baseUrl %>/img/social-image.png">
         <meta property="og:description" content="Portal de eventos da comunidade FrontEnd BR.">
         <meta property="og:site_name" content="Eventos - FrontEnd BR">
         <meta itemprop="name" content="Eventos - FrontEnd BR"/>
         <meta itemprop="description" content="Portal de eventos da comunidade FrontEnd BR.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="img/favicon.png" rel="shortcut icon">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="/css/main.css">
     </head>
     <body>
         <div data-js="app"></div>
@@ -37,7 +37,7 @@
         <% if (data && data.env !== 'production') { %>
             <script src="/static/bundle.js"></script>
         <% } else { %>
-            <script src="js/main.min.js"></script>
+            <script src="/js/main.min.js"></script>
         <% } %>
     </body>
 </html>
