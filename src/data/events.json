@@ -39,6 +39,26 @@
     "image": "https://i.imgur.com/iyOnWNg.png",
     "shortDescription": "Edição Brasiliense da versão itinerante da BrasilJS Conf."
   },
+  
+    {
+    "title": "Dicas & Truques do VS Code para Desenvolvedores JavaScript by Loiane Groner",
+    "date": {
+      "day": "20",
+      "month": "Novembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.youtube.com/watch?v=-He5X522JsI",
+    "price": "Free",
+    "location": {
+      "city": "",
+      "state": "",
+      "address": "Online",
+      "locationUrl": "https://www.youtube.com/watch?v=-He5X522JsI"
+    },
+    "image": "https://i.imgsafe.org/ed/ed460cec88.jpeg",
+    "shortDescription": "Super Webinar no meu canal no próximo dia 20/11 com uma das maiores desenvolvedoras da atualidade: Loiane Gronner. Loiane estará dando dicas e truques fundamentais para todos desenvolvedores Javascript que fazem uso do VS Code. Durante o Webinar, Loaine nos mostrará configurações e extensões do VS Code que ajudam a aumentar a produtividade em seus trabalho. Após o webinar, estaremos batendo papo (open mic) para falar sobre a sua carreira e entre outros temas."
+  },
 
   {
     "title": "1º Meetup Front-end CE",
