@@ -1,26 +1,6 @@
 [
 
   {
-    "title": "GDG DevFest Rio de Janeiro 2018",
-    "date": {
-      "day": "17",
-      "month": "Novembro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://gdgrio.github.io/devfest/",
-    "price": "A partir de R$40",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "Centro de Convenções CBC",
-      "locationUrl": "https://goo.gl/maps/NHrGTPnbvjk"
-    },
-    "image": "https://gdgrio.github.io/devfest/img/organizers/logo-gdg-rio.png",
-    "shortDescription": "O maior evento de tecnologia do Google no Rio de Janeiro, feito com carinho pela comunidade do Google Developers Group do Rio de Janeiro. Teremos palestras internacionais com direito a tradução para quem não fala inglês e de brazucas selecionadas a dedo."
-  },
-
-  {
     "title": "BrazilJS On the road Brasília",
     "date": {
       "day": "17",
