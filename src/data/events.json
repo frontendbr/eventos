@@ -1,25 +1,5 @@
 [
 
-  {
-    "title": "BrazilJS On the road Brasília",
-    "date": {
-      "day": "17",
-      "month": "Novembro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/braziljs-on-the-road-brasilia/",
-    "price": "A partir de R$49.90",
-    "location": {
-      "city": "Brasília",
-      "state": "DF",
-      "address": "Casa Thomas Jefferson",
-      "locationUrl": "https://goo.gl/maps/uJAwQXseGRP2"
-    },
-    "image": "https://i.imgur.com/iyOnWNg.png",
-    "shortDescription": "Edição Brasiliense da versão itinerante da BrasilJS Conf."
-  },
-  
     {
     "title": "Dicas & Truques do VS Code para Desenvolvedores JavaScript by Loiane Groner",
     "date": {
