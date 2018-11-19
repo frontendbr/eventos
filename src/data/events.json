@@ -118,6 +118,26 @@
     },
     "image": "https://i.imgsafe.org/ec/ec7169d71f.png",
     "shortDescription": "Front-end Study é um encontro colaborativo para aprimorarmos nossas habilidades de desenvolvimento web front-end, no qual teremos palestras técnicas sobre frameworks, ferramentas e boas práticas. Evento gratuito e exclusivo para mulheres, todas são bem vindas, mulheres cis e mulheres trans."
-  }  
+  },  
 
+  {
+    "title": "PHP Conference Brasil",
+    "date": {
+      "day": "06 a 08",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://phpconference.com.br/",
+    "price": "A partir de R$199.00",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Faculdade SENAC (Campus II)",
+      "locationUrl": "https://goo.gl/maps/jY7CCpXjSeA2"
+    },
+    "image": "https://i.imgsafe.org/30/30d847e807.png",
+    "shortDescription": "O Principal evento de PHP da América Latina"
+  }  
+  
 ]
