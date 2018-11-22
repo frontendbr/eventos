@@ -1,5 +1,24 @@
 [
-
+  {
+    "title": "Desenvolvendo um Office Add-in com VueJs & Typescript",
+    "date": {
+      "day": "24",
+      "month": "Novembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.eventbrite.com/e/2018-global-office-developer-bootcamp-rio-tickets-49226805701",
+    "price": "Free",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "Infnet",
+      "locationUrl": "https://goo.gl/maps/r8tKL9ZycRz"
+    },
+    "image": "https://i.imgsafe.org/6b/6b7693384a.png",
+    "shortDescription": "É possível programar Javascript no Excel? E ainda mais usando VueJs? Com certeza que sim e vou te provar na palestra que darei no evento: Global Office 365 Developer Bootcamp."
+  },
+  
   {
     "title": "1º Meetup Front-end CE",
     "date": {
