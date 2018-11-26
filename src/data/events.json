@@ -1,25 +1,5 @@
 [ 
   {
-    "title": "1º Meetup Front-end CE",
-    "date": {
-      "day": "24",
-      "month": "Novembro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/frontend-ce/",
-    "price": "1KG de Alimento não perecível",
-    "location": {
-      "city": "Fortaleza",
-      "state": "CE",
-      "address": "GreenMile",
-      "locationUrl": "https://goo.gl/maps/8gpY7gn63mm"
-    },
-    "image": "https://secure.meetupstatic.com/photos/event/3/d/3/6/600_476355670.jpeg",
-    "shortDescription": "Nós somos uma comunidade fundada com o princípio de levar a tecnologia como fator de mudança na vida de muitas pessoas, unir a comunidade, se conhecer e fazer com que o Ceará se consolide como um das maiores e melhores polos de Desenvolvimento Front-end no Brasil. Essa é a primeira rodada de meetups da comunidade."
-  },
-
-  {
     "title": "BrazilJS On the road Joinville",
     "date": {
       "day": "24",
