@@ -1,25 +1,5 @@
 [ 
   {
-    "title": "29º WordPress Meetup RJ",
-    "date": {
-      "day": "28",
-      "month": "Novembro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/wp-rio/events/256031653/",
-    "price": "Free",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "Senac Botafogo",
-      "locationUrl": "https://goo.gl/maps/HY4CexFAPeQ2"
-    },
-    "image": "",
-    "shortDescription": "Teremos duas palestras superlegais: Planejando a Segurança do WordPress com Gabriel Subtil e  ACF: Um canivete suíço para seus dados com Rudá Almeida."
-  },
-
-  {
     "title": "Front in Floripa 2018",
     "date": {
       "day": "01",
