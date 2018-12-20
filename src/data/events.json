@@ -37,6 +37,26 @@
     },
     "image": "https://i.imgsafe.org/ec/ec7169d71f.png",
     "shortDescription": "Front-end Study é um encontro colaborativo para aprimorarmos nossas habilidades de desenvolvimento web front-end, no qual teremos palestras técnicas sobre frameworks, ferramentas e boas práticas. Evento gratuito e exclusivo para mulheres, todas são bem vindas, mulheres cis e mulheres trans."
-  }  
+  },
+  
+  {
+    "title": "2º Meetup Front-end CE",
+    "date": {
+      "day": "22",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.sympla.com.br/2-meetup-front-end-ce__422464",
+    "price": "15,00",
+    "location": {
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "Advance Comunicação",
+      "locationUrl": "https://goo.gl/maps/xLXegBTKW6T2"
+    },
+    "image": "",
+    "shortDescription": "Nós somos uma comunidade fundada com o princípio de levar a tecnologia como fator de mudança na vida de muitas pessoas, unir a comunidade, se conhecer e fazer com que o Ceará se consolide como um dos maiores polos de Desenvolvimento Front-end no Brasil."
+  }   
 
 ]
