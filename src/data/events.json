@@ -1,44 +1,5 @@
 [ 
-  {
-    "title": "Front in Floripa 2018",
-    "date": {
-      "day": "01",
-      "month": "Dezembro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "http://frontinfloripa.com.br/",
-    "price": "R$ 90 (2º lote)",
-    "location": {
-      "city": "Florianópolis",
-      "state": "SC",
-      "address": "Hotel Maria do Mar",
-      "locationUrl": "https://goo.gl/maps/KE6RuYgcPxo"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/47515287-db229b00-d858-11e8-9bcb-69296b27f1bc.png",
-    "shortDescription": "Maior evento front-end de Santa Catarina."
-  },
-  
-  {
-    "title": "Front-End Study Group RJ 2",
-    "date": {
-      "day": "01",
-      "month": "Dezembro",
-      "year": 2018
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.sympla.com.br/front-end-study-group-2__393341",
-    "price": "Free - Aceitamos Colaborações",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "Faculdade SENAC",
-      "locationUrl": "https://goo.gl/maps/7Sac8Z8J5Ep"
-    },
-    "image": "https://i.imgsafe.org/ec/ec7169d71f.png",
-    "shortDescription": "Front-end Study é um encontro colaborativo para aprimorarmos nossas habilidades de desenvolvimento web front-end, no qual teremos palestras técnicas sobre frameworks, ferramentas e boas práticas. Evento gratuito e exclusivo para mulheres, todas são bem vindas, mulheres cis e mulheres trans."
-  },
-  
+ 
   {
     "title": "2º Meetup Front-end CE",
     "date": {
