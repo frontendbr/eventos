@@ -1,23 +1,23 @@
 [ 
  
   {
-    "title": "2º Meetup Front-end CE",
+    "title": "21º Meetup WordPress Floripa",
     "date": {
-      "day": "22",
-      "month": "Dezembro",
-      "year": 2018
+      "day": "26",
+      "month": "Janeiro",
+      "year": 2019
     },
     "innerLink": "inner.html",
-    "link": "https://www.sympla.com.br/2-meetup-front-end-ce__422464",
-    "price": "15,00",
+    "link": "https://www.meetup.com/pt-BR/Meetup-WordPress-Floripa/events/256348168/",
+    "price": "Free",
     "location": {
-      "city": "Fortaleza",
-      "state": "CE",
-      "address": "Advance Comunicação",
-      "locationUrl": "https://goo.gl/maps/xLXegBTKW6T2"
+      "city": "Florianópolis",
+      "state": "SC",
+      "address": "Mansão da InCuca",
+      "locationUrl": "https://goo.gl/maps/4C5SzH8bpDN2"
     },
     "image": "",
-    "shortDescription": "Nós somos uma comunidade fundada com o princípio de levar a tecnologia como fator de mudança na vida de muitas pessoas, unir a comunidade, se conhecer e fazer com que o Ceará se consolide como um dos maiores polos de Desenvolvimento Front-end no Brasil."
+    "shortDescription": "Tragam ideias, dúvidas, novidades, experiências, curiosidades e bom humor. Nos vemos no Meetup"
   }   
 
 ]
