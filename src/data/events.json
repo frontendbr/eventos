@@ -18,6 +18,26 @@
     },
     "image": "",
     "shortDescription": "Tragam ideias, dúvidas, novidades, experiências, curiosidades e bom humor. Nos vemos no Meetup"
-  }   
+  },
+  
+  {
+    "title": "Front-end Day",
+    "date": {
+      "day": "09",
+      "month": "Fevereiro",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.sympla.com.br/front-end-day__424487",
+    "price": "A partir R$27",
+    "location": {
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "FB Ideias",
+      "locationUrl": "https://goo.gl/maps/NAZvsqGGpYQ2"
+    },
+    "image": "",
+    "shortDescription": "O Front-end Day é um evento semestral em Fortaleza, onde ocorrerá um dia inteiro com eventos relacionados a Desenvolvimento Front-end. Os eventos ocorrem do dia inteiro, iniciando pela manhã, indo até a noite"
+  }  
 
 ]
