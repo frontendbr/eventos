@@ -1,26 +1,6 @@
 [ 
  
   {
-    "title": "21º Meetup WordPress Floripa",
-    "date": {
-      "day": "26",
-      "month": "Janeiro",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/Meetup-WordPress-Floripa/events/256348168/",
-    "price": "Free",
-    "location": {
-      "city": "Florianópolis",
-      "state": "SC",
-      "address": "Mansão da InCuca",
-      "locationUrl": "https://goo.gl/maps/4C5SzH8bpDN2"
-    },
-    "image": "",
-    "shortDescription": "Tragam ideias, dúvidas, novidades, experiências, curiosidades e bom humor. Nos vemos no Meetup"
-  },
-  
-  {
     "title": "Front-end Day",
     "date": {
       "day": "09",
