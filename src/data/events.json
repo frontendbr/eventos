@@ -1,25 +1,4 @@
 [ 
- 
-  {
-    "title": "Front-end Day",
-    "date": {
-      "day": "09",
-      "month": "Fevereiro",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.sympla.com.br/front-end-day__424487",
-    "price": "A partir R$27",
-    "location": {
-      "city": "Fortaleza",
-      "state": "CE",
-      "address": "FB Ideias",
-      "locationUrl": "https://goo.gl/maps/NAZvsqGGpYQ2"
-    },
-    "image": "",
-    "shortDescription": "O Front-end Day é um evento semestral em Fortaleza, onde ocorrerá um dia inteiro com eventos relacionados a Desenvolvimento Front-end. Os eventos ocorrem do dia inteiro, iniciando pela manhã, indo até a noite"
-  },
-  
   {
     "title": "Front in Campinas",
     "date": {
@@ -59,5 +38,4 @@
     "image": "https://www.frontinsampa.com.br/assets/logo.svg",
     "shortDescription": "A 8º e maior edição do mais **tradicional evento de Front-end** do Brasil. Aprendizado, diversão e compartilhamento. Líderes, influenciadores e empresas da área reunidos na maior cidade da América Latina para 8 horas de conteúdo de tecnologia e software."
   }   
-
 ]
