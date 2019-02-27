@@ -21,6 +21,26 @@
   },
   
   {
+    "title": "Front in Campinas",
+    "date": {
+      "day": "04",
+      "month": "Maio",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://frontincampinas.com.br/",
+    "price": "Em breve",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "Hotel Vitória Concept",
+      "locationUrl": "https://goo.gl/maps/osPkVyw3H182"
+    },
+    "image": "https://frontincampinas.com.br/assets/svg/logo-vertical-branco-cores.svg",
+    "shortDescription": "Um evento para compartilhar o conhecimento entre a comunidade, com o intuito de fortalecê-la ainda mais. Será um espaço para interação e diversão, servindo de inspiração para aqueles que estão começando e renovando as energias daqueles que precisam."
+  }    
+  
+  {
     "title": "Front In Sampa",
     "date": {
       "day": "13",
