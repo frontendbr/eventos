@@ -18,7 +18,27 @@
     },
     "image": "https://i.imgur.com/94tYHTU.png",
     "shortDescription": "Evento com palestras sobre ReactJS, VueJS e Webpack."
-  },  
+  },
+  
+  {
+    "title": "Criciúma Dev Conference 2019",
+    "date": {
+      "day": "04",
+      "month": "Maio",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://criciumadev.com.br/conference",
+    "price": "R$ 50/25 (Inteira/meia - primeiro lote)",
+    "location": {
+      "city": "Criciúma",
+      "state": "SC",
+      "address": "ACIC",
+      "locationUrl": "https://goo.gl/maps/4EyC92UyugL2"
+    },
+    "image": "https://criciumadev.com.br/assets/images/logo-cd-conference.svg",
+    "shortDescription": "O evento Criciúma Dev Conference chega para firmar a união da comunidade, fomentar idéias e colocar Criciúma de vez no mapa dos grandes eventos de tecnologia do Brasil."
+  },   
   
   {
     "title": "Front in Campinas",
