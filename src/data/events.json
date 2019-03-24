@@ -1,25 +1,5 @@
 [
-  
-  {
-    "title": "4º Meetup Front-End CE",
-    "date": {
-      "day": "23",
-      "month": "Março",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.eventbrite.com.br/e/4-meetup-front-end-ce-reactjs-vuejs-e-webpack-tickets-57744953711",
-    "price": "R$ 15 a R$ 20",
-    "location": {
-      "city": "Fortaleza",
-      "state": "CE",
-      "address": "Agenda Edu",
-      "locationUrl": "https://goo.gl/maps/vRj4UK8YFVG2"
-    },
-    "image": "https://i.imgur.com/94tYHTU.png",
-    "shortDescription": "Evento com palestras sobre ReactJS, VueJS e Webpack."
-  },
-  
+   
   {
     "title": "Criciúma Dev Conference 2019",
     "date": {
