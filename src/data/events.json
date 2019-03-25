@@ -1,4 +1,24 @@
 [
+  
+  {
+    "title": "31º WP Meetup Rio de Janeiro",
+    "date": {
+      "day": "26",
+      "month": "Março",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/wp-rio/events/259698000/",
+    "price": "Free",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "Senac - Botafogo",
+      "locationUrl": "https://goo.gl/maps/Zbg3xcvW13q"
+    },
+    "image": "",
+    "shortDescription": "Terá inicio às 19:30 e contará com as palestras Gulp: Automatize suas tarefas repetitivas de forma simples e rápida; e Empreendedorismo social - O impacto nas empresas e no mundo."
+  },    
    
   {
     "title": "Criciúma Dev Conference 2019",
