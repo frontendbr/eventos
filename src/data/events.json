@@ -18,7 +18,27 @@
     },
     "image": "",
     "shortDescription": "Terá inicio às 19:30 e contará com as palestras Gulp: Automatize suas tarefas repetitivas de forma simples e rápida; e Empreendedorismo social - O impacto nas empresas e no mundo."
-  },    
+  }, 
+  
+  {
+    "title": "WordCamp Floripa 2019",
+    "date": {
+      "day": "13",
+      "month": "Abril",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://2019.floripa.wordcamp.org/",
+    "price": "R$ 90,00",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC",
+      "address": "Senac - Florianópolis",
+      "locationUrl": "https://goo.gl/maps/Zbg3xcvW13q"
+    },
+    "image": "https://2019.floripa.wordcamp.org/files/2019/03/logo-wordcamp-floripa.png",
+    "shortDescription": "O evento começa às 9h e visa promover um sábado intenso para compartilhamento de conhecimento e troca de experiências sobre o universo do WordPress."
+  },   
    
   {
     "title": "Criciúma Dev Conference 2019",
