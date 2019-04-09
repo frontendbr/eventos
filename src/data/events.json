@@ -78,7 +78,27 @@
     },
     "image": "https://frontincampinas.com.br/assets/svg/logo-vertical-branco-cores.svg",
     "shortDescription": "Um evento para compartilhar o conhecimento entre a comunidade, com o intuito de fortalecê-la ainda mais. Será um espaço para interação e diversão, servindo de inspiração para aqueles que estão começando e renovando as energias daqueles que precisam."
-  },    
+  },
+  
+  {
+    "title": "WordCamp POA 2019",
+    "date": {
+      "day": "15",
+      "month": "Junho",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://2019.portoalegre.wordcamp.org/",
+    "price": "70,00",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Senac",
+      "locationUrl": "https://goo.gl/maps/sCvuqqqQ6XJ2"
+    },
+    "image": "",
+    "shortDescription": "Destinado a usuários, desenvolvedores ou qualquer entusiasta do WordPress, o WordCamp está de braços abertos para te receber neste dia de intensa programação e confraternização."
+  },   
   
   {
     "title": "Front In Sampa",
