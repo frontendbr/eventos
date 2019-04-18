@@ -1,26 +1,6 @@
 [
   
   {
-    "title": "Meetup React Rio",
-    "date": {
-      "day": "11",
-      "month": "Abril",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/React-Rio-de-Janeiro/events/260090897/",
-    "price": "Free",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "B2W Digital",
-      "locationUrl": "https://goo.gl/maps/oG9Wwo4kuFq"
-    },
-    "image": "",
-    "shortDescription": "Não fique de fora, pois as vagas são limitadas. Venha aprender, compartilhar, trocar experiências sobre esse ecossistema React."
-  },    
-  
-  {
     "title": "WordCamp Floripa 2019",
     "date": {
       "day": "13",
