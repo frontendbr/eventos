@@ -78,6 +78,26 @@
     },
     "image": "https://frontinsm.com.br/logo.8cccec46.svg",
     "shortDescription": "Com o objetivo de movimentar o mercado de tecnologia e front-end do interior do Rio Grande do Sul, o Front In SM volta em 2019 em sua terceira edição. O evento que reúne desenvolvimento Front-end, Design e UX de forma única é promovido pela comunidade web de Santa Maria e não tem fins lucrativos. O intuito é aquecer o mercado web e apresentar insights sobre todas as atividades e tecnologias que envolvem a área."
+  },
+  
+  {
+    "title": "WordCamp POA 2019",
+    "date": {
+      "day": "15",
+      "month": "Junho",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://2019.portoalegre.wordcamp.org/",
+    "price": "70,00",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Senac",
+      "locationUrl": "https://goo.gl/maps/sCvuqqqQ6XJ2"
+    },
+    "image": "https://2019.portoalegre.wordcamp.org/files/2019/04/wc-poa-2019.png",
+    "shortDescription": "Destinado a usuários, desenvolvedores ou qualquer entusiasta do WordPress, o WordCamp está de braços abertos para te receber neste dia de intensa programação e confraternização."
   },  
   
   {
@@ -98,25 +118,5 @@
     },
     "image": "",
     "shortDescription": "A 8º e maior edição do mais tradicional evento de Front-end do Brasil. Aprendizado, diversão e compartilhamento. Líderes, influenciadores e empresas da área reunidos na maior cidade da América Latina para 8 horas de conteúdo de tecnologia e software."
-  },
-  
-  {
-    "title": "WordCamp POA 2019",
-    "date": {
-      "day": "15",
-      "month": "Junho",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://2019.portoalegre.wordcamp.org/",
-    "price": "70,00",
-    "location": {
-      "city": "Porto Alegre",
-      "state": "RS",
-      "address": "Senac",
-      "locationUrl": "https://goo.gl/maps/sCvuqqqQ6XJ2"
-    },
-    "image": "",
-    "shortDescription": "Destinado a usuários, desenvolvedores ou qualquer entusiasta do WordPress, o WordCamp está de braços abertos para te receber neste dia de intensa programação e confraternização."
   }    
 ]
