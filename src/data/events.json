@@ -38,7 +38,27 @@
     },
     "image": "https://2019.floripa.wordcamp.org/files/2019/03/logo-wordcamp-floripa.png",
     "shortDescription": "O evento começa às 9h e visa promover um sábado intenso para compartilhamento de conhecimento e troca de experiências sobre o universo do WordPress."
-  },   
+  },
+  
+  {
+    "title": "WordPress, Coding Standards & Git",
+    "date": {
+      "day": "25",
+      "month": "Abril",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/wp-rio/events/260632315/",
+    "price": "Free",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "Senac - Centro",
+      "locationUrl": "https://goo.gl/maps/U8na3kzznFB2"
+    },
+    "image": "https://secure.meetupstatic.com/photos/event/8/5/4/1/highres_480454113.jpeg",
+    "shortDescription": "Nesta edição, as palestras são voltadas para desenvolvedores. Se você cria temas, plugins, ou constróis soluções usando o WordPress, esse meetup é para você! Venha aprender boas práticas e aprimorar suas habilidades - além de trocar experiências e networking com a comunidade."
+  },  
    
   {
     "title": "Criciúma Dev Conference 2019",
