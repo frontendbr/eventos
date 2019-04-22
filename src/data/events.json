@@ -1,4 +1,24 @@
 [
+  
+  {
+    "title": "FEMUG-MGA #21",
+    "date": {
+      "day": "24",
+      "month": "Abril",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/femugmga/events/260350350/",
+    "price": "Free",
+    "location": {
+      "city": "Maringá",
+      "state": "PR",
+      "address": "Elotech",
+      "locationUrl": "https://goo.gl/maps/GVodvUVQzapdwmbJ7"
+    },
+    "image": "",
+    "shortDescription": "O evento vai acontecer lá na Elotech Gestão Pública (R. Prof. Giampero Monacci, 14) e a participação é gratuita. (Portadores de necessidades especiais, entrem em contato com a organização para preparamos sua participação no evento)"
+  },  
     
   {
     "title": "WordPress, Coding Standards & Git",
