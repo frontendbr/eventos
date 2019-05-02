@@ -118,5 +118,25 @@
     },
     "image": "",
     "shortDescription": "A 8º e maior edição do mais tradicional evento de Front-end do Brasil. Aprendizado, diversão e compartilhamento. Líderes, influenciadores e empresas da área reunidos na maior cidade da América Latina para 8 horas de conteúdo de tecnologia e software."
-  }    
+  },
+  
+  {
+    "title": "BrazilJS 2019",
+    "date": {
+      "day": "23 e 24",
+      "month": "Agosto",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/braziljs-conf/2019/r",
+    "price": "Consultar",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Barra Shopping Sul",
+      "locationUrl": "https://goo.gl/maps/QQwWgC7CSFfTe3JYA"
+    },
+    "image": "",
+    "shortDescription": "A BrazilJS Conf chega em sua 9ª edição. O evento acontecerá nos dias 23 e 24 de Agosto, em Porto Alegre, no Barra Shopping Sul."
+  }  
 ]
