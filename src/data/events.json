@@ -128,7 +128,7 @@
       "year": 2019
     },
     "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/braziljs-conf/2019/r",
+    "link": "https://braziljs.org/eventos/braziljs-conf/2019/",
     "price": "Consultar",
     "location": {
       "city": "Porto Alegre",
@@ -136,7 +136,7 @@
       "address": "Barra Shopping Sul",
       "locationUrl": "https://goo.gl/maps/QQwWgC7CSFfTe3JYA"
     },
-    "image": "",
+    "image": "https://braziljs.org/wp-content/uploads/2019/04/15_Logotipo-2.png",
     "shortDescription": "A BrazilJS Conf chega em sua 9ª edição. O evento acontecerá nos dias 23 e 24 de Agosto, em Porto Alegre, no Barra Shopping Sul."
   }  
 ]
