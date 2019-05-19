@@ -1,25 +1,5 @@
 [
-         
-  {
-    "title": "2º encontro - Vue.js Curitiba",
-    "date": {
-      "day": "14",
-      "month": "Maio",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/Vue-Curitiba/events/261228753/",
-    "price": "Free",
-    "location": {
-      "city": "Curitiba",
-      "state": "PR",
-      "address": "FIEP",
-      "locationUrl": "https://goo.gl/maps/n9DkBSCNqYskW21c8"
-    },
-    "image": "https://secure.meetupstatic.com/photos/event/1/8/7/5/highres_481086261.jpeg",
-    "shortDescription": "Feliz em anunciar que conseguimos um espaço com capacidade de 150 pessoas para realizar o segundo encontro da comunidade Vue.js Curitiba."
-  },  
-  
+          
     {
     "title": "FEMUG-MGA 22",
     "date": {
