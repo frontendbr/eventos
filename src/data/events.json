@@ -1,24 +1,4 @@
-[
-          
-    {
-    "title": "FEMUG-MGA 22",
-    "date": {
-      "day": "30",
-      "month": "Maio",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "http://bit.ly/femugmga22",
-    "price": "Free",
-    "location": {
-      "city": "Maringá",
-      "state": "PR",
-      "address": "EVOA Aceleradora",
-      "locationUrl": "https://goo.gl/maps/YGhhHgcvoc8akZy7A"
-    },
-    "image": "https://raw.githubusercontent.com/femugmga/femug/master/logotipo/logos/FEMUG-MGA.svg",
-    "shortDescription": "Será realizado a 22ª edição do FEMUG Maringá, no dia 30 de Mario. Traremos assuntos relacionados a area de front end, discussões e networking."
-  },  
+[ 
   
   {
     "title": "Front in Santa Maria",
