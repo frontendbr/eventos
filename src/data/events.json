@@ -1,26 +1,6 @@
 [ 
    
   {
-    "title": "BrazilJS on the Road Sorocaba",
-    "date": {
-      "day": "15",
-      "month": "Junho",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/otr-sorocaba/2019/",
-    "price": "de R$40 a R$110",
-    "location": {
-      "city": "Sorocaba",
-      "state": "SP",
-      "address": "Parque Tecnológico",
-      "locationUrl": "https://goo.gl/maps/PrDb2ySgzxa8kLjS6"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/56906477-b1049c80-6a78-11e9-8453-fe1d09134a17.png",
-    "shortDescription": "No dia 15 de junho acontecerá a 2ª edição da BrazilJS on the Road Sorocaba, a primeira da temporada 2019 e a única do estado de São Paulo. O evento será realizado no Parque Tecnológico, serão 500 participantes e 10 palestras em 9 horas de evento."
-  },    
-  
-  {
     "title": "WordCamp POA 2019",
     "date": {
       "day": "15",
