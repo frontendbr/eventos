@@ -1,25 +1,5 @@
 [ 
-  
-  {
-    "title": "Front in Santa Maria",
-    "date": {
-      "day": "08",
-      "month": "Junho",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://frontinsm.com.br/",
-    "price": "A partir R$ 80,00",
-    "location": {
-      "city": "Santa Maria",
-      "state": "RS",
-      "address": "Itaimbé Palace Hotel",
-      "locationUrl": "https://goo.gl/maps/Hm8vzgm24p4w7zk57"
-    },
-    "image": "https://frontinsm.com.br/logo.8cccec46.svg",
-    "shortDescription": "Com o objetivo de movimentar o mercado de tecnologia e front-end do interior do Rio Grande do Sul, o Front In SM volta em 2019 em sua terceira edição. O evento que reúne desenvolvimento Front-end, Design e UX de forma única é promovido pela comunidade web de Santa Maria e não tem fins lucrativos. O intuito é aquecer o mercado web e apresentar insights sobre todas as atividades e tecnologias que envolvem a área."
-  },
-  
+   
   {
     "title": "BrazilJS on the Road Sorocaba",
     "date": {
