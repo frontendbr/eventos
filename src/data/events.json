@@ -98,5 +98,25 @@
     },
     "image": "https://braziljs.org/wp-content/uploads/2019/04/15_Logotipo-2.png",
     "shortDescription": "No dia 14 de setembro acontecerá a 1ª edição da BrazilJS on the Road Curitiba, o evento que agita a comunidade dev do Paraná. O evento será realizado na FESP, sendo esperados cerca de 300 participantes e 10 palestrantes em 9 horas de evento."
-  }  
+  },
+  
+  {
+    "title": "Front In Maringá",
+    "date": {
+      "day": "14",
+      "month": "Setembro",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://frontin.maringa.br/",
+    "price": "A partir R$ 44",
+    "location": {
+      "city": "Maringá",
+      "state": "PR",
+      "address": "SEBRAE",
+      "locationUrl": "https://goo.gl/maps/NF7PakXC8CeXdUzs5"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/60722252-b8c43f80-9f06-11e9-8105-3f0142ae48f3.jpg",
+    "shortDescription": "Vem aí a edição 2019 do Front In Maringá, uma dia inteiro de muito networking e imersão no ecossistema frontend com diversas pessoas que são referências trazendo conteúdo de muita qualidade."
+  }   
 ]
