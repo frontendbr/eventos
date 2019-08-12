@@ -1,24 +1,4 @@
-[ 
-    {
-    "title": "FrontInVale 2019",
-    "date": {
-      "day": "10",
-      "month": "Agosto",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "http://frontinvale.com.br/",
-    "price": "A partir de 50",
-    "location": {
-      "city": "São José dos Campos",
-      "state": "SP",
-      "address": "Teatro Univap",
-      "locationUrl": "https://goo.gl/maps/QV5QZwb5czx4hS2K6"
-    },
-    "image": "",
-    "shortDescription": "Quinta edição do maior evento de Front-End do Vale do Paraíba. Um dia inteiro com conteúdos incríveis para você se tornar um front-end monstro!"
-  },
-  
+[   
   {
     "title": "BrazilJS 2019",
     "date": {
