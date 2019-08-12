@@ -1,24 +1,4 @@
 [ 
-  {
-    "title": "Front In Sampa",
-    "date": {
-      "day": "13",
-      "month": "Julho",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.frontinsampa.com.br",
-    "price": "De R$ 80,00 à R$350,00",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Auditório Centro de Convenções Rebouças",
-      "locationUrl": "https://goo.gl/maps/wJi3CF7sqX72"
-    },
-    "image": "",
-    "shortDescription": "A 8º e maior edição do mais tradicional evento de Front-end do Brasil. Aprendizado, diversão e compartilhamento. Líderes, influenciadores e empresas da área reunidos na maior cidade da América Latina para 8 horas de conteúdo de tecnologia e software."
-  },
-  
     {
     "title": "FrontInVale 2019",
     "date": {
