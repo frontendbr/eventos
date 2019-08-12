@@ -1,25 +1,4 @@
 [ 
-    
-  {
-    "title": "BrazilJS OnTheRoad Brasília",
-    "date": {
-      "day": "13",
-      "month": "Julho",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/otr-brasilia/2019/",
-    "price": "Em breve",
-    "location": {
-      "city": "Brasília",
-      "state": "DF",
-      "address": "Casa Thomas Jefferson",
-      "locationUrl": "https://goo.gl/maps/pXwJU8irpsbujUvQ7"
-    },
-    "image": "https://braziljs.org/wp-content/uploads/2019/04/15_Logotipo-2.png",
-    "shortDescription": "No dia 13 de julho acontecerá a 2ª edição da BrazilJS on the Road Brasília, o evento que agita a comunidade dev do Distrito Federal e arredores. O evento será realizado novamente na Casa Thomas Jefferson, sendo esperados 300 participantes e 10 palestras em 9 horas de evento."
-  },  
-  
   {
     "title": "Front In Sampa",
     "date": {
