@@ -20,6 +20,26 @@
   },
   
   {
+    "title": "Os superpoderes do WordPress",
+    "date": {
+      "day": "27",
+      "month": "Agosto",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/wpsampa/events/264166750/",
+    "price": "Free",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "Google",
+      "locationUrl": "https://goo.gl/maps/H94MofihrTyggLVz9"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/63391668-b10f0c00-c389-11e9-9e89-d9c887275d93.jpeg",
+    "shortDescription": "Olá super-heróis e super-heroínas do desenvolvimento web! Neste meetup GRATUITO convidamos vocês à descobrirem como usar o melhor do WordPress no seu dia a dia."
+  },  
+  
+  {
     "title": "BrazilJS OnTheRoad Curitiba",
     "date": {
       "day": "14",
