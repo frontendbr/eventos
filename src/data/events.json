@@ -37,6 +37,26 @@
     },
     "image": "",
     "shortDescription": "O evento vai acontecer em parceria com a empresa CRMALL, a participação é gratuita e aberta a todos interessados em discussões sobre frontend e tecnologias."
+  }, 
+  
+  {
+    "title": "23º Meetup WordPress Floripa",
+    "date": {
+      "day": "31",
+      "month": "Agosto",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/Meetup-WordPress-Floripa/events/263680862/",
+    "price": "Free",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC",
+      "address": "Mansão da InCuca",
+      "locationUrl": "https://goo.gl/maps/AM1o4KcM5mYJyiHPA"
+    },
+    "image": "",
+    "shortDescription": "Vamos realizar algumas oficinas práticas sobre a instalação do WordPress, criar um Tema, criar Plugins, Otimizar SEO, Otimizar Performance. Todas as aplicações serão dedicadas a casos reais de entidades sociais sem fins lucrativos. Vamos aprender juntos e ajudar quem precisa. Monitores: Luã Ciceri, Vitor Cardoso, Samuel Adiers Stefanello, Marcelo Ecker, Walker Gusmão."
   },   
   
   {
