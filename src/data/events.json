@@ -137,7 +137,7 @@
     },
     "image": "",
     "shortDescription": "Conferência de JavaScript em Fortaleza, capital do Ceará, com grandes representantes do Front-end no Brasil."
-  }   
+  },   
   
   {
     "title": "WordCamp São Paulo 2019",
@@ -157,5 +157,25 @@
     },
     "image": "https://2019.saopaulo.wordcamp.org/files/2019/05/logo-wordcamp-sao-paulo-2019.png",
     "shortDescription": "O WordCamp São Paulo é a conferência oficial de WordPress na cidade de São Paulo. É um evento sem fins lucrativos, organizado por voluntários, e consiste de um dia inteiro de palestras e oficinas sobre WordPress."
-  }  
+  },
+  
+  {
+    "title": "JSday Recife 2019",
+    "date": {
+      "day": "14",
+      "month": "Dezembro",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "http://rec.jsday.com.br/",
+    "price": "A partir R$90",
+    "location": {
+      "city": "Recife",
+      "state": "PE",
+      "address": "FICR",
+      "locationUrl": "https://goo.gl/maps/KNrcExdiLLdeEKHc6"
+    },
+    "image": "",
+    "shortDescription": "O JSDay Brasil é um evento imersivo dedicado ao JavaScript, que acontecerá nas instalações de um dos maiores institutos de ensino do Brasil, a FICR."
+  }    
 ]
