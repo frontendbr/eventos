@@ -80,6 +80,26 @@
   },
   
   {
+    "title": "CEJS 2019",
+    "date": {
+      "day": "05",
+      "month": "Outubro",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.cejs.com.br/",
+    "price": "A partir R$66",
+    "location": {
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "UNI7",
+      "locationUrl": "https://goo.gl/maps/UKWGbqvGFhwRgob28"
+    },
+    "image": "",
+    "shortDescription": "Conferência de JavaScript em Fortaleza, capital do Ceará, com grandes representantes do Front-end no Brasil."
+  }   
+  
+  {
     "title": "WordCamp São Paulo 2019",
     "date": {
       "day": "05",
