@@ -20,6 +20,26 @@
   },
   
   {
+    "title": "HTML SP - 29",
+    "date": {
+      "day": "28",
+      "month": "Agosto",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/html-sp/events/263780491/",
+    "price": "Free",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "idwall",
+      "locationUrl": "https://goo.gl/maps/vjXH9mVq8HCXyzYMA"
+    },
+    "image": "",
+    "shortDescription": "O HTML-SP vem com o objetivo de debatermos e trocarmos experiência! Venha participar conosco, não tenha vergonha, não mordemos. Todos são bem-vindos."
+  },   
+  
+  {
     "title": "25ª edição do FEMUG Maringá",
     "date": {
       "day": "28",
