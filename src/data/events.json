@@ -1,24 +1,4 @@
-[       
-  {
-    "title": "25ª edição do FEMUG Maringá",
-    "date": {
-      "day": "28",
-      "month": "Agosto",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/femugmga/events/263551774/",
-    "price": "Free",
-    "location": {
-      "city": "Maringá",
-      "state": "PR",
-      "address": "CRMALL",
-      "locationUrl": "https://goo.gl/maps/RWESvYHdaNgPbCmv6"
-    },
-    "image": "",
-    "shortDescription": "O evento vai acontecer em parceria com a empresa CRMALL, a participação é gratuita e aberta a todos interessados em discussões sobre frontend e tecnologias."
-  }, 
-  
+[        
   {
     "title": "23º Meetup WordPress Floripa",
     "date": {
