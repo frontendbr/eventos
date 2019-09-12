@@ -1,24 +1,4 @@
-[          
-  {
-    "title": "Micro Frontend e Design System",
-    "date": {
-      "day": "11",
-      "month": "Setembro",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/DevelopersBR/events/264323724/",
-    "price": "Free",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Acesso Soluções de Pagamento",
-      "locationUrl": "https://goo.gl/maps/faiZm28Fae9RdKJx5"
-    },
-    "image": "",
-    "shortDescription": "Nesse meetup sobre práticas frontend vamos abordar dois temas bastante relevantes, Micro frontends e Design System, certamente vale a pena você estar por dentro!"
-  },    
-  
+[           
   {
     "title": "BrazilJS OnTheRoad Curitiba",
     "date": {
