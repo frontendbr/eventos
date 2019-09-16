@@ -1,23 +1,4 @@
 [           
-  {
-    "title": "BrazilJS OnTheRoad Curitiba",
-    "date": {
-      "day": "14",
-      "month": "Setembro",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/otr-curitiba/2019/",
-    "price": "Consultar",
-    "location": {
-      "city": "Curitiba",
-      "state": "PR",
-      "address": "FESP",
-      "locationUrl": "https://goo.gl/maps/Wa6TYKd5amboCejk7"
-    },
-    "image": "https://braziljs.org/wp-content/uploads/2019/04/15_Logotipo-2.png",
-    "shortDescription": "No dia 14 de setembro acontecerá a 1ª edição da BrazilJS on the Road Curitiba, o evento que agita a comunidade dev do Paraná. O evento será realizado na FESP, sendo esperados cerca de 300 participantes e 10 palestrantes em 9 horas de evento."
-  },
   
   {
     "title": "Front In Maringá",
