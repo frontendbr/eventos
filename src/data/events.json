@@ -1,25 +1,5 @@
 [           
-     
-  {
-    "title": "WordCamp São Paulo 2019",
-    "date": {
-      "day": "05",
-      "month": "Outubro",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://2019.saopaulo.wordcamp.org/",
-    "price": "R$ 60",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "UNINOVE - Vergueiro",
-      "locationUrl": "https://goo.gl/maps/56YrTyF3DJYCiPQLA"
-    },
-    "image": "https://2019.saopaulo.wordcamp.org/files/2019/05/logo-wordcamp-sao-paulo-2019.png",
-    "shortDescription": "O WordCamp São Paulo é a conferência oficial de WordPress na cidade de São Paulo. É um evento sem fins lucrativos, organizado por voluntários, e consiste de um dia inteiro de palestras e oficinas sobre WordPress."
-  },
-  
+       
   {
     "title": "BrazilJS OnTheRoad São Carlos",
     "date": {
