@@ -1,4 +1,23 @@
-[           
+[
+  {
+    "title": "Unicorn in Vale - ( React + Elixir )",
+    "date": {
+      "day": "23",
+      "month": "Novembro",
+      "year": 2019
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/UnicornTech/events/265953365/",
+    "price": "Free",
+    "location": {
+      "city": "São José dos Campos",
+      "state": "SP",
+      "address": "Social mLabs",
+      "locationUrl": "https://goo.gl/maps/T6wzc2YCWkQfeAtV9"
+    },
+    "image": "",
+    "shortDescription": "O primeiro meetup unicorn no Vale do Paraíba, o foco desse meetup é dar o start nas ações da Unicorn no vale visando aumentar nossa comunidade cada vez mais !!!"
+  },   
   {
     "title": "BrazilJS OnTheRoad São Paulo",
     "date": {
