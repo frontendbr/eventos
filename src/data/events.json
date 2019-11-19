@@ -1,25 +1,4 @@
 [           
-       
-  {
-    "title": "BrazilJS OnTheRoad São Carlos",
-    "date": {
-      "day": "26",
-      "month": "Outubro",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/otr-braziljs-on-the-road-sao-carlos/2019/",
-    "price": "Consultar",
-    "location": {
-      "city": "São Carlos",
-      "state": "SP",
-      "address": "Onovolab",
-      "locationUrl": "https://g.page/ONOVOLAB?share"
-    },
-    "image": "",
-    "shortDescription": "Primeira edição do BrazilJS on the road São Carlos no Onovolab! São esperadas em torno de 250 pessoas para interagirem em 9 horas de evento com palestras de renome nacional e local."
-  },  
-  
   {
     "title": "BrazilJS OnTheRoad São Paulo",
     "date": {
