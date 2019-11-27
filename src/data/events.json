@@ -1,23 +1,4 @@
-[
-  {
-    "title": "WordPress, Desenvolvimento e Home Office",
-    "date": {
-      "day": "25",
-      "month": "Novembro",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/wp-rio/events/266322865/",
-    "price": "Free",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "Instituto Infnet",
-      "locationUrl": "https://goo.gl/maps/i3LgzmEJ2Z1EdHUf6"
-    },
-    "image": "",
-    "shortDescription": "O evento de WordPress favorito dos cariocas retorna com força total! Dessa vez, vamos nos encontrar no Instituito Infnet para trocar conhecimentos sobre a maior plataforma de conteúdo da web."
-  },   
+[ 
   {
     "title": "BrazilJS OnTheRoad São Paulo",
     "date": {
