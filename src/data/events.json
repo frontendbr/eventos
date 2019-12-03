@@ -1,24 +1,5 @@
 [ 
   {
-    "title": "BrazilJS OnTheRoad São Paulo",
-    "date": {
-      "day": "30",
-      "month": "Novembro",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/otr-on-the-road-sao-paulo/2019/",
-    "price": "Consultar",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "TOTVS",
-      "locationUrl": "https://goo.gl/maps/JwsETGStRK62dNz97"
-    },
-    "image": "",
-    "shortDescription": "A BrazilJS atende a pedidos da Comunidade e pela primeira vez em seus quase 10 anos , desembarca oficialmente na capital paulista. A primeira edição do On The Road São Paulo encerra nossa agenda oficial do ano e por isso terá uma programação especial e um pouco diferente das demais edições."
-  },
-  {
     "title": "09 Meetup Front-End CE",
     "date": {
       "day": "14",
