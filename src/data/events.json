@@ -93,24 +93,5 @@
     },
     "image": "",
     "shortDescription": "Pela primeira vez a BrazilJS chega a Belém!"
-  },   
-  {
-    "title": "09 Meetup Front-End CE",
-    "date": {
-      "day": "14",
-      "month": "Dezembro",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.eventbrite.com.br/e/09-meetup-front-end-ce-tickets-83260407119",
-    "price": "R$20",
-    "location": {
-      "city": "Fortaleza",
-      "state": "CE",
-      "address": "Uni7",
-      "locationUrl": "https://goo.gl/maps/vbvmJ1TcX9jnQ6nZ8"
-    },
-    "image": "",
-    "shortDescription": "Participe de um evento com muito compartilhamento de conhecimento e principalmente, muito networking! Mantenha se atualizado no mercado de Front-End."
-  } 
+  }
 ]
