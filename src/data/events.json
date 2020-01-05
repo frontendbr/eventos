@@ -1,5 +1,24 @@
 [ 
   {
+    "title": "BrazilJS OnTheRoad Vitória",
+    "date": {
+      "day": "27",
+      "month": "Junho",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/otr-vitoria/2020/",
+    "price": "Consultar",
+    "location": {
+      "city": "Vitória",
+      "state": "ES",
+      "address": "FAESA",
+      "locationUrl": "https://goo.gl/maps/7stxBtdoSJmW4FYB7"
+    },
+    "image": "",
+    "shortDescription": "Pela primeira vez a BrazilJS chega a Vitória!"
+  },   
+  {
     "title": "BrazilJS OnTheRoad Natal",
     "date": {
       "day": "25",
