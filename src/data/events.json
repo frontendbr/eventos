@@ -1,5 +1,24 @@
 [ 
   {
+    "title": "BrazilJS OnTheRoad Rio de Janeiro",
+    "date": {
+      "day": "16",
+      "month": "Maio",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/otr-rio-de-janeiro/2020/",
+    "price": "Consultar",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "Senac Flamengo",
+      "locationUrl": "https://goo.gl/maps/NeDwmZDQHa8s2XFW9"
+    },
+    "image": "",
+    "shortDescription": "E a BrazilJS chega pela primeira vez na cidade maravilhosa!"
+  },    
+  {
     "title": "BrazilJS OnTheRoad Vitória",
     "date": {
       "day": "27",
