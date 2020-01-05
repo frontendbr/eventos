@@ -1,5 +1,24 @@
 [ 
   {
+    "title": "BrazilJS OnTheRoad Belem",
+    "date": {
+      "day": "08",
+      "month": "Agosto",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/otr-belem/2020/",
+    "price": "Consultar",
+    "location": {
+      "city": "Belém",
+      "state": "PA",
+      "address": "Auditório David Mufarrej",
+      "locationUrl": "https://goo.gl/maps/mPTbDsF9igHLjFWV9"
+    },
+    "image": "",
+    "shortDescription": "Pela primeira vez a BrazilJS chega a Belém!"
+  },   
+  {
     "title": "09 Meetup Front-End CE",
     "date": {
       "day": "14",
