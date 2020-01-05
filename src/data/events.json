@@ -1,5 +1,24 @@
 [ 
   {
+    "title": "BrazilJS OnTheRoad Fortaleza",
+    "date": {
+      "day": "21",
+      "month": "Março",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/otr-fortaleza/2020",
+    "price": "Consultar",
+    "location": {
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "UNI7",
+      "locationUrl": "https://goo.gl/maps/7XPMJFCjzjGTECip9"
+    },
+    "image": "",
+    "shortDescription": "A história da BrazilJS inicia em Fortaleza, em 2011, com a primeira edição da BrazilJS Conf. Em 2017 voltamos com uma edição dupla, acontecendo em uma semana em Porto Alegre e na outra em Fortaleza. Em 2020 estamos de volta, dessa vez trazendo o projeto BrazilJS on the road."
+  },   
+  {
     "title": "BrazilJS OnTheRoad Rio de Janeiro",
     "date": {
       "day": "16",
