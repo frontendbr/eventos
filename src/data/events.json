@@ -1,5 +1,24 @@
 [ 
   {
+    "title": "BrazilJS OnTheRoad Natal",
+    "date": {
+      "day": "25",
+      "month": "Julho",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/eventos/otr-natal/2020/",
+    "price": "Consultar",
+    "location": {
+      "city": "Natal",
+      "state": "RN",
+      "address": "Sebrae Lab",
+      "locationUrl": "https://goo.gl/maps/ybEsVfWQNfr6gsicA"
+    },
+    "image": "",
+    "shortDescription": "E a BrazilJS chega pela primeira vez no Rio Grande do Norte! Em 2020 se prepare para muito conteúdo com o BrazilJS on the road Natal."
+  },  
+  {
     "title": "BrazilJS OnTheRoad Belem",
     "date": {
       "day": "08",
