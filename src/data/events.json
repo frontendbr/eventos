@@ -112,24 +112,5 @@
     },
     "image": "",
     "shortDescription": "Participe de um evento com muito compartilhamento de conhecimento e principalmente, muito networking! Mantenha se atualizado no mercado de Front-End."
-  },    
-  {
-    "title": "JSday Recife 2019",
-    "date": {
-      "day": "14",
-      "month": "Dezembro",
-      "year": 2019
-    },
-    "innerLink": "inner.html",
-    "link": "http://rec.jsday.com.br/",
-    "price": "A partir R$90",
-    "location": {
-      "city": "Recife",
-      "state": "PE",
-      "address": "FICR",
-      "locationUrl": "https://goo.gl/maps/KNrcExdiLLdeEKHc6"
-    },
-    "image": "",
-    "shortDescription": "O JSDay Brasil é um evento imersivo dedicado ao JavaScript, que acontecerá nas instalações de um dos maiores institutos de ensino do Brasil, a FICR."
-  }  
+  } 
 ]
