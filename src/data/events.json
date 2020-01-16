@@ -17,6 +17,25 @@
     },
     "image": "",
     "shortDescription": "2020 vai começar com a corda toda! No primeiro meetup do ano, teremos dois temas que vão acrescentar conhecimentos valiosos; além é claro daquele networking com a comunidade que acontece em cada evento."
+  }, 
+  {
+    "title": "10 Meetup Front-End CE",
+    "date": {
+      "day": "01",
+      "month": "Fevereiro",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.eventbrite.com.br/e/10-meetup-front-end-ce-tickets-89563259119",
+    "price": "R$20",
+    "location": {
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "Advance Comunicação",
+      "locationUrl": "https://goo.gl/maps/tCU39VC2m9Fv2w6J9"
+    },
+    "image": "",
+    "shortDescription": "Participe de um evento com muito compartilhamento de conhecimento e principalmente, muito networking! Mantenha se atualizado no mercado de Front-End."
   },  
   {
     "title": "BrazilJS OnTheRoad Fortaleza",
