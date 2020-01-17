@@ -1,24 +1,5 @@
 [ 
   {
-    "title": "WordPress, Segurança e Gatsby",
-    "date": {
-      "day": "16",
-      "month": "Janeiro",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/wp-rio/events/267260306/",
-    "price": "Free",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "Infnet",
-      "locationUrl": "https://goo.gl/maps/fGqHcwsVvE8mqiL48"
-    },
-    "image": "",
-    "shortDescription": "2020 vai começar com a corda toda! No primeiro meetup do ano, teremos dois temas que vão acrescentar conhecimentos valiosos; além é claro daquele networking com a comunidade que acontece em cada evento."
-  },
-  {
     "title": "Meetup de Flutter",
     "date": {
       "day": "23",
