@@ -17,7 +17,26 @@
     },
     "image": "",
     "shortDescription": "2020 vai começar com a corda toda! No primeiro meetup do ano, teremos dois temas que vão acrescentar conhecimentos valiosos; além é claro daquele networking com a comunidade que acontece em cada evento."
-  }, 
+  },
+  {
+    "title": "Meetup de Flutter",
+    "date": {
+      "day": "23",
+      "month": "Janeiro",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.sympla.com.br/meetup-de-flutter__732466",
+    "price": "Free",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "B2W Digital",
+      "locationUrl": "https://goo.gl/maps/AYRLCTGr3QH8Bqet9"
+    },
+    "image": "",
+    "shortDescription": "No dia 23 de janeiro (quinta-feira), irá acontecer o Meetup de Flutter no auditório da AME/B2W Digital! Vamos falar os pontos altos da tecnologia, porque amamos este framework e porque ela deveria ser mais utilizada."
+  },    
   {
     "title": "10 Meetup Front-End CE",
     "date": {
