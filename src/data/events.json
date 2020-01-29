@@ -132,4 +132,24 @@
     "image": "",
     "shortDescription": "Pela primeira vez a BrazilJS chega a Belém!"
   }
+,  
+  {
+    "title": "BrazilJS Conf 2020",
+    "date": {
+      "day": "01, 02 e 03",
+      "month": "Outubro",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/conf/",
+    "price": "A partir R$149,90",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "",
+      "locationUrl": ""
+    },
+    "image": "",
+    "shortDescription": "Maior conferência de JavaScript do Universo"
+  }  
 ]
