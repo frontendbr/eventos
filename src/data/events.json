@@ -36,7 +36,26 @@
     },
     "image": "",
     "shortDescription": "Participe de um evento com muito compartilhamento de conhecimento e principalmente, muito networking! Mantenha se atualizado no mercado de Front-End."
-  },  
+  },
+  {
+    "title": "FrontJS Recife #5",
+    "date": {
+      "day": "17",
+      "month": "Março",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "http://bit.ly/frontjs-palestras",
+    "price": "Free",
+    "location": {
+      "city": "Recife",
+      "state": "PE",
+      "address": "Apolo 235",
+      "locationUrl": "https://goo.gl/maps/nqKtwzfQyHnANNMu9"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/73564537-8e0b7c80-443e-11ea-9d3c-c7a10ff0078f.jpg",
+    "shortDescription": "A 5ª edição do FrontJS será construída em conjunto com a comunidade de entusiastas em desenvolvimento de aplicações front-end com JavaScript. Acesse o nosso CFP e submeta seu tema."
+  },    
   {
     "title": "BrazilJS OnTheRoad Fortaleza",
     "date": {
