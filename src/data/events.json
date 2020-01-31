@@ -74,7 +74,26 @@
     },
     "image": "",
     "shortDescription": "E a BrazilJS chega pela primeira vez na cidade maravilhosa!"
-  },    
+  },  
+  {
+    "title": "Front In Sampa 2020",
+    "date": {
+      "day": "18",
+      "month": "Junho",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.frontinsampa.com.br/",
+    "price": "A partir R$ 280",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "Teatro Gazeta",
+      "locationUrl": "https://goo.gl/maps/GgD7bEGnWxjx4Bgn8"
+    },
+    "image": "",
+    "shortDescription": "Pela primeira vez a BrazilJS chega a Vitória!"
+  },   
   {
     "title": "BrazilJS OnTheRoad Vitória",
     "date": {
