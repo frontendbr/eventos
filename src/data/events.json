@@ -1,23 +1,4 @@
-[   
-  {
-    "title": "26º Meetup WordPress Floripa",
-    "date": {
-      "day": "01",
-      "month": "Fevereiro",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/Meetup-WordPress-Floripa/events/267973624/",
-    "price": "Free",
-    "location": {
-      "city": "Florianópolis",
-      "state": "SC",
-      "address": "Mansão da InCuca",
-      "locationUrl": "https://goo.gl/maps/AQjuSaYYGEJd37ZN9"
-    },
-    "image": "https://secure.meetupstatic.com/photos/event/5/b/e/2/highres_453863522.jpeg",
-    "shortDescription": "Tragam ideias, dúvidas, novidades, experiências, curiosidades e bom humor. Nos vemos no Meetup."
-  },    
+[      
   {
     "title": "10 Meetup Front-End CE",
     "date": {
