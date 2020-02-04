@@ -1,4 +1,23 @@
-[      
+[
+  {
+    "title": "SEO técnico na prática + Planejamento e gestão de conteúdo",
+    "date": {
+      "day": "13",
+      "month": "Fevereiro",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/wpsampa/events/268447792/",
+    "price": "Free",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "Qintess",
+      "locationUrl": "https://goo.gl/maps/Je6Bm7UYgy98mGNTA"
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/73787250-a7cbfd00-4779-11ea-8553-0489db5b3bd6.jpg",
+    "shortDescription": "Junte-se a nós neste encontro GRATUITO sobre o WordPress."
+  },    
   {
     "title": "FrontJS Recife #5",
     "date": {
