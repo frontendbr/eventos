@@ -1,5 +1,24 @@
 [
   {
+    "title": "WordPress, Debugging e REST-API",
+    "date": {
+      "day": "13",
+      "month": "Fevereiro",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/wp-rio/events/268348293/",
+    "price": "Free",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "INFNET",
+      "locationUrl": "https://goo.gl/maps/UkEMiU5necZXKeSK9"
+    },
+    "image": "",
+    "shortDescription": "Nosso meetup pré-carnaval é voltado para você que é desenvolvedor(a). Venha para o bloco do meetup expandir seus conhecimentos em ritmo de WordPress!"
+  },  
+  {
     "title": "SEO técnico na prática + Planejamento e gestão de conteúdo",
     "date": {
       "day": "13",
