@@ -1,23 +1,4 @@
-[
-  {
-    "title": "Iniciação a HTML e CSS",
-    "date": {
-      "day": "11",
-      "month": "Fevereiro",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/Le-Wagon-Rio-de-Janeiro-Coding-Bootcamp/events/268336533/",
-    "price": "Free",
-    "location": {
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "address": "WeWork Helios Seelinger 155",
-      "locationUrl": "https://goo.gl/maps/ZkK8i4vTeBeUTRot8"
-    },
-    "image": "",
-    "shortDescription": "Ensinando os conceitos básicos em HTML e CSS, você vai aprender a codar sua própria landing page sozinho, Criar uma boa landing page é a primeira etapa para lançar seu projeto e engajar seus visitantes com um call-to-action claro. Logo você terá uma primeira comunidade com a qual trabalhar para tentar converter em clientes ou usuários."
-  },   
+[ 
   {
     "title": "WordPress, Debugging e REST-API",
     "date": {
