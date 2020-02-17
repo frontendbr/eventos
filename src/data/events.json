@@ -1,24 +1,5 @@
 [ 
   {
-    "title": "React Caiçara #3",
-    "date": {
-      "day": "15",
-      "month": "Fevereiro",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/React-Caicara/events/268265267/",
-    "price": "Free",
-    "location": {
-      "city": "Santos",
-      "state": "SP",
-      "address": "Helbor Office Vila Rica",
-      "locationUrl": "https://goo.gl/maps/oY2XY5YTr6e4uTeQA"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/74380897-33bcd500-4dc9-11ea-87a3-0d1c07d3410b.jpg",
-    "shortDescription": "Nas palestras será abordado: Styled-Components, Introdução a funcional em React e Migração de apps."
-  },  
-  {
     "title": "55º Meetup WordPress Curitiba",
     "date": {
       "day": "19",
