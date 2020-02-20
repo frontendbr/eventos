@@ -1,23 +1,4 @@
-[ 
-  {
-    "title": "55º Meetup WordPress Curitiba",
-    "date": {
-      "day": "19",
-      "month": "Fevereiro",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/wpcuritiba/events/268196662/",
-    "price": "Free",
-    "location": {
-      "city": "Curitiba",
-      "state": "PR",
-      "address": "Vale do Pinhão - Engenho da Inovação",
-      "locationUrl": "https://goo.gl/maps/4PrbfAVcGKqNbFjz9"
-    },
-    "image": "",
-    "shortDescription": "Nosso palestrante da noite, Ruan Barbosa, falará sobre os cuidados necessários que devemos ter para não perder a relevância orgânica do nosso site. Logo depois teremos nosso tradicional coffee para acompanhar a troca de ideias entre os participantes."
-  },    
+[  
   {
     "title": "FrontJS Recife #5",
     "date": {
