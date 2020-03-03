@@ -36,7 +36,26 @@
     },
     "image": "",
     "shortDescription": "A história da BrazilJS inicia em Fortaleza, em 2011, com a primeira edição da BrazilJS Conf. Em 2017 voltamos com uma edição dupla, acontecendo em uma semana em Porto Alegre e na outra em Fortaleza. Em 2020 estamos de volta, dessa vez trazendo o projeto BrazilJS on the road."
-  },   
+  },  
+  {
+    "title": "Criciúma Dev Conference 2020",
+    "date": {
+      "day": "09",
+      "month": "Maio",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://criciumadev.com.br/conference",
+    "price": "A partir R$25",
+    "location": {
+      "city": "Criciúma",
+      "state": "SC",
+      "address": "Teatro Elias Angeloni",
+      "locationUrl": "https://goo.gl/maps/o8XkP6VH1h3M5Ekk9"
+    },
+    "image": "https://conference.criciumadev.com.br/cover-image.png",
+    "shortDescription": "O Criciúma Dev Conference é um dos maiores eventos de tecnologia do Sul do Brasil. Feito pela comunidade para a comunidade, tem como objetivo difundir a área de TI, promover a troca de experiências e manter a comunidade crescendo igualmente em público e impacto social."
+  },  
   {
     "title": "BrazilJS OnTheRoad Rio de Janeiro",
     "date": {
