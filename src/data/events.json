@@ -36,6 +36,25 @@
     },
     "image": "",
     "shortDescription": "A história da BrazilJS inicia em Fortaleza, em 2011, com a primeira edição da BrazilJS Conf. Em 2017 voltamos com uma edição dupla, acontecendo em uma semana em Porto Alegre e na outra em Fortaleza. Em 2020 estamos de volta, dessa vez trazendo o projeto BrazilJS on the road."
+  },
+  {
+    "title": "WordCamp Floripa 2020",
+    "date": {
+      "day": "25",
+      "month": "Abril",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://2020.floripa.wordcamp.org/",
+    "price": "A partir R$70",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC",
+      "address": "SENAC",
+      "locationUrl": "https://goo.gl/maps/nQFiTsoD8fqvxAAf7"
+    },
+    "image": "",
+    "shortDescription": "O WordCamp Floripa é o maior encontro da comunidade WordPress de Santa Catarina. Aqui o dia é intenso e cheio de troca de experiências sobre o universo do WordPress."
   },  
   {
     "title": "Criciúma Dev Conference 2020",
