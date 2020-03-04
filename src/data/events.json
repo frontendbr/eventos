@@ -169,8 +169,26 @@
     },
     "image": "",
     "shortDescription": "Pela primeira vez a BrazilJS chega a Belém!"
-  }
-,  
+  }, 
+  {
+    "title": "FronInVale 2020",
+    "date": {
+      "day": "15",
+      "month": "Agosto",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "http://frontinvale.com.br/",
+    "price": "A partir R$ 33",
+    "location": {
+      "city": "São José dos Campos",
+      "state": "SP",
+      "address": "Teatro UNivap",
+      "locationUrl": "https://goo.gl/maps/ewEDZX6BfUstVJ2z5"
+    },
+    "image": "",
+    "shortDescription": "O FrontInVale reúne centenas de pessoas para discutir sobre Front-end, design de interface, experiência do usuário e boas práticas de desenvolvimento."
+  },    
   {
     "title": "BrazilJS Conf 2020",
     "date": {
