@@ -95,6 +95,25 @@
     "shortDescription": "E a BrazilJS chega pela primeira vez na cidade maravilhosa!"
   },  
   {
+    "title": "Front in Campinas 2020",
+    "date": {
+      "day": "06",
+      "month": "Junho",
+      "year": 2020
+    },
+    "innerLink": "inner.html",
+    "link": "https://frontincampinas.com.br/",
+    "price": "A partir R$90",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "Hotel Vitória Concept",
+      "locationUrl": "https://goo.gl/maps/xS4NMRMvFtnNYeL6A"
+    },
+    "image": "",
+    "shortDescription": "É um evento para compartilhar o conhecimento entre a comunidade, com o intuito de fortalecê-la ainda mais. Será um espaço para interação e diversão, servindo de inspiração para aqueles que estão começando e renovando as energias daqueles que precisam."
+  },   
+  {
     "title": "Front In Sampa 2020",
     "date": {
       "day": "18",
