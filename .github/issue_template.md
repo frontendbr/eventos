@@ -4,6 +4,8 @@
 
 **Local**: 
 
+**Url no Google Maps**:
+
 **Descrição (breve)**:
 
 **Logotipo do evento**: 
