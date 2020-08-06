@@ -1,109 +1,14 @@
-[    
+[       
   {
-    "title": "Front In Sampa 2020",
+    "title": "BrazilJS Conf 2021",
     "date": {
-      "day": "18",
-      "month": "Julho",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.frontinsampa.com.br/",
-    "price": "A partir R$ 280",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Teatro Gazeta",
-      "locationUrl": "https://goo.gl/maps/GgD7bEGnWxjx4Bgn8"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/73544736-98b31b00-4418-11ea-8d3d-010a6f135b2b.png",
-    "shortDescription": "O Front In Sampa é o tradicional evento de Front-End sediado em São Paulo com 8 edições de sucesso desde 2012."
-  },   
-  {
-    "title": "BrazilJS OnTheRoad Vitória",
-    "date": {
-      "day": "27",
-      "month": "Junho",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/otr-vitoria/2020/",
-    "price": "Consultar",
-    "location": {
-      "city": "Vitória",
-      "state": "ES",
-      "address": "FAESA",
-      "locationUrl": "https://goo.gl/maps/7stxBtdoSJmW4FYB7"
-    },
-    "image": "",
-    "shortDescription": "Pela primeira vez a BrazilJS chega a Vitória!"
-  },   
-  {
-    "title": "BrazilJS OnTheRoad Natal",
-    "date": {
-      "day": "25",
-      "month": "Julho",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/otr-natal/2020/",
-    "price": "Consultar",
-    "location": {
-      "city": "Natal",
-      "state": "RN",
-      "address": "Sebrae Lab",
-      "locationUrl": "https://goo.gl/maps/ybEsVfWQNfr6gsicA"
-    },
-    "image": "",
-    "shortDescription": "E a BrazilJS chega pela primeira vez no Rio Grande do Norte! Em 2020 se prepare para muito conteúdo com o BrazilJS on the road Natal."
-  },  
-  {
-    "title": "BrazilJS OnTheRoad Belem",
-    "date": {
-      "day": "08",
-      "month": "Agosto",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/eventos/otr-belem/2020/",
-    "price": "Consultar",
-    "location": {
-      "city": "Belém",
-      "state": "PA",
-      "address": "Auditório David Mufarrej",
-      "locationUrl": "https://goo.gl/maps/mPTbDsF9igHLjFWV9"
-    },
-    "image": "",
-    "shortDescription": "Pela primeira vez a BrazilJS chega a Belém!"
-  }, 
-  {
-    "title": "FronInVale 2020",
-    "date": {
-      "day": "15",
-      "month": "Agosto",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "http://frontinvale.com.br/",
-    "price": "A partir R$ 33",
-    "location": {
-      "city": "São José dos Campos",
-      "state": "SP",
-      "address": "Teatro UNivap",
-      "locationUrl": "https://goo.gl/maps/ewEDZX6BfUstVJ2z5"
-    },
-    "image": "",
-    "shortDescription": "O FrontInVale reúne centenas de pessoas para discutir sobre Front-end, design de interface, experiência do usuário e boas práticas de desenvolvimento."
-  },    
-  {
-    "title": "BrazilJS Conf 2020",
-    "date": {
-      "day": "01, 02 e 03",
-      "month": "Outubro",
-      "year": 2020
+      "day": "06, 07 e 08",
+      "month": "Maio",
+      "year": 2021
     },
     "innerLink": "inner.html",
     "link": "https://braziljs.org/conf/",
-    "price": "A partir R$149,90",
+    "price": "Consultar",
     "location": {
       "city": "Porto Alegre",
       "state": "RS",
