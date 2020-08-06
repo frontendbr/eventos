@@ -1,21 +1,19 @@
-[       
+[
   {
-    "title": "BrazilJS Conf 2021",
+    "title": "GDG JSDay Feira de Santana 2020",
     "date": {
-      "day": "06, 07 e 08",
-      "month": "Maio",
-      "year": 2021
+      "day": "15",
+      "month": "Agosto",
+      "year": 2020
     },
     "innerLink": "inner.html",
-    "link": "https://braziljs.org/conf/",
-    "price": "Consultar",
+    "link": "http://fsa.jsday.com.br/",
+    "price": "Free",
     "location": {
-      "city": "Porto Alegre",
-      "state": "RS",
+      "city": "",
+      "state": "",
       "address": "",
-      "locationUrl": ""
+      "locationUrl": "Online"
     },
-    "image": "https://user-images.githubusercontent.com/5203138/73358422-51dcee00-427d-11ea-9702-92543932ac42.jpg",
-    "shortDescription": "Maior conferência de JavaScript do Universo"
-  }  
-]
+    "image": "https://images.sympla.com.br/5ef77a7d20099-lg.png",
+    "shortDescription": "Depois de 5 anos (com 13 edições acontecendo em 5 cidades diferentes) e mais de 2600 participantes, em virtude da pandemia, das incertezas envolvidas e com atenção à segurança da vida de todxs participantes, o evento, que nasceu em Feira de Santana, terá a sexta edição de Feira de Santana TOTALMENTE ONLINE e GRATUITA, entretanto, teremos INGRESSOS SOLIDÁRIOS para quem puder comprar, TODA RENDA ARRECADADA com ingressos a venda de ingressos solidários e patrocínios será doada em forma de cestas básicas a instituições de Feira de Santana - BA
