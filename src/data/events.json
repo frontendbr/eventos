@@ -16,4 +16,25 @@
       "locationUrl": "Online"
     },
     "image": "https://images.sympla.com.br/5ef77a7d20099-lg.png",
-    "shortDescription": "Depois de 5 anos (com 13 edições acontecendo em 5 cidades diferentes) e mais de 2600 participantes, em virtude da pandemia, das incertezas envolvidas e com atenção à segurança da vida de todxs participantes, o evento, que nasceu em Feira de Santana, terá a sexta edição de Feira de Santana TOTALMENTE ONLINE e GRATUITA, entretanto, teremos INGRESSOS SOLIDÁRIOS para quem puder comprar, TODA RENDA ARRECADADA com ingressos a venda de ingressos solidários e patrocínios será doada em forma de cestas básicas a instituições de Feira de Santana - BA
+    "shortDescription": "Em virtude da pandemia, das incertezas envolvidas e com atenção à segurança da vida de todxs participantes, o evento, que nasceu em Feira de Santana, terá a sexta edição de Feira de Santana TOTALMENTE ONLINE e GRATUITA, entretanto, teremos INGRESSOS SOLIDÁRIOS para quem puder comprar, TODA RENDA ARRECADADA com ingressos a venda de ingressos solidários e patrocínios será doada em forma de cestas básicas a instituições de Feira de Santana - BA"
+  },
+  {
+    "title": "BrazilJS Conf 2021",
+    "date": {
+      "day": "06, 07 e 08",
+      "month": "Maio",
+      "year": 2021
+    },
+    "innerLink": "inner.html",
+    "link": "https://braziljs.org/conf/",
+    "price": "Consultar",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "",
+      "locationUrl": ""
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/73358422-51dcee00-427d-11ea-9702-92543932ac42.jpg",
+    "shortDescription": "Maior conferência de JavaScript do Universo"
+  }    
+]
