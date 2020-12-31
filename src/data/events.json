@@ -1,23 +1,4 @@
-[  
-  {
-    "title": "BrazilJS.live",
-    "date": {
-      "day": "02 e 03",
-      "month": "Outubro",
-      "year": 2020
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.live/",
-    "price": "Free",
-    "location": {
-      "city": "",
-      "state": "",
-      "address": "Online",
-      "locationUrl": "https://braziljs.live/"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/73358422-51dcee00-427d-11ea-9702-92543932ac42.jpg",
-    "shortDescription": "Vem aí mais um evento com palestras e conteúdo incríveis que você poderá acompanhar de qualquer lugar do mundo. Imagine que está em um dos nossos grandes eventos e interaja virtualmente conosco."
-  },    
+[   
   {
     "title": "BrazilJS Conf 2021",
     "date": {
