@@ -1,4 +1,23 @@
-[   
+[
+  {
+    "title": "Pelotas JS - 7ª edição",
+    "date": {
+      "day": "16, 17",
+      "month": "Março",
+      "year": 2021
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.sympla.com.br/pelotas-js---7-edicao__1139870",
+    "price": "Free",
+    "location": {
+      "city": "Pelotas",
+      "state": "RS",
+      "address": "",
+      "locationUrl": ""
+    },
+    "image": "https://user-images.githubusercontent.com/5203138/110803614-212bfe00-825e-11eb-9f03-323b82fd3183.png",
+    "shortDescription": "Nos dias 16 e 17 de março vamos ter a nossa 7ª edição do Pelotas JS, serão duas noites compostas por palestras e rodas de conversa."
+  },    
   {
     "title": "BrazilJS Conf 2021",
     "date": {
