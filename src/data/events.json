@@ -17,7 +17,26 @@
     },
     "image": "https://user-images.githubusercontent.com/5203138/110803614-212bfe00-825e-11eb-9f03-323b82fd3183.png",
     "shortDescription": "Nos dias 16 e 17 de março vamos ter a nossa 7ª edição do Pelotas JS, serão duas noites compostas por palestras e rodas de conversa."
-  },    
+  },  
+  {
+    "title": "Angular Rio Meetup 16",
+    "date": {
+      "day": "23",
+      "month": "Março",
+      "year": 2021
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/Angular-RJ/events/276823949/",
+    "price": "Free",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "",
+      "locationUrl": ""
+    },
+    "image": "",
+    "shortDescription": "DRY: Crie bibliotecas com Typescript Por Keilla Menezes. E Aprimore suas Aplicações com TypeScript e Azure Functions por Glaucia Lemos."
+  },     
   {
     "title": "BrazilJS Conf 2021",
     "date": {
