@@ -1,23 +1,4 @@
-[
-  {
-    "title": "Codecon Digital",
-    "date": {
-      "day": "21 e 23",
-      "month": "Abril",
-      "year": 2021
-    },
-    "innerLink": "inner.html",
-    "link": "https://codecon.dev/",
-    "price": "Free",
-    "location": {
-      "city": "",
-      "state": "",
-      "address": "",
-      "locationUrl": ""
-    },
-    "image": "https://codecon.dev/todos-palestrantes.png",
-    "shortDescription": "9 palestrantes em transmissões ao vivo pela Twitch, com apresentação da @pachicodes"
-  },   
+[ 
   {
     "title": "BrazilJS Conf 2021",
     "date": {
