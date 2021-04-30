@@ -2,20 +2,20 @@
   {
     "title": "BrazilJS Conf 2021",
     "date": {
-      "day": "06, 07 e 08",
-      "month": "Maio",
+      "day": "21, 22 e 23",
+      "month": "Outubro",
       "year": 2021
     },
     "innerLink": "inner.html",
     "link": "https://braziljs.org/conf/",
-    "price": "Consultar",
+    "price": "A partir de 59,90",
     "location": {
       "city": "Porto Alegre",
       "state": "RS",
-      "address": "",
+      "address": "Online",
       "locationUrl": ""
     },
     "image": "https://user-images.githubusercontent.com/5203138/73358422-51dcee00-427d-11ea-9702-92543932ac42.jpg",
-    "shortDescription": "Maior conferência de JavaScript do Universo"
+    "shortDescription": "10ª edição da maior conferência JavaScript do mundo"
   }    
 ]
