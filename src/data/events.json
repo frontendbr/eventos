@@ -17,26 +17,7 @@
     },
     "image": "https://user-images.githubusercontent.com/5203138/130662003-254faaad-b969-40e6-8aff-562935b966a0.jpeg",
     "shortDescription": "A maior conferência do ecossistema React da América Latina. Como nas conferências dos Estados Unidos e Europa, reunimos desenvolvedores, empresas e estudantes de tecnologia para compartilhar experiências no desenvolvimento de aplicações reativas. Um dia inteiro de palestras sobre aplicações reativas e um momento de desconferência para discussão entre conferencistas e palestrantes sobre os assuntos de maior interesse da comunidade."
-  },    
-  {
-    "title": "Front In Sampa ON 2021",
-    "date": {
-      "day": "17",
-      "month": "Julho",
-      "year": 2021
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.frontinsampa.com.br/",
-    "price": "Free",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Online",
-      "locationUrl": "https://www.youtube.com/watch?v=0qtRQYS4V5A"
-    },
-    "image": "",
-    "shortDescription": "Comemore 10 anos de Front In Sampa: sintonize nossa programação gratuita com líderes, influenciadoras, comunidades e empresas"
-  },    
+  },       
   {
     "title": "BrazilJS Conf 2021",
     "date": {
