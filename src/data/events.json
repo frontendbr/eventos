@@ -17,43 +17,5 @@
     },
     "image": "",
     "shortDescription": "As sessões serão apresentadas por pessoas da comunidade WordPress e de outras áreas. Do básico ao avançado, sobre Desenvolvimento, Design, Negócios, Conteúdo e Comunidades."
-  },     
-  {
-    "title": "React Conf Brasil 2021",
-    "date": {
-      "day": "16",
-      "month": "outubro",
-      "year": 2021
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.sympla.com.br/react-conf-brasil-2021__1303484",
-    "price": "Free",
-    "location": {
-      "city": "São Paulo",
-      "state": "SP",
-      "address": "Online",
-      "locationUrl": ""
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/130662003-254faaad-b969-40e6-8aff-562935b966a0.jpeg",
-    "shortDescription": "A maior conferência do ecossistema React da América Latina. Como nas conferências dos Estados Unidos e Europa, reunimos desenvolvedores, empresas e estudantes de tecnologia para compartilhar experiências no desenvolvimento de aplicações reativas. Um dia inteiro de palestras sobre aplicações reativas e um momento de desconferência para discussão entre conferencistas e palestrantes sobre os assuntos de maior interesse da comunidade."
-  },       
-  {
-    "title": "BrazilJS Conf 2021",
-    "date": {
-      "day": "21, 22 e 23",
-      "month": "Outubro",
-      "year": 2021
-    },
-    "innerLink": "inner.html",
-    "link": "https://braziljs.org/conf/",
-    "price": "A partir de 59,90",
-    "location": {
-      "city": "Porto Alegre",
-      "state": "RS",
-      "address": "Online",
-      "locationUrl": ""
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/73358422-51dcee00-427d-11ea-9702-92543932ac42.jpg",
-    "shortDescription": "10ª edição da maior conferência JavaScript do mundo"
-  }    
+  }  
 ]
