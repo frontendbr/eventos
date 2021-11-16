@@ -17,5 +17,24 @@
     },
     "image": "",
     "shortDescription": "As sessões serão apresentadas por pessoas da comunidade WordPress e de outras áreas. Do básico ao avançado, sobre Desenvolvimento, Design, Negócios, Conteúdo e Comunidades."
-  }  
+  },
+  {
+    "title": "Banco BV + TDC FUTURE",
+    "date": {
+      "day": "30",
+      "month": "novembro",
+      "year": 2021
+    },
+    "innerLink": "inner.html",
+    "link": "https://promo.thedevconf.com/future-bv",
+    "price": "Free",
+    "location": {
+      "city": "",
+      "state": "",
+      "address": "Online",
+      "locationUrl": "https://promo.thedevconf.com/future-bv"
+    },
+    "image": "",
+    "shortDescription": "As trilhas organizadas pelo BV no TDC FUTURE trazem conteúdos, oportunidades, troca de experiências e networking na medida certa para você. A INSCRIÇÃO GRATUITA na Sala BV lhe dá acesso a todas as palestras e atividades e também a muito conteúdo como: Trilha Stadium, com palestras sobre as principais tendências do mercado; Trilha Carreira e Mentoria; Trilha Diversidade e Acessibilidade; TDC Expo!"
+  }    
 ]
