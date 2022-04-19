@@ -17,24 +17,5 @@
     },
     "image": "https://user-images.githubusercontent.com/5203138/163895206-57008f35-3823-4f60-b48c-00bf622e4c88.png",
     "shortDescription": "Ocorrerá as palestras: Colocando seu app ReactJS em forma, Introdução a testes com Testing Library, Controle e criação de efeitos com useEffect(), Aumente sua produtividade com TailwindCSS, Aprendendo a aprender."
-  },  
-  {
-    "title": "Banco BV + TDC FUTURE",
-    "date": {
-      "day": "30",
-      "month": "novembro",
-      "year": 2021
-    },
-    "innerLink": "inner.html",
-    "link": "https://promo.thedevconf.com/future-bv",
-    "price": "Free",
-    "location": {
-      "city": "",
-      "state": "",
-      "address": "Online",
-      "locationUrl": "https://promo.thedevconf.com/future-bv"
-    },
-    "image": "",
-    "shortDescription": "As trilhas organizadas pelo BV no TDC FUTURE trazem conteúdos, oportunidades, troca de experiências e networking na medida certa para você. A INSCRIÇÃO GRATUITA na Sala BV lhe dá acesso a todas as palestras e atividades e também a muito conteúdo como: Trilha Stadium, com palestras sobre as principais tendências do mercado; Trilha Carreira e Mentoria; Trilha Diversidade e Acessibilidade; TDC Expo!"
-  }    
+  }  
 ]
