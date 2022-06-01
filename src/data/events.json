@@ -17,5 +17,24 @@
     },
     "image": "",
     "shortDescription": "No dia 25 de junho a patir das 9h, estaremos novamente na Digital College realizando o 4º meetup (presencial)."
-  }
+  },
+  {
+    "title": "FrontInSampa 2022",
+    "date": {
+      "day": "16",
+      "month": "julho",
+      "year": 2022
+    },
+    "innerLink": "inner.html",
+    "link": "https://conteudo.frontinsampa.com.br/sampa",
+    "price": "",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP",
+      "address": "Av. Paulista, 900 - São Paulo",
+      "locationUrl": "https://goo.gl/maps/eUocxBCnK2XtT2jNA"
+    },
+    "image": "",
+    "shortDescription": "Comemorando 11 anos de história, a FRONTIN SAMPA volta a ser presencial em 2022, ocupando o Teatro Gazeta, na Avenida Paulista, em pleno coração de São Paulo. E já temos diversas atrações confirmadas e Rafa Ballerini como host!"
+  }  
 ]
