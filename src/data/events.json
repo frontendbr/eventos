@@ -17,24 +17,5 @@
     },
     "image": "",
     "shortDescription": "No dia 25 de junho a patir das 9h, estaremos novamente na Digital College realizando o 4º meetup (presencial)."
-  },   
-  {
-    "title": "3º Meetup ReactJS Ceará",
-    "date": {
-      "day": "23",
-      "month": "abril",
-      "year": 2022
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.sympla.com.br/evento---3-meetup-reactjs-ceara__1545347",
-    "price": "R$ 22,50",
-    "location": {
-      "city": "Fortleza",
-      "state": "CE",
-      "address": "Av. Santos Dumont, 1510 - Fortaleza, CE",
-      "locationUrl": "https://www.google.com/maps/place/Av.+Santos+Dumont,+1510+-+Aldeota,+Fortaleza+-+CE,+60150-161/@-3.7327595,-38.5105737,17z/data=!3m1!4b1!4m5!3m4!1s0x7c7485edb2a6f1d:0x914ca3ab641fbf93!8m2!3d-3.7327595!4d-38.5105737"
-    },
-    "image": "https://user-images.githubusercontent.com/5203138/163895206-57008f35-3823-4f60-b48c-00bf622e4c88.png",
-    "shortDescription": "Ocorrerá as palestras: Colocando seu app ReactJS em forma, Introdução a testes com Testing Library, Controle e criação de efeitos com useEffect(), Aumente sua produtividade com TailwindCSS, Aprendendo a aprender."
-  }  
+  }
 ]
