@@ -17,5 +17,24 @@
     },
     "image": "",
     "shortDescription": "Comemorando 11 anos de história, a FRONTIN SAMPA volta a ser presencial em 2022, ocupando o Teatro Gazeta, na Avenida Paulista, em pleno coração de São Paulo. E já temos diversas atrações confirmadas e Rafa Ballerini como host!"
+  },
+    {
+    "title": "#26 FloripaJS Devs Meetup",
+    "date": {
+      "day": "20",
+      "month": "agosto",
+      "year": 2022
+    },
+    "innerLink": "inner.html",
+    "link": "https://www.meetup.com/pt-BR/floripajs/events/286992473/",
+    "price": "Free",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC",
+      "address": "Rua Patrício Farias - 131",
+      "locationUrl": "https://www.google.com/maps/place/27%C2%B034'28.3%22S+48%C2%B030'37.5%22W/@-27.5745278,-48.5104167,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7b1541ecb9147c32!8m2!3d-27.574537!4d-48.510414"
+    },
+    "image": "",
+    "shortDescription": "Depois de quase 3 anos sem meetup, o FloripaJS está de volta para sua 26ª edição! Decidimos não fazer nenhum evento online durante a pandemia pois acreditamos que a interação das pessoas é sempre o mais importante"
   }  
 ]
