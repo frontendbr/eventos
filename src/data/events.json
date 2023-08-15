@@ -1,21 +1,21 @@
 [ 
   {
-    "title": "#26 FloripaJS Devs Meetup",
+    "title": "13º Meetup Presencial Front-End CE",
     "date": {
-      "day": "20",
+      "day": "26",
       "month": "agosto",
-      "year": 2022
+      "year": 2023
     },
     "innerLink": "inner.html",
-    "link": "https://www.meetup.com/pt-BR/floripajs/events/286992473/",
-    "price": "Free",
+    "link": "https://www.eventbrite.com.br/e/13o-meetup-presencial-front-end-ce-clojure-ux-e-testes-tickets-695305255737",
+    "price": "R$20",
     "location": {
-      "city": "Florianópolis",
-      "state": "SC",
-      "address": "Rua Patrício Farias - 131",
-      "locationUrl": "https://www.google.com/maps/place/27%C2%B034'28.3%22S+48%C2%B030'37.5%22W/@-27.5745278,-48.5104167,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7b1541ecb9147c32!8m2!3d-27.574537!4d-48.510414"
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "Av. Dom Luís, 911",
+      "locationUrl": "https://goo.gl/maps/vuEX6i5inPNDPAN89"
     },
-    "image": "",
-    "shortDescription": "Depois de quase 3 anos sem meetup, o FloripaJS está de volta para sua 26ª edição! Decidimos não fazer nenhum evento online durante a pandemia pois acreditamos que a interação das pessoas é sempre o mais importante"
+    "image": "https://frontendce.com.br/wp-content/themes/frontendce/assets/img/logo.png",
+    "shortDescription": "VLADYMIR BEZERRA - Clojurescript: de 0 a 100 em 40 minutos. | CAMILA GADELHA e RACHEL CARVALHO -Do IHC ao UX, conceitos, processos e experiências. FELIPE CÉSAR - Escrevendo bons testes com a Testing Library"
   }  
 ]
