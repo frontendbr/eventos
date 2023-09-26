@@ -17,24 +17,5 @@
     },
     "image": "https://github.com/frontendbr/eventos/assets/5203138/fd5570ee-4e36-4be7-9073-3245a04df15d",
     "shortDescription": "Um dia de evento com alto volume de conteúdo sobre Front-End, UX, Back-End, carreira, empreendedorismo e muito mais!"
-  },
-  {
-    "title": "13º Meetup Presencial Front-End CE",
-    "date": {
-      "day": "26",
-      "month": "agosto",
-      "year": 2023
-    },
-    "innerLink": "inner.html",
-    "link": "https://www.eventbrite.com.br/e/13o-meetup-presencial-front-end-ce-clojure-ux-e-testes-tickets-695305255737",
-    "price": "R$20",
-    "location": {
-      "city": "Fortaleza",
-      "state": "CE",
-      "address": "Av. Dom Luís, 911",
-      "locationUrl": "https://goo.gl/maps/vuEX6i5inPNDPAN89"
-    },
-    "image": "https://frontendce.com.br/wp-content/themes/frontendce/assets/img/logo.png",
-    "shortDescription": "VLADYMIR BEZERRA - Clojurescript: de 0 a 100 em 40 minutos. | CAMILA GADELHA e RACHEL CARVALHO -Do IHC ao UX, conceitos, processos e experiências. FELIPE CÉSAR - Escrevendo bons testes com a Testing Library"
-  }  
+  } 
 ]
